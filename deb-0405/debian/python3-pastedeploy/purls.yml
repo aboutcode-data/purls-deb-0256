@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-pastedeploy@2.1.1-1?arch=all
+- pkg:deb/debian/python3-pastedeploy@3.0.1-5?arch=all
+- pkg:deb/debian/python3-pastedeploy@3.1-1?arch=all
+- pkg:deb/debian/python3-pastedeploy@3.1-2?arch=all

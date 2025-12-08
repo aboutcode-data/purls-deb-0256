@@ -1,0 +1,4 @@
+- pkg:deb/debian/mediawiki-classes@1.35.13-1%2Bdeb11u2?arch=all
+- pkg:deb/debian/mediawiki-classes@1.39.13-1~deb12u1?arch=all
+- pkg:deb/debian/mediawiki-classes@1.43.3%2Bdfsg-1?arch=all
+- pkg:deb/debian/mediawiki-classes@1.43.5%2Bdfsg-1?arch=all

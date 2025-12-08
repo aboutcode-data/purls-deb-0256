@@ -1,0 +1,5 @@
+- pkg:deb/debian/libqmi-glib-doc@1.26.10-0.1?arch=all
+- pkg:deb/debian/libqmi-glib-doc@1.32.2-1?arch=all
+- pkg:deb/debian/libqmi-glib-doc@1.36.0-1?arch=all
+- pkg:deb/debian/libqmi-glib-doc@1.36.0-2?arch=all
+- pkg:deb/debian/libqmi-glib-doc@1.37.95-1?arch=all

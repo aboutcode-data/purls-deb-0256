@@ -1,0 +1,9 @@
+- pkg:deb/debian/php8.2-raphf@2.0.1%2B1.1.2-14?arch=amd64
+- pkg:deb/debian/php8.2-raphf@2.0.1%2B1.1.2-14?arch=arm64
+- pkg:deb/debian/php8.2-raphf@2.0.1%2B1.1.2-14?arch=armel
+- pkg:deb/debian/php8.2-raphf@2.0.1%2B1.1.2-14?arch=armhf
+- pkg:deb/debian/php8.2-raphf@2.0.1%2B1.1.2-14?arch=i386
+- pkg:deb/debian/php8.2-raphf@2.0.1%2B1.1.2-14?arch=mips64el
+- pkg:deb/debian/php8.2-raphf@2.0.1%2B1.1.2-14?arch=mipsel
+- pkg:deb/debian/php8.2-raphf@2.0.1%2B1.1.2-14?arch=ppc64el
+- pkg:deb/debian/php8.2-raphf@2.0.1%2B1.1.2-14?arch=s390x

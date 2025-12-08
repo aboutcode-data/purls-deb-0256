@@ -1,0 +1,3 @@
+- pkg:deb/debian/python3-mpi4py-fft-doc@2.0.3-3?arch=all
+- pkg:deb/debian/python3-mpi4py-fft-doc@2.0.4-1?arch=all
+- pkg:deb/debian/python3-mpi4py-fft-doc@2.0.6-2?arch=all

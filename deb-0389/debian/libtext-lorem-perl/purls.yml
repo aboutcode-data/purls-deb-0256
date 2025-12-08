@@ -1,0 +1,2 @@
+- pkg:deb/debian/libtext-lorem-perl@0.34-1?arch=all
+- pkg:deb/debian/libtext-lorem-perl@0.34-3?arch=all

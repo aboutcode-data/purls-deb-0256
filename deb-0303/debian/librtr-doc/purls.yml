@@ -1,0 +1,4 @@
+- pkg:deb/debian/librtr-doc@0.7.0-1?arch=all
+- pkg:deb/debian/librtr-doc@0.8.0-1.1?arch=all
+- pkg:deb/debian/librtr-doc@0.8.0-1?arch=all
+- pkg:deb/debian/librtr-doc@0.8.0-3?arch=all

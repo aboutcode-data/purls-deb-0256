@@ -1,0 +1,4 @@
+- pkg:deb/debian/macaulay2-common@1.17.1%2Bds-2?arch=all
+- pkg:deb/debian/macaulay2-common@1.21%2Bds-3?arch=all
+- pkg:deb/debian/macaulay2-common@1.24.11%2Bds-5?arch=all
+- pkg:deb/debian/macaulay2-common@1.25.11%2Bds-1?arch=all

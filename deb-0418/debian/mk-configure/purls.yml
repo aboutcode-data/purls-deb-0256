@@ -1,0 +1,2 @@
+- pkg:deb/debian/mk-configure@0.36.0-1?arch=all
+- pkg:deb/debian/mk-configure@0.37.0-2?arch=all

@@ -1,0 +1,4 @@
+- pkg:deb/debian/node-tap-parser@11.0.2%2B~cs2.1.4-1?arch=all
+- pkg:deb/debian/node-tap-parser@13.0.1%2B~cs4.1.3-3?arch=all
+- pkg:deb/debian/node-tap-parser@13.0.1%2B~cs4.1.3-4?arch=all
+- pkg:deb/debian/node-tap-parser@7.0.0%2Bds1-5?arch=all

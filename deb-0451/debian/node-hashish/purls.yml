@@ -1,0 +1,2 @@
+- pkg:deb/debian/node-hashish@0.0.4%2Bgit34dfe43-1.1?arch=all
+- pkg:deb/debian/node-hashish@0.0.4%2Bgit34dfe43-4?arch=all

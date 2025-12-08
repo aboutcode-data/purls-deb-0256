@@ -1,0 +1,17 @@
+- pkg:deb/debian/libvorbisidec1@1.2.1%2Bgit20180316-7?arch=amd64
+- pkg:deb/debian/libvorbisidec1@1.2.1%2Bgit20180316-7?arch=arm64
+- pkg:deb/debian/libvorbisidec1@1.2.1%2Bgit20180316-7?arch=armel
+- pkg:deb/debian/libvorbisidec1@1.2.1%2Bgit20180316-7?arch=armhf
+- pkg:deb/debian/libvorbisidec1@1.2.1%2Bgit20180316-7?arch=i386
+- pkg:deb/debian/libvorbisidec1@1.2.1%2Bgit20180316-7?arch=mips64el
+- pkg:deb/debian/libvorbisidec1@1.2.1%2Bgit20180316-7?arch=mipsel
+- pkg:deb/debian/libvorbisidec1@1.2.1%2Bgit20180316-7?arch=ppc64el
+- pkg:deb/debian/libvorbisidec1@1.2.1%2Bgit20180316-7?arch=s390x
+- pkg:deb/debian/libvorbisidec1@1.2.1%2Bgit20180316-8%2Bb1?arch=amd64
+- pkg:deb/debian/libvorbisidec1@1.2.1%2Bgit20180316-8%2Bb1?arch=arm64
+- pkg:deb/debian/libvorbisidec1@1.2.1%2Bgit20180316-8%2Bb1?arch=armel
+- pkg:deb/debian/libvorbisidec1@1.2.1%2Bgit20180316-8%2Bb1?arch=armhf
+- pkg:deb/debian/libvorbisidec1@1.2.1%2Bgit20180316-8%2Bb1?arch=i386
+- pkg:deb/debian/libvorbisidec1@1.2.1%2Bgit20180316-8%2Bb1?arch=ppc64el
+- pkg:deb/debian/libvorbisidec1@1.2.1%2Bgit20180316-8%2Bb1?arch=riscv64
+- pkg:deb/debian/libvorbisidec1@1.2.1%2Bgit20180316-8%2Bb1?arch=s390x

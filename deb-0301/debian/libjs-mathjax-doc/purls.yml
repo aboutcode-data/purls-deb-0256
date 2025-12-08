@@ -1,0 +1,3 @@
+- pkg:deb/debian/libjs-mathjax-doc@2.7%2B20171212-1?arch=all
+- pkg:deb/debian/libjs-mathjax-doc@2.7%2B20171212-2?arch=all
+- pkg:deb/debian/libjs-mathjax-doc@3.2%2B20240903-1?arch=all

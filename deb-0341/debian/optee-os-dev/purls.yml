@@ -1,0 +1,2 @@
+- pkg:deb/debian/optee-os-dev@4.5.0-2?arch=arm64
+- pkg:deb/debian/optee-os-dev@4.7.0-1?arch=arm64

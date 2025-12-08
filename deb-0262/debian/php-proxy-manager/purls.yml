@@ -1,0 +1,4 @@
+- pkg:deb/debian/php-proxy-manager@2.11.1%2B1.0.14-1%2Bdeb12u1?arch=all
+- pkg:deb/debian/php-proxy-manager@2.11.1%2B1.0.18-3?arch=all
+- pkg:deb/debian/php-proxy-manager@2.11.1%2B1.0.19-2?arch=all
+- pkg:deb/debian/php-proxy-manager@2.11.1%2B1.0.3-1%2Bdeb11u1?arch=all

@@ -1,0 +1,3 @@
+- pkg:deb/debian/mkdocstrings-python-handlers@0.8.3-1?arch=all
+- pkg:deb/debian/mkdocstrings-python-handlers@1.16.10-1?arch=all
+- pkg:deb/debian/mkdocstrings-python-handlers@1.19.0-1?arch=all

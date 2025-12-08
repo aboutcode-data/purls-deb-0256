@@ -1,0 +1,3 @@
+- pkg:deb/debian/libtickit-widgets-perl@0.31-1?arch=all
+- pkg:deb/debian/libtickit-widgets-perl@0.36-1?arch=all
+- pkg:deb/debian/libtickit-widgets-perl@0.42-1?arch=all

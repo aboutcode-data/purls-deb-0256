@@ -1,0 +1,13 @@
+- pkg:deb/debian/libtemplates-parser20@21.0.0-2?arch=amd64
+- pkg:deb/debian/libtemplates-parser20@21.0.0-2?arch=arm64
+- pkg:deb/debian/libtemplates-parser20@21.0.0-2?arch=armhf
+- pkg:deb/debian/libtemplates-parser20@21.0.0-2?arch=i386
+- pkg:deb/debian/libtemplates-parser20@23.0.0-3?arch=amd64
+- pkg:deb/debian/libtemplates-parser20@23.0.0-3?arch=arm64
+- pkg:deb/debian/libtemplates-parser20@23.0.0-3?arch=armel
+- pkg:deb/debian/libtemplates-parser20@23.0.0-3?arch=armhf
+- pkg:deb/debian/libtemplates-parser20@23.0.0-3?arch=i386
+- pkg:deb/debian/libtemplates-parser20@23.0.0-3?arch=mips64el
+- pkg:deb/debian/libtemplates-parser20@23.0.0-3?arch=mipsel
+- pkg:deb/debian/libtemplates-parser20@23.0.0-3?arch=ppc64el
+- pkg:deb/debian/libtemplates-parser20@23.0.0-3?arch=s390x

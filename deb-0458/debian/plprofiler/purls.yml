@@ -1,0 +1,3 @@
+- pkg:deb/debian/plprofiler@4.2.1-2?arch=all
+- pkg:deb/debian/plprofiler@4.2.5-3?arch=all
+- pkg:deb/debian/plprofiler@4.2.5-4?arch=all

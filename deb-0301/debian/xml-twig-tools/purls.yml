@@ -1,0 +1,4 @@
+- pkg:deb/debian/xml-twig-tools@3.52-1?arch=all
+- pkg:deb/debian/xml-twig-tools@3.52-2?arch=all
+- pkg:deb/debian/xml-twig-tools@3.52-3?arch=all
+- pkg:deb/debian/xml-twig-tools@3.54-1?arch=all

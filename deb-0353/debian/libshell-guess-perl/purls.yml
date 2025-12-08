@@ -1,0 +1,2 @@
+- pkg:deb/debian/libshell-guess-perl@0.09-1?arch=all
+- pkg:deb/debian/libshell-guess-perl@0.10-1?arch=all

@@ -1,0 +1,3 @@
+- pkg:deb/debian/libpreludedb-doc@5.2.0-1?arch=all
+- pkg:deb/debian/libpreludedb-doc@5.2.0-2.2?arch=all
+- pkg:deb/debian/libpreludedb-doc@5.2.0-2?arch=all

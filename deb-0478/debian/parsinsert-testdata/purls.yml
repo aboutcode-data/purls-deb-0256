@@ -1,0 +1,4 @@
+- pkg:deb/debian/parsinsert-testdata@1.04-10?arch=all
+- pkg:deb/debian/parsinsert-testdata@1.04-12?arch=all
+- pkg:deb/debian/parsinsert-testdata@1.04-15?arch=all
+- pkg:deb/debian/parsinsert-testdata@1.04-16?arch=all

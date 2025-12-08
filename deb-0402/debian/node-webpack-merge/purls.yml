@@ -1,0 +1,2 @@
+- pkg:deb/debian/node-webpack-merge@2.2.0-4?arch=all
+- pkg:deb/debian/node-webpack-merge@5.8.0%2B~2.0.0-1?arch=all

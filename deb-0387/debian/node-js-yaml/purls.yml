@@ -1,0 +1,2 @@
+- pkg:deb/debian/node-js-yaml@3.14.1%2Bdfsg%2B~3.12.6-2?arch=all
+- pkg:deb/debian/node-js-yaml@4.1.0%2Bdfsg%2B~4.0.5-7?arch=all

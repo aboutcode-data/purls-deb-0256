@@ -1,0 +1,2 @@
+- pkg:deb/debian/opentracker-common@0.0~git20240622.c854b3d-2?arch=all
+- pkg:deb/debian/opentracker-common@1.0%2Bgit20250425.b20b0b8-1?arch=all

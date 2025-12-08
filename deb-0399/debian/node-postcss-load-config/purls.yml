@@ -1,0 +1,2 @@
+- pkg:deb/debian/node-postcss-load-config@2.1.0-1?arch=all
+- pkg:deb/debian/node-postcss-load-config@2.1.2%2B~cs6.0.0-1?arch=all

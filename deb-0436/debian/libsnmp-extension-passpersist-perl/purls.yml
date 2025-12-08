@@ -1,0 +1,2 @@
+- pkg:deb/debian/libsnmp-extension-passpersist-perl@0.07-2.1?arch=all
+- pkg:deb/debian/libsnmp-extension-passpersist-perl@0.07-3?arch=all

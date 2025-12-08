@@ -1,0 +1,4 @@
+- pkg:deb/debian/libmapsforge-java@0.15.0%2Bdfsg.1-1?arch=all
+- pkg:deb/debian/libmapsforge-java@0.17.0%2Bdfsg.1-2?arch=all
+- pkg:deb/debian/libmapsforge-java@0.20.0-1?arch=all
+- pkg:deb/debian/libmapsforge-java@0.20.0-2?arch=all

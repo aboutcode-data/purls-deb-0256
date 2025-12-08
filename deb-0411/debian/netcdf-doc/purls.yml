@@ -1,0 +1,3 @@
+- pkg:deb/debian/netcdf-doc@4.7.4-1?arch=all
+- pkg:deb/debian/netcdf-doc@4.9.0-3?arch=all
+- pkg:deb/debian/netcdf-doc@4.9.3-1?arch=all

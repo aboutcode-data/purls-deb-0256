@@ -1,0 +1,3 @@
+- pkg:deb/debian/libtest-pod-perl@1.52-1?arch=all
+- pkg:deb/debian/libtest-pod-perl@1.52-2?arch=all
+- pkg:deb/debian/libtest-pod-perl@1.52-3?arch=all

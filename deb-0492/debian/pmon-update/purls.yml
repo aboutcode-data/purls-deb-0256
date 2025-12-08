@@ -1,0 +1,2 @@
+- pkg:deb/debian/pmon-update@0.3.1%2Bb1?arch=mips64el
+- pkg:deb/debian/pmon-update@0.3.1?arch=mipsel

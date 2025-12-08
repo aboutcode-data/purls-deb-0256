@@ -1,0 +1,2 @@
+- pkg:deb/debian/php-horde-injector@2.0.5-10?arch=all
+- pkg:deb/debian/php-horde-injector@2.0.5-12?arch=all

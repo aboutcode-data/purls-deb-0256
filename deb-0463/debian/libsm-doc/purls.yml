@@ -1,0 +1,2 @@
+- pkg:deb/debian/libsm-doc@1.2.3-1?arch=all
+- pkg:deb/debian/libsm-doc@1.2.6-1?arch=all

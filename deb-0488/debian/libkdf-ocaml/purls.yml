@@ -1,0 +1,15 @@
+- pkg:deb/debian/libkdf-ocaml@1.0.0-1%2Bb10?arch=amd64
+- pkg:deb/debian/libkdf-ocaml@1.0.0-1%2Bb14?arch=armhf
+- pkg:deb/debian/libkdf-ocaml@1.0.0-1%2Bb14?arch=i386
+- pkg:deb/debian/libkdf-ocaml@1.0.0-1%2Bb15?arch=riscv64
+- pkg:deb/debian/libkdf-ocaml@1.0.0-1%2Bb16?arch=arm64
+- pkg:deb/debian/libkdf-ocaml@1.0.0-1%2Bb16?arch=ppc64el
+- pkg:deb/debian/libkdf-ocaml@1.0.0-1%2Bb16?arch=s390x
+- pkg:deb/debian/libkdf-ocaml@1.0.0-1%2Bb17?arch=amd64
+- pkg:deb/debian/libkdf-ocaml@1.0.0-1%2Bb9?arch=arm64
+- pkg:deb/debian/libkdf-ocaml@1.0.0-1%2Bb9?arch=armel
+- pkg:deb/debian/libkdf-ocaml@1.0.0-1%2Bb9?arch=armhf
+- pkg:deb/debian/libkdf-ocaml@1.0.0-1%2Bb9?arch=i386
+- pkg:deb/debian/libkdf-ocaml@1.0.0-1%2Bb9?arch=ppc64el
+- pkg:deb/debian/libkdf-ocaml@1.0.0-1%2Bb9?arch=riscv64
+- pkg:deb/debian/libkdf-ocaml@1.0.0-1%2Bb9?arch=s390x

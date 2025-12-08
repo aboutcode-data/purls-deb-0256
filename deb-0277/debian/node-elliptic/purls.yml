@@ -1,0 +1,3 @@
+- pkg:deb/debian/node-elliptic@6.5.4~dfsg-1?arch=all
+- pkg:deb/debian/node-elliptic@6.5.4~dfsg-2?arch=all
+- pkg:deb/debian/node-elliptic@6.6.1%2Bdfsg-1?arch=all

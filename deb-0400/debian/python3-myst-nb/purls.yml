@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-myst-nb@1.1.2-1?arch=all
+- pkg:deb/debian/python3-myst-nb@1.3.0-1?arch=all

@@ -1,0 +1,2 @@
+- pkg:deb/debian/node-builtins@1.0.3-2?arch=all
+- pkg:deb/debian/node-builtins@5.0.1-1?arch=all

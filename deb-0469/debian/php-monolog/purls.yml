@@ -1,0 +1,3 @@
+- pkg:deb/debian/php-monolog@1.26.0-1?arch=all
+- pkg:deb/debian/php-monolog@2.9.1-1?arch=all
+- pkg:deb/debian/php-monolog@3.9.0-1?arch=all

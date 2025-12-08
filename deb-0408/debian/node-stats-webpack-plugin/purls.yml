@@ -1,0 +1,2 @@
+- pkg:deb/debian/node-stats-webpack-plugin@0.7.0-2?arch=all
+- pkg:deb/debian/node-stats-webpack-plugin@0.7.0-4?arch=all

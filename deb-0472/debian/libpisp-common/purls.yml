@@ -1,0 +1,2 @@
+- pkg:deb/debian/libpisp-common@1.2.1-2?arch=all
+- pkg:deb/debian/libpisp-common@1.3.0-1?arch=all

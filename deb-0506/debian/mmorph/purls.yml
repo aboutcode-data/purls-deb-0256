@@ -1,0 +1,4 @@
+- pkg:deb/debian/mmorph@2.3.4.2-17?arch=amd64
+- pkg:deb/debian/mmorph@2.3.4.2-17?arch=arm64
+- pkg:deb/debian/mmorph@2.3.4.2-17?arch=armhf
+- pkg:deb/debian/mmorph@2.3.4.2-17?arch=i386

@@ -1,0 +1,4 @@
+- pkg:deb/debian/librdf-trinex-serializer-mockturtlesoup-perl@0.006-1.1?arch=all
+- pkg:deb/debian/librdf-trinex-serializer-mockturtlesoup-perl@0.006-2?arch=all
+- pkg:deb/debian/librdf-trinex-serializer-mockturtlesoup-perl@0.006-4?arch=all
+- pkg:deb/debian/librdf-trinex-serializer-mockturtlesoup-perl@0.006-5?arch=all

@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-github-slackhq-nebula-dev@1.6.1%2Bdfsg-3?arch=all
+- pkg:deb/debian/golang-github-slackhq-nebula-dev@1.9.3%2Bdfsg-6?arch=all

@@ -1,0 +1,4 @@
+- pkg:deb/debian/libvpx-doc@1.12.0-1%2Bdeb12u4?arch=all
+- pkg:deb/debian/libvpx-doc@1.15.0-2.1?arch=all
+- pkg:deb/debian/libvpx-doc@1.15.2-2?arch=all
+- pkg:deb/debian/libvpx-doc@1.9.0-1%2Bdeb11u3?arch=all

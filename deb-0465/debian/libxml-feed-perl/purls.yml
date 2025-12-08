@@ -1,0 +1,3 @@
+- pkg:deb/debian/libxml-feed-perl@0.61%2Bdfsg-1?arch=all
+- pkg:deb/debian/libxml-feed-perl@0.63%2Bdfsg-1?arch=all
+- pkg:deb/debian/libxml-feed-perl@0.65%2Bdfsg-1?arch=all

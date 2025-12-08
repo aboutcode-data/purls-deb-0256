@@ -1,0 +1,2 @@
+- pkg:deb/debian/libxml-writer-perl@0.900-1?arch=all
+- pkg:deb/debian/libxml-writer-perl@0.900-2?arch=all

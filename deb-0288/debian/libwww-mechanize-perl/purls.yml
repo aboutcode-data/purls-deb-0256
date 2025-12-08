@@ -1,0 +1,4 @@
+- pkg:deb/debian/libwww-mechanize-perl@2.03-1?arch=all
+- pkg:deb/debian/libwww-mechanize-perl@2.16-1?arch=all
+- pkg:deb/debian/libwww-mechanize-perl@2.19-1?arch=all
+- pkg:deb/debian/libwww-mechanize-perl@2.20-1?arch=all

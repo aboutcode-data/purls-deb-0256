@@ -1,0 +1,5 @@
+- pkg:deb/debian/postgresql-18-pg-rrule@0.2.0%2Bgit20211101.d7d10f2-4?arch=amd64
+- pkg:deb/debian/postgresql-18-pg-rrule@0.2.0%2Bgit20211101.d7d10f2-4?arch=arm64
+- pkg:deb/debian/postgresql-18-pg-rrule@0.2.0%2Bgit20211101.d7d10f2-4?arch=ppc64el
+- pkg:deb/debian/postgresql-18-pg-rrule@0.2.0%2Bgit20211101.d7d10f2-4?arch=riscv64
+- pkg:deb/debian/postgresql-18-pg-rrule@0.2.0%2Bgit20211101.d7d10f2-4?arch=s390x

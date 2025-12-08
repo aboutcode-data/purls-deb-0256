@@ -1,0 +1,2 @@
+- pkg:deb/debian/php-horde-imap-client@2.30.1-4?arch=all
+- pkg:deb/debian/php-horde-imap-client@2.30.6-3?arch=all

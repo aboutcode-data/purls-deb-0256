@@ -1,0 +1,3 @@
+- pkg:deb/debian/onionbalance@0.2.0-5?arch=all
+- pkg:deb/debian/onionbalance@0.2.2-1.1?arch=all
+- pkg:deb/debian/onionbalance@0.2.4-0.2?arch=all

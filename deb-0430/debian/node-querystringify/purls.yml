@@ -1,0 +1,2 @@
+- pkg:deb/debian/node-querystringify@2.2.0%2B~2.0.0-2?arch=all
+- pkg:deb/debian/node-querystringify@2.2.0-1?arch=all

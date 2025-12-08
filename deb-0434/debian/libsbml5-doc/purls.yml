@@ -1,0 +1,3 @@
+- pkg:deb/debian/libsbml5-doc@5.19.0%2Bdfsg-1?arch=all
+- pkg:deb/debian/libsbml5-doc@5.19.7%2Bdfsg-2?arch=all
+- pkg:deb/debian/libsbml5-doc@5.20.4%2Bdfsg-0.1?arch=all

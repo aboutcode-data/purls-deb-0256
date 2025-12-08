@@ -1,0 +1,4 @@
+- pkg:deb/debian/elpa-magit-forge@0.1.0%2Bgit20200714.639ce51-3?arch=all
+- pkg:deb/debian/elpa-magit-forge@0.3.2-1?arch=all
+- pkg:deb/debian/elpa-magit-forge@0.4.5-2?arch=all
+- pkg:deb/debian/elpa-magit-forge@0.5.0-1?arch=all

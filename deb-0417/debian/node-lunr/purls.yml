@@ -1,0 +1,2 @@
+- pkg:deb/debian/node-lunr@2.3.8~dfsg-2?arch=all
+- pkg:deb/debian/node-lunr@2.3.9~dfsg-2?arch=all

@@ -1,0 +1,4 @@
+- pkg:deb/debian/magnum-api@11.0.0-1?arch=all
+- pkg:deb/debian/magnum-api@15.0.1-4?arch=all
+- pkg:deb/debian/magnum-api@20.0.0-2?arch=all
+- pkg:deb/debian/magnum-api@21.0.1-1?arch=all

@@ -1,0 +1,4 @@
+- pkg:deb/debian/owx@0~20110415-3.1%2Bb2?arch=amd64
+- pkg:deb/debian/owx@0~20110415-3.1%2Bb2?arch=arm64
+- pkg:deb/debian/owx@0~20110415-3.1%2Bb2?arch=armhf
+- pkg:deb/debian/owx@0~20110415-3.1%2Bb2?arch=i386

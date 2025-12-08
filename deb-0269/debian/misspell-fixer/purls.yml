@@ -1,0 +1,3 @@
+- pkg:deb/debian/misspell-fixer@0.4-1?arch=all
+- pkg:deb/debian/misspell-fixer@0.5-1?arch=all
+- pkg:deb/debian/misspell-fixer@0.6-1?arch=all

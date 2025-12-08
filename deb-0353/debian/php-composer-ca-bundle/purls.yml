@@ -1,0 +1,4 @@
+- pkg:deb/debian/php-composer-ca-bundle@1.2.9-1?arch=all
+- pkg:deb/debian/php-composer-ca-bundle@1.3.5-1?arch=all
+- pkg:deb/debian/php-composer-ca-bundle@1.5.6-1?arch=all
+- pkg:deb/debian/php-composer-ca-bundle@1.5.9-1?arch=all

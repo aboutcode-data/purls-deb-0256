@@ -1,0 +1,2 @@
+- pkg:deb/debian/libtest-distribution-perl@2.00-5?arch=all
+- pkg:deb/debian/libtest-distribution-perl@2.00-7?arch=all

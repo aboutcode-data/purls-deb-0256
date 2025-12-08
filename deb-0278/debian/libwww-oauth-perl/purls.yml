@@ -1,0 +1,4 @@
+- pkg:deb/debian/libwww-oauth-perl@1.000-1.1?arch=all
+- pkg:deb/debian/libwww-oauth-perl@1.000-2?arch=all
+- pkg:deb/debian/libwww-oauth-perl@1.002-1?arch=all
+- pkg:deb/debian/libwww-oauth-perl@1.003-1?arch=all

@@ -1,0 +1,5 @@
+- pkg:deb/debian/postgresql-17-pllua@2.0.12-5?arch=amd64
+- pkg:deb/debian/postgresql-17-pllua@2.0.12-5?arch=arm64
+- pkg:deb/debian/postgresql-17-pllua@2.0.12-5?arch=ppc64el
+- pkg:deb/debian/postgresql-17-pllua@2.0.12-5?arch=riscv64
+- pkg:deb/debian/postgresql-17-pllua@2.0.12-5?arch=s390x

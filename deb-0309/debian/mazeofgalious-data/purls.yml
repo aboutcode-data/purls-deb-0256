@@ -1,0 +1,3 @@
+- pkg:deb/debian/mazeofgalious-data@0.62.dfsg2-4.1?arch=all
+- pkg:deb/debian/mazeofgalious-data@0.62.dfsg2-4?arch=all
+- pkg:deb/debian/mazeofgalious-data@0.62.dfsg2-6?arch=all

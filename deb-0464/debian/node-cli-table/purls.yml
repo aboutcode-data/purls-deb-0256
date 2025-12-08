@@ -1,0 +1,2 @@
+- pkg:deb/debian/node-cli-table@0.3.1-2?arch=all
+- pkg:deb/debian/node-cli-table@0.3.11%2B~cs0.13.4-3?arch=all

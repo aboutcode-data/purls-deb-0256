@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-parfive@1.2.0-1?arch=all
+- pkg:deb/debian/python3-parfive@2.0.2-1?arch=all
+- pkg:deb/debian/python3-parfive@2.1.0-1?arch=all
+- pkg:deb/debian/python3-parfive@2.2.0-1?arch=all

@@ -1,0 +1,2 @@
+- pkg:deb/debian/node-slice-ansi@1.0.0-1?arch=all
+- pkg:deb/debian/node-slice-ansi@5.0.0%2B~cs9.0.0-5?arch=all

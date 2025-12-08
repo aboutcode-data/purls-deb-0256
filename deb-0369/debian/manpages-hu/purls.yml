@@ -1,0 +1,6 @@
+- pkg:deb/debian/manpages-hu@20010119-7?arch=all
+- pkg:deb/debian/manpages-hu@4.18.1-1?arch=all
+- pkg:deb/debian/manpages-hu@4.27.0-1?arch=all
+- pkg:deb/debian/manpages-hu@4.27.0-1~bpo12%2B1?arch=all
+- pkg:deb/debian/manpages-hu@4.28.0-2?arch=all
+- pkg:deb/debian/manpages-hu@4.28.0-2~bpo13%2B2?arch=all

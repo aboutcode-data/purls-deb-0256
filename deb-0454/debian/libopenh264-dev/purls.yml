@@ -1,0 +1,17 @@
+- pkg:deb/debian/libopenh264-dev@2.3.1%2Bdfsg-3%2Bdeb12u2?arch=amd64
+- pkg:deb/debian/libopenh264-dev@2.3.1%2Bdfsg-3%2Bdeb12u2?arch=arm64
+- pkg:deb/debian/libopenh264-dev@2.3.1%2Bdfsg-3%2Bdeb12u2?arch=armel
+- pkg:deb/debian/libopenh264-dev@2.3.1%2Bdfsg-3%2Bdeb12u2?arch=armhf
+- pkg:deb/debian/libopenh264-dev@2.3.1%2Bdfsg-3%2Bdeb12u2?arch=i386
+- pkg:deb/debian/libopenh264-dev@2.3.1%2Bdfsg-3%2Bdeb12u2?arch=mips64el
+- pkg:deb/debian/libopenh264-dev@2.3.1%2Bdfsg-3%2Bdeb12u2?arch=mipsel
+- pkg:deb/debian/libopenh264-dev@2.3.1%2Bdfsg-3%2Bdeb12u2?arch=ppc64el
+- pkg:deb/debian/libopenh264-dev@2.3.1%2Bdfsg-3%2Bdeb12u2?arch=s390x
+- pkg:deb/debian/libopenh264-dev@2.6.0%2Bdfsg-2?arch=amd64
+- pkg:deb/debian/libopenh264-dev@2.6.0%2Bdfsg-2?arch=arm64
+- pkg:deb/debian/libopenh264-dev@2.6.0%2Bdfsg-2?arch=armel
+- pkg:deb/debian/libopenh264-dev@2.6.0%2Bdfsg-2?arch=armhf
+- pkg:deb/debian/libopenh264-dev@2.6.0%2Bdfsg-2?arch=i386
+- pkg:deb/debian/libopenh264-dev@2.6.0%2Bdfsg-2?arch=ppc64el
+- pkg:deb/debian/libopenh264-dev@2.6.0%2Bdfsg-2?arch=riscv64
+- pkg:deb/debian/libopenh264-dev@2.6.0%2Bdfsg-2?arch=s390x

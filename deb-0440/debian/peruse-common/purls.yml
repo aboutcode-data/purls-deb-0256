@@ -1,0 +1,5 @@
+- pkg:deb/debian/peruse-common@1.2%2Bdfsg%2B20191117-1?arch=all
+- pkg:deb/debian/peruse-common@1.80%2Bdfsg%2B20251117-1~exp1?arch=all
+- pkg:deb/debian/peruse-common@1.80%2Bdfsg-2?arch=all
+- pkg:deb/debian/peruse-common@1.80%2Bdfsg-3?arch=all
+- pkg:deb/debian/peruse-common@1.80%2Bdfsg-4?arch=all

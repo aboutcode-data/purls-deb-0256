@@ -1,0 +1,2 @@
+- pkg:deb/debian/libstring-tokenizer-perl@0.06-1?arch=all
+- pkg:deb/debian/libstring-tokenizer-perl@0.06-3?arch=all

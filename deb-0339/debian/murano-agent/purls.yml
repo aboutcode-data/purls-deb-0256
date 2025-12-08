@@ -1,0 +1,2 @@
+- pkg:deb/debian/murano-agent@10.0.0-1?arch=all
+- pkg:deb/debian/murano-agent@6.0.0-1?arch=all

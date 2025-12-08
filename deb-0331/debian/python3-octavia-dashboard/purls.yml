@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-octavia-dashboard@10.0.0-1?arch=all
+- pkg:deb/debian/python3-octavia-dashboard@15.0.0-1?arch=all
+- pkg:deb/debian/python3-octavia-dashboard@16.0.0-1?arch=all
+- pkg:deb/debian/python3-octavia-dashboard@6.0.0-2?arch=all

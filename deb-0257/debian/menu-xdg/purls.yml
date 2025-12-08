@@ -1,0 +1,2 @@
+- pkg:deb/debian/menu-xdg@0.6%2Bnmu1?arch=all
+- pkg:deb/debian/menu-xdg@0.7?arch=all

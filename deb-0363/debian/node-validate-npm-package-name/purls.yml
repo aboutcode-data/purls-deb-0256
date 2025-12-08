@@ -1,0 +1,2 @@
+- pkg:deb/debian/node-validate-npm-package-name@3.0.0-1.1?arch=all
+- pkg:deb/debian/node-validate-npm-package-name@5.0.0%2B~4.0.0-1?arch=all

@@ -1,0 +1,14 @@
+- pkg:deb/debian/nanolyse@1.2.0-1?arch=amd64
+- pkg:deb/debian/nanolyse@1.2.0-1?arch=arm64
+- pkg:deb/debian/nanolyse@1.2.0-1?arch=armhf
+- pkg:deb/debian/nanolyse@1.2.0-1?arch=i386
+- pkg:deb/debian/nanolyse@1.2.0-4%2Bb2?arch=riscv64
+- pkg:deb/debian/nanolyse@1.2.0-4?arch=amd64
+- pkg:deb/debian/nanolyse@1.2.0-4?arch=arm64
+- pkg:deb/debian/nanolyse@1.2.0-4?arch=armel
+- pkg:deb/debian/nanolyse@1.2.0-4?arch=armhf
+- pkg:deb/debian/nanolyse@1.2.0-4?arch=i386
+- pkg:deb/debian/nanolyse@1.2.0-4?arch=mips64el
+- pkg:deb/debian/nanolyse@1.2.0-4?arch=mipsel
+- pkg:deb/debian/nanolyse@1.2.0-4?arch=ppc64el
+- pkg:deb/debian/nanolyse@1.2.0-4?arch=s390x

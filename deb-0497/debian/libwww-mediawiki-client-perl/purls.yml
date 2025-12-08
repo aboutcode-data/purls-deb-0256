@@ -1,0 +1,4 @@
+- pkg:deb/debian/libwww-mediawiki-client-perl@0.31-2.1?arch=all
+- pkg:deb/debian/libwww-mediawiki-client-perl@0.31-2.2?arch=all
+- pkg:deb/debian/libwww-mediawiki-client-perl@0.31-3?arch=all
+- pkg:deb/debian/libwww-mediawiki-client-perl@0.31-4?arch=all

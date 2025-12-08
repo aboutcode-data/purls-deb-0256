@@ -1,0 +1,11 @@
+- pkg:deb/debian/printer-driver-min12xxw@0.0.9-11%2Bb1?arch=arm64
+- pkg:deb/debian/printer-driver-min12xxw@0.0.9-11%2Bb1?arch=riscv64
+- pkg:deb/debian/printer-driver-min12xxw@0.0.9-11?arch=amd64
+- pkg:deb/debian/printer-driver-min12xxw@0.0.9-11?arch=arm64
+- pkg:deb/debian/printer-driver-min12xxw@0.0.9-11?arch=armel
+- pkg:deb/debian/printer-driver-min12xxw@0.0.9-11?arch=armhf
+- pkg:deb/debian/printer-driver-min12xxw@0.0.9-11?arch=i386
+- pkg:deb/debian/printer-driver-min12xxw@0.0.9-11?arch=mips64el
+- pkg:deb/debian/printer-driver-min12xxw@0.0.9-11?arch=mipsel
+- pkg:deb/debian/printer-driver-min12xxw@0.0.9-11?arch=ppc64el
+- pkg:deb/debian/printer-driver-min12xxw@0.0.9-11?arch=s390x

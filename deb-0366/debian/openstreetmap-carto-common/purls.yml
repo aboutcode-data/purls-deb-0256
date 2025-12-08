@@ -1,0 +1,2 @@
+- pkg:deb/debian/openstreetmap-carto-common@5.7.0-1?arch=all
+- pkg:deb/debian/openstreetmap-carto-common@5.9.0-2?arch=all

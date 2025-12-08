@@ -1,0 +1,4 @@
+- pkg:deb/debian/hapolicy@1.35-10?arch=all
+- pkg:deb/debian/hapolicy@1.35-11?arch=all
+- pkg:deb/debian/hapolicy@1.35-6?arch=all
+- pkg:deb/debian/hapolicy@1.35-8?arch=all

@@ -1,0 +1,4 @@
+- pkg:deb/debian/numix-icon-theme@0~20190920-1?arch=all
+- pkg:deb/debian/numix-icon-theme@0~20230220-1?arch=all
+- pkg:deb/debian/numix-icon-theme@0~20250131-1?arch=all
+- pkg:deb/debian/numix-icon-theme@0~20251026-1?arch=all

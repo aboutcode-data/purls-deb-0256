@@ -1,0 +1,9 @@
+- pkg:deb/debian/pdfcube-dbg@0.0.5-2%2Bb5?arch=mips64el
+- pkg:deb/debian/pdfcube-dbg@0.0.5-2%2Bb6?arch=arm64
+- pkg:deb/debian/pdfcube-dbg@0.0.5-2%2Bb6?arch=ppc64el
+- pkg:deb/debian/pdfcube-dbg@0.0.5-2%2Bb7?arch=amd64
+- pkg:deb/debian/pdfcube-dbg@0.0.5-2%2Bb7?arch=armel
+- pkg:deb/debian/pdfcube-dbg@0.0.5-2%2Bb7?arch=armhf
+- pkg:deb/debian/pdfcube-dbg@0.0.5-2%2Bb7?arch=i386
+- pkg:deb/debian/pdfcube-dbg@0.0.5-2%2Bb7?arch=mipsel
+- pkg:deb/debian/pdfcube-dbg@0.0.5-2%2Bb7?arch=s390x

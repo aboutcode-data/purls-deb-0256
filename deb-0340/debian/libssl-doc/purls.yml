@@ -1,0 +1,6 @@
+- pkg:deb/debian/libssl-doc@1.1.1w-0%2Bdeb11u1?arch=all
+- pkg:deb/debian/libssl-doc@3.0.17-1~deb12u2?arch=all
+- pkg:deb/debian/libssl-doc@3.0.18-1~deb12u1?arch=all
+- pkg:deb/debian/libssl-doc@3.5.4-1?arch=all
+- pkg:deb/debian/libssl-doc@3.5.4-1~deb13u1?arch=all
+- pkg:deb/debian/libssl-doc@3.6.0-1?arch=all

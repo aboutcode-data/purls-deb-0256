@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-pdm@2.2.1%2Bds1-1?arch=all
+- pkg:deb/debian/python3-pdm@2.20.1%2Bds1-2?arch=all
+- pkg:deb/debian/python3-pdm@2.23.1-2?arch=all
+- pkg:deb/debian/python3-pdm@2.23.1-4?arch=all

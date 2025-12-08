@@ -1,0 +1,2 @@
+- pkg:deb/debian/libpoe-component-client-http-perl@0.949-2?arch=all
+- pkg:deb/debian/libpoe-component-client-http-perl@0.949-4?arch=all

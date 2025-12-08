@@ -1,0 +1,4 @@
+- pkg:deb/debian/php-guzzlehttp-promises@1.4.0-2?arch=all
+- pkg:deb/debian/php-guzzlehttp-promises@1.5.2-1?arch=all
+- pkg:deb/debian/php-guzzlehttp-promises@2.2.0-1?arch=all
+- pkg:deb/debian/php-guzzlehttp-promises@2.3.0-1?arch=all

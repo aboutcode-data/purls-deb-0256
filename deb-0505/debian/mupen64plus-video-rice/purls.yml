@@ -1,0 +1,6 @@
+- pkg:deb/debian/mupen64plus-video-rice@2.5-6?arch=amd64
+- pkg:deb/debian/mupen64plus-video-rice@2.5-6?arch=i386
+- pkg:deb/debian/mupen64plus-video-rice@2.5.9%2B30%2Bg97e0acf-2?arch=amd64
+- pkg:deb/debian/mupen64plus-video-rice@2.5.9%2B30%2Bg97e0acf-2?arch=i386
+- pkg:deb/debian/mupen64plus-video-rice@2.6.0-2?arch=amd64
+- pkg:deb/debian/mupen64plus-video-rice@2.6.0-2?arch=i386

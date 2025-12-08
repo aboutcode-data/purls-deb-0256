@@ -1,0 +1,3 @@
+- pkg:deb/debian/libmaven-site-plugin-java@3.12.1-2?arch=all
+- pkg:deb/debian/libmaven-site-plugin-java@3.21.0-1?arch=all
+- pkg:deb/debian/libmaven-site-plugin-java@3.6-4?arch=all

@@ -1,0 +1,2 @@
+- pkg:deb/debian/node-gettext-parser@4.0.4-1?arch=all
+- pkg:deb/debian/node-gettext-parser@4.2.0%2B~4.0.1-2?arch=all

@@ -1,0 +1,2 @@
+- pkg:deb/debian/node-assert@1.5.0-1?arch=all
+- pkg:deb/debian/node-assert@2.0.0%2B~cs3.9.8-2?arch=all

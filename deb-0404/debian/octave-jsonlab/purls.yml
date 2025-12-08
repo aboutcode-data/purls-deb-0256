@@ -1,0 +1,4 @@
+- pkg:deb/debian/octave-jsonlab@2.0-1.1?arch=all
+- pkg:deb/debian/octave-jsonlab@2.0-2?arch=all
+- pkg:deb/debian/octave-jsonlab@2.9.8-1?arch=all
+- pkg:deb/debian/octave-jsonlab@2.9.8-2?arch=all

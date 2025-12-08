@@ -1,0 +1,2 @@
+- pkg:deb/debian/mbed-test-wrapper@1.0.0-4?arch=all
+- pkg:deb/debian/mbed-test-wrapper@1.0.0-5?arch=all

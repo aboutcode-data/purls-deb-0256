@@ -1,0 +1,4 @@
+- pkg:deb/debian/libopenzwave-doc@1.6.1545%2Bds-2?arch=all
+- pkg:deb/debian/libopenzwave-doc@1.6.1914%2Bds-1?arch=all
+- pkg:deb/debian/libopenzwave-doc@1.6.1914%2Bds2-3?arch=all
+- pkg:deb/debian/libopenzwave-doc@1.6.1914%2Bds2-4?arch=all

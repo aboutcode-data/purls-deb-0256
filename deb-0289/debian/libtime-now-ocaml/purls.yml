@@ -1,0 +1,15 @@
+- pkg:deb/debian/libtime-now-ocaml@0.17.0-2%2Bb4?arch=amd64
+- pkg:deb/debian/libtime-now-ocaml@0.17.0-2%2Bb4?arch=arm64
+- pkg:deb/debian/libtime-now-ocaml@0.17.0-2%2Bb4?arch=armel
+- pkg:deb/debian/libtime-now-ocaml@0.17.0-2%2Bb4?arch=armhf
+- pkg:deb/debian/libtime-now-ocaml@0.17.0-2%2Bb4?arch=i386
+- pkg:deb/debian/libtime-now-ocaml@0.17.0-2%2Bb4?arch=ppc64el
+- pkg:deb/debian/libtime-now-ocaml@0.17.0-2%2Bb4?arch=riscv64
+- pkg:deb/debian/libtime-now-ocaml@0.17.0-2%2Bb4?arch=s390x
+- pkg:deb/debian/libtime-now-ocaml@0.17.0-4?arch=amd64
+- pkg:deb/debian/libtime-now-ocaml@0.17.0-4?arch=arm64
+- pkg:deb/debian/libtime-now-ocaml@0.17.0-4?arch=armhf
+- pkg:deb/debian/libtime-now-ocaml@0.17.0-4?arch=i386
+- pkg:deb/debian/libtime-now-ocaml@0.17.0-4?arch=ppc64el
+- pkg:deb/debian/libtime-now-ocaml@0.17.0-4?arch=riscv64
+- pkg:deb/debian/libtime-now-ocaml@0.17.0-4?arch=s390x

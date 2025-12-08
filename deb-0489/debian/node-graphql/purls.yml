@@ -1,0 +1,2 @@
+- pkg:deb/debian/node-graphql@16.6.0-2?arch=all
+- pkg:deb/debian/node-graphql@16.8.1-2?arch=all

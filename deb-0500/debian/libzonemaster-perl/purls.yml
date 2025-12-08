@@ -1,0 +1,4 @@
+- pkg:deb/debian/libzonemaster-perl@1.0.16-2.1?arch=all
+- pkg:deb/debian/libzonemaster-perl@4.6.2-1?arch=all
+- pkg:deb/debian/libzonemaster-perl@7.1.0-1?arch=all
+- pkg:deb/debian/libzonemaster-perl@8.0.0-1?arch=all

@@ -1,0 +1,2 @@
+- pkg:deb/debian/node-eslint-scope@5.1.1-1?arch=all
+- pkg:deb/debian/node-eslint-scope@7.1.1%2B~3.7.4-1?arch=all

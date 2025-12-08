@@ -1,0 +1,2 @@
+- pkg:deb/debian/qapt-utils@3.0.5-1?arch=all
+- pkg:deb/debian/qapt-utils@3.0.5-2?arch=all

@@ -1,0 +1,17 @@
+- pkg:deb/debian/nsxiv@31-1?arch=amd64
+- pkg:deb/debian/nsxiv@31-1?arch=arm64
+- pkg:deb/debian/nsxiv@31-1?arch=armel
+- pkg:deb/debian/nsxiv@31-1?arch=armhf
+- pkg:deb/debian/nsxiv@31-1?arch=i386
+- pkg:deb/debian/nsxiv@31-1?arch=mips64el
+- pkg:deb/debian/nsxiv@31-1?arch=mipsel
+- pkg:deb/debian/nsxiv@31-1?arch=ppc64el
+- pkg:deb/debian/nsxiv@31-1?arch=s390x
+- pkg:deb/debian/nsxiv@33-1?arch=amd64
+- pkg:deb/debian/nsxiv@33-1?arch=arm64
+- pkg:deb/debian/nsxiv@33-1?arch=armel
+- pkg:deb/debian/nsxiv@33-1?arch=armhf
+- pkg:deb/debian/nsxiv@33-1?arch=i386
+- pkg:deb/debian/nsxiv@33-1?arch=ppc64el
+- pkg:deb/debian/nsxiv@33-1?arch=riscv64
+- pkg:deb/debian/nsxiv@33-1?arch=s390x

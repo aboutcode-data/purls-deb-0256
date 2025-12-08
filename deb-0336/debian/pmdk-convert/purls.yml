@@ -1,0 +1,2 @@
+- pkg:deb/debian/pmdk-convert@1.7-1?arch=amd64
+- pkg:deb/debian/pmdk-convert@1.7-1?arch=arm64

@@ -1,0 +1,2 @@
+- pkg:deb/debian/nagios4-common@4.4.6-4.1?arch=all
+- pkg:deb/debian/nagios4-common@4.4.6-4?arch=all

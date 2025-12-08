@@ -1,0 +1,5 @@
+- pkg:deb/debian/mc-data@4.8.26-1.1?arch=all
+- pkg:deb/debian/mc-data@4.8.29-2?arch=all
+- pkg:deb/debian/mc-data@4.8.31-1~bpo12%2B1?arch=all
+- pkg:deb/debian/mc-data@4.8.33-1%2Bdeb13u1?arch=all
+- pkg:deb/debian/mc-data@4.8.33-1.1?arch=all

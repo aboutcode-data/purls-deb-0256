@@ -1,0 +1,2 @@
+- pkg:deb/debian/prottest@3.4.2%2Bdfsg-5?arch=all
+- pkg:deb/debian/prottest@3.4.2%2Bdfsg-8?arch=all

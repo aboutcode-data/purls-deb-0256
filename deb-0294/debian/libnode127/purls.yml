@@ -1,0 +1,11 @@
+- pkg:deb/debian/libnode127@22.21.1%2Bdfsg%2B~cs22.19.0-5?arch=amd64
+- pkg:deb/debian/libnode127@22.21.1%2Bdfsg%2B~cs22.19.0-5?arch=arm64
+- pkg:deb/debian/libnode127@22.21.1%2Bdfsg%2B~cs22.19.0-5?arch=armhf
+- pkg:deb/debian/libnode127@22.21.1%2Bdfsg%2B~cs22.19.0-5?arch=i386
+- pkg:deb/debian/libnode127@22.21.1%2Bdfsg%2B~cs22.19.0-5?arch=ppc64el
+- pkg:deb/debian/libnode127@22.21.1%2Bdfsg%2B~cs22.19.0-5?arch=riscv64
+- pkg:deb/debian/libnode127@22.21.1%2Bdfsg%2B~cs22.19.0-5?arch=s390x
+- pkg:deb/debian/libnode127@22.21.1%2Bdfsg%2B~cs22.19.0-6?arch=amd64
+- pkg:deb/debian/libnode127@22.21.1%2Bdfsg%2B~cs22.19.0-6?arch=arm64
+- pkg:deb/debian/libnode127@22.21.1%2Bdfsg%2B~cs22.19.0-6?arch=ppc64el
+- pkg:deb/debian/libnode127@22.21.1%2Bdfsg%2B~cs22.19.0-6?arch=s390x

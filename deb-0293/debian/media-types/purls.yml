@@ -1,0 +1,4 @@
+- pkg:deb/debian/media-types@10.0.0?arch=all
+- pkg:deb/debian/media-types@13.0.0?arch=all
+- pkg:deb/debian/media-types@14.0.0?arch=all
+- pkg:deb/debian/media-types@4.0.0?arch=all

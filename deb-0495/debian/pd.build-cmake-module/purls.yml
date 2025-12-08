@@ -1,0 +1,2 @@
+- pkg:deb/debian/pd.build-cmake-module@0.1.1~ds1-1?arch=all
+- pkg:deb/debian/pd.build-cmake-module@0.1.1~ds1-5?arch=all

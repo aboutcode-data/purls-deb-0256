@@ -1,0 +1,3 @@
+- pkg:deb/debian/pagekite@1.5.2.200603-2?arch=all
+- pkg:deb/debian/pagekite@1.5.2.201011-2?arch=all
+- pkg:deb/debian/pagekite@1.5.2.201011-4?arch=all

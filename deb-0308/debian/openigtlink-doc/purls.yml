@@ -1,0 +1,3 @@
+- pkg:deb/debian/openigtlink-doc@1.11.0-4?arch=all
+- pkg:deb/debian/openigtlink-doc@1.11.0-6?arch=all
+- pkg:deb/debian/openigtlink-doc@3.0.0-3?arch=all

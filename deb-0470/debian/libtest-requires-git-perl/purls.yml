@@ -1,0 +1,2 @@
+- pkg:deb/debian/libtest-requires-git-perl@1.008-1.1?arch=all
+- pkg:deb/debian/libtest-requires-git-perl@1.008-2?arch=all

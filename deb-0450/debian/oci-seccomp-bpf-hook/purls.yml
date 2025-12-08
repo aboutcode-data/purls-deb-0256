@@ -1,0 +1,10 @@
+- pkg:deb/debian/oci-seccomp-bpf-hook@1.2.11%2Bds-1%2Bb3?arch=amd64
+- pkg:deb/debian/oci-seccomp-bpf-hook@1.2.11%2Bds-1%2Bb3?arch=arm64
+- pkg:deb/debian/oci-seccomp-bpf-hook@1.2.11%2Bds-1%2Bb3?arch=armhf
+- pkg:deb/debian/oci-seccomp-bpf-hook@1.2.11%2Bds-1%2Bb3?arch=riscv64
+- pkg:deb/debian/oci-seccomp-bpf-hook@1.2.11%2Bds-1%2Bb3?arch=s390x
+- pkg:deb/debian/oci-seccomp-bpf-hook@1.2.8%2Bds-1%2Bb4?arch=armhf
+- pkg:deb/debian/oci-seccomp-bpf-hook@1.2.8%2Bds-1%2Bb4?arch=ppc64el
+- pkg:deb/debian/oci-seccomp-bpf-hook@1.2.8%2Bds-1%2Bb4?arch=s390x
+- pkg:deb/debian/oci-seccomp-bpf-hook@1.2.8%2Bds-1%2Bb5?arch=amd64
+- pkg:deb/debian/oci-seccomp-bpf-hook@1.2.8%2Bds-1%2Bb5?arch=arm64

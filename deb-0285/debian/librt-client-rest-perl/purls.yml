@@ -1,0 +1,3 @@
+- pkg:deb/debian/librt-client-rest-perl@0.60-1?arch=all
+- pkg:deb/debian/librt-client-rest-perl@0.60-2?arch=all
+- pkg:deb/debian/librt-client-rest-perl@0.72-1?arch=all

@@ -1,0 +1,2 @@
+- pkg:deb/debian/mysql-sandbox@3.2.05-1.1?arch=all
+- pkg:deb/debian/mysql-sandbox@3.2.05-1?arch=all

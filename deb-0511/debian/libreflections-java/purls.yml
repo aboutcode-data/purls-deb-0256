@@ -1,0 +1,3 @@
+- pkg:deb/debian/libreflections-java@0.10.2%2Bdfsg-1?arch=all
+- pkg:deb/debian/libreflections-java@0.10.2%2Bdfsg-2?arch=all
+- pkg:deb/debian/libreflections-java@0.9.12%2Bdfsg-3?arch=all

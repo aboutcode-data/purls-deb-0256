@@ -1,0 +1,4 @@
+- pkg:deb/debian/libxml-rss-feed-perl@2.212-1.2?arch=all
+- pkg:deb/debian/libxml-rss-feed-perl@2.212-1.4?arch=all
+- pkg:deb/debian/libxml-rss-feed-perl@2.212-3?arch=all
+- pkg:deb/debian/libxml-rss-feed-perl@2.212-4?arch=all

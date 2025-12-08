@@ -1,0 +1,3 @@
+- pkg:deb/debian/smistrip@0.4.8%2Bdfsg2-16?arch=all
+- pkg:deb/debian/smistrip@0.4.8%2Bdfsg2-17?arch=all
+- pkg:deb/debian/smistrip@0.4.8%2Bdfsg2-18?arch=all

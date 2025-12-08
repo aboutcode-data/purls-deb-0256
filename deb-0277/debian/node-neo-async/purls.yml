@@ -1,0 +1,3 @@
+- pkg:deb/debian/node-neo-async@2.6.2%2B~cs3.0.0-2?arch=all
+- pkg:deb/debian/node-neo-async@2.6.2%2B~cs3.0.0-3?arch=all
+- pkg:deb/debian/node-neo-async@2.6.2-1?arch=all

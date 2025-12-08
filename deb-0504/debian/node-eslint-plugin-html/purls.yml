@@ -1,0 +1,2 @@
+- pkg:deb/debian/node-eslint-plugin-html@6.1.1-1?arch=all
+- pkg:deb/debian/node-eslint-plugin-html@6.2.0-3?arch=all

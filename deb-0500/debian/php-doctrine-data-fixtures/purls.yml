@@ -1,0 +1,4 @@
+- pkg:deb/debian/php-doctrine-data-fixtures@1.5.0-1?arch=all
+- pkg:deb/debian/php-doctrine-data-fixtures@1.6.6-1?arch=all
+- pkg:deb/debian/php-doctrine-data-fixtures@2.0.2-2?arch=all
+- pkg:deb/debian/php-doctrine-data-fixtures@2.2.0-1?arch=all

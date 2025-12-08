@@ -1,0 +1,15 @@
+- pkg:deb/debian/varnish-re2@2.0.0%2B20250617-2%2Bb1?arch=ppc64el
+- pkg:deb/debian/varnish-re2@2.0.0%2B20250617-2?arch=amd64
+- pkg:deb/debian/varnish-re2@2.0.0%2B20250617-2?arch=arm64
+- pkg:deb/debian/varnish-re2@2.0.0%2B20250617-2?arch=riscv64
+- pkg:deb/debian/varnish-re2@2.0.0%2B20250617-2?arch=s390x
+- pkg:deb/debian/varnish-re2@2.0.0-2?arch=amd64
+- pkg:deb/debian/varnish-re2@2.0.0-2?arch=arm64
+- pkg:deb/debian/varnish-re2@2.0.0-2?arch=mips64el
+- pkg:deb/debian/varnish-re2@2.0.0-2?arch=ppc64el
+- pkg:deb/debian/varnish-re2@2.0.0-2?arch=s390x
+- pkg:deb/debian/varnish-re2@2.0.0-7?arch=amd64
+- pkg:deb/debian/varnish-re2@2.0.0-7?arch=arm64
+- pkg:deb/debian/varnish-re2@2.0.0-7?arch=ppc64el
+- pkg:deb/debian/varnish-re2@2.0.0-7?arch=riscv64
+- pkg:deb/debian/varnish-re2@2.0.0-7?arch=s390x

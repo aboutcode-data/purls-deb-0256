@@ -1,0 +1,3 @@
+- pkg:deb/debian/libortp-doc@4.4.13-2?arch=all
+- pkg:deb/debian/libortp-doc@5.1.64-2?arch=all
+- pkg:deb/debian/libortp-doc@5.3.105-1?arch=all

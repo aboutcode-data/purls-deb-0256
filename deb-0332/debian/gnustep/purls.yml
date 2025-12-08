@@ -1,0 +1,3 @@
+- pkg:deb/debian/gnustep@13?arch=all
+- pkg:deb/debian/gnustep@14?arch=all
+- pkg:deb/debian/gnustep@7.10?arch=all

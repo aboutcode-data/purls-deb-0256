@@ -1,0 +1,2 @@
+- pkg:deb/debian/libtest-nowarnings-perl@1.04-2?arch=all
+- pkg:deb/debian/libtest-nowarnings-perl@1.06-2?arch=all

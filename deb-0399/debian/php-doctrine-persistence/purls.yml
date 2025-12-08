@@ -1,0 +1,4 @@
+- pkg:deb/debian/php-doctrine-persistence@2.1.0-2?arch=all
+- pkg:deb/debian/php-doctrine-persistence@3.1.4-1?arch=all
+- pkg:deb/debian/php-doctrine-persistence@4.0.0-6?arch=all
+- pkg:deb/debian/php-doctrine-persistence@4.1.1-1?arch=all

@@ -1,0 +1,4 @@
+- pkg:deb/debian/multipath-tools-boot@0.11.1-2?arch=all
+- pkg:deb/debian/multipath-tools-boot@0.12.0-1?arch=all
+- pkg:deb/debian/multipath-tools-boot@0.8.5-2%2Bdeb11u1?arch=all
+- pkg:deb/debian/multipath-tools-boot@0.9.4-3%2Bdeb12u2?arch=all

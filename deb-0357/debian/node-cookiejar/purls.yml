@@ -1,0 +1,2 @@
+- pkg:deb/debian/node-cookiejar@2.1.2-1%2Bdeb11u1?arch=all
+- pkg:deb/debian/node-cookiejar@2.1.4%2B~2.1.2-1?arch=all

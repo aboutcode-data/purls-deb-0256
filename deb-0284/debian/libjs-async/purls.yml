@@ -1,0 +1,2 @@
+- pkg:deb/debian/libjs-async@0.8.0-4?arch=all
+- pkg:deb/debian/libjs-async@0.8.0-6?arch=all

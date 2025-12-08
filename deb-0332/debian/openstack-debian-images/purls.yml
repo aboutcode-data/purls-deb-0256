@@ -1,0 +1,11 @@
+- pkg:deb/debian/openstack-debian-images@1.60?arch=amd64
+- pkg:deb/debian/openstack-debian-images@1.60?arch=arm64
+- pkg:deb/debian/openstack-debian-images@1.60?arch=i386
+- pkg:deb/debian/openstack-debian-images@1.73?arch=amd64
+- pkg:deb/debian/openstack-debian-images@1.73?arch=arm64
+- pkg:deb/debian/openstack-debian-images@1.73?arch=i386
+- pkg:deb/debian/openstack-debian-images@1.73?arch=ppc64el
+- pkg:deb/debian/openstack-debian-images@1.87?arch=amd64
+- pkg:deb/debian/openstack-debian-images@1.87?arch=arm64
+- pkg:deb/debian/openstack-debian-images@1.87?arch=i386
+- pkg:deb/debian/openstack-debian-images@1.87?arch=ppc64el

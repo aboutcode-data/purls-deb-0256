@@ -1,0 +1,2 @@
+- pkg:deb/debian/php-horde-stream@1.6.3-10?arch=all
+- pkg:deb/debian/php-horde-stream@1.6.3-9?arch=all

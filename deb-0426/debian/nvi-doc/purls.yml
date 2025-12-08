@@ -1,0 +1,4 @@
+- pkg:deb/debian/nvi-doc@1.81.6-16?arch=all
+- pkg:deb/debian/nvi-doc@1.81.6-17?arch=all
+- pkg:deb/debian/nvi-doc@1.81.6-23?arch=all
+- pkg:deb/debian/nvi-doc@1.81.6-24?arch=all

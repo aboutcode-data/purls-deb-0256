@@ -1,0 +1,4 @@
+- pkg:deb/debian/primer3-examples@2.4.0-4?arch=all
+- pkg:deb/debian/primer3-examples@2.6.1-4?arch=all
+- pkg:deb/debian/primer3-examples@2.6.1-5?arch=all
+- pkg:deb/debian/primer3-examples@2.6.1-6?arch=all

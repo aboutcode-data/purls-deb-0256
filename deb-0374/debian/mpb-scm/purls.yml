@@ -1,0 +1,4 @@
+- pkg:deb/debian/mpb-scm@1.11.1-3?arch=all
+- pkg:deb/debian/mpb-scm@1.11.1-5?arch=all
+- pkg:deb/debian/mpb-scm@1.11.1-6?arch=all
+- pkg:deb/debian/mpb-scm@1.12.0-1?arch=all

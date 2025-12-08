@@ -1,0 +1,2 @@
+- pkg:deb/debian/libxml-rss-perl@1.62-1?arch=all
+- pkg:deb/debian/libxml-rss-perl@1.65-1?arch=all

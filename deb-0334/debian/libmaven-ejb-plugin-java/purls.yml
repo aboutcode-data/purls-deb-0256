@@ -1,0 +1,2 @@
+- pkg:deb/debian/libmaven-ejb-plugin-java@2.5.1-1?arch=all
+- pkg:deb/debian/libmaven-ejb-plugin-java@3.2.1-2?arch=all

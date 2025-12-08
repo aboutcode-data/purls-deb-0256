@@ -1,0 +1,2 @@
+- pkg:deb/debian/libopenchemlib-java@2021.2.0%2Bdfsg-1?arch=all
+- pkg:deb/debian/libopenchemlib-java@2023.1.1%2Bdfsg-1?arch=all

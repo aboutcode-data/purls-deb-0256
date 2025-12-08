@@ -1,0 +1,2 @@
+- pkg:deb/debian/node-browserify-lite@0.5.1%2B~cs7.1.5-5?arch=all
+- pkg:deb/debian/node-browserify-lite@0.5.1-2?arch=all

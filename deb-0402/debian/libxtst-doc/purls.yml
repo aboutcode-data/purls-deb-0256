@@ -1,0 +1,3 @@
+- pkg:deb/debian/libxtst-doc@1.2.3-1.1?arch=all
+- pkg:deb/debian/libxtst-doc@1.2.3-1?arch=all
+- pkg:deb/debian/libxtst-doc@1.2.5-1?arch=all

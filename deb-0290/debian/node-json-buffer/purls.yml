@@ -1,0 +1,2 @@
+- pkg:deb/debian/node-json-buffer@3.0.1%2B~3.0.0-1?arch=all
+- pkg:deb/debian/node-json-buffer@3.0.1-1?arch=all

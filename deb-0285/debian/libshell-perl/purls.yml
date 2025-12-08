@@ -1,0 +1,2 @@
+- pkg:deb/debian/libshell-perl@0.73-1?arch=all
+- pkg:deb/debian/libshell-perl@0.73-3?arch=all

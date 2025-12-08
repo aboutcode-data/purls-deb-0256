@@ -1,0 +1,4 @@
+- pkg:deb/debian/libtgvoip-dev@2.4.4%2Bgit20210101.13a5fcb%2Bds-2?arch=amd64
+- pkg:deb/debian/libtgvoip-dev@2.4.4%2Bgit20210101.13a5fcb%2Bds-2?arch=arm64
+- pkg:deb/debian/libtgvoip-dev@2.4.4%2Bgit20210101.13a5fcb%2Bds-2?arch=armhf
+- pkg:deb/debian/libtgvoip-dev@2.4.4%2Bgit20210101.13a5fcb%2Bds-2?arch=i386

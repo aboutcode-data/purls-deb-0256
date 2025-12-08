@@ -1,0 +1,2 @@
+- pkg:deb/debian/node-mysql@2.18.1%2B~2.3.2-2?arch=all
+- pkg:deb/debian/node-mysql@2.18.1-1?arch=all

@@ -1,0 +1,4 @@
+- pkg:deb/debian/primesieve-doc@11.0%2Bds-2?arch=all
+- pkg:deb/debian/primesieve-doc@12.10%2Bds-1?arch=all
+- pkg:deb/debian/primesieve-doc@12.7%2Bds-1?arch=all
+- pkg:deb/debian/primesieve-doc@7.6%2Bds-1?arch=all

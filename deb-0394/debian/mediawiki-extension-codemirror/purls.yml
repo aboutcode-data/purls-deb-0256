@@ -1,0 +1,2 @@
+- pkg:deb/debian/mediawiki-extension-codemirror@4.0.0~git20221204.b897975-1?arch=all
+- pkg:deb/debian/mediawiki-extension-codemirror@6.0.0~git20250325.399da27-2?arch=all

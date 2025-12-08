@@ -1,0 +1,2 @@
+- pkg:deb/debian/node-json-loader@0.5.7-1?arch=all
+- pkg:deb/debian/node-json-loader@0.5.7-5?arch=all

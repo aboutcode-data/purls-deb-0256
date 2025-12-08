@@ -1,0 +1,12 @@
+- pkg:deb/debian/openmolcas@20.10-2?arch=amd64
+- pkg:deb/debian/openmolcas@20.10-2?arch=arm64
+- pkg:deb/debian/openmolcas@22.10-1?arch=amd64
+- pkg:deb/debian/openmolcas@22.10-1?arch=arm64
+- pkg:deb/debian/openmolcas@22.10-1?arch=mips64el
+- pkg:deb/debian/openmolcas@22.10-1?arch=ppc64el
+- pkg:deb/debian/openmolcas@22.10-1?arch=s390x
+- pkg:deb/debian/openmolcas@25.02-2?arch=amd64
+- pkg:deb/debian/openmolcas@25.02-2?arch=arm64
+- pkg:deb/debian/openmolcas@25.02-2?arch=ppc64el
+- pkg:deb/debian/openmolcas@25.02-2?arch=riscv64
+- pkg:deb/debian/openmolcas@25.02-2?arch=s390x

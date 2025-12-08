@@ -1,0 +1,3 @@
+- pkg:deb/debian/php-laravel-lumen-framework@10.0.4-1?arch=all
+- pkg:deb/debian/php-laravel-lumen-framework@6.3.5-2?arch=all
+- pkg:deb/debian/php-laravel-lumen-framework@8.3.4-1?arch=all

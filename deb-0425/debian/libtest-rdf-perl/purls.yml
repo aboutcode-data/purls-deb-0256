@@ -1,0 +1,4 @@
+- pkg:deb/debian/libtest-rdf-perl@1.22-1.1?arch=all
+- pkg:deb/debian/libtest-rdf-perl@1.22-2?arch=all
+- pkg:deb/debian/libtest-rdf-perl@1.22-3?arch=all
+- pkg:deb/debian/libtest-rdf-perl@1.22-4?arch=all

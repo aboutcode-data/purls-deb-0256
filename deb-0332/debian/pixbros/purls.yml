@@ -1,0 +1,6 @@
+- pkg:deb/debian/pixbros@0.6.3%2Bdfsg-0.1?arch=armhf
+- pkg:deb/debian/pixbros@0.6.3%2Bdfsg-0.1?arch=i386
+- pkg:deb/debian/pixbros@0.6.3%2Bdfsg-0.2?arch=armel
+- pkg:deb/debian/pixbros@0.6.3%2Bdfsg-0.2?arch=armhf
+- pkg:deb/debian/pixbros@0.6.3%2Bdfsg-0.2?arch=i386
+- pkg:deb/debian/pixbros@0.6.3%2Bdfsg-0.2?arch=mipsel

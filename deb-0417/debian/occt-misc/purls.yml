@@ -1,0 +1,5 @@
+- pkg:deb/debian/occt-misc@7.5.1%2Bdfsg1-2?arch=all
+- pkg:deb/debian/occt-misc@7.6.3%2Bdfsg1-7?arch=all
+- pkg:deb/debian/occt-misc@7.8.1%2Bdfsg1-3?arch=all
+- pkg:deb/debian/occt-misc@7.8.1%2Bdfsg1-7?arch=all
+- pkg:deb/debian/occt-misc@7.9.2%2Bdfsg-2?arch=all

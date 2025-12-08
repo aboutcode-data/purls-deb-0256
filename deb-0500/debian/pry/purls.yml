@@ -1,0 +1,3 @@
+- pkg:deb/debian/pry@0.13.1-1?arch=all
+- pkg:deb/debian/pry@0.13.1-3?arch=all
+- pkg:deb/debian/pry@0.15.2-1?arch=all

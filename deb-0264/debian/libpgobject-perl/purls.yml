@@ -1,0 +1,3 @@
+- pkg:deb/debian/libpgobject-perl@2.2.0-1?arch=all
+- pkg:deb/debian/libpgobject-perl@2.3.2-1?arch=all
+- pkg:deb/debian/libpgobject-perl@2.4.0-1?arch=all

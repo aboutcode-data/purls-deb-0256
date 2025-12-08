@@ -1,0 +1,2 @@
+- pkg:deb/debian/libstring-random-perl@0.31-1?arch=all
+- pkg:deb/debian/libstring-random-perl@0.32-2?arch=all

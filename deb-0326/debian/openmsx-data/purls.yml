@@ -1,0 +1,3 @@
+- pkg:deb/debian/openmsx-data@16.0-1?arch=all
+- pkg:deb/debian/openmsx-data@18.0-1?arch=all
+- pkg:deb/debian/openmsx-data@20.0%2Bdfsg-1.2?arch=all

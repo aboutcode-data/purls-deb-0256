@@ -1,0 +1,2 @@
+- pkg:deb/debian/node-chai-as-promised@7.1.1%2B~cs7.1.4-3?arch=all
+- pkg:deb/debian/node-chai-as-promised@7.1.1-2?arch=all

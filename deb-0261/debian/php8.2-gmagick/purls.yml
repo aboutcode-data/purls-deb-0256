@@ -1,0 +1,9 @@
+- pkg:deb/debian/php8.2-gmagick@2.0.6~rc1%2B1.1.7~rc3-11?arch=amd64
+- pkg:deb/debian/php8.2-gmagick@2.0.6~rc1%2B1.1.7~rc3-11?arch=arm64
+- pkg:deb/debian/php8.2-gmagick@2.0.6~rc1%2B1.1.7~rc3-11?arch=armel
+- pkg:deb/debian/php8.2-gmagick@2.0.6~rc1%2B1.1.7~rc3-11?arch=armhf
+- pkg:deb/debian/php8.2-gmagick@2.0.6~rc1%2B1.1.7~rc3-11?arch=i386
+- pkg:deb/debian/php8.2-gmagick@2.0.6~rc1%2B1.1.7~rc3-11?arch=mips64el
+- pkg:deb/debian/php8.2-gmagick@2.0.6~rc1%2B1.1.7~rc3-11?arch=mipsel
+- pkg:deb/debian/php8.2-gmagick@2.0.6~rc1%2B1.1.7~rc3-11?arch=ppc64el
+- pkg:deb/debian/php8.2-gmagick@2.0.6~rc1%2B1.1.7~rc3-11?arch=s390x

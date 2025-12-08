@@ -1,0 +1,2 @@
+- pkg:deb/debian/node-mdn-browser-compat-data@5.2.20%2B~3.33.0-1%2Bdeb12u1?arch=all
+- pkg:deb/debian/node-mdn-browser-compat-data@5.5.28%2B~4.8.0-2?arch=all

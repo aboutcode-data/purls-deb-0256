@@ -1,0 +1,4 @@
+- pkg:deb/debian/mobile-broadband-provider-info@20201225-1?arch=all
+- pkg:deb/debian/mobile-broadband-provider-info@20230416-1?arch=all
+- pkg:deb/debian/mobile-broadband-provider-info@20250613-2?arch=all
+- pkg:deb/debian/mobile-broadband-provider-info@20251101-1?arch=all

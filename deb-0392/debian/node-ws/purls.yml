@@ -1,0 +1,6 @@
+- pkg:deb/debian/node-ws@7.4.2%2B~cs18.0.8-2?arch=amd64
+- pkg:deb/debian/node-ws@7.4.2%2B~cs18.0.8-2?arch=arm64
+- pkg:deb/debian/node-ws@7.4.2%2B~cs18.0.8-2?arch=armhf
+- pkg:deb/debian/node-ws@7.4.2%2B~cs18.0.8-2?arch=i386
+- pkg:deb/debian/node-ws@8.11.0%2B~cs13.7.3-1?arch=all
+- pkg:deb/debian/node-ws@8.18.1%2B~cs14.18.2-1?arch=all

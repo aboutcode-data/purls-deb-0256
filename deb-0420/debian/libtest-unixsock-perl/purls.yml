@@ -1,0 +1,2 @@
+- pkg:deb/debian/libtest-unixsock-perl@0.4-1?arch=all
+- pkg:deb/debian/libtest-unixsock-perl@0.4-2?arch=all

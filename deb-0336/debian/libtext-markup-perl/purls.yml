@@ -1,0 +1,2 @@
+- pkg:deb/debian/libtext-markup-perl@0.24-1?arch=all
+- pkg:deb/debian/libtext-markup-perl@0.33-1?arch=all

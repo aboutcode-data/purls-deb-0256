@@ -1,0 +1,2 @@
+- pkg:deb/debian/node-browserify@17.0.0%2Bds-5?arch=all
+- pkg:deb/debian/node-browserify@17.0.0%2Bds-8?arch=all

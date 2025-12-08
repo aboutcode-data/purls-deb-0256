@@ -1,0 +1,3 @@
+- pkg:deb/debian/node-esutils@2.0.3%2B~2.0.0-1?arch=all
+- pkg:deb/debian/node-esutils@2.0.3%2B~2.0.2-1?arch=all
+- pkg:deb/debian/node-esutils@2.0.3-1?arch=all

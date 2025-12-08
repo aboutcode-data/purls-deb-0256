@@ -1,0 +1,2 @@
+- pkg:deb/debian/node-emoji@1.10.0-1?arch=all
+- pkg:deb/debian/node-emoji@1.11.0%2B~1.8.2-1?arch=all

@@ -1,0 +1,4 @@
+- pkg:deb/debian/odil@0.12.1-1?arch=all
+- pkg:deb/debian/odil@0.12.2-2?arch=all
+- pkg:deb/debian/odil@0.12.2-5?arch=all
+- pkg:deb/debian/odil@0.13.0-1?arch=all

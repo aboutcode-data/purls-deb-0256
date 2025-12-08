@@ -1,0 +1,2 @@
+- pkg:deb/debian/node-mem@1.1.0-1.1?arch=all
+- pkg:deb/debian/node-mem@9.0.2%2B~cs4.2.0-2?arch=all

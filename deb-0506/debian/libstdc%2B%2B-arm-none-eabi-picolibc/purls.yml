@@ -1,0 +1,2 @@
+- pkg:deb/debian/libstdc%2B%2B-arm-none-eabi-picolibc@12.2.rel1-1%2B23?arch=all
+- pkg:deb/debian/libstdc%2B%2B-arm-none-eabi-picolibc@14.2.rel1-1%2B29?arch=all

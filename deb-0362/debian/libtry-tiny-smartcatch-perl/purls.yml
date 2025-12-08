@@ -1,0 +1,4 @@
+- pkg:deb/debian/libtry-tiny-smartcatch-perl@0.5-1.1?arch=all
+- pkg:deb/debian/libtry-tiny-smartcatch-perl@0.5-3?arch=all
+- pkg:deb/debian/libtry-tiny-smartcatch-perl@0.5-4?arch=all
+- pkg:deb/debian/libtry-tiny-smartcatch-perl@0.5-5?arch=all

@@ -1,0 +1,2 @@
+- pkg:deb/debian/libtest-regexp-pattern-perl@0.006-2?arch=all
+- pkg:deb/debian/libtest-regexp-pattern-perl@0.010-1?arch=all

@@ -1,0 +1,4 @@
+- pkg:deb/debian/pg-activity@1.6.2-1?arch=all
+- pkg:deb/debian/pg-activity@3.0.3-1?arch=all
+- pkg:deb/debian/pg-activity@3.6.0-1?arch=all
+- pkg:deb/debian/pg-activity@3.6.1-1?arch=all

@@ -1,0 +1,11 @@
+- pkg:deb/debian/progress-linux-base-system@20210101-2?arch=amd64
+- pkg:deb/debian/progress-linux-base-system@20210101-2?arch=arm64
+- pkg:deb/debian/progress-linux-base-system@20210101-2?arch=armhf
+- pkg:deb/debian/progress-linux-base-system@20210101-2?arch=i386
+- pkg:deb/debian/progress-linux-base-system@20221002-27?arch=amd64
+- pkg:deb/debian/progress-linux-base-system@20221002-27?arch=arm64
+- pkg:deb/debian/progress-linux-base-system@20221002-27?arch=armhf
+- pkg:deb/debian/progress-linux-base-system@20221002-27?arch=i386
+- pkg:deb/debian/progress-linux-base-system@20221002-27?arch=ppc64el
+- pkg:deb/debian/progress-linux-base-system@20221002-27?arch=riscv64
+- pkg:deb/debian/progress-linux-base-system@20221002-27?arch=s390x

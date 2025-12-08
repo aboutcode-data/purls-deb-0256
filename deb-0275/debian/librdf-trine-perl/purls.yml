@@ -1,0 +1,3 @@
+- pkg:deb/debian/librdf-trine-perl@1.019-2?arch=all
+- pkg:deb/debian/librdf-trine-perl@1.019-3?arch=all
+- pkg:deb/debian/librdf-trine-perl@1.019-4?arch=all

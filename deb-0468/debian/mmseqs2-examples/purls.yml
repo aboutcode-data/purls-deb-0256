@@ -1,0 +1,4 @@
+- pkg:deb/debian/mmseqs2-examples@12-113e3%2Bds-3?arch=all
+- pkg:deb/debian/mmseqs2-examples@14-7e284%2Bds-1?arch=all
+- pkg:deb/debian/mmseqs2-examples@15-6f452%2Bds-2?arch=all
+- pkg:deb/debian/mmseqs2-examples@18-8cc5c%2Bds-1?arch=all

@@ -1,0 +1,4 @@
+- pkg:deb/debian/phosh-games@24?arch=all
+- pkg:deb/debian/phosh-games@46.1?arch=all
+- pkg:deb/debian/phosh-games@50?arch=all
+- pkg:deb/debian/phosh-games@5?arch=all

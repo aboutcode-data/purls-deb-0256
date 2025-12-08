@@ -1,0 +1,4 @@
+- pkg:deb/debian/libpgpool0@4.1.4-3?arch=amd64
+- pkg:deb/debian/libpgpool0@4.1.4-3?arch=arm64
+- pkg:deb/debian/libpgpool0@4.1.4-3?arch=armhf
+- pkg:deb/debian/libpgpool0@4.1.4-3?arch=i386

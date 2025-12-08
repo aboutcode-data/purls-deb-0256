@@ -1,0 +1,2 @@
+- pkg:deb/debian/libtest-most-perl@0.37-1?arch=all
+- pkg:deb/debian/libtest-most-perl@0.38-1?arch=all

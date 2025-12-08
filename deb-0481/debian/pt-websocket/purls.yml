@@ -1,0 +1,4 @@
+- pkg:deb/debian/pt-websocket@0.2-9%2Bb6?arch=amd64
+- pkg:deb/debian/pt-websocket@0.2-9%2Bb6?arch=arm64
+- pkg:deb/debian/pt-websocket@0.2-9%2Bb6?arch=armhf
+- pkg:deb/debian/pt-websocket@0.2-9%2Bb6?arch=i386

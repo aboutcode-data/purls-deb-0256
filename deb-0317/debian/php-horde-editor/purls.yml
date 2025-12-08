@@ -1,0 +1,2 @@
+- pkg:deb/debian/php-horde-editor@2.0.5%2Bdebian0-5.1?arch=all
+- pkg:deb/debian/php-horde-editor@2.0.5%2Bdebian0-5?arch=all

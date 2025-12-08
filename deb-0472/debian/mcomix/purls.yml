@@ -1,0 +1,4 @@
+- pkg:deb/debian/mcomix@1.2.1mcomix3%2Bgit20200206-1?arch=all
+- pkg:deb/debian/mcomix@2.1.0-2?arch=all
+- pkg:deb/debian/mcomix@3.1.0-3?arch=all
+- pkg:deb/debian/mcomix@3.1.1-2?arch=all

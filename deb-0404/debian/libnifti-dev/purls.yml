@@ -1,0 +1,3 @@
+- pkg:deb/debian/libnifti-dev@3.0.1-8?arch=all
+- pkg:deb/debian/libnifti-dev@3.0.1-9.1?arch=all
+- pkg:deb/debian/libnifti-dev@3.0.1-9?arch=all

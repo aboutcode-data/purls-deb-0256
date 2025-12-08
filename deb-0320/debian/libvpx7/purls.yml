@@ -1,0 +1,9 @@
+- pkg:deb/debian/libvpx7@1.12.0-1%2Bdeb12u4?arch=amd64
+- pkg:deb/debian/libvpx7@1.12.0-1%2Bdeb12u4?arch=arm64
+- pkg:deb/debian/libvpx7@1.12.0-1%2Bdeb12u4?arch=armel
+- pkg:deb/debian/libvpx7@1.12.0-1%2Bdeb12u4?arch=armhf
+- pkg:deb/debian/libvpx7@1.12.0-1%2Bdeb12u4?arch=i386
+- pkg:deb/debian/libvpx7@1.12.0-1%2Bdeb12u4?arch=mips64el
+- pkg:deb/debian/libvpx7@1.12.0-1%2Bdeb12u4?arch=mipsel
+- pkg:deb/debian/libvpx7@1.12.0-1%2Bdeb12u4?arch=ppc64el
+- pkg:deb/debian/libvpx7@1.12.0-1%2Bdeb12u4?arch=s390x

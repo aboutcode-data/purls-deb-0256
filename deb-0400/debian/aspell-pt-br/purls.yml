@@ -1,0 +1,3 @@
+- pkg:deb/debian/aspell-pt-br@20131030-13?arch=all
+- pkg:deb/debian/aspell-pt-br@20131030-18?arch=all
+- pkg:deb/debian/aspell-pt-br@20131030-19?arch=all

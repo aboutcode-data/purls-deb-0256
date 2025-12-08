@@ -1,0 +1,2 @@
+- pkg:deb/debian/php-league-csv@9.23.0%2Bdfsg-1?arch=all
+- pkg:deb/debian/php-league-csv@9.24.1%2Bdfsg-2?arch=all

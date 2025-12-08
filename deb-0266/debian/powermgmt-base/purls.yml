@@ -1,0 +1,3 @@
+- pkg:deb/debian/powermgmt-base@1.36?arch=all
+- pkg:deb/debian/powermgmt-base@1.37?arch=all
+- pkg:deb/debian/powermgmt-base@1.38?arch=all

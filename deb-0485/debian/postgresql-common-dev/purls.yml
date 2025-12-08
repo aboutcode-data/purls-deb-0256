@@ -1,0 +1,2 @@
+- pkg:deb/debian/postgresql-common-dev@278?arch=all
+- pkg:deb/debian/postgresql-common-dev@287?arch=all

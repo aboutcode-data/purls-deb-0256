@@ -1,0 +1,9 @@
+- pkg:deb/debian/pocld@6.0-6?arch=amd64
+- pkg:deb/debian/pocld@6.0-6?arch=arm64
+- pkg:deb/debian/pocld@6.0-6?arch=armel
+- pkg:deb/debian/pocld@6.0-6?arch=armhf
+- pkg:deb/debian/pocld@6.0-6?arch=i386
+- pkg:deb/debian/pocld@6.0-7?arch=amd64
+- pkg:deb/debian/pocld@6.0-7?arch=arm64
+- pkg:deb/debian/pocld@6.0-7?arch=armhf
+- pkg:deb/debian/pocld@6.0-7?arch=i386

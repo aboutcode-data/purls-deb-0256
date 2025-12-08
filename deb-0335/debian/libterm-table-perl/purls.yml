@@ -1,0 +1,4 @@
+- pkg:deb/debian/libterm-table-perl@0.015-2?arch=all
+- pkg:deb/debian/libterm-table-perl@0.016-2?arch=all
+- pkg:deb/debian/libterm-table-perl@0.024-1?arch=all
+- pkg:deb/debian/libterm-table-perl@0.028-1?arch=all

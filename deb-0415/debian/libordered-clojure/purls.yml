@@ -1,0 +1,2 @@
+- pkg:deb/debian/libordered-clojure@1.15.12-1?arch=all
+- pkg:deb/debian/libordered-clojure@1.5.9-3?arch=all

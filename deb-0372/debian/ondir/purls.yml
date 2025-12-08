@@ -1,0 +1,17 @@
+- pkg:deb/debian/ondir@0.2.3%2Bgit0.55279f03-1%2Bb1?arch=amd64
+- pkg:deb/debian/ondir@0.2.3%2Bgit0.55279f03-1?arch=arm64
+- pkg:deb/debian/ondir@0.2.3%2Bgit0.55279f03-1?arch=armel
+- pkg:deb/debian/ondir@0.2.3%2Bgit0.55279f03-1?arch=armhf
+- pkg:deb/debian/ondir@0.2.3%2Bgit0.55279f03-1?arch=i386
+- pkg:deb/debian/ondir@0.2.3%2Bgit0.55279f03-1?arch=mips64el
+- pkg:deb/debian/ondir@0.2.3%2Bgit0.55279f03-1?arch=mipsel
+- pkg:deb/debian/ondir@0.2.3%2Bgit0.55279f03-1?arch=ppc64el
+- pkg:deb/debian/ondir@0.2.3%2Bgit0.55279f03-1?arch=s390x
+- pkg:deb/debian/ondir@0.2.3%2Bgit20140220.55279f0-1?arch=amd64
+- pkg:deb/debian/ondir@0.2.3%2Bgit20140220.55279f0-1?arch=arm64
+- pkg:deb/debian/ondir@0.2.3%2Bgit20140220.55279f0-1?arch=armel
+- pkg:deb/debian/ondir@0.2.3%2Bgit20140220.55279f0-1?arch=armhf
+- pkg:deb/debian/ondir@0.2.3%2Bgit20140220.55279f0-1?arch=i386
+- pkg:deb/debian/ondir@0.2.3%2Bgit20140220.55279f0-1?arch=ppc64el
+- pkg:deb/debian/ondir@0.2.3%2Bgit20140220.55279f0-1?arch=riscv64
+- pkg:deb/debian/ondir@0.2.3%2Bgit20140220.55279f0-1?arch=s390x

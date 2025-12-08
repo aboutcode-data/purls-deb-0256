@@ -1,0 +1,4 @@
+- pkg:deb/debian/libqcheck-ocaml-doc@0.15-1?arch=all
+- pkg:deb/debian/libqcheck-ocaml-doc@0.20-1?arch=all
+- pkg:deb/debian/libqcheck-ocaml-doc@0.25-1?arch=all
+- pkg:deb/debian/libqcheck-ocaml-doc@0.27-1?arch=all

@@ -1,0 +1,2 @@
+- pkg:deb/debian/node-watchpack@2.1.0-1?arch=all
+- pkg:deb/debian/node-watchpack@2.4.0%2B~cs2.8.1-1?arch=all

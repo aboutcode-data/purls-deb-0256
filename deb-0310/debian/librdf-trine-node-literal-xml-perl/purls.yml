@@ -1,0 +1,4 @@
+- pkg:deb/debian/librdf-trine-node-literal-xml-perl@0.16-2.1?arch=all
+- pkg:deb/debian/librdf-trine-node-literal-xml-perl@0.16-3?arch=all
+- pkg:deb/debian/librdf-trine-node-literal-xml-perl@0.16-4?arch=all
+- pkg:deb/debian/librdf-trine-node-literal-xml-perl@0.16-5?arch=all

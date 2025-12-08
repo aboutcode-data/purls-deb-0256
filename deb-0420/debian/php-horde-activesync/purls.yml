@@ -1,0 +1,2 @@
+- pkg:deb/debian/php-horde-activesync@2.41.5-1?arch=all
+- pkg:deb/debian/php-horde-activesync@2.41.9-1?arch=all

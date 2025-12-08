@@ -1,0 +1,3 @@
+- pkg:deb/debian/libxml-sax-perl@1.02%2Bdfsg-1?arch=all
+- pkg:deb/debian/libxml-sax-perl@1.02%2Bdfsg-3?arch=all
+- pkg:deb/debian/libxml-sax-perl@1.02%2Bdfsg-4?arch=all

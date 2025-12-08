@@ -1,0 +1,4 @@
+- pkg:deb/debian/phpunit-global-state@5.0.2-1?arch=all
+- pkg:deb/debian/phpunit-global-state@5.0.5-1?arch=all
+- pkg:deb/debian/phpunit-global-state@7.0.2-4?arch=all
+- pkg:deb/debian/phpunit-global-state@8.0.2-5?arch=all

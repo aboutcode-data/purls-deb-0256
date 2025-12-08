@@ -1,0 +1,2 @@
+- pkg:deb/debian/node-repeating@3.0.0-1.1?arch=all
+- pkg:deb/debian/node-repeating@4.0.0%2B~3.0.0-1?arch=all

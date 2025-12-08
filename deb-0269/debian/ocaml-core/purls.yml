@@ -1,0 +1,3 @@
+- pkg:deb/debian/ocaml-core@4.08.1.2?arch=all
+- pkg:deb/debian/ocaml-core@5?arch=all
+- pkg:deb/debian/ocaml-core@6?arch=all

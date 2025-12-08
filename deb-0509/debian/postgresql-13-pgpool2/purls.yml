@@ -1,0 +1,4 @@
+- pkg:deb/debian/postgresql-13-pgpool2@4.1.4-3?arch=amd64
+- pkg:deb/debian/postgresql-13-pgpool2@4.1.4-3?arch=arm64
+- pkg:deb/debian/postgresql-13-pgpool2@4.1.4-3?arch=armhf
+- pkg:deb/debian/postgresql-13-pgpool2@4.1.4-3?arch=i386

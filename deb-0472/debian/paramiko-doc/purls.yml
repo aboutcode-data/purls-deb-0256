@@ -1,0 +1,4 @@
+- pkg:deb/debian/paramiko-doc@2.12.0-2?arch=all
+- pkg:deb/debian/paramiko-doc@2.7.2-1?arch=all
+- pkg:deb/debian/paramiko-doc@3.5.1-3?arch=all
+- pkg:deb/debian/paramiko-doc@4.0.0-1?arch=all

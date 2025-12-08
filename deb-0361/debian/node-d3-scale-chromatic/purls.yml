@@ -1,0 +1,4 @@
+- pkg:deb/debian/node-d3-scale-chromatic@1.5.0%2B~1.5.1-1?arch=all
+- pkg:deb/debian/node-d3-scale-chromatic@1.5.0%2B~1.5.1-2?arch=all
+- pkg:deb/debian/node-d3-scale-chromatic@1.5.0-2?arch=all
+- pkg:deb/debian/node-d3-scale-chromatic@1.5.0-7?arch=all

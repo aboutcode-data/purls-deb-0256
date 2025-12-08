@@ -1,0 +1,6 @@
+- pkg:deb/debian/mupen64plus-video-z64@2.0.0%2B13%2Bg72af4f0-8?arch=amd64
+- pkg:deb/debian/mupen64plus-video-z64@2.0.0%2B13%2Bg72af4f0-8?arch=i386
+- pkg:deb/debian/mupen64plus-video-z64@2.5.9%2B9%2Bg5dba5bd-2?arch=amd64
+- pkg:deb/debian/mupen64plus-video-z64@2.5.9%2B9%2Bg5dba5bd-2?arch=i386
+- pkg:deb/debian/mupen64plus-video-z64@2.6.0-2?arch=amd64
+- pkg:deb/debian/mupen64plus-video-z64@2.6.0-2?arch=i386

@@ -1,0 +1,6 @@
+- pkg:deb/debian/mupen64plus-input-sdl@2.5-5?arch=amd64
+- pkg:deb/debian/mupen64plus-input-sdl@2.5-5?arch=i386
+- pkg:deb/debian/mupen64plus-input-sdl@2.5.9%2B55%2Bg2129e94-1?arch=amd64
+- pkg:deb/debian/mupen64plus-input-sdl@2.5.9%2B55%2Bg2129e94-1?arch=i386
+- pkg:deb/debian/mupen64plus-input-sdl@2.6.0-2?arch=amd64
+- pkg:deb/debian/mupen64plus-input-sdl@2.6.0-2?arch=i386

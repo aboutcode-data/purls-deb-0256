@@ -1,0 +1,2 @@
+- pkg:deb/debian/mir-doc@1.8.0%2Bdfsg1-18?arch=all
+- pkg:deb/debian/mir-doc@2.12.1-1?arch=all

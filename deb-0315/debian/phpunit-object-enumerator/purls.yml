@@ -1,0 +1,4 @@
+- pkg:deb/debian/phpunit-object-enumerator@4.0.4-1?arch=all
+- pkg:deb/debian/phpunit-object-enumerator@4.0.4-2?arch=all
+- pkg:deb/debian/phpunit-object-enumerator@6.0.1-4?arch=all
+- pkg:deb/debian/phpunit-object-enumerator@7.0.0-2?arch=all

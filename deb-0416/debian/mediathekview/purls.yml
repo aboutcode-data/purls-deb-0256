@@ -1,0 +1,3 @@
+- pkg:deb/debian/mediathekview@13.2.1%2Bds-1?arch=all
+- pkg:deb/debian/mediathekview@13.2.1%2Bds-2?arch=all
+- pkg:deb/debian/mediathekview@13.2.1-4?arch=all

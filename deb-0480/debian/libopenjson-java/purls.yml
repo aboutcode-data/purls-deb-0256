@@ -1,0 +1,2 @@
+- pkg:deb/debian/libopenjson-java@1.0.12-2?arch=all
+- pkg:deb/debian/libopenjson-java@1.0.13-1?arch=all

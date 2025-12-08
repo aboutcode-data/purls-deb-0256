@@ -1,0 +1,2 @@
+- pkg:deb/debian/libxml-dom-perl@1.46-1?arch=all
+- pkg:deb/debian/libxml-dom-perl@1.46-2?arch=all

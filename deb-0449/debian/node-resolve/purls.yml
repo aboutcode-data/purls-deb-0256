@@ -1,0 +1,4 @@
+- pkg:deb/debian/node-resolve@1.19.0%2B~cs5.20.8-2?arch=all
+- pkg:deb/debian/node-resolve@1.22.1%2B~cs5.31.10-1?arch=all
+- pkg:deb/debian/node-resolve@1.22.10%2B~cs5.37.15-1?arch=all
+- pkg:deb/debian/node-resolve@1.22.8%2B~cs5.34.15-2?arch=all
