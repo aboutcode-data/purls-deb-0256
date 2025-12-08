@@ -1,0 +1,4 @@
+- pkg:deb/debian/gip@1.7.0-1-5?arch=amd64
+- pkg:deb/debian/gip@1.7.0-1-5?arch=arm64
+- pkg:deb/debian/gip@1.7.0-1-5?arch=armhf
+- pkg:deb/debian/gip@1.7.0-1-5?arch=i386

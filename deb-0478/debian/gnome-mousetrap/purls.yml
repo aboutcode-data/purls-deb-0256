@@ -1,0 +1,4 @@
+- pkg:deb/debian/gnome-mousetrap@3.17.3-10?arch=all
+- pkg:deb/debian/gnome-mousetrap@3.17.3-11?arch=all
+- pkg:deb/debian/gnome-mousetrap@3.17.3-8?arch=all
+- pkg:deb/debian/gnome-mousetrap@3.17.3-9?arch=all

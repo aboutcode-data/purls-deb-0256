@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-collectd-dev@0.3.0%2Bgit20181025.f80706d-2?arch=all
+- pkg:deb/debian/golang-collectd-dev@0.5.0%2Bgit20240104.26404de-1?arch=all

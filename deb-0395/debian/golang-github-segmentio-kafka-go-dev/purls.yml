@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-github-segmentio-kafka-go-dev@0.2.1-1.1?arch=all
+- pkg:deb/debian/golang-github-segmentio-kafka-go-dev@0.4.49%2Bds1-1?arch=all

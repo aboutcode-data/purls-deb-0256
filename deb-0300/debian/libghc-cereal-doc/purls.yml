@@ -1,0 +1,3 @@
+- pkg:deb/debian/libghc-cereal-doc@0.5.8.1-2?arch=all
+- pkg:deb/debian/libghc-cereal-doc@0.5.8.3-1?arch=all
+- pkg:deb/debian/libghc-cereal-doc@0.5.8.3-3?arch=all

@@ -1,0 +1,3 @@
+- pkg:deb/debian/gworkspace-common@0.9.4-3?arch=all
+- pkg:deb/debian/gworkspace-common@1.0.0-1?arch=all
+- pkg:deb/debian/gworkspace-common@1.1.0-2?arch=all

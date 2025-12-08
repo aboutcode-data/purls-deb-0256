@@ -1,0 +1,4 @@
+- pkg:deb/debian/golang-github-marten-seemann-qpack-dev@0.2.1%2Bds-1?arch=all
+- pkg:deb/debian/golang-github-marten-seemann-qpack-dev@0.4.0-1?arch=all
+- pkg:deb/debian/golang-github-marten-seemann-qpack-dev@0.4.0-1~bpo12%2B1?arch=all
+- pkg:deb/debian/golang-github-marten-seemann-qpack-dev@0.5.1-1?arch=all

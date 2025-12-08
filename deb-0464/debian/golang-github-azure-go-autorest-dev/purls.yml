@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-github-azure-go-autorest-dev@14.1.1-1?arch=all
+- pkg:deb/debian/golang-github-azure-go-autorest-dev@14.2.0%2Bgit20220726.711dde1-1?arch=all

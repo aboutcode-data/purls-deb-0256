@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-dbus-dev@5.0.3-2?arch=all
+- pkg:deb/debian/golang-dbus-dev@5.1.0-1?arch=all

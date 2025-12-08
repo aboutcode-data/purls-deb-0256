@@ -1,0 +1,3 @@
+- pkg:deb/debian/libghc-hi-file-parser-doc@0.1.0.0-2?arch=all
+- pkg:deb/debian/libghc-hi-file-parser-doc@0.1.3.0-1?arch=all
+- pkg:deb/debian/libghc-hi-file-parser-doc@0.1.6.0-1?arch=all

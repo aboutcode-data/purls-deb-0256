@@ -1,0 +1,4 @@
+- pkg:deb/debian/golang-github-golang-groupcache-dev@0.0~git20200121.8c9f03a-1?arch=all
+- pkg:deb/debian/golang-github-golang-groupcache-dev@0.0~git20200121.8c9f03a-2?arch=all
+- pkg:deb/debian/golang-github-golang-groupcache-dev@0.0~git20210331.41bb18b-1?arch=all
+- pkg:deb/debian/golang-github-golang-groupcache-dev@0.0~git20210331.41bb18b-2?arch=all

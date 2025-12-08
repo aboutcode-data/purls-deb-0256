@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-github-joyent-gocommon-dev@0.0~git20161202.b787089-3?arch=all
+- pkg:deb/debian/golang-github-joyent-gocommon-dev@0.0~git20161202.b787089-4?arch=all

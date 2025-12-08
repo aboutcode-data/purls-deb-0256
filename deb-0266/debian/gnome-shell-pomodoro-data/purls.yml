@@ -1,0 +1,4 @@
+- pkg:deb/debian/gnome-shell-pomodoro-data@0.18.0-0.1?arch=all
+- pkg:deb/debian/gnome-shell-pomodoro-data@0.22.1-1?arch=all
+- pkg:deb/debian/gnome-shell-pomodoro-data@0.27.0-1?arch=all
+- pkg:deb/debian/gnome-shell-pomodoro-data@0.28.0-2?arch=all

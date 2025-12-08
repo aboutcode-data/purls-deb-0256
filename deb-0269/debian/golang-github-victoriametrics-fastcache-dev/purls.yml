@@ -1,0 +1,3 @@
+- pkg:deb/debian/golang-github-victoriametrics-fastcache-dev@1.12.0%2Bds1-1?arch=all
+- pkg:deb/debian/golang-github-victoriametrics-fastcache-dev@1.12.2%2Bds1-1?arch=all
+- pkg:deb/debian/golang-github-victoriametrics-fastcache-dev@1.5.7-2?arch=all

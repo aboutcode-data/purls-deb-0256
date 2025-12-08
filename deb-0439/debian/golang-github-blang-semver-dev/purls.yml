@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-github-blang-semver-dev@3.6.1-2?arch=all
+- pkg:deb/debian/golang-github-blang-semver-dev@4.0.0-1?arch=all

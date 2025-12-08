@@ -1,0 +1,3 @@
+- pkg:deb/debian/libghc-selective-doc@0.4.1.1-1?arch=all
+- pkg:deb/debian/libghc-selective-doc@0.5-1?arch=all
+- pkg:deb/debian/libghc-selective-doc@0.7.0.1-1?arch=all

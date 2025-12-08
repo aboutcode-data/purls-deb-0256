@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-github-hashicorp-go-bexpr-dev@0.1.2-2?arch=all
+- pkg:deb/debian/golang-github-hashicorp-go-bexpr-dev@0.1.2-3?arch=all

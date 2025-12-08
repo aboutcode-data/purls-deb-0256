@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-github-oschwald-maxminddb-golang-dev@1.12.0-1?arch=all
+- pkg:deb/debian/golang-github-oschwald-maxminddb-golang-dev@1.8.0-1?arch=all

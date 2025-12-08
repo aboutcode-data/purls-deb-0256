@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-github-ovh-go-ovh-dev@0.0~git20181109.ba5adb4-5?arch=all
+- pkg:deb/debian/golang-github-ovh-go-ovh-dev@1.1.0-2?arch=all

@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-github-mdlayher-socket-dev@0.4.0-1?arch=all
+- pkg:deb/debian/golang-github-mdlayher-socket-dev@0.5.1-1?arch=all

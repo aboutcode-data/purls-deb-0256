@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-github-weppos-publicsuffix-go-dev@0.15.0-5?arch=all
+- pkg:deb/debian/golang-github-weppos-publicsuffix-go-dev@0.30.1-1?arch=all

@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-github-cloudflare-cfssl-dev@1.2.0%2Bgit20160825.89.7fb22c8-3.1?arch=all
+- pkg:deb/debian/golang-github-cloudflare-cfssl-dev@1.6.5-2?arch=all

@@ -1,0 +1,4 @@
+- pkg:deb/debian/gnome-backgrounds@3.38.0-1?arch=all
+- pkg:deb/debian/gnome-backgrounds@43.1-1?arch=all
+- pkg:deb/debian/gnome-backgrounds@48.2.1-1?arch=all
+- pkg:deb/debian/gnome-backgrounds@49.0-1?arch=all

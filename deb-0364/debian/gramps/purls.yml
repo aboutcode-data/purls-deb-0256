@@ -1,0 +1,5 @@
+- pkg:deb/debian/gramps@5.1.3-1?arch=all
+- pkg:deb/debian/gramps@5.1.5-1?arch=all
+- pkg:deb/debian/gramps@5.1.6%2Bdfsg-1~bpo12%2B1?arch=all
+- pkg:deb/debian/gramps@6.0.1%2Bdfsg-1?arch=all
+- pkg:deb/debian/gramps@6.0.6%2Bdfsg-1?arch=all

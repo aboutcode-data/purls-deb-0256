@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-github-svent-go-flags-dev@1-2?arch=all
+- pkg:deb/debian/golang-github-svent-go-flags-dev@1-3?arch=all

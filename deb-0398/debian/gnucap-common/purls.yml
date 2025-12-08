@@ -1,0 +1,2 @@
+- pkg:deb/debian/gnucap-common@0.36~20171003-1.1?arch=all
+- pkg:deb/debian/gnucap-common@20230520-dev-1?arch=all

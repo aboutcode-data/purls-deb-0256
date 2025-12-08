@@ -1,0 +1,4 @@
+- pkg:deb/debian/gortr@0.14.7-1%2Bb5?arch=amd64
+- pkg:deb/debian/gortr@0.14.7-1%2Bb5?arch=arm64
+- pkg:deb/debian/gortr@0.14.7-1%2Bb5?arch=armhf
+- pkg:deb/debian/gortr@0.14.7-1%2Bb5?arch=i386

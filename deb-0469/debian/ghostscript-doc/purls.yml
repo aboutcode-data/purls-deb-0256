@@ -1,0 +1,5 @@
+- pkg:deb/debian/ghostscript-doc@10.0.0~dfsg-11%2Bdeb12u7?arch=all
+- pkg:deb/debian/ghostscript-doc@10.0.0~dfsg-11%2Bdeb12u8?arch=all
+- pkg:deb/debian/ghostscript-doc@10.05.1~dfsg-1%2Bdeb13u1?arch=all
+- pkg:deb/debian/ghostscript-doc@10.06.0~dfsg-3?arch=all
+- pkg:deb/debian/ghostscript-doc@9.53.3~dfsg-7%2Bdeb11u7?arch=all

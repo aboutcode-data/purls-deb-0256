@@ -1,0 +1,3 @@
+- pkg:deb/debian/libghc-genvalidity-doc@0.11.0.0-1?arch=all
+- pkg:deb/debian/libghc-genvalidity-doc@1.0.0.1-1?arch=all
+- pkg:deb/debian/libghc-genvalidity-doc@1.1.1.0-1?arch=all

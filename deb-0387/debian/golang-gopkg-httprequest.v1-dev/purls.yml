@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-gopkg-httprequest.v1-dev@0.0~git20171212.fdaf1bf-5?arch=all
+- pkg:deb/debian/golang-gopkg-httprequest.v1-dev@1.2.1-3?arch=all

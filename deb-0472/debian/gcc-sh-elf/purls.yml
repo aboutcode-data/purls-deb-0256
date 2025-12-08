@@ -1,0 +1,15 @@
+- pkg:deb/debian/gcc-sh-elf@13.3.0-16%2B8.2%2Bb3?arch=amd64
+- pkg:deb/debian/gcc-sh-elf@13.3.0-16%2B8.2%2Bb3?arch=arm64
+- pkg:deb/debian/gcc-sh-elf@13.3.0-16%2B8.2%2Bb3?arch=armel
+- pkg:deb/debian/gcc-sh-elf@13.3.0-16%2B8.2%2Bb3?arch=armhf
+- pkg:deb/debian/gcc-sh-elf@13.3.0-16%2B8.2%2Bb3?arch=i386
+- pkg:deb/debian/gcc-sh-elf@13.3.0-16%2B8.2%2Bb3?arch=ppc64el
+- pkg:deb/debian/gcc-sh-elf@13.3.0-16%2B8.2%2Bb3?arch=riscv64
+- pkg:deb/debian/gcc-sh-elf@13.3.0-16%2B8.2%2Bb3?arch=s390x
+- pkg:deb/debian/gcc-sh-elf@13.4.0-1%2B8.2%2Bb4?arch=amd64
+- pkg:deb/debian/gcc-sh-elf@13.4.0-1%2B8.2%2Bb4?arch=arm64
+- pkg:deb/debian/gcc-sh-elf@13.4.0-1%2B8.2%2Bb4?arch=armhf
+- pkg:deb/debian/gcc-sh-elf@13.4.0-1%2B8.2%2Bb4?arch=i386
+- pkg:deb/debian/gcc-sh-elf@13.4.0-1%2B8.2%2Bb4?arch=ppc64el
+- pkg:deb/debian/gcc-sh-elf@13.4.0-1%2B8.2%2Bb4?arch=s390x
+- pkg:deb/debian/gcc-sh-elf@13.4.0-1%2B8.2%2Bb5?arch=riscv64

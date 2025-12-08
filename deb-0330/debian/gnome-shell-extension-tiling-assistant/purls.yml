@@ -1,0 +1,4 @@
+- pkg:deb/debian/gnome-shell-extension-tiling-assistant@39-1?arch=all
+- pkg:deb/debian/gnome-shell-extension-tiling-assistant@51-2?arch=all
+- pkg:deb/debian/gnome-shell-extension-tiling-assistant@53-1?arch=all
+- pkg:deb/debian/gnome-shell-extension-tiling-assistant@53-2?arch=all

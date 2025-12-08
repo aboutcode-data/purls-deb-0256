@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-github-apptainer-container-key-client-dev@0.7.2-2?arch=all
+- pkg:deb/debian/golang-github-apptainer-container-key-client-dev@0.8.0-1?arch=all

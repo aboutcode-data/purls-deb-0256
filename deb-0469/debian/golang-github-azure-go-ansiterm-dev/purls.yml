@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-github-azure-go-ansiterm-dev@0.0~git20160622.0.fa152c5-2.1?arch=all
+- pkg:deb/debian/golang-github-azure-go-ansiterm-dev@0.0~git20210617.d185dfc-2?arch=all

@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-coreos-log-dev@0.0~git20140508-5?arch=all
+- pkg:deb/debian/golang-coreos-log-dev@0.0~git20180308.b22fd89-1?arch=all

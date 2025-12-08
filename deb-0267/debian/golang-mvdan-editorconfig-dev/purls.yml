@@ -1,0 +1,3 @@
+- pkg:deb/debian/golang-mvdan-editorconfig-dev@0.2.0%2Bgit20240816.eab549b-1?arch=all
+- pkg:deb/debian/golang-mvdan-editorconfig-dev@0.2.0%2Bgit20240816.eab549b-2?arch=all
+- pkg:deb/debian/golang-mvdan-editorconfig-dev@0.2.0-3?arch=all

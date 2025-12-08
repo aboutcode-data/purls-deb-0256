@@ -1,0 +1,6 @@
+- pkg:deb/debian/gimp-data@2.10.22-4%2Bdeb11u2?arch=all
+- pkg:deb/debian/gimp-data@2.10.34-1%2Bdeb12u3?arch=all
+- pkg:deb/debian/gimp-data@2.10.34-1%2Bdeb12u5?arch=all
+- pkg:deb/debian/gimp-data@3.0.4-3%2Bdeb13u2?arch=all
+- pkg:deb/debian/gimp-data@3.0.4-6.2?arch=all
+- pkg:deb/debian/gimp-data@3.0.6-1?arch=all

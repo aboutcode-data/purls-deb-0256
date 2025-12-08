@@ -1,0 +1,3 @@
+- pkg:deb/debian/libglobus-gram-client-doc@14.4-1?arch=all
+- pkg:deb/debian/libglobus-gram-client-doc@14.6-2?arch=all
+- pkg:deb/debian/libglobus-gram-client-doc@14.6-3?arch=all

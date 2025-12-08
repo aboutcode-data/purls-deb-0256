@@ -1,0 +1,4 @@
+- pkg:deb/debian/gcc-11-offload-nvptx@11.3.0-12?arch=amd64
+- pkg:deb/debian/gcc-11-offload-nvptx@11.3.0-12?arch=ppc64el
+- pkg:deb/debian/gcc-11-offload-nvptx@11.5.0-7?arch=amd64
+- pkg:deb/debian/gcc-11-offload-nvptx@11.5.0-7?arch=ppc64el

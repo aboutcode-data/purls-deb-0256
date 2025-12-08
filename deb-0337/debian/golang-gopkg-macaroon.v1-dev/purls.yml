@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-gopkg-macaroon.v1-dev@0.0~git20150121.0.ab3940c-1.1?arch=all
+- pkg:deb/debian/golang-gopkg-macaroon.v1-dev@0.0~git20150121.0.ab3940c-2?arch=all

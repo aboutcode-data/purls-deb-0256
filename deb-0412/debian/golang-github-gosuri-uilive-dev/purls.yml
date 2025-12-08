@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-github-gosuri-uilive-dev@0.0.4-1?arch=all
+- pkg:deb/debian/golang-github-gosuri-uilive-dev@0.0~git20170323.ac356e6-1.1?arch=all

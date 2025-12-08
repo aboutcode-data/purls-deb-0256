@@ -1,0 +1,15 @@
+- pkg:deb/debian/libgf-complete1t64@1.0.2%2B2017.04.10.git.ea75cdf-10?arch=amd64
+- pkg:deb/debian/libgf-complete1t64@1.0.2%2B2017.04.10.git.ea75cdf-10?arch=arm64
+- pkg:deb/debian/libgf-complete1t64@1.0.2%2B2017.04.10.git.ea75cdf-10?arch=armhf
+- pkg:deb/debian/libgf-complete1t64@1.0.2%2B2017.04.10.git.ea75cdf-10?arch=i386
+- pkg:deb/debian/libgf-complete1t64@1.0.2%2B2017.04.10.git.ea75cdf-10?arch=ppc64el
+- pkg:deb/debian/libgf-complete1t64@1.0.2%2B2017.04.10.git.ea75cdf-10?arch=riscv64
+- pkg:deb/debian/libgf-complete1t64@1.0.2%2B2017.04.10.git.ea75cdf-10?arch=s390x
+- pkg:deb/debian/libgf-complete1t64@1.0.2%2B2017.04.10.git.ea75cdf-9.1%2Bb1?arch=amd64
+- pkg:deb/debian/libgf-complete1t64@1.0.2%2B2017.04.10.git.ea75cdf-9.1%2Bb1?arch=arm64
+- pkg:deb/debian/libgf-complete1t64@1.0.2%2B2017.04.10.git.ea75cdf-9.1%2Bb1?arch=armel
+- pkg:deb/debian/libgf-complete1t64@1.0.2%2B2017.04.10.git.ea75cdf-9.1%2Bb1?arch=armhf
+- pkg:deb/debian/libgf-complete1t64@1.0.2%2B2017.04.10.git.ea75cdf-9.1%2Bb1?arch=i386
+- pkg:deb/debian/libgf-complete1t64@1.0.2%2B2017.04.10.git.ea75cdf-9.1%2Bb1?arch=ppc64el
+- pkg:deb/debian/libgf-complete1t64@1.0.2%2B2017.04.10.git.ea75cdf-9.1%2Bb1?arch=riscv64
+- pkg:deb/debian/libgf-complete1t64@1.0.2%2B2017.04.10.git.ea75cdf-9.1%2Bb1?arch=s390x

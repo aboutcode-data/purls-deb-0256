@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-github-google-renameio-dev@0.1.0-2?arch=all
+- pkg:deb/debian/golang-github-google-renameio-dev@2.0.0-2?arch=all

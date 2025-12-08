@@ -2,3 +2,17 @@
 - pkg:deb/debian/libasan6@10.2.1-6?arch=arm64
 - pkg:deb/debian/libasan6@10.2.1-6?arch=armhf
 - pkg:deb/debian/libasan6@10.2.1-6?arch=i386
+- pkg:deb/debian/libasan6@11.3.0-12?arch=amd64
+- pkg:deb/debian/libasan6@11.3.0-12?arch=arm64
+- pkg:deb/debian/libasan6@11.3.0-12?arch=armel
+- pkg:deb/debian/libasan6@11.3.0-12?arch=armhf
+- pkg:deb/debian/libasan6@11.3.0-12?arch=i386
+- pkg:deb/debian/libasan6@11.3.0-12?arch=ppc64el
+- pkg:deb/debian/libasan6@11.3.0-12?arch=s390x
+- pkg:deb/debian/libasan6@11.5.0-7?arch=amd64
+- pkg:deb/debian/libasan6@11.5.0-7?arch=arm64
+- pkg:deb/debian/libasan6@11.5.0-7?arch=armhf
+- pkg:deb/debian/libasan6@11.5.0-7?arch=i386
+- pkg:deb/debian/libasan6@11.5.0-7?arch=ppc64el
+- pkg:deb/debian/libasan6@11.5.0-7?arch=riscv64
+- pkg:deb/debian/libasan6@11.5.0-7?arch=s390x

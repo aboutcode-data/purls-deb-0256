@@ -1,0 +1,3 @@
+- pkg:deb/debian/libghc-iconv-doc@0.4.1.3-11?arch=all
+- pkg:deb/debian/libghc-iconv-doc@0.4.1.3-8?arch=all
+- pkg:deb/debian/libghc-iconv-doc@0.4.1.3-9?arch=all

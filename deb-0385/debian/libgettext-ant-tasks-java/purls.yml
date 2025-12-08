@@ -1,0 +1,2 @@
+- pkg:deb/debian/libgettext-ant-tasks-java@0.9.7%2Bsvn206-1.1?arch=all
+- pkg:deb/debian/libgettext-ant-tasks-java@0.9.7%2Bsvn206-2?arch=all

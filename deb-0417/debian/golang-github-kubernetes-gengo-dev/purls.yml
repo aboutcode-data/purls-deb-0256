@@ -1,0 +1,3 @@
+- pkg:deb/debian/golang-github-kubernetes-gengo-dev@0.0~git20170531.0.c79c13d-1?arch=all
+- pkg:deb/debian/golang-github-kubernetes-gengo-dev@0.0~git20210915.39e73c8-2?arch=all
+- pkg:deb/debian/golang-github-kubernetes-gengo-dev@0.0~git20250207.1244d31-1?arch=all

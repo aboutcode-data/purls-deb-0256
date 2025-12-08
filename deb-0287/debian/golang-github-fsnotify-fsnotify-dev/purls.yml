@@ -1,0 +1,5 @@
+- pkg:deb/debian/golang-github-fsnotify-fsnotify-dev@1.4.9-2?arch=all
+- pkg:deb/debian/golang-github-fsnotify-fsnotify-dev@1.6.0-2?arch=all
+- pkg:deb/debian/golang-github-fsnotify-fsnotify-dev@1.7.0-1~bpo12%2B1?arch=all
+- pkg:deb/debian/golang-github-fsnotify-fsnotify-dev@1.8.0-3?arch=all
+- pkg:deb/debian/golang-github-fsnotify-fsnotify-dev@1.9.0-1?arch=all

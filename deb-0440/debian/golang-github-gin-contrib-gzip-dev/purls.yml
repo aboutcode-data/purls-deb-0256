@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-github-gin-contrib-gzip-dev@0.0.3-1?arch=all
+- pkg:deb/debian/golang-github-gin-contrib-gzip-dev@0.0.6-1?arch=all

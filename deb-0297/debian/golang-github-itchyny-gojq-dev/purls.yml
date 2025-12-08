@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-github-itchyny-gojq-dev@0.12.11-1?arch=all
+- pkg:deb/debian/golang-github-itchyny-gojq-dev@0.12.13-1?arch=all

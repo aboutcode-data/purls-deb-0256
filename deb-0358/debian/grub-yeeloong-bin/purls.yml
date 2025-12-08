@@ -1,0 +1,2 @@
+- pkg:deb/debian/grub-yeeloong-bin@2.06-13%2Bdeb12u1?arch=mipsel
+- pkg:deb/debian/grub-yeeloong-bin@2.12-1~bpo12%2B1?arch=mipsel

@@ -1,0 +1,2 @@
+- pkg:deb/debian/libgossip-java@1.8-2.1?arch=all
+- pkg:deb/debian/libgossip-java@1.8-3?arch=all

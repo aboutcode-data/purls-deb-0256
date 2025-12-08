@@ -1,0 +1,3 @@
+- pkg:deb/debian/golang-github-container-orchestrated-devices-container-device-interface-dev@0.5.2-2?arch=all
+- pkg:deb/debian/golang-github-container-orchestrated-devices-container-device-interface-dev@0.8.0-5?arch=all
+- pkg:deb/debian/golang-github-container-orchestrated-devices-container-device-interface-dev@1.0.1-1?arch=all

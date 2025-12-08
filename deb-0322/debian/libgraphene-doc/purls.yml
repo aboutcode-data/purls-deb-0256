@@ -1,0 +1,3 @@
+- pkg:deb/debian/libgraphene-doc@1.10.4%2Bdfsg1-1?arch=all
+- pkg:deb/debian/libgraphene-doc@1.10.8-1?arch=all
+- pkg:deb/debian/libgraphene-doc@1.10.8-5?arch=all

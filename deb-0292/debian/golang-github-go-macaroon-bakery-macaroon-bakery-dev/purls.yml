@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-github-go-macaroon-bakery-macaroon-bakery-dev@3.0.1-1?arch=all
+- pkg:deb/debian/golang-github-go-macaroon-bakery-macaroon-bakery-dev@3.0.2-1?arch=all

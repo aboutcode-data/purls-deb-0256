@@ -1,0 +1,4 @@
+- pkg:deb/debian/golang-github-bits-and-blooms-bitset-dev@1.13.0-1?arch=all
+- pkg:deb/debian/golang-github-bits-and-blooms-bitset-dev@1.13.0-1~bpo12%2B1?arch=all
+- pkg:deb/debian/golang-github-bits-and-blooms-bitset-dev@1.2.2-1?arch=all
+- pkg:deb/debian/golang-github-bits-and-blooms-bitset-dev@1.24.2-1?arch=all

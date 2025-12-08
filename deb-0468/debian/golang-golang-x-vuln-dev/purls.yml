@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-golang-x-vuln-dev@0.0~git20230201.4c848ed-1?arch=all
+- pkg:deb/debian/golang-golang-x-vuln-dev@1.0.4-1?arch=all

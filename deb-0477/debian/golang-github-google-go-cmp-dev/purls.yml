@@ -1,0 +1,4 @@
+- pkg:deb/debian/golang-github-google-go-cmp-dev@0.5.4-1?arch=all
+- pkg:deb/debian/golang-github-google-go-cmp-dev@0.5.9-1?arch=all
+- pkg:deb/debian/golang-github-google-go-cmp-dev@0.6.0-1?arch=all
+- pkg:deb/debian/golang-github-google-go-cmp-dev@0.7.0-1?arch=all

@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-github-muesli-crunchy-dev@0.2-2?arch=all
+- pkg:deb/debian/golang-github-muesli-crunchy-dev@0.4.0-2?arch=all

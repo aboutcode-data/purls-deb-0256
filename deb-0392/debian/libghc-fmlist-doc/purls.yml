@@ -1,0 +1,3 @@
+- pkg:deb/debian/libghc-fmlist-doc@0.9.3-1?arch=all
+- pkg:deb/debian/libghc-fmlist-doc@0.9.4-1?arch=all
+- pkg:deb/debian/libghc-fmlist-doc@0.9.4-3?arch=all

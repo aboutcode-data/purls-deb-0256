@@ -1,0 +1,2 @@
+- pkg:deb/debian/ghp-import@0.5.5-2?arch=all
+- pkg:deb/debian/ghp-import@2.1.0-3?arch=all

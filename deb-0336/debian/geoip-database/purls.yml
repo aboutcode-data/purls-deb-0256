@@ -1,0 +1,6 @@
+- pkg:deb/debian/geoip-database@20191224-3?arch=all
+- pkg:deb/debian/geoip-database@20230203-1?arch=all
+- pkg:deb/debian/geoip-database@20250224-1~bpo12%2B1?arch=all
+- pkg:deb/debian/geoip-database@20250401-1?arch=all
+- pkg:deb/debian/geoip-database@20251015-1?arch=all
+- pkg:deb/debian/geoip-database@20251015-1~bpo13%2B1?arch=all

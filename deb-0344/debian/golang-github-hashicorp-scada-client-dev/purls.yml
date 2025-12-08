@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-github-hashicorp-scada-client-dev@0.0~git20160601.0.6e89678-2.1?arch=all
+- pkg:deb/debian/golang-github-hashicorp-scada-client-dev@0.0~git20230125.8334ec8-1?arch=all

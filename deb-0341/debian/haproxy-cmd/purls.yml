@@ -1,0 +1,2 @@
+- pkg:deb/debian/haproxy-cmd@0.0.5~bpo12%2B1?arch=all
+- pkg:deb/debian/haproxy-cmd@0.0.7?arch=all

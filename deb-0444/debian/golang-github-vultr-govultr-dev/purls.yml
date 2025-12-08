@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-github-vultr-govultr-dev@0.4.2-2?arch=all
+- pkg:deb/debian/golang-github-vultr-govultr-dev@2.17.2-2?arch=all

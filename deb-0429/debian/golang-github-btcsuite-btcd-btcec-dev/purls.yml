@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-github-btcsuite-btcd-btcec-dev@0.0~git20161101.0.g8343278-1.1?arch=all
+- pkg:deb/debian/golang-github-btcsuite-btcd-btcec-dev@0.0~git20161101.0.g8343278-2?arch=all

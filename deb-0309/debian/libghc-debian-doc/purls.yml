@@ -1,0 +1,3 @@
+- pkg:deb/debian/libghc-debian-doc@4.0.2-1?arch=all
+- pkg:deb/debian/libghc-debian-doc@4.0.4-1?arch=all
+- pkg:deb/debian/libghc-debian-doc@4.0.5-2?arch=all

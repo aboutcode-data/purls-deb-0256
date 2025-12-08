@@ -1,0 +1,4 @@
+- pkg:deb/debian/libglfw3-doc@3.3.2-1?arch=all
+- pkg:deb/debian/libglfw3-doc@3.3.8-1?arch=all
+- pkg:deb/debian/libglfw3-doc@3.4-3?arch=all
+- pkg:deb/debian/libglfw3-doc@3.4-4?arch=all

@@ -1,0 +1,3 @@
+- pkg:deb/debian/libghc-openssl-streams-doc@1.2.2.0-3?arch=all
+- pkg:deb/debian/libghc-openssl-streams-doc@1.2.3.0-1?arch=all
+- pkg:deb/debian/libghc-openssl-streams-doc@1.2.3.0-3?arch=all

@@ -1,0 +1,4 @@
+- pkg:deb/debian/gcompris-qt-data@1.0-1?arch=all
+- pkg:deb/debian/gcompris-qt-data@25.0.12-1?arch=all
+- pkg:deb/debian/gcompris-qt-data@25.1.1-1?arch=all
+- pkg:deb/debian/gcompris-qt-data@3.1-2?arch=all

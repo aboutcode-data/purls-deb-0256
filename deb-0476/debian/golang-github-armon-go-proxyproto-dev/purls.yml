@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-github-armon-go-proxyproto-dev@0.0~git20190211.68259f7-2?arch=all
+- pkg:deb/debian/golang-github-armon-go-proxyproto-dev@0.1.0-1?arch=all

@@ -1,0 +1,4 @@
+- pkg:deb/debian/golang-github-miekg-dns-dev@1.1.35-1?arch=all
+- pkg:deb/debian/golang-github-miekg-dns-dev@1.1.50-2?arch=all
+- pkg:deb/debian/golang-github-miekg-dns-dev@1.1.64-1?arch=all
+- pkg:deb/debian/golang-github-miekg-dns-dev@1.1.68-2?arch=all

@@ -1,0 +1,3 @@
+- pkg:deb/debian/libghc-authenticate-oauth-doc@1.6.0.1-2?arch=all
+- pkg:deb/debian/libghc-authenticate-oauth-doc@1.7-1?arch=all
+- pkg:deb/debian/libghc-authenticate-oauth-doc@1.7-3?arch=all

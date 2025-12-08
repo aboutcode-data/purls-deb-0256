@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-github-mattn-go-ieproxy-dev@0.0.9-1?arch=all
+- pkg:deb/debian/golang-github-mattn-go-ieproxy-dev@0.0~git20191113.7c0f686-2?arch=all

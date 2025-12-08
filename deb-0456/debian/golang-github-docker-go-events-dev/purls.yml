@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-github-docker-go-events-dev@0.0~git20190806.e31b211-1?arch=all
+- pkg:deb/debian/golang-github-docker-go-events-dev@0.0~git20190806.e31b211-4?arch=all

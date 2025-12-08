@@ -1,0 +1,2 @@
+- pkg:deb/debian/grpc-proto@0.0~git20200526.dd2dca3-1.1?arch=all
+- pkg:deb/debian/grpc-proto@0.0~git20230110.6956c0e-1?arch=all

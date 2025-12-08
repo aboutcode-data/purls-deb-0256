@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-github-samalba-dockerclient-dev@0.0~git20160531.0.a303626-2?arch=all
+- pkg:deb/debian/golang-github-samalba-dockerclient-dev@0.0~git20160531.0.a303626-3?arch=all

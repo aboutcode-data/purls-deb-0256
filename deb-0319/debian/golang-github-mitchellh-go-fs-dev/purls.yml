@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-github-mitchellh-go-fs-dev@0.0~git20180402.b7b9ca4-1?arch=all
+- pkg:deb/debian/golang-github-mitchellh-go-fs-dev@0.0~git20180402.b7b9ca4-2?arch=all

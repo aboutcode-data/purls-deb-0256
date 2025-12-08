@@ -1,0 +1,3 @@
+- pkg:deb/debian/libghc-random-shuffle-doc@0.0.4-11?arch=all
+- pkg:deb/debian/libghc-random-shuffle-doc@0.0.4-12?arch=all
+- pkg:deb/debian/libghc-random-shuffle-doc@0.0.4-14?arch=all

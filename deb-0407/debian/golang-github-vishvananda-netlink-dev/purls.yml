@@ -1,0 +1,5 @@
+- pkg:deb/debian/golang-github-vishvananda-netlink-dev@1.1.0-2?arch=all
+- pkg:deb/debian/golang-github-vishvananda-netlink-dev@1.1.0.125.gf243826-4?arch=all
+- pkg:deb/debian/golang-github-vishvananda-netlink-dev@1.3.0-2?arch=all
+- pkg:deb/debian/golang-github-vishvananda-netlink-dev@1.3.0-2~bpo12%2B1?arch=all
+- pkg:deb/debian/golang-github-vishvananda-netlink-dev@1.3.1-1?arch=all

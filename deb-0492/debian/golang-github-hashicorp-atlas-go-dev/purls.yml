@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-github-hashicorp-atlas-go-dev@0.0~git20170808.8261ea0-3?arch=all
+- pkg:deb/debian/golang-github-hashicorp-atlas-go-dev@0.0~git20230125.46e9b3e-1?arch=all

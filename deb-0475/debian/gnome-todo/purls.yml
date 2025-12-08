@@ -1,1 +1,5 @@
+- pkg:deb/debian/gnome-todo@3.28.1-6?arch=amd64
+- pkg:deb/debian/gnome-todo@3.28.1-6?arch=arm64
+- pkg:deb/debian/gnome-todo@3.28.1-6?arch=armhf
+- pkg:deb/debian/gnome-todo@3.28.1-6?arch=i386
 - pkg:deb/debian/gnome-todo@43.0-1?arch=all

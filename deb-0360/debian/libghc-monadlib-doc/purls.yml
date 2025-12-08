@@ -1,0 +1,3 @@
+- pkg:deb/debian/libghc-monadlib-doc@3.10-1?arch=all
+- pkg:deb/debian/libghc-monadlib-doc@3.10.1-1?arch=all
+- pkg:deb/debian/libghc-monadlib-doc@3.10.1-3?arch=all

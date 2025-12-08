@@ -1,0 +1,2 @@
+- pkg:deb/debian/libgrammatica-java@1.6%2Bds-3?arch=all
+- pkg:deb/debian/libgrammatica-java@1.6%2Bds-4?arch=all

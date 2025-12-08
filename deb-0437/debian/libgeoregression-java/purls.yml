@@ -1,0 +1,2 @@
+- pkg:deb/debian/libgeoregression-java@0.20%2Bds-2?arch=all
+- pkg:deb/debian/libgeoregression-java@0.24%2Bds-1?arch=all

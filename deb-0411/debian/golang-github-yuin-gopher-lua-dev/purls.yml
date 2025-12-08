@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-github-yuin-gopher-lua-dev@0.0~git20170915.0.eb1c729-4?arch=all
+- pkg:deb/debian/golang-github-yuin-gopher-lua-dev@0.0~git20170915.0.eb1c729-5?arch=all

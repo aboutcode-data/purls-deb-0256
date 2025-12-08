@@ -1,0 +1,4 @@
+- pkg:deb/debian/gitsome@0.8.0%2Bds-5?arch=all
+- pkg:deb/debian/gitsome@0.8.0%2Bds-8?arch=all
+- pkg:deb/debian/gitsome@0.8.0%2Bds-9.2?arch=all
+- pkg:deb/debian/gitsome@0.8.0%2Bds-9.3?arch=all

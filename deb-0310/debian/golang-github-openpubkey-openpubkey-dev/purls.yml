@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-github-openpubkey-openpubkey-dev@0.18.0-1?arch=all
+- pkg:deb/debian/golang-github-openpubkey-openpubkey-dev@0.8.0-1?arch=all

@@ -1,0 +1,4 @@
+- pkg:deb/debian/gnome-shell-extension-gamemode@15.0-1?arch=all
+- pkg:deb/debian/gnome-shell-extension-gamemode@4-2?arch=all
+- pkg:deb/debian/gnome-shell-extension-gamemode@8-2?arch=all
+- pkg:deb/debian/gnome-shell-extension-gamemode@8-6?arch=all

@@ -1,0 +1,4 @@
+- pkg:deb/debian/gnome-settings-daemon-common@3.38.2-1?arch=all
+- pkg:deb/debian/gnome-settings-daemon-common@43.0-4?arch=all
+- pkg:deb/debian/gnome-settings-daemon-common@48.1-1?arch=all
+- pkg:deb/debian/gnome-settings-daemon-common@49.1-2?arch=all

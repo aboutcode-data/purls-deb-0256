@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-github-armon-consul-api-dev@0.0~git20150107.0.dcfedd5-4.1?arch=all
+- pkg:deb/debian/golang-github-armon-consul-api-dev@0.0~git20180202.0.eb2c6b5-1?arch=all

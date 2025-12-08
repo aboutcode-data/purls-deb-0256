@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-github-google-cel-go-dev@0.18.2%2Bds-5?arch=all
+- pkg:deb/debian/golang-github-google-cel-go-dev@0.18.2%2Bds-7?arch=all

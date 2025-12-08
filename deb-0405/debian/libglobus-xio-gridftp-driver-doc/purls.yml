@@ -1,0 +1,3 @@
+- pkg:deb/debian/libglobus-xio-gridftp-driver-doc@3.4-1?arch=all
+- pkg:deb/debian/libglobus-xio-gridftp-driver-doc@3.6-2?arch=all
+- pkg:deb/debian/libglobus-xio-gridftp-driver-doc@3.6-3?arch=all

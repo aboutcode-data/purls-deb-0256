@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-github-btcsuite-btcd-chaincfg-chainhash-dev@0.0%2Bgit20161209.0.7a4cc89-1.1?arch=all
+- pkg:deb/debian/golang-github-btcsuite-btcd-chaincfg-chainhash-dev@0.0%2Bgit20250820.0.e8097a1-1?arch=all

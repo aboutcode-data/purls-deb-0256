@@ -1,0 +1,4 @@
+- pkg:deb/debian/gnome-shell-extension-kimpanel@0.0~git20201013.dcbca17-1?arch=all
+- pkg:deb/debian/gnome-shell-extension-kimpanel@0.0~git20220902.c11f1a6-1?arch=all
+- pkg:deb/debian/gnome-shell-extension-kimpanel@0.0~git20250408.dee6a53-1?arch=all
+- pkg:deb/debian/gnome-shell-extension-kimpanel@0.0~git20250920.55a7b1c-1?arch=all

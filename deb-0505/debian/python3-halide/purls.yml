@@ -1,0 +1,9 @@
+- pkg:deb/debian/python3-halide@14.0.0-3?arch=amd64
+- pkg:deb/debian/python3-halide@14.0.0-3?arch=arm64
+- pkg:deb/debian/python3-halide@14.0.0-3?arch=i386
+- pkg:deb/debian/python3-halide@19.0.0-6?arch=amd64
+- pkg:deb/debian/python3-halide@19.0.0-6?arch=arm64
+- pkg:deb/debian/python3-halide@19.0.0-6?arch=i386
+- pkg:deb/debian/python3-halide@21.0.0-4?arch=amd64
+- pkg:deb/debian/python3-halide@21.0.0-4?arch=arm64
+- pkg:deb/debian/python3-halide@21.0.0-4?arch=i386

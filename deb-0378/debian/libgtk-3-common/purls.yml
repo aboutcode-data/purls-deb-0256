@@ -1,0 +1,5 @@
+- pkg:deb/debian/libgtk-3-common@3.24.24-4%2Bdeb11u4?arch=all
+- pkg:deb/debian/libgtk-3-common@3.24.38-2~deb12u3?arch=all
+- pkg:deb/debian/libgtk-3-common@3.24.49-3?arch=all
+- pkg:deb/debian/libgtk-3-common@3.24.51-1?arch=all
+- pkg:deb/debian/libgtk-3-common@3.24.51-2?arch=all

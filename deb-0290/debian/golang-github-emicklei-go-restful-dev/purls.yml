@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-github-emicklei-go-restful-dev@2.11.1-2?arch=all
+- pkg:deb/debian/golang-github-emicklei-go-restful-dev@3.10.2-1?arch=all

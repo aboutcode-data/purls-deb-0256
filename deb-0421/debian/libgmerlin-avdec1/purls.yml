@@ -1,0 +1,4 @@
+- pkg:deb/debian/libgmerlin-avdec1@1.2.0~dfsg-11?arch=amd64
+- pkg:deb/debian/libgmerlin-avdec1@1.2.0~dfsg-11?arch=arm64
+- pkg:deb/debian/libgmerlin-avdec1@1.2.0~dfsg-11?arch=armhf
+- pkg:deb/debian/libgmerlin-avdec1@1.2.0~dfsg-11?arch=i386

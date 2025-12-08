@@ -1,0 +1,3 @@
+- pkg:deb/debian/golang-github-mreiferson-go-httpclient-dev@0.0~git20160630.0.31f0106-2.1?arch=all
+- pkg:deb/debian/golang-github-mreiferson-go-httpclient-dev@0.0~git20160630.0.31f0106-2?arch=all
+- pkg:deb/debian/golang-github-mreiferson-go-httpclient-dev@0.0~git20160630.0.31f0106-3?arch=all

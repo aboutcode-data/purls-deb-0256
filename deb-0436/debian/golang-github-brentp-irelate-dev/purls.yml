@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-github-brentp-irelate-dev@0.0.1%2Bds-1?arch=all
+- pkg:deb/debian/golang-github-brentp-irelate-dev@0.0.1%2Bds-2?arch=all

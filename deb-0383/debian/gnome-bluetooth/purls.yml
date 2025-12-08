@@ -1,0 +1,5 @@
+- pkg:deb/debian/gnome-bluetooth@3.34.3-2?arch=amd64
+- pkg:deb/debian/gnome-bluetooth@3.34.3-2?arch=arm64
+- pkg:deb/debian/gnome-bluetooth@3.34.3-2?arch=armhf
+- pkg:deb/debian/gnome-bluetooth@3.34.3-2?arch=i386
+- pkg:deb/debian/gnome-bluetooth@42~3.34.5-10?arch=all

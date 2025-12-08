@@ -1,0 +1,3 @@
+- pkg:deb/debian/golang-github-nebulouslabs-fastrand-dev@0.0~git20170512.60b6156-1?arch=all
+- pkg:deb/debian/golang-github-nebulouslabs-fastrand-dev@0.0~git20181203.6fb6489-1?arch=all
+- pkg:deb/debian/golang-github-nebulouslabs-fastrand-dev@0.0~git20181203.6fb6489-3?arch=all

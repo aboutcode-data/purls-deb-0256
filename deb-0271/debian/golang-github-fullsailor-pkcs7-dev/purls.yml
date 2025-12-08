@@ -1,0 +1,3 @@
+- pkg:deb/debian/golang-github-fullsailor-pkcs7-dev@0.0~git20190404.d7302db-2?arch=all
+- pkg:deb/debian/golang-github-fullsailor-pkcs7-dev@0.0~git20210826.33d0574-2?arch=all
+- pkg:deb/debian/golang-github-fullsailor-pkcs7-dev@0.0~git20210826.33d0574-3?arch=all

@@ -1,0 +1,3 @@
+- pkg:deb/debian/libghc-pipes-parse-doc@3.0.8-4?arch=all
+- pkg:deb/debian/libghc-pipes-parse-doc@3.0.9-1?arch=all
+- pkg:deb/debian/libghc-pipes-parse-doc@3.0.9-3?arch=all

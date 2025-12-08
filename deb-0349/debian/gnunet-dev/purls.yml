@@ -1,0 +1,7 @@
+- pkg:deb/debian/gnunet-dev@0.13.1-2?arch=amd64
+- pkg:deb/debian/gnunet-dev@0.13.1-2?arch=arm64
+- pkg:deb/debian/gnunet-dev@0.13.1-2?arch=armhf
+- pkg:deb/debian/gnunet-dev@0.13.1-2?arch=i386
+- pkg:deb/debian/gnunet-dev@0.19.3-2?arch=all
+- pkg:deb/debian/gnunet-dev@0.20.0-7?arch=all
+- pkg:deb/debian/gnunet-dev@0.20.0-8?arch=all

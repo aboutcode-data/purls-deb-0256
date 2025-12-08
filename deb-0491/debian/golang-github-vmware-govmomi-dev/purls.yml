@@ -1,0 +1,3 @@
+- pkg:deb/debian/golang-github-vmware-govmomi-dev@0.23.0-1?arch=all
+- pkg:deb/debian/golang-github-vmware-govmomi-dev@0.24.2-3?arch=all
+- pkg:deb/debian/golang-github-vmware-govmomi-dev@0.24.2-4?arch=all

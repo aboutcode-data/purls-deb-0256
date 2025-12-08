@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-govee-ble@0.44.0-1?arch=all
+- pkg:deb/debian/python3-govee-ble@1.0.0-1?arch=all

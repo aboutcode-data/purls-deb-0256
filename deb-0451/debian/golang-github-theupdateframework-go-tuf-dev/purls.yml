@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-github-theupdateframework-go-tuf-dev@0.5.2-5~bpo12%2B1?arch=all
+- pkg:deb/debian/golang-github-theupdateframework-go-tuf-dev@2.0.2%2B0.7.0-1?arch=all

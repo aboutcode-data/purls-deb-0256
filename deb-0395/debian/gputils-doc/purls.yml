@@ -1,0 +1,3 @@
+- pkg:deb/debian/gputils-doc@1.4.0-0.2?arch=all
+- pkg:deb/debian/gputils-doc@1.5.2-1?arch=all
+- pkg:deb/debian/gputils-doc@1.5.2-2?arch=all

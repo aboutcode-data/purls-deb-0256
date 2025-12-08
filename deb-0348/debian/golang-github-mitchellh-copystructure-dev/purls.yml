@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-github-mitchellh-copystructure-dev@0.0~git20161013.0.5af94ae-2.1?arch=all
+- pkg:deb/debian/golang-github-mitchellh-copystructure-dev@1.2.0-1?arch=all

@@ -1,0 +1,17 @@
+- pkg:deb/debian/gr-funcube@3.10.0~rc3-2%2Bb2?arch=amd64
+- pkg:deb/debian/gr-funcube@3.10.0~rc3-2%2Bb2?arch=arm64
+- pkg:deb/debian/gr-funcube@3.10.0~rc3-2%2Bb2?arch=armel
+- pkg:deb/debian/gr-funcube@3.10.0~rc3-2%2Bb2?arch=armhf
+- pkg:deb/debian/gr-funcube@3.10.0~rc3-2%2Bb2?arch=i386
+- pkg:deb/debian/gr-funcube@3.10.0~rc3-2%2Bb2?arch=mips64el
+- pkg:deb/debian/gr-funcube@3.10.0~rc3-2%2Bb2?arch=mipsel
+- pkg:deb/debian/gr-funcube@3.10.0~rc3-2%2Bb2?arch=ppc64el
+- pkg:deb/debian/gr-funcube@3.10.0~rc3-2%2Bb2?arch=s390x
+- pkg:deb/debian/gr-funcube@3.10.0~rc3-4%2Bb10?arch=riscv64
+- pkg:deb/debian/gr-funcube@3.10.0~rc3-4%2Bb9?arch=amd64
+- pkg:deb/debian/gr-funcube@3.10.0~rc3-4%2Bb9?arch=arm64
+- pkg:deb/debian/gr-funcube@3.10.0~rc3-4%2Bb9?arch=armel
+- pkg:deb/debian/gr-funcube@3.10.0~rc3-4%2Bb9?arch=armhf
+- pkg:deb/debian/gr-funcube@3.10.0~rc3-4%2Bb9?arch=i386
+- pkg:deb/debian/gr-funcube@3.10.0~rc3-4%2Bb9?arch=ppc64el
+- pkg:deb/debian/gr-funcube@3.10.0~rc3-4%2Bb9?arch=s390x

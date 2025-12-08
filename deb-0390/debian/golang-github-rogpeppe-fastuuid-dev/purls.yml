@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-github-rogpeppe-fastuuid-dev@0.0~git20150106.0.6724a57-2.1?arch=all
+- pkg:deb/debian/golang-github-rogpeppe-fastuuid-dev@1.2.0-1?arch=all

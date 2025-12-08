@@ -1,0 +1,4 @@
+- pkg:deb/debian/golang-github-rs-zerolog-dev@1.20.0-1?arch=all
+- pkg:deb/debian/golang-github-rs-zerolog-dev@1.26.1-2?arch=all
+- pkg:deb/debian/golang-github-rs-zerolog-dev@1.29.1-1?arch=all
+- pkg:deb/debian/golang-github-rs-zerolog-dev@1.29.1-1~bpo12%2B1?arch=all

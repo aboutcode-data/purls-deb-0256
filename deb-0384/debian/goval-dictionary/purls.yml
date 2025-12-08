@@ -1,0 +1,11 @@
+- pkg:deb/debian/goval-dictionary@0.2.0-4%2Bb4?arch=amd64
+- pkg:deb/debian/goval-dictionary@0.2.0-4%2Bb4?arch=arm64
+- pkg:deb/debian/goval-dictionary@0.2.0-4%2Bb4?arch=armhf
+- pkg:deb/debian/goval-dictionary@0.2.0-4%2Bb4?arch=i386
+- pkg:deb/debian/goval-dictionary@0.2.0-6%2Bb12?arch=amd64
+- pkg:deb/debian/goval-dictionary@0.2.0-6%2Bb12?arch=arm64
+- pkg:deb/debian/goval-dictionary@0.2.0-6%2Bb12?arch=armhf
+- pkg:deb/debian/goval-dictionary@0.2.0-6%2Bb12?arch=i386
+- pkg:deb/debian/goval-dictionary@0.2.0-6%2Bb12?arch=ppc64el
+- pkg:deb/debian/goval-dictionary@0.2.0-6%2Bb12?arch=s390x
+- pkg:deb/debian/goval-dictionary@0.2.0-6%2Bb13?arch=riscv64

@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-github-hashicorp-go-tfe-dev@0.11.1%2Bgit20201207.19dc0b8-2?arch=all
+- pkg:deb/debian/golang-github-hashicorp-go-tfe-dev@0.11.1%2Bgit20201207.19dc0b8-3?arch=all

@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-github-iovisor-gobpf-dev@0.2.0-10?arch=all
+- pkg:deb/debian/golang-github-iovisor-gobpf-dev@0.2.0-5?arch=all
