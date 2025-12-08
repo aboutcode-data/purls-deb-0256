@@ -1,0 +1,4 @@
+- pkg:deb/debian/tryton-modules-all@47?arch=all
+- pkg:deb/debian/tryton-modules-all@52?arch=all
+- pkg:deb/debian/tryton-modules-all@56?arch=all
+- pkg:deb/debian/tryton-modules-all@57?arch=all

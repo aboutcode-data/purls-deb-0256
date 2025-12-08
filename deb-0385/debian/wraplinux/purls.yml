@@ -1,0 +1,4 @@
+- pkg:deb/debian/wraplinux@1.7-10?arch=amd64
+- pkg:deb/debian/wraplinux@1.7-10?arch=i386
+- pkg:deb/debian/wraplinux@1.7-11?arch=amd64
+- pkg:deb/debian/wraplinux@1.7-11?arch=i386

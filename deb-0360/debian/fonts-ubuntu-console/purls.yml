@@ -1,0 +1,2 @@
+- pkg:deb/debian/fonts-ubuntu-console@0.83-4?arch=all
+- pkg:deb/debian/fonts-ubuntu-console@0.83-6?arch=all

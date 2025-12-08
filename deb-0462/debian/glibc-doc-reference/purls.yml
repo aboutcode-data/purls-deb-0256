@@ -1,0 +1,4 @@
+- pkg:deb/debian/glibc-doc-reference@2.31-1?arch=all
+- pkg:deb/debian/glibc-doc-reference@2.36-1?arch=all
+- pkg:deb/debian/glibc-doc-reference@2.41-1?arch=all
+- pkg:deb/debian/glibc-doc-reference@2.42-1?arch=all

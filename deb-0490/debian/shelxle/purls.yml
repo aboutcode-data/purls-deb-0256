@@ -1,0 +1,16 @@
+- pkg:deb/debian/shelxle@1.0.1179-1?arch=amd64
+- pkg:deb/debian/shelxle@1.0.1179-1?arch=arm64
+- pkg:deb/debian/shelxle@1.0.1179-1?arch=i386
+- pkg:deb/debian/shelxle@1.0.1472-1?arch=amd64
+- pkg:deb/debian/shelxle@1.0.1472-1?arch=arm64
+- pkg:deb/debian/shelxle@1.0.1472-1?arch=i386
+- pkg:deb/debian/shelxle@1.0.1472-1?arch=mips64el
+- pkg:deb/debian/shelxle@1.0.1472-1?arch=mipsel
+- pkg:deb/debian/shelxle@1.0.1472-1?arch=ppc64el
+- pkg:deb/debian/shelxle@1.0.1472-1?arch=s390x
+- pkg:deb/debian/shelxle@1.0.1552-1%2Bb1?arch=i386
+- pkg:deb/debian/shelxle@1.0.1552-1%2Bb1?arch=ppc64el
+- pkg:deb/debian/shelxle@1.0.1552-1%2Bb1?arch=s390x
+- pkg:deb/debian/shelxle@1.0.1552-1%2Bb2?arch=amd64
+- pkg:deb/debian/shelxle@1.0.1552-1%2Bb2?arch=arm64
+- pkg:deb/debian/shelxle@1.0.1552-1%2Bb2?arch=riscv64

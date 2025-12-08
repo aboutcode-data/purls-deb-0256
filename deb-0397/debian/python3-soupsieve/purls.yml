@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-soupsieve@2.2.1-1?arch=all
+- pkg:deb/debian/python3-soupsieve@2.3.2-1?arch=all
+- pkg:deb/debian/python3-soupsieve@2.7-1?arch=all
+- pkg:deb/debian/python3-soupsieve@2.7-2?arch=all

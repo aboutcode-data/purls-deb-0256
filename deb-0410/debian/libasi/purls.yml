@@ -1,0 +1,8 @@
+- pkg:deb/debian/libasi@1.27%2B20221218230335-1?arch=amd64
+- pkg:deb/debian/libasi@1.27%2B20221218230335-1?arch=arm64
+- pkg:deb/debian/libasi@1.27%2B20221218230335-1?arch=armhf
+- pkg:deb/debian/libasi@1.27%2B20221218230335-1?arch=i386
+- pkg:deb/debian/libasi@1.27%2B20221218230335-2?arch=amd64
+- pkg:deb/debian/libasi@1.27%2B20221218230335-2?arch=arm64
+- pkg:deb/debian/libasi@1.27%2B20221218230335-2?arch=armhf
+- pkg:deb/debian/libasi@1.27%2B20221218230335-2?arch=i386

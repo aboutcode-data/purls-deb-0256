@@ -1,0 +1,13 @@
+- pkg:deb/debian/umps3@3.0.4-1?arch=amd64
+- pkg:deb/debian/umps3@3.0.4-1?arch=arm64
+- pkg:deb/debian/umps3@3.0.4-1?arch=i386
+- pkg:deb/debian/umps3@3.0.5-1%2Bb2?arch=amd64
+- pkg:deb/debian/umps3@3.0.5-1%2Bb2?arch=i386
+- pkg:deb/debian/umps3@3.0.5-1%2Bb2?arch=ppc64el
+- pkg:deb/debian/umps3@3.0.5-1%2Bb3?arch=arm64
+- pkg:deb/debian/umps3@3.0.5-1?arch=amd64
+- pkg:deb/debian/umps3@3.0.5-1?arch=arm64
+- pkg:deb/debian/umps3@3.0.5-1?arch=i386
+- pkg:deb/debian/umps3@3.0.5-1?arch=mips64el
+- pkg:deb/debian/umps3@3.0.5-1?arch=mipsel
+- pkg:deb/debian/umps3@3.0.5-1?arch=ppc64el

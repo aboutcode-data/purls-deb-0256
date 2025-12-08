@@ -1,0 +1,6 @@
+- pkg:deb/debian/libskypat3@3.1.1-4?arch=amd64
+- pkg:deb/debian/libskypat3@3.1.1-4?arch=arm64
+- pkg:deb/debian/libskypat3@3.1.1-4?arch=armhf
+- pkg:deb/debian/libskypat3@3.1.1-8?arch=amd64
+- pkg:deb/debian/libskypat3@3.1.1-8?arch=arm64
+- pkg:deb/debian/libskypat3@3.1.1-8?arch=armhf

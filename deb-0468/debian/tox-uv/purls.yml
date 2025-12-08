@@ -1,0 +1,2 @@
+- pkg:deb/debian/tox-uv@1.25.0-1?arch=all
+- pkg:deb/debian/tox-uv@1.28.0-1?arch=all

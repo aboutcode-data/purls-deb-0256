@@ -1,0 +1,4 @@
+- pkg:deb/debian/xmds2-doc@3.0.0%2Bdfsg-5?arch=all
+- pkg:deb/debian/xmds2-doc@3.1.0%2Bdfsg2-10?arch=all
+- pkg:deb/debian/xmds2-doc@3.1.0%2Bdfsg2-11?arch=all
+- pkg:deb/debian/xmds2-doc@3.1.0%2Bdfsg2-3?arch=all

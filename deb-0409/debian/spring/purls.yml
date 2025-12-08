@@ -1,0 +1,6 @@
+- pkg:deb/debian/spring@105.0.1%2Bdfsg-2?arch=amd64
+- pkg:deb/debian/spring@105.0.1%2Bdfsg-2?arch=i386
+- pkg:deb/debian/spring@106.0%2Bdfsg-1?arch=amd64
+- pkg:deb/debian/spring@106.0%2Bdfsg-1?arch=i386
+- pkg:deb/debian/spring@106.0%2Bdfsg-4?arch=amd64
+- pkg:deb/debian/spring@106.0%2Bdfsg-4?arch=i386

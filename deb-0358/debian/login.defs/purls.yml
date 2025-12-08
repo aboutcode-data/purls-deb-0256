@@ -1,0 +1,2 @@
+- pkg:deb/debian/login.defs@4.17.4-2?arch=all
+- pkg:deb/debian/login.defs@4.18.0-2?arch=all

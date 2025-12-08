@@ -1,0 +1,3 @@
+- pkg:deb/debian/elpa-tabbar@2.2-4?arch=all
+- pkg:deb/debian/elpa-tabbar@2.2-5?arch=all
+- pkg:deb/debian/elpa-tabbar@2.2-6?arch=all

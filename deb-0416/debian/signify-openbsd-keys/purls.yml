@@ -1,0 +1,4 @@
+- pkg:deb/debian/signify-openbsd-keys@2021.1?arch=all
+- pkg:deb/debian/signify-openbsd-keys@2022.2?arch=all
+- pkg:deb/debian/signify-openbsd-keys@2025.1?arch=all
+- pkg:deb/debian/signify-openbsd-keys@2025.2?arch=all

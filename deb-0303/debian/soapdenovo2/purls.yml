@@ -1,0 +1,4 @@
+- pkg:deb/debian/soapdenovo2@242%2Bdfsg-1?arch=amd64
+- pkg:deb/debian/soapdenovo2@242%2Bdfsg-3?arch=amd64
+- pkg:deb/debian/soapdenovo2@242%2Bdfsg-4?arch=amd64
+- pkg:deb/debian/soapdenovo2@242%2Bdfsg-5?arch=amd64

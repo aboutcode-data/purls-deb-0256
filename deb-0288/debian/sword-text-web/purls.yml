@@ -1,0 +1,4 @@
+- pkg:deb/debian/sword-text-web@353.0-1?arch=all
+- pkg:deb/debian/sword-text-web@426.0-1?arch=all
+- pkg:deb/debian/sword-text-web@522.0-1?arch=all
+- pkg:deb/debian/sword-text-web@555.0-1?arch=all

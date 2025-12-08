@@ -1,0 +1,2 @@
+- pkg:deb/debian/unicode-idna@15.0.0-1.1?arch=all
+- pkg:deb/debian/unicode-idna@16.0.0-1?arch=all

@@ -1,0 +1,2 @@
+- pkg:deb/debian/txt2regex@0.9-3?arch=all
+- pkg:deb/debian/txt2regex@0.9-5?arch=all

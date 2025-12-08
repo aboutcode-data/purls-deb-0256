@@ -1,0 +1,4 @@
+- pkg:deb/debian/golang-github-victoriametrics-victoriametrics-dev@1.112.0%2Bds1-2?arch=all
+- pkg:deb/debian/golang-github-victoriametrics-victoriametrics-dev@1.112.0%2Bds1-4?arch=all
+- pkg:deb/debian/golang-github-victoriametrics-victoriametrics-dev@1.53.1%2Bds-1?arch=all
+- pkg:deb/debian/golang-github-victoriametrics-victoriametrics-dev@1.79.5%2Bds1-2?arch=all

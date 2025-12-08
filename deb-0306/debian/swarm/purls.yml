@@ -1,0 +1,10 @@
+- pkg:deb/debian/swarm@3.0.0%2Bdfsg-2?arch=amd64
+- pkg:deb/debian/swarm@3.1.2%2Bdfsg-1?arch=amd64
+- pkg:deb/debian/swarm@3.1.2%2Bdfsg-1?arch=arm64
+- pkg:deb/debian/swarm@3.1.2%2Bdfsg-1?arch=ppc64el
+- pkg:deb/debian/swarm@3.1.5%2Bdfsg-2%2Bb1?arch=arm64
+- pkg:deb/debian/swarm@3.1.5%2Bdfsg-2?arch=amd64
+- pkg:deb/debian/swarm@3.1.5%2Bdfsg-2?arch=ppc64el
+- pkg:deb/debian/swarm@3.1.6%2Bdfsg-1?arch=amd64
+- pkg:deb/debian/swarm@3.1.6%2Bdfsg-1?arch=arm64
+- pkg:deb/debian/swarm@3.1.6%2Bdfsg-1?arch=ppc64el

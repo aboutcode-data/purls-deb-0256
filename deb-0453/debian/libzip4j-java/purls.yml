@@ -1,0 +1,2 @@
+- pkg:deb/debian/libzip4j-java@2.11.5-1?arch=all
+- pkg:deb/debian/libzip4j-java@2.6.4-1?arch=all

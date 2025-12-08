@@ -1,0 +1,4 @@
+- pkg:deb/debian/tomcat-jakartaee-migration@0.2.0-1?arch=all
+- pkg:deb/debian/tomcat-jakartaee-migration@1.0.6-1?arch=all
+- pkg:deb/debian/tomcat-jakartaee-migration@1.0.8-1~bpo12%2B1?arch=all
+- pkg:deb/debian/tomcat-jakartaee-migration@1.0.9-1?arch=all

@@ -1,0 +1,6 @@
+- pkg:deb/debian/vtk9-doc@9.0.1%2Bdfsg1-8?arch=all
+- pkg:deb/debian/vtk9-doc@9.1.0%2Breally9.1.0%2Bdfsg2-5%2Bdeb12u1?arch=all
+- pkg:deb/debian/vtk9-doc@9.1.0%2Breally9.1.0%2Bdfsg2-5?arch=all
+- pkg:deb/debian/vtk9-doc@9.3.0%2Bdfsg1-4?arch=all
+- pkg:deb/debian/vtk9-doc@9.3.0%2Bdfsg1-7?arch=all
+- pkg:deb/debian/vtk9-doc@9.5.2%2Bdfsg2-4?arch=all

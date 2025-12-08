@@ -1,0 +1,4 @@
+- pkg:deb/debian/firmware-sof-signed@1.7-1?arch=all
+- pkg:deb/debian/firmware-sof-signed@2.2.4-1?arch=all
+- pkg:deb/debian/firmware-sof-signed@2025.01-1?arch=all
+- pkg:deb/debian/firmware-sof-signed@2025.05.1-1?arch=all

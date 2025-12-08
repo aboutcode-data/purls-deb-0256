@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-tilt-ble@0.2.4-2?arch=all
+- pkg:deb/debian/python3-tilt-ble@1.0.1-1?arch=all

@@ -1,0 +1,2 @@
+- pkg:deb/debian/libspatial4j-java@0.7-1?arch=all
+- pkg:deb/debian/libspatial4j-java@0.8-1?arch=all

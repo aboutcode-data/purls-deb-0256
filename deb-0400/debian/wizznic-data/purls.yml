@@ -1,0 +1,2 @@
+- pkg:deb/debian/wizznic-data@0.9.9%2Bdfsg-1?arch=all
+- pkg:deb/debian/wizznic-data@0.9.9%2Bdfsg-3?arch=all

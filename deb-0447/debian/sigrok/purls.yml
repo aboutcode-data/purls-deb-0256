@@ -1,0 +1,2 @@
+- pkg:deb/debian/sigrok@0.2-5?arch=all
+- pkg:deb/debian/sigrok@0.3?arch=all

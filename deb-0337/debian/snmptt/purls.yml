@@ -1,0 +1,3 @@
+- pkg:deb/debian/snmptt@1.4.2-1?arch=all
+- pkg:deb/debian/snmptt@1.5-1?arch=all
+- pkg:deb/debian/snmptt@1.5-2?arch=all

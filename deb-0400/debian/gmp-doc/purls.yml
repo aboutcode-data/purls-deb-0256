@@ -1,0 +1,2 @@
+- pkg:deb/debian/gmp-doc@6.2.1%2Bndfsg-1?arch=all
+- pkg:deb/debian/gmp-doc@6.3.0%2Bndfsg-1?arch=all

@@ -1,0 +1,4 @@
+- pkg:deb/debian/vbetool@1.1-5?arch=amd64
+- pkg:deb/debian/vbetool@1.1-5?arch=i386
+- pkg:deb/debian/vbetool@1.1-7?arch=amd64
+- pkg:deb/debian/vbetool@1.1-7?arch=i386

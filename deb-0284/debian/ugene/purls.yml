@@ -1,0 +1,5 @@
+- pkg:deb/debian/ugene@34.0%2Bdfsg-2?arch=amd64
+- pkg:deb/debian/ugene@51.0%2Bdfsg-3?arch=amd64
+- pkg:deb/debian/ugene@51.0%2Bdfsg-3?arch=arm64
+- pkg:deb/debian/ugene@52.1%2Bdfsg-1?arch=amd64
+- pkg:deb/debian/ugene@52.1%2Bdfsg-1?arch=arm64

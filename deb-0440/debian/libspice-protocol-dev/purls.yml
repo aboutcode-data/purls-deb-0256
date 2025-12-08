@@ -1,0 +1,2 @@
+- pkg:deb/debian/libspice-protocol-dev@0.14.3-1?arch=all
+- pkg:deb/debian/libspice-protocol-dev@0.14.5-1?arch=all

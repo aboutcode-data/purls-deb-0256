@@ -1,0 +1,3 @@
+- pkg:deb/debian/elpa-solarized-theme@1.3.1-1?arch=all
+- pkg:deb/debian/elpa-solarized-theme@2.0.0-1?arch=all
+- pkg:deb/debian/elpa-solarized-theme@2.0.5-1?arch=all

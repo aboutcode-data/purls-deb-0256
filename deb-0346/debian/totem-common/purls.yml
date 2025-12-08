@@ -1,0 +1,4 @@
+- pkg:deb/debian/totem-common@3.38.0-2?arch=all
+- pkg:deb/debian/totem-common@43.0-2?arch=all
+- pkg:deb/debian/totem-common@43.2-3?arch=all
+- pkg:deb/debian/totem-common@43.2-8?arch=all

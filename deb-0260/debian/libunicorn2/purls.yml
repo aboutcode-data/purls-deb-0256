@@ -1,0 +1,9 @@
+- pkg:deb/debian/libunicorn2@2.0.1.post1-1%2Bb1?arch=amd64
+- pkg:deb/debian/libunicorn2@2.0.1.post1-1%2Bb1?arch=arm64
+- pkg:deb/debian/libunicorn2@2.0.1.post1-1%2Bb1?arch=armel
+- pkg:deb/debian/libunicorn2@2.0.1.post1-1%2Bb1?arch=armhf
+- pkg:deb/debian/libunicorn2@2.0.1.post1-1%2Bb1?arch=i386
+- pkg:deb/debian/libunicorn2@2.0.1.post1-1%2Bb1?arch=mips64el
+- pkg:deb/debian/libunicorn2@2.0.1.post1-1%2Bb1?arch=mipsel
+- pkg:deb/debian/libunicorn2@2.0.1.post1-1%2Bb1?arch=ppc64el
+- pkg:deb/debian/libunicorn2@2.0.1.post1-1%2Bb1?arch=s390x

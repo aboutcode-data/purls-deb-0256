@@ -1,0 +1,4 @@
+- pkg:deb/debian/vdr-plugin-weather@0.2.1e-70?arch=amd64
+- pkg:deb/debian/vdr-plugin-weather@0.2.1e-70?arch=arm64
+- pkg:deb/debian/vdr-plugin-weather@0.2.1e-70?arch=armhf
+- pkg:deb/debian/vdr-plugin-weather@0.2.1e-70?arch=i386

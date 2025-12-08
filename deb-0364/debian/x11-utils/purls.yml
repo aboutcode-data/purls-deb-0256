@@ -1,0 +1,17 @@
+- pkg:deb/debian/x11-utils@7.7%2B5?arch=amd64
+- pkg:deb/debian/x11-utils@7.7%2B5?arch=arm64
+- pkg:deb/debian/x11-utils@7.7%2B5?arch=armel
+- pkg:deb/debian/x11-utils@7.7%2B5?arch=armhf
+- pkg:deb/debian/x11-utils@7.7%2B5?arch=i386
+- pkg:deb/debian/x11-utils@7.7%2B5?arch=mips64el
+- pkg:deb/debian/x11-utils@7.7%2B5?arch=mipsel
+- pkg:deb/debian/x11-utils@7.7%2B5?arch=ppc64el
+- pkg:deb/debian/x11-utils@7.7%2B5?arch=s390x
+- pkg:deb/debian/x11-utils@7.7%2B7?arch=amd64
+- pkg:deb/debian/x11-utils@7.7%2B7?arch=arm64
+- pkg:deb/debian/x11-utils@7.7%2B7?arch=armel
+- pkg:deb/debian/x11-utils@7.7%2B7?arch=armhf
+- pkg:deb/debian/x11-utils@7.7%2B7?arch=i386
+- pkg:deb/debian/x11-utils@7.7%2B7?arch=ppc64el
+- pkg:deb/debian/x11-utils@7.7%2B7?arch=riscv64
+- pkg:deb/debian/x11-utils@7.7%2B7?arch=s390x

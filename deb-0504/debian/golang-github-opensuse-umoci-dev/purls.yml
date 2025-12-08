@@ -1,0 +1,5 @@
+- pkg:deb/debian/golang-github-opensuse-umoci-dev@0.4.7%2Bds-2?arch=all
+- pkg:deb/debian/golang-github-opensuse-umoci-dev@0.4.7%2Bds-3?arch=all
+- pkg:deb/debian/golang-github-opensuse-umoci-dev@0.4.7%2Bds-4?arch=all
+- pkg:deb/debian/golang-github-opensuse-umoci-dev@0.4.7%2Bds-4~bpo12%2B1?arch=all
+- pkg:deb/debian/golang-github-opensuse-umoci-dev@0.5.0%2Bds-2?arch=all

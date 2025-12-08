@@ -1,0 +1,5 @@
+- pkg:deb/debian/smrtanalysis-dev@0~20210111?arch=amd64
+- pkg:deb/debian/smrtanalysis-dev@0~20210112?arch=amd64
+- pkg:deb/debian/smrtanalysis-dev@0~20210112?arch=arm64
+- pkg:deb/debian/smrtanalysis-dev@0~20210112?arch=ppc64el
+- pkg:deb/debian/smrtanalysis-dev@0~20210112?arch=riscv64

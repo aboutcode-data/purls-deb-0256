@@ -1,0 +1,3 @@
+- pkg:deb/debian/tpm-udev@0.5?arch=all
+- pkg:deb/debian/tpm-udev@0.6%2Bnmu1?arch=all
+- pkg:deb/debian/tpm-udev@0.6?arch=all

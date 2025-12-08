@@ -1,0 +1,4 @@
+- pkg:deb/debian/xastir-data@2.1.6-3?arch=all
+- pkg:deb/debian/xastir-data@2.1.8-1?arch=all
+- pkg:deb/debian/xastir-data@2.2.0-1?arch=all
+- pkg:deb/debian/xastir-data@2.2.2-2?arch=all

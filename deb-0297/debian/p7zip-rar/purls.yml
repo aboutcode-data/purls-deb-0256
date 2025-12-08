@@ -1,0 +1,10 @@
+- pkg:deb/debian/p7zip-rar@16.02%2Btransitional.1?arch=all
+- pkg:deb/debian/p7zip-rar@16.02-3?arch=amd64
+- pkg:deb/debian/p7zip-rar@16.02-3?arch=arm64
+- pkg:deb/debian/p7zip-rar@16.02-3?arch=armel
+- pkg:deb/debian/p7zip-rar@16.02-3?arch=armhf
+- pkg:deb/debian/p7zip-rar@16.02-3?arch=i386
+- pkg:deb/debian/p7zip-rar@16.02-3?arch=mips64el
+- pkg:deb/debian/p7zip-rar@16.02-3?arch=mipsel
+- pkg:deb/debian/p7zip-rar@16.02-3?arch=ppc64el
+- pkg:deb/debian/p7zip-rar@16.02-3?arch=s390x

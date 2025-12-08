@@ -1,0 +1,4 @@
+- pkg:deb/debian/xprobe@0.3-5?arch=amd64
+- pkg:deb/debian/xprobe@0.3-5?arch=arm64
+- pkg:deb/debian/xprobe@0.3-5?arch=armhf
+- pkg:deb/debian/xprobe@0.3-5?arch=i386

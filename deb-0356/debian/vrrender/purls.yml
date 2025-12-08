@@ -1,0 +1,2 @@
+- pkg:deb/debian/vrrender@20.2.0-2?arch=amd64
+- pkg:deb/debian/vrrender@20.2.0-2?arch=i386

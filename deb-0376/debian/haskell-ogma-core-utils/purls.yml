@@ -1,1 +1,2 @@
 - pkg:deb/debian/haskell-ogma-core-utils@1.10.0-1?arch=all
+- pkg:deb/debian/haskell-ogma-core-utils@1.7.0-2?arch=all

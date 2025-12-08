@@ -1,0 +1,4 @@
+- pkg:deb/debian/tcl-snack-doc@2.2.10.20090623-dfsg-10?arch=all
+- pkg:deb/debian/tcl-snack-doc@2.2.10.20090624%2Bdfsg-1?arch=all
+- pkg:deb/debian/tcl-snack-doc@2.2.10.20090624%2Bdfsg-3?arch=all
+- pkg:deb/debian/tcl-snack-doc@2.2.10.20090624%2Bdfsg-4?arch=all

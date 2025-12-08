@@ -1,0 +1,4 @@
+- pkg:deb/debian/libfile-stripnondeterminism-perl@1.12.0-1?arch=all
+- pkg:deb/debian/libfile-stripnondeterminism-perl@1.13.1-1?arch=all
+- pkg:deb/debian/libfile-stripnondeterminism-perl@1.14.1-2?arch=all
+- pkg:deb/debian/libfile-stripnondeterminism-perl@1.15.0-1?arch=all

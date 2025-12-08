@@ -1,0 +1,4 @@
+- pkg:deb/debian/libwxsqlite3-3.0-0@3.4.1~dfsg-5?arch=amd64
+- pkg:deb/debian/libwxsqlite3-3.0-0@3.4.1~dfsg-5?arch=arm64
+- pkg:deb/debian/libwxsqlite3-3.0-0@3.4.1~dfsg-5?arch=armhf
+- pkg:deb/debian/libwxsqlite3-3.0-0@3.4.1~dfsg-5?arch=i386

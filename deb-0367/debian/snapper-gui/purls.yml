@@ -1,0 +1,3 @@
+- pkg:deb/debian/snapper-gui@0git.960a94834f-3.1?arch=all
+- pkg:deb/debian/snapper-gui@0git.960a94834f-5?arch=all
+- pkg:deb/debian/snapper-gui@0git.960a94834f-6.1?arch=all

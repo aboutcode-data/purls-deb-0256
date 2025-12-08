@@ -1,0 +1,4 @@
+- pkg:deb/debian/xfonts-unifont@13.0.06-1?arch=all
+- pkg:deb/debian/xfonts-unifont@15.0.01-2?arch=all
+- pkg:deb/debian/xfonts-unifont@15.1.01-1?arch=all
+- pkg:deb/debian/xfonts-unifont@16.0.04-1?arch=all

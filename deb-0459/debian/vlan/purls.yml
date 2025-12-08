@@ -1,0 +1,2 @@
+- pkg:deb/debian/vlan@2.0.5%2Bnmu3?arch=all
+- pkg:deb/debian/vlan@2.0.5?arch=all

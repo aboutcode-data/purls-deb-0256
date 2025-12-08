@@ -1,0 +1,3 @@
+- pkg:deb/debian/cups-tea4cups@3.14~alpha0%2Bsvn3576-2.1?arch=all
+- pkg:deb/debian/cups-tea4cups@3.14~alpha0%2Bsvn3576-2.2?arch=all
+- pkg:deb/debian/cups-tea4cups@3.14~alpha0%2Bsvn3576-2?arch=all

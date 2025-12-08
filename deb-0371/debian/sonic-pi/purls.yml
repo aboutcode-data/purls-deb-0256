@@ -1,0 +1,17 @@
+- pkg:deb/debian/sonic-pi@3.2.2~repack-12.1?arch=amd64
+- pkg:deb/debian/sonic-pi@3.2.2~repack-12.1?arch=arm64
+- pkg:deb/debian/sonic-pi@3.2.2~repack-12.1?arch=armhf
+- pkg:deb/debian/sonic-pi@3.2.2~repack-12.1?arch=i386
+- pkg:deb/debian/sonic-pi@3.2.2~repack-12?arch=amd64
+- pkg:deb/debian/sonic-pi@3.2.2~repack-12?arch=arm64
+- pkg:deb/debian/sonic-pi@3.2.2~repack-12?arch=armhf
+- pkg:deb/debian/sonic-pi@3.2.2~repack-12?arch=i386
+- pkg:deb/debian/sonic-pi@3.2.2~repack-7?arch=amd64
+- pkg:deb/debian/sonic-pi@3.2.2~repack-7?arch=arm64
+- pkg:deb/debian/sonic-pi@3.2.2~repack-7?arch=armhf
+- pkg:deb/debian/sonic-pi@3.2.2~repack-7?arch=i386
+- pkg:deb/debian/sonic-pi@3.2.2~repack-8?arch=amd64
+- pkg:deb/debian/sonic-pi@3.2.2~repack-8?arch=arm64
+- pkg:deb/debian/sonic-pi@3.2.2~repack-8?arch=armhf
+- pkg:deb/debian/sonic-pi@3.2.2~repack-8?arch=i386
+- pkg:deb/debian/sonic-pi@3.2.2~repack-8?arch=mipsel

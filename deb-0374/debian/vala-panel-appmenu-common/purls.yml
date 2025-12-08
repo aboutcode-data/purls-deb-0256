@@ -1,0 +1,5 @@
+- pkg:deb/debian/vala-panel-appmenu-common@0.7.6%2Bdfsg1-3?arch=all
+- pkg:deb/debian/vala-panel-appmenu-common@0.7.6%2Bdfsg1-4?arch=all
+- pkg:deb/debian/vala-panel-appmenu-common@25.04%2Bdfsg-1?arch=all
+- pkg:deb/debian/vala-panel-appmenu-common@25.04%2Bdfsg-2?arch=all
+- pkg:deb/debian/vala-panel-appmenu-common@25.04%2Bdfsg-3?arch=all

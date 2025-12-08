@@ -1,0 +1,2 @@
+- pkg:deb/debian/tryton-modules-account-invoice-defer@6.0.3-3?arch=all
+- pkg:deb/debian/tryton-modules-account-invoice-defer@7.0.1-1?arch=all

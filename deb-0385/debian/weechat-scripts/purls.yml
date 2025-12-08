@@ -1,0 +1,4 @@
+- pkg:deb/debian/weechat-scripts@20200815-1?arch=all
+- pkg:deb/debian/weechat-scripts@20221022-1?arch=all
+- pkg:deb/debian/weechat-scripts@20250416-1?arch=all
+- pkg:deb/debian/weechat-scripts@20251129-1?arch=all

@@ -1,0 +1,2 @@
+- pkg:deb/debian/vistrails@3.0~git%2B9dc22bd-2?arch=all
+- pkg:deb/debian/vistrails@3.0~git%2B9dc22bd.dfsg.1-1.1?arch=all

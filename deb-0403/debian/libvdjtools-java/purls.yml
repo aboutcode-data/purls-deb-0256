@@ -1,0 +1,3 @@
+- pkg:deb/debian/libvdjtools-java@1.2.1%2Bgit20190311%2Brepack-1?arch=all
+- pkg:deb/debian/libvdjtools-java@1.2.1%2Bgit20190311%2Brepack-2?arch=all
+- pkg:deb/debian/libvdjtools-java@1.2.1%2Bgit20190311-5?arch=all

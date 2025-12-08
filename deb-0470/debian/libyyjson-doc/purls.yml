@@ -1,0 +1,2 @@
+- pkg:deb/debian/libyyjson-doc@0.10.0%2Bds-1?arch=all
+- pkg:deb/debian/libyyjson-doc@0.12.0%2Bds-1?arch=all

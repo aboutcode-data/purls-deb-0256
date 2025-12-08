@@ -1,0 +1,5 @@
+- pkg:deb/debian/vitrage-snmp-parsing@14.0.0-4?arch=all
+- pkg:deb/debian/vitrage-snmp-parsing@15.0.1-1?arch=all
+- pkg:deb/debian/vitrage-snmp-parsing@15.0.1-2?arch=all
+- pkg:deb/debian/vitrage-snmp-parsing@7.3.0-2?arch=all
+- pkg:deb/debian/vitrage-snmp-parsing@9.0.0-3.1?arch=all

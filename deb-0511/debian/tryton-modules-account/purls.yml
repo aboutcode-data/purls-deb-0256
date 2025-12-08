@@ -1,0 +1,4 @@
+- pkg:deb/debian/tryton-modules-account@5.0.16-1?arch=all
+- pkg:deb/debian/tryton-modules-account@6.0.15-1?arch=all
+- pkg:deb/debian/tryton-modules-account@7.0.19-1?arch=all
+- pkg:deb/debian/tryton-modules-account@7.0.22-1?arch=all

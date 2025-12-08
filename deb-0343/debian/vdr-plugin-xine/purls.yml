@@ -1,0 +1,4 @@
+- pkg:deb/debian/vdr-plugin-xine@0.9.4-17?arch=amd64
+- pkg:deb/debian/vdr-plugin-xine@0.9.4-17?arch=arm64
+- pkg:deb/debian/vdr-plugin-xine@0.9.4-17?arch=armhf
+- pkg:deb/debian/vdr-plugin-xine@0.9.4-17?arch=i386

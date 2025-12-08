@@ -1,0 +1,3 @@
+- pkg:deb/debian/tryton-modules-sale-shipment-grouping@5.0.3-1?arch=all
+- pkg:deb/debian/tryton-modules-sale-shipment-grouping@6.0.1-1?arch=all
+- pkg:deb/debian/tryton-modules-sale-shipment-grouping@7.0.0-3?arch=all

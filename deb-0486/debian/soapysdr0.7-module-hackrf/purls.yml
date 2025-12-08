@@ -1,0 +1,4 @@
+- pkg:deb/debian/soapysdr0.7-module-hackrf@0.3.3-3?arch=amd64
+- pkg:deb/debian/soapysdr0.7-module-hackrf@0.3.3-3?arch=arm64
+- pkg:deb/debian/soapysdr0.7-module-hackrf@0.3.3-3?arch=armhf
+- pkg:deb/debian/soapysdr0.7-module-hackrf@0.3.3-3?arch=i386

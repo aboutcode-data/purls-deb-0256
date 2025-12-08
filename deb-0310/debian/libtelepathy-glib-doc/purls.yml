@@ -1,0 +1,5 @@
+- pkg:deb/debian/libtelepathy-glib-doc@0.24.1-3?arch=all
+- pkg:deb/debian/libtelepathy-glib-doc@0.24.2-0.1?arch=all
+- pkg:deb/debian/libtelepathy-glib-doc@0.24.2-2?arch=all
+- pkg:deb/debian/libtelepathy-glib-doc@0.24.2-3?arch=all
+- pkg:deb/debian/libtelepathy-glib-doc@0.24.2-4?arch=all

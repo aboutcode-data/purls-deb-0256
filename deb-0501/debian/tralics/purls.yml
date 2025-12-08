@@ -1,0 +1,12 @@
+- pkg:deb/debian/tralics@2.14.4-2%2Bb2?arch=amd64
+- pkg:deb/debian/tralics@2.14.4-2%2Bb2?arch=arm64
+- pkg:deb/debian/tralics@2.14.4-2%2Bb2?arch=armhf
+- pkg:deb/debian/tralics@2.14.4-2%2Bb2?arch=i386
+- pkg:deb/debian/tralics@2.14.4-2.1%2Bb1?arch=riscv64
+- pkg:deb/debian/tralics@2.14.4-2.1?arch=amd64
+- pkg:deb/debian/tralics@2.14.4-2.1?arch=arm64
+- pkg:deb/debian/tralics@2.14.4-2.1?arch=armel
+- pkg:deb/debian/tralics@2.14.4-2.1?arch=armhf
+- pkg:deb/debian/tralics@2.14.4-2.1?arch=i386
+- pkg:deb/debian/tralics@2.14.4-2.1?arch=ppc64el
+- pkg:deb/debian/tralics@2.14.4-2.1?arch=s390x

@@ -1,0 +1,3 @@
+- pkg:deb/debian/whatmaps@0.0.12-3?arch=all
+- pkg:deb/debian/whatmaps@0.0.13-1?arch=all
+- pkg:deb/debian/whatmaps@0.0.14-2?arch=all

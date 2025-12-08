@@ -1,0 +1,8 @@
+- pkg:deb/debian/python3-shasta@0.11.1-1%2Bb1?arch=amd64
+- pkg:deb/debian/python3-shasta@0.11.1-1%2Bb1?arch=arm64
+- pkg:deb/debian/python3-shasta@0.12.0-1%2Bb2?arch=amd64
+- pkg:deb/debian/python3-shasta@0.12.0-1%2Bb3?arch=arm64
+- pkg:deb/debian/python3-shasta@0.12.0-2%2Bb1?arch=amd64
+- pkg:deb/debian/python3-shasta@0.12.0-2%2Bb1?arch=arm64
+- pkg:deb/debian/python3-shasta@0.7.0-3?arch=amd64
+- pkg:deb/debian/python3-shasta@0.7.0-3?arch=arm64

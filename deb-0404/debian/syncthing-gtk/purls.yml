@@ -1,0 +1,3 @@
+- pkg:deb/debian/syncthing-gtk@0.9.4.4%2Bds%2Bgit20201209%2Bc46fbd8-1?arch=all
+- pkg:deb/debian/syncthing-gtk@0.9.4.4%2Bds%2Bgit20221205%2B12a9702d29ab-2?arch=all
+- pkg:deb/debian/syncthing-gtk@0.9.4.4%2Bds%2Bgit20221205%2B12a9702d29ab-6?arch=all

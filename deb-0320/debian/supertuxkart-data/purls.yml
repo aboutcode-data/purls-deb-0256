@@ -1,0 +1,5 @@
+- pkg:deb/debian/supertuxkart-data@1.2%2Bds2-1?arch=all
+- pkg:deb/debian/supertuxkart-data@1.4%2Bdfsg-2?arch=all
+- pkg:deb/debian/supertuxkart-data@1.4%2Bdfsg-5?arch=all
+- pkg:deb/debian/supertuxkart-data@1.5-2?arch=all
+- pkg:deb/debian/supertuxkart-data@1.5-2~bpo13%2B1?arch=all

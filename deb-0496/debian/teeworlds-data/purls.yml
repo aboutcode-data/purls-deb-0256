@@ -1,0 +1,3 @@
+- pkg:deb/debian/teeworlds-data@0.7.5-1?arch=all
+- pkg:deb/debian/teeworlds-data@0.7.5-2?arch=all
+- pkg:deb/debian/teeworlds-data@0.7.5-3?arch=all

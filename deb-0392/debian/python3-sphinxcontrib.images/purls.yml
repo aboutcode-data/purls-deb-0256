@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-sphinxcontrib.images@0.9.4-3?arch=all
+- pkg:deb/debian/python3-sphinxcontrib.images@1.0.1-1?arch=all

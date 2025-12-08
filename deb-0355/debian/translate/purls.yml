@@ -1,0 +1,2 @@
+- pkg:deb/debian/translate@0.6.0~debian0?arch=all
+- pkg:deb/debian/translate@1.1.3?arch=all

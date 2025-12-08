@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-urwid-satext@0.8.0~hg144.bfab04d0a745-1?arch=all
+- pkg:deb/debian/python3-urwid-satext@0.9.0~hg150.aa8f46b43a71-1?arch=all
+- pkg:deb/debian/python3-urwid-satext@0.9.0~hg151-1?arch=all
+- pkg:deb/debian/python3-urwid-satext@0.9.0~hg151-2?arch=all

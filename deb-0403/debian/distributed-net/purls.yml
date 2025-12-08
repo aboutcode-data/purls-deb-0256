@@ -1,0 +1,8 @@
+- pkg:deb/debian/distributed-net@2.9112.521%2Barm64-2?arch=amd64
+- pkg:deb/debian/distributed-net@2.9112.521%2Barm64-2?arch=arm64
+- pkg:deb/debian/distributed-net@2.9112.521%2Barm64-2?arch=i386
+- pkg:deb/debian/distributed-net@2.9112.521%2Barm64-3?arch=amd64
+- pkg:deb/debian/distributed-net@2.9112.521%2Barm64-3?arch=arm64
+- pkg:deb/debian/distributed-net@2.9112.521%2Barm64-3?arch=armel
+- pkg:deb/debian/distributed-net@2.9112.521%2Barm64-3?arch=i386
+- pkg:deb/debian/distributed-net@2.9112.521%2Barm64-3?arch=mipsel

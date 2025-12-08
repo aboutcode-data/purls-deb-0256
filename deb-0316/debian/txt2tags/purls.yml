@@ -1,0 +1,4 @@
+- pkg:deb/debian/txt2tags@3.4-2?arch=all
+- pkg:deb/debian/txt2tags@3.4-4?arch=all
+- pkg:deb/debian/txt2tags@3.9-1?arch=all
+- pkg:deb/debian/txt2tags@3.9-2?arch=all

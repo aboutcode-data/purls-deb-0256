@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-zope.deprecation@4.4.0-4?arch=all
+- pkg:deb/debian/python3-zope.deprecation@4.4.0-5?arch=all
+- pkg:deb/debian/python3-zope.deprecation@5.1-1?arch=all
+- pkg:deb/debian/python3-zope.deprecation@6.0-2?arch=all

@@ -1,0 +1,2 @@
+- pkg:deb/debian/singularity@1.0.0%2Bgit20241231-3?arch=all
+- pkg:deb/debian/singularity@1.0.0-1?arch=all

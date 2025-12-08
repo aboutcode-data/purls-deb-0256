@@ -1,0 +1,3 @@
+- pkg:deb/debian/subread-data@2.0.1%2Bdfsg-1?arch=all
+- pkg:deb/debian/subread-data@2.0.3%2Bdfsg-1?arch=all
+- pkg:deb/debian/subread-data@2.0.8%2Bdfsg-1?arch=all

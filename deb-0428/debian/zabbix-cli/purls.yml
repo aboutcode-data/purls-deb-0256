@@ -1,0 +1,2 @@
+- pkg:deb/debian/zabbix-cli@3.5.1-1?arch=all
+- pkg:deb/debian/zabbix-cli@3.5.3-1?arch=all

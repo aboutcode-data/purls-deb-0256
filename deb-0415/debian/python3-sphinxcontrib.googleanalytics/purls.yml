@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-sphinxcontrib.googleanalytics@0.4-2?arch=all
+- pkg:deb/debian/python3-sphinxcontrib.googleanalytics@0.5-1?arch=all

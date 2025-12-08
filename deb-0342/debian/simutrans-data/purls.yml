@@ -1,0 +1,3 @@
+- pkg:deb/debian/simutrans-data@121.0-1?arch=all
+- pkg:deb/debian/simutrans-data@123.0.1-1?arch=all
+- pkg:deb/debian/simutrans-data@124.3-2?arch=all

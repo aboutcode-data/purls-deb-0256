@@ -1,0 +1,3 @@
+- pkg:deb/debian/vgabios@0.7b%2Bds-1?arch=all
+- pkg:deb/debian/vgabios@0.8a%2Bds-2?arch=all
+- pkg:deb/debian/vgabios@0.8a%2Bds-3?arch=all

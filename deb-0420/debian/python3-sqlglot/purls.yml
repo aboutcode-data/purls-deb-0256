@@ -1,0 +1,5 @@
+- pkg:deb/debian/python3-sqlglot@10.6.3-1?arch=all
+- pkg:deb/debian/python3-sqlglot@26.16.4-1?arch=all
+- pkg:deb/debian/python3-sqlglot@28.0.0-1?arch=all
+- pkg:deb/debian/python3-sqlglot@28.0.0-2?arch=all
+- pkg:deb/debian/python3-sqlglot@28.1.0-1?arch=all

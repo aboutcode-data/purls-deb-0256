@@ -1,0 +1,2 @@
+- pkg:deb/debian/firmware-nvidia-tesla-550-gsp@550.54.15-3?arch=amd64
+- pkg:deb/debian/firmware-nvidia-tesla-550-gsp@550.54.15-3?arch=arm64

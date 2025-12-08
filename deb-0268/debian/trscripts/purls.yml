@@ -1,0 +1,2 @@
+- pkg:deb/debian/trscripts@1.18%2Bnmu2?arch=all
+- pkg:deb/debian/trscripts@1.18%2Bnmu3?arch=all

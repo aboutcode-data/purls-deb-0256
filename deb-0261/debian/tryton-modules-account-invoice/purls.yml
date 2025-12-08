@@ -1,0 +1,4 @@
+- pkg:deb/debian/tryton-modules-account-invoice@5.0.11-1?arch=all
+- pkg:deb/debian/tryton-modules-account-invoice@6.0.9-1?arch=all
+- pkg:deb/debian/tryton-modules-account-invoice@7.0.12-1?arch=all
+- pkg:deb/debian/tryton-modules-account-invoice@7.0.14-1?arch=all

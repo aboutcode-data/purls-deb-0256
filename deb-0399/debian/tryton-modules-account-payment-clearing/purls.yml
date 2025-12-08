@@ -1,0 +1,3 @@
+- pkg:deb/debian/tryton-modules-account-payment-clearing@5.0.6-1?arch=all
+- pkg:deb/debian/tryton-modules-account-payment-clearing@6.0.1-2?arch=all
+- pkg:deb/debian/tryton-modules-account-payment-clearing@7.0.5-1?arch=all

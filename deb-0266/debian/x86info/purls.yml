@@ -1,0 +1,4 @@
+- pkg:deb/debian/x86info@1.31~pre0.8052aabdd159bc9050e7dc264f33782c5acce05f-1.1?arch=amd64
+- pkg:deb/debian/x86info@1.31~pre0.8052aabdd159bc9050e7dc264f33782c5acce05f-1.1?arch=i386
+- pkg:deb/debian/x86info@1.31~pre0.8052aabdd159bc9050e7dc264f33782c5acce05f-2?arch=amd64
+- pkg:deb/debian/x86info@1.31~pre0.8052aabdd159bc9050e7dc264f33782c5acce05f-2?arch=i386

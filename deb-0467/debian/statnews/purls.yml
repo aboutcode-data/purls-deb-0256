@@ -1,0 +1,2 @@
+- pkg:deb/debian/statnews@2.6%2Bnmu1?arch=all
+- pkg:deb/debian/statnews@2.6?arch=all

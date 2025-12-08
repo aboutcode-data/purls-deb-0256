@@ -1,0 +1,9 @@
+- pkg:deb/debian/tp-smapi-dkms@0.43-1?arch=all
+- pkg:deb/debian/tp-smapi-dkms@0.43-3?arch=all
+- pkg:deb/debian/tp-smapi-dkms@0.44-1.2?arch=amd64
+- pkg:deb/debian/tp-smapi-dkms@0.44-1.2?arch=i386
+- pkg:deb/debian/tp-smapi-dkms@0.44-1~bpo12%2B1?arch=all
+- pkg:deb/debian/tp-smapi-dkms@0.45-1?arch=amd64
+- pkg:deb/debian/tp-smapi-dkms@0.45-1?arch=i386
+- pkg:deb/debian/tp-smapi-dkms@0.45-1~bpo13%2B1?arch=amd64
+- pkg:deb/debian/tp-smapi-dkms@0.45-1~bpo13%2B1?arch=i386

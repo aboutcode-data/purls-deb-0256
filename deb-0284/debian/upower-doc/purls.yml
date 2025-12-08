@@ -1,0 +1,4 @@
+- pkg:deb/debian/upower-doc@0.99.11-2?arch=all
+- pkg:deb/debian/upower-doc@0.99.20-2?arch=all
+- pkg:deb/debian/upower-doc@1.90.9-1?arch=all
+- pkg:deb/debian/upower-doc@1.91.0-1?arch=all

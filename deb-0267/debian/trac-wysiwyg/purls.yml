@@ -1,0 +1,2 @@
+- pkg:deb/debian/trac-wysiwyg@0.12.0.7%2Bsvn18546-2?arch=all
+- pkg:deb/debian/trac-wysiwyg@0.12.0.7%2Bsvn18546-2~bpo12%2B1?arch=all

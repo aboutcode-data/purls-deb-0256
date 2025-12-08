@@ -1,0 +1,3 @@
+- pkg:deb/debian/xmoto-data@0.6.1%2Brepack-4?arch=all
+- pkg:deb/debian/xmoto-data@0.6.1%2Brepack-9?arch=all
+- pkg:deb/debian/xmoto-data@0.6.3%2Brepack-1?arch=all

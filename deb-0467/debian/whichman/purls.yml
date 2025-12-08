@@ -1,0 +1,11 @@
+- pkg:deb/debian/whichman@2.4-10%2Bb2?arch=arm64
+- pkg:deb/debian/whichman@2.4-10%2Bb2?arch=riscv64
+- pkg:deb/debian/whichman@2.4-10?arch=amd64
+- pkg:deb/debian/whichman@2.4-10?arch=arm64
+- pkg:deb/debian/whichman@2.4-10?arch=armel
+- pkg:deb/debian/whichman@2.4-10?arch=armhf
+- pkg:deb/debian/whichman@2.4-10?arch=i386
+- pkg:deb/debian/whichman@2.4-10?arch=mips64el
+- pkg:deb/debian/whichman@2.4-10?arch=mipsel
+- pkg:deb/debian/whichman@2.4-10?arch=ppc64el
+- pkg:deb/debian/whichman@2.4-10?arch=s390x

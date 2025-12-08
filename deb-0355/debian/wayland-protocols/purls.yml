@@ -1,0 +1,5 @@
+- pkg:deb/debian/wayland-protocols@1.20-1?arch=all
+- pkg:deb/debian/wayland-protocols@1.31-1?arch=all
+- pkg:deb/debian/wayland-protocols@1.43-1~bpo12%2B1?arch=all
+- pkg:deb/debian/wayland-protocols@1.44-1?arch=all
+- pkg:deb/debian/wayland-protocols@1.46-1?arch=all

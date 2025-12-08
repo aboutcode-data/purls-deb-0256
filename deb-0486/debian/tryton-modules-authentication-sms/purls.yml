@@ -1,0 +1,3 @@
+- pkg:deb/debian/tryton-modules-authentication-sms@5.0.3-1?arch=all
+- pkg:deb/debian/tryton-modules-authentication-sms@6.0.0-3?arch=all
+- pkg:deb/debian/tryton-modules-authentication-sms@7.0.0-3?arch=all

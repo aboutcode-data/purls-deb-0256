@@ -1,0 +1,4 @@
+- pkg:deb/debian/shotwell-common@0.30.11-1?arch=all
+- pkg:deb/debian/shotwell-common@0.30.17-1?arch=all
+- pkg:deb/debian/shotwell-common@0.32.10-1?arch=all
+- pkg:deb/debian/shotwell-common@0.32.13-2?arch=all

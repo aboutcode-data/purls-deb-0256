@@ -1,3 +1,7 @@
+- pkg:deb/debian/kernelshark@2.9.1-1?arch=amd64
+- pkg:deb/debian/kernelshark@2.9.1-1?arch=arm64
+- pkg:deb/debian/kernelshark@2.9.1-1?arch=armhf
+- pkg:deb/debian/kernelshark@2.9.1-1?arch=i386
 - pkg:deb/debian/kernelshark@2.9.3%2Breally2.2.1-1~bpo12%2B1?arch=amd64
 - pkg:deb/debian/kernelshark@2.9.3%2Breally2.2.1-1~bpo12%2B1?arch=arm64
 - pkg:deb/debian/kernelshark@2.9.3%2Breally2.2.1-1~bpo12%2B1?arch=armel

@@ -1,0 +1,2 @@
+- pkg:deb/debian/trac-subcomponents@1.3.3-2?arch=all
+- pkg:deb/debian/trac-subcomponents@1.3.3-2~bpo12%2B1?arch=all

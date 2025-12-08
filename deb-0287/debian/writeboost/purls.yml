@@ -1,0 +1,3 @@
+- pkg:deb/debian/writeboost@1.20170616-1.1?arch=all
+- pkg:deb/debian/writeboost@1.20170616-1.2?arch=all
+- pkg:deb/debian/writeboost@1.20170616-1.3?arch=all
