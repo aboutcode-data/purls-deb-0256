@@ -1,0 +1,2 @@
+- pkg:deb/debian/puppet-module-puppetlabs-inifile@2.2.1-1?arch=all
+- pkg:deb/debian/puppet-module-puppetlabs-inifile@5.4.0-1?arch=all

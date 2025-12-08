@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-wsgi-intercept@1.13.1-1?arch=all
+- pkg:deb/debian/python3-wsgi-intercept@1.13.1-2?arch=all
+- pkg:deb/debian/python3-wsgi-intercept@1.9.2-1?arch=all
+- pkg:deb/debian/python3-wsgi-intercept@1.9.3-2?arch=all

@@ -1,0 +1,3 @@
+- pkg:deb/debian/python-tinycss-doc@0.4-3?arch=all
+- pkg:deb/debian/python-tinycss-doc@0.4-6?arch=all
+- pkg:deb/debian/python-tinycss-doc@0.4-8?arch=all

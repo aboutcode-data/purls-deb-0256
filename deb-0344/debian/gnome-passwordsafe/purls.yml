@@ -1,1 +1,2 @@
 - pkg:deb/debian/gnome-passwordsafe@5.0-2?arch=all
+- pkg:deb/debian/gnome-passwordsafe@7.2-1?arch=all

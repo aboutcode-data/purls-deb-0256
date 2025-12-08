@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-livereload@2.6.3-2?arch=all
+- pkg:deb/debian/python3-livereload@2.7.1-0.1?arch=all

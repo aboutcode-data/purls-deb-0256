@@ -1,0 +1,3 @@
+- pkg:deb/debian/r-cran-gridsvg@1.7-2-2?arch=all
+- pkg:deb/debian/r-cran-gridsvg@1.7-4-1?arch=all
+- pkg:deb/debian/r-cran-gridsvg@1.7-5-1?arch=all

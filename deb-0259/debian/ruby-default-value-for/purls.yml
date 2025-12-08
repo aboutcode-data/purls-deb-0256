@@ -1,0 +1,4 @@
+- pkg:deb/debian/ruby-default-value-for@3.3.0-1?arch=all
+- pkg:deb/debian/ruby-default-value-for@3.4.0-2?arch=all
+- pkg:deb/debian/ruby-default-value-for@4.1.0-1?arch=all
+- pkg:deb/debian/ruby-default-value-for@4.2.0-1?arch=all

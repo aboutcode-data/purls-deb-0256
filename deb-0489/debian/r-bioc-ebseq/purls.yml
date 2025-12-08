@@ -1,0 +1,7 @@
+- pkg:deb/debian/r-bioc-ebseq@1.30.0-1?arch=all
+- pkg:deb/debian/r-bioc-ebseq@1.38.0-1?arch=all
+- pkg:deb/debian/r-bioc-ebseq@2.4.0-2?arch=amd64
+- pkg:deb/debian/r-bioc-ebseq@2.4.0-2?arch=arm64
+- pkg:deb/debian/r-bioc-ebseq@2.4.0-2?arch=ppc64el
+- pkg:deb/debian/r-bioc-ebseq@2.4.0-2?arch=riscv64
+- pkg:deb/debian/r-bioc-ebseq@2.4.0-2?arch=s390x

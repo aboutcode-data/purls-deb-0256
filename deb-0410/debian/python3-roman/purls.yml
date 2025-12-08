@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-roman@2.0.0-5?arch=all
+- pkg:deb/debian/python3-roman@3.3-3?arch=all
+- pkg:deb/debian/python3-roman@5.0-1?arch=all
+- pkg:deb/debian/python3-roman@5.2-1?arch=all

@@ -1,0 +1,3 @@
+- pkg:deb/debian/roffit@0.16-1?arch=all
+- pkg:deb/debian/roffit@0.17-1?arch=all
+- pkg:deb/debian/roffit@0.7~20120815%2Bgitbbf62e6-2?arch=all

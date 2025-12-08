@@ -1,0 +1,10 @@
+- pkg:deb/debian/q2-metadata@2020.11.1%2Bdfsg-1?arch=amd64
+- pkg:deb/debian/q2-metadata@2020.11.1%2Bdfsg-1?arch=arm64
+- pkg:deb/debian/q2-metadata@2022.8.0-1?arch=amd64
+- pkg:deb/debian/q2-metadata@2022.8.0-1?arch=arm64
+- pkg:deb/debian/q2-metadata@2022.8.0-1?arch=mips64el
+- pkg:deb/debian/q2-metadata@2022.8.0-1?arch=ppc64el
+- pkg:deb/debian/q2-metadata@2024.5.0%2Bdfsg-1?arch=amd64
+- pkg:deb/debian/q2-metadata@2024.5.0%2Bdfsg-1?arch=arm64
+- pkg:deb/debian/q2-metadata@2024.5.0%2Bdfsg-1?arch=ppc64el
+- pkg:deb/debian/q2-metadata@2024.5.0%2Bdfsg-1?arch=riscv64

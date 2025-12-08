@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-coverage-test-runner@1.13.1-4?arch=all
+- pkg:deb/debian/python3-coverage-test-runner@1.13.1-6?arch=all

@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-socketio-client@0.6.5-0.2?arch=all
+- pkg:deb/debian/python3-socketio-client@0.6.5-1?arch=all
+- pkg:deb/debian/python3-socketio-client@0.7.2-2?arch=all
+- pkg:deb/debian/python3-socketio-client@0.7.2-3?arch=all

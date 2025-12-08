@@ -1,0 +1,4 @@
+- pkg:deb/debian/rst2pdf@0.102-4?arch=all
+- pkg:deb/debian/rst2pdf@0.103.1-2?arch=all
+- pkg:deb/debian/rst2pdf@0.98-1?arch=all
+- pkg:deb/debian/rst2pdf@0.99-1?arch=all

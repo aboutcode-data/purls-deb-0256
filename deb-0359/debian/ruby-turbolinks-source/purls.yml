@@ -1,0 +1,2 @@
+- pkg:deb/debian/ruby-turbolinks-source@5.1.0%2Bdfsg-2?arch=all
+- pkg:deb/debian/ruby-turbolinks-source@5.2.0%2Bdfsg-2?arch=all

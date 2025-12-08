@@ -1,0 +1,17 @@
+- pkg:deb/debian/rime-data-sampheng@0.0~git20210926.582e144-3?arch=amd64
+- pkg:deb/debian/rime-data-sampheng@0.0~git20210926.582e144-3?arch=arm64
+- pkg:deb/debian/rime-data-sampheng@0.0~git20210926.582e144-3?arch=armel
+- pkg:deb/debian/rime-data-sampheng@0.0~git20210926.582e144-3?arch=armhf
+- pkg:deb/debian/rime-data-sampheng@0.0~git20210926.582e144-3?arch=i386
+- pkg:deb/debian/rime-data-sampheng@0.0~git20210926.582e144-3?arch=mips64el
+- pkg:deb/debian/rime-data-sampheng@0.0~git20210926.582e144-3?arch=mipsel
+- pkg:deb/debian/rime-data-sampheng@0.0~git20210926.582e144-3?arch=ppc64el
+- pkg:deb/debian/rime-data-sampheng@0.0~git20210926.582e144-3?arch=s390x
+- pkg:deb/debian/rime-data-sampheng@0.0~git20210926.582e144-4%2Bb1?arch=riscv64
+- pkg:deb/debian/rime-data-sampheng@0.0~git20210926.582e144-4?arch=amd64
+- pkg:deb/debian/rime-data-sampheng@0.0~git20210926.582e144-4?arch=arm64
+- pkg:deb/debian/rime-data-sampheng@0.0~git20210926.582e144-4?arch=armel
+- pkg:deb/debian/rime-data-sampheng@0.0~git20210926.582e144-4?arch=armhf
+- pkg:deb/debian/rime-data-sampheng@0.0~git20210926.582e144-4?arch=i386
+- pkg:deb/debian/rime-data-sampheng@0.0~git20210926.582e144-4?arch=ppc64el
+- pkg:deb/debian/rime-data-sampheng@0.0~git20210926.582e144-4?arch=s390x

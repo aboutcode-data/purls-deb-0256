@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-ruamel.yaml@0.16.12-2?arch=all
+- pkg:deb/debian/python3-ruamel.yaml@0.17.21-1?arch=all
+- pkg:deb/debian/python3-ruamel.yaml@0.18.10%2Bds-1?arch=all
+- pkg:deb/debian/python3-ruamel.yaml@0.18.14-1?arch=all

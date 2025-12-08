@@ -1,0 +1,3 @@
+- pkg:deb/debian/ruby-spreadsheet@1.0.0-1.1?arch=all
+- pkg:deb/debian/ruby-spreadsheet@1.3.3-1?arch=all
+- pkg:deb/debian/ruby-spreadsheet@1.3.4-1?arch=all

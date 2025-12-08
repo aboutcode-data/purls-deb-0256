@@ -1,0 +1,3 @@
+- pkg:deb/debian/elpa-scala-mode@1.1.0-2?arch=all
+- pkg:deb/debian/elpa-scala-mode@1.1.0-3?arch=all
+- pkg:deb/debian/elpa-scala-mode@1.1.1~git20241231.661337d-2?arch=all

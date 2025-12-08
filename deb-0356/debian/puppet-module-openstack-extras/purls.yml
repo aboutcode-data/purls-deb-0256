@@ -1,0 +1,4 @@
+- pkg:deb/debian/puppet-module-openstack-extras@17.4.0-2?arch=all
+- pkg:deb/debian/puppet-module-openstack-extras@21.0.0-1?arch=all
+- pkg:deb/debian/puppet-module-openstack-extras@25.0.0-1?arch=all
+- pkg:deb/debian/puppet-module-openstack-extras@27.0.0-1?arch=all

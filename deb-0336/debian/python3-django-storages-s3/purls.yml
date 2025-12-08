@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-django-storages-s3@1.14.5-1?arch=all
+- pkg:deb/debian/python3-django-storages-s3@1.14.6-1?arch=all

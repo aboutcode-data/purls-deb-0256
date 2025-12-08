@@ -1,0 +1,2 @@
+- pkg:deb/debian/libfilesystem-ruby1.9@0.5-5.2?arch=all
+- pkg:deb/debian/libfilesystem-ruby1.9@0.5-7?arch=all

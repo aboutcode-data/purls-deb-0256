@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-colcon-parallel-executor@0.2.4-2?arch=all
+- pkg:deb/debian/python3-colcon-parallel-executor@0.3.0-1?arch=all

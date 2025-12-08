@@ -1,0 +1,6 @@
+- pkg:deb/debian/pyinstaller@6.13.0%2Bds-2?arch=amd64
+- pkg:deb/debian/pyinstaller@6.13.0%2Bds-2?arch=arm64
+- pkg:deb/debian/pyinstaller@6.13.0%2Bds-2?arch=armhf
+- pkg:deb/debian/pyinstaller@6.13.0%2Bds-2?arch=i386
+- pkg:deb/debian/pyinstaller@6.16.0%2Bds-1?arch=all
+- pkg:deb/debian/pyinstaller@6.16.0%2Bds-1~bpo13%2B1?arch=all

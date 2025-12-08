@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-astropy-affiliated@1.5?arch=all
+- pkg:deb/debian/python3-astropy-affiliated@2.1?arch=all

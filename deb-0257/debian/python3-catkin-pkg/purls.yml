@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-catkin-pkg@0.4.23-1?arch=all
+- pkg:deb/debian/python3-catkin-pkg@0.5.2-5?arch=all
+- pkg:deb/debian/python3-catkin-pkg@1.0.0-2?arch=all
+- pkg:deb/debian/python3-catkin-pkg@1.1.0-2?arch=all

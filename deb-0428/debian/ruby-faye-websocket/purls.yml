@@ -1,0 +1,2 @@
+- pkg:deb/debian/ruby-faye-websocket@0.11.0-1?arch=all
+- pkg:deb/debian/ruby-faye-websocket@0.12.0-1?arch=all

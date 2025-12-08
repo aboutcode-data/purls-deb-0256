@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-crontab@2.5.1-1?arch=all
+- pkg:deb/debian/python3-crontab@2.7.1-1?arch=all
+- pkg:deb/debian/python3-crontab@3.2.0-1?arch=all
+- pkg:deb/debian/python3-crontab@3.3.0-1?arch=all

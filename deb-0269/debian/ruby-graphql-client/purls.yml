@@ -1,0 +1,2 @@
+- pkg:deb/debian/ruby-graphql-client@0.16.0-2?arch=all
+- pkg:deb/debian/ruby-graphql-client@0.18.0-2?arch=all

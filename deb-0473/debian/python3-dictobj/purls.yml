@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-dictobj@0.4-4?arch=all
+- pkg:deb/debian/python3-dictobj@0.4-7?arch=all

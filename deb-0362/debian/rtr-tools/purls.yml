@@ -26,3 +26,10 @@
 - pkg:deb/debian/rtr-tools@0.8.0-3?arch=ppc64el
 - pkg:deb/debian/rtr-tools@0.8.0-3?arch=riscv64
 - pkg:deb/debian/rtr-tools@0.8.0-3?arch=s390x
+- pkg:deb/debian/rtr-tools@0.8.0-7?arch=amd64
+- pkg:deb/debian/rtr-tools@0.8.0-7?arch=arm64
+- pkg:deb/debian/rtr-tools@0.8.0-7?arch=armhf
+- pkg:deb/debian/rtr-tools@0.8.0-7?arch=i386
+- pkg:deb/debian/rtr-tools@0.8.0-7?arch=ppc64el
+- pkg:deb/debian/rtr-tools@0.8.0-7?arch=riscv64
+- pkg:deb/debian/rtr-tools@0.8.0-7?arch=s390x

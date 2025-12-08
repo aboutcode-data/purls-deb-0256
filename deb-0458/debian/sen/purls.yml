@@ -1,0 +1,4 @@
+- pkg:deb/debian/sen@0.6.1-0.1?arch=all
+- pkg:deb/debian/sen@0.6.2-2?arch=all
+- pkg:deb/debian/sen@0.8.0-1?arch=all
+- pkg:deb/debian/sen@0.8.1-1?arch=all

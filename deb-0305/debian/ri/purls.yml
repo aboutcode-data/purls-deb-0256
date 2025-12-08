@@ -1,0 +1,4 @@
+- pkg:deb/debian/ri@2.7%2B2?arch=all
+- pkg:deb/debian/ri@3.1?arch=all
+- pkg:deb/debian/ri@3.3%2Bsupport3.4~0?arch=all
+- pkg:deb/debian/ri@3.3?arch=all

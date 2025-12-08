@@ -1,0 +1,4 @@
+- pkg:deb/debian/ruby-commander@4.5.2-1?arch=all
+- pkg:deb/debian/ruby-commander@4.6.0-1?arch=all
+- pkg:deb/debian/ruby-commander@4.6.0-2?arch=all
+- pkg:deb/debian/ruby-commander@5.0.0-1?arch=all

@@ -1,0 +1,6 @@
+- pkg:deb/debian/ree@1.4.1-1?arch=amd64
+- pkg:deb/debian/ree@1.4.1-1?arch=i386
+- pkg:deb/debian/ree@1.4.1-2?arch=amd64
+- pkg:deb/debian/ree@1.4.1-2?arch=i386
+- pkg:deb/debian/ree@1.4.1-3?arch=amd64
+- pkg:deb/debian/ree@1.4.1-3?arch=i386

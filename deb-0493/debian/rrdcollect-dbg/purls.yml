@@ -1,0 +1,4 @@
+- pkg:deb/debian/rrdcollect-dbg@0.2.10-2%2Bb3?arch=amd64
+- pkg:deb/debian/rrdcollect-dbg@0.2.10-2%2Bb3?arch=arm64
+- pkg:deb/debian/rrdcollect-dbg@0.2.10-2%2Bb3?arch=armhf
+- pkg:deb/debian/rrdcollect-dbg@0.2.10-2%2Bb3?arch=i386

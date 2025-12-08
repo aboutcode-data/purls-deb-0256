@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-absl@0.15.0-2?arch=all
+- pkg:deb/debian/python3-absl@2.1.0-1?arch=all

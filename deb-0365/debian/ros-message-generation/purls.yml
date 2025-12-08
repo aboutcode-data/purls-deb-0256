@@ -1,0 +1,2 @@
+- pkg:deb/debian/ros-message-generation@0.4.1-4?arch=all
+- pkg:deb/debian/ros-message-generation@0.4.1-6?arch=all

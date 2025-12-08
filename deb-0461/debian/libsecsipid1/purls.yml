@@ -1,0 +1,11 @@
+- pkg:deb/debian/libsecsipid1@1.1.1~git20210601.d388d64-1%2Bb2?arch=amd64
+- pkg:deb/debian/libsecsipid1@1.1.1~git20210601.d388d64-1%2Bb2?arch=arm64
+- pkg:deb/debian/libsecsipid1@1.1.1~git20210601.d388d64-1%2Bb2?arch=armhf
+- pkg:deb/debian/libsecsipid1@1.1.1~git20210601.d388d64-1%2Bb2?arch=i386
+- pkg:deb/debian/libsecsipid1@1.2.0-2%2Bb4?arch=amd64
+- pkg:deb/debian/libsecsipid1@1.2.0-2%2Bb4?arch=arm64
+- pkg:deb/debian/libsecsipid1@1.2.0-2%2Bb4?arch=armel
+- pkg:deb/debian/libsecsipid1@1.2.0-2%2Bb4?arch=armhf
+- pkg:deb/debian/libsecsipid1@1.2.0-2%2Bb4?arch=i386
+- pkg:deb/debian/libsecsipid1@1.2.0-2%2Bb4?arch=ppc64el
+- pkg:deb/debian/libsecsipid1@1.2.0-2%2Bb4?arch=s390x

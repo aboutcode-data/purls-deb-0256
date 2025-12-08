@@ -1,0 +1,2 @@
+- pkg:deb/debian/scrcpy-server@1.17-1?arch=all
+- pkg:deb/debian/scrcpy-server@1.25-1.1?arch=all

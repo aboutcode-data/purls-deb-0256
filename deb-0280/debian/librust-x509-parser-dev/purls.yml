@@ -1,0 +1,2 @@
+- pkg:deb/debian/librust-x509-parser-dev@0.17.0-4.1?arch=all
+- pkg:deb/debian/librust-x509-parser-dev@0.18.0-3?arch=all

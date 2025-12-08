@@ -1,0 +1,2 @@
+- pkg:deb/debian/ruby-chronic-duration@0.10.6.2-2?arch=all
+- pkg:deb/debian/ruby-chronic-duration@0.12.0-2?arch=all

@@ -1,0 +1,4 @@
+- pkg:deb/debian/ruby-public-suffix@3.0.3%2Bds-1?arch=all
+- pkg:deb/debian/ruby-public-suffix@4.0.6%2Bds-2?arch=all
+- pkg:deb/debian/ruby-public-suffix@6.0.1-1?arch=all
+- pkg:deb/debian/ruby-public-suffix@6.0.2-1?arch=all

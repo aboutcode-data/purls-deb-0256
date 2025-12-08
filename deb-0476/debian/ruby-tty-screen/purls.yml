@@ -1,0 +1,2 @@
+- pkg:deb/debian/ruby-tty-screen@0.7.1-2?arch=all
+- pkg:deb/debian/ruby-tty-screen@0.8.1-2?arch=all

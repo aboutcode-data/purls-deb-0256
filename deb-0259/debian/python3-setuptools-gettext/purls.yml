@@ -1,0 +1,3 @@
+- pkg:deb/debian/python3-setuptools-gettext@0%2Bgit20221020.1.bf75db7-2?arch=all
+- pkg:deb/debian/python3-setuptools-gettext@0.1.10-2?arch=all
+- pkg:deb/debian/python3-setuptools-gettext@0.1.16-1?arch=all

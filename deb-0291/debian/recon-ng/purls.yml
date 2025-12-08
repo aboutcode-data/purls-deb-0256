@@ -1,0 +1,4 @@
+- pkg:deb/debian/recon-ng@5.1.1-3?arch=all
+- pkg:deb/debian/recon-ng@5.1.2-1.2?arch=all
+- pkg:deb/debian/recon-ng@5.1.2-1?arch=all
+- pkg:deb/debian/recon-ng@5.1.2-2?arch=all

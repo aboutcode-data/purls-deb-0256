@@ -1,1 +1,2 @@
 - pkg:deb/debian/sat-templates@0.8.0%2Bhg354.cac1a96f3df8%2Bdfsg-1?arch=all
+- pkg:deb/debian/sat-templates@0.8.0~hg297.0657982e81af%2Bdfsg-3?arch=all

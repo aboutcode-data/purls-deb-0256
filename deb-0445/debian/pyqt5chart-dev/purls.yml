@@ -1,0 +1,4 @@
+- pkg:deb/debian/pyqt5chart-dev@5.15.2%2Bdfsg-2?arch=all
+- pkg:deb/debian/pyqt5chart-dev@5.15.6%2Bdfsg-1?arch=all
+- pkg:deb/debian/pyqt5chart-dev@5.15.7%2Bdfsg-1?arch=all
+- pkg:deb/debian/pyqt5chart-dev@5.15.7%2Bdfsg-2?arch=all

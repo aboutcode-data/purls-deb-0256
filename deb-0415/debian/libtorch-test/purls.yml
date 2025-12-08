@@ -1,0 +1,17 @@
+- pkg:deb/debian/libtorch-test@1.13.1%2Bdfsg-4?arch=amd64
+- pkg:deb/debian/libtorch-test@1.13.1%2Bdfsg-4?arch=arm64
+- pkg:deb/debian/libtorch-test@1.13.1%2Bdfsg-4?arch=ppc64el
+- pkg:deb/debian/libtorch-test@1.13.1%2Bdfsg-4?arch=s390x
+- pkg:deb/debian/libtorch-test@1.7.1-7?arch=amd64
+- pkg:deb/debian/libtorch-test@1.7.1-7?arch=arm64
+- pkg:deb/debian/libtorch-test@1.7.1-7?arch=armhf
+- pkg:deb/debian/libtorch-test@2.6.0%2Bdfsg-7?arch=amd64
+- pkg:deb/debian/libtorch-test@2.6.0%2Bdfsg-7?arch=arm64
+- pkg:deb/debian/libtorch-test@2.6.0%2Bdfsg-7?arch=ppc64el
+- pkg:deb/debian/libtorch-test@2.6.0%2Bdfsg-7?arch=riscv64
+- pkg:deb/debian/libtorch-test@2.6.0%2Bdfsg-7?arch=s390x
+- pkg:deb/debian/libtorch-test@2.6.0%2Bdfsg-9?arch=amd64
+- pkg:deb/debian/libtorch-test@2.6.0%2Bdfsg-9?arch=arm64
+- pkg:deb/debian/libtorch-test@2.6.0%2Bdfsg-9?arch=ppc64el
+- pkg:deb/debian/libtorch-test@2.6.0%2Bdfsg-9?arch=riscv64
+- pkg:deb/debian/libtorch-test@2.6.0%2Bdfsg-9?arch=s390x

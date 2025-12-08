@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-petl@1.7.15-2?arch=all
+- pkg:deb/debian/python3-petl@1.7.17-1?arch=all

@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-pykml@0.2.0%2Bdfsg-3?arch=all
+- pkg:deb/debian/python3-pykml@0.2.0%2Bdfsg-4?arch=all

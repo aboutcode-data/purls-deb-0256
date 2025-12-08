@@ -1,0 +1,10 @@
+- pkg:deb/debian/sambamba@0.8.0-1?arch=amd64
+- pkg:deb/debian/sambamba@0.8.0-1?arch=arm64
+- pkg:deb/debian/sambamba@1.0%2Bdfsg-1?arch=amd64
+- pkg:deb/debian/sambamba@1.0%2Bdfsg-1?arch=arm64
+- pkg:deb/debian/sambamba@1.0.1%2Bdfsg-2%2Bb1?arch=amd64
+- pkg:deb/debian/sambamba@1.0.1%2Bdfsg-2%2Bb1?arch=arm64
+- pkg:deb/debian/sambamba@1.0.1%2Bdfsg-2%2Bb1?arch=riscv64
+- pkg:deb/debian/sambamba@1.0.1%2Bdfsg-3?arch=amd64
+- pkg:deb/debian/sambamba@1.0.1%2Bdfsg-3?arch=arm64
+- pkg:deb/debian/sambamba@1.0.1%2Bdfsg-3?arch=riscv64

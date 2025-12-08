@@ -1,0 +1,2 @@
+- pkg:deb/debian/ruby-elasticsearch-rails@7.1.1-2?arch=all
+- pkg:deb/debian/ruby-elasticsearch-rails@7.2.1-1?arch=all

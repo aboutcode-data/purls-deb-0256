@@ -1,0 +1,2 @@
+- pkg:deb/debian/pysolfc@2.6.4-3?arch=all
+- pkg:deb/debian/pysolfc@3.2.0-1?arch=all

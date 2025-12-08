@@ -1,0 +1,2 @@
+- pkg:deb/debian/sagemath-database-cremona-elliptic-curves@0~20191029-3?arch=all
+- pkg:deb/debian/sagemath-database-cremona-elliptic-curves@20221013-1?arch=all

@@ -1,0 +1,3 @@
+- pkg:deb/debian/r-cran-mutoss@0.1-12-3?arch=all
+- pkg:deb/debian/r-cran-mutoss@0.1-13-1?arch=all
+- pkg:deb/debian/r-cran-mutoss@0.1-13-2~0exp0?arch=all

@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-pytest-rerunfailures@10.2-2?arch=all
+- pkg:deb/debian/python3-pytest-rerunfailures@15.0-1?arch=all
+- pkg:deb/debian/python3-pytest-rerunfailures@16.1-1?arch=all
+- pkg:deb/debian/python3-pytest-rerunfailures@9.1.1-1?arch=all

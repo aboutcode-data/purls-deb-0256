@@ -1,0 +1,2 @@
+- pkg:deb/debian/python-psutil-doc@5.8.0-1?arch=all
+- pkg:deb/debian/python-psutil-doc@5.9.4-1?arch=all

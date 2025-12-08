@@ -1,0 +1,2 @@
+- pkg:deb/debian/ruby-rabl@0.13.1-1.1?arch=all
+- pkg:deb/debian/ruby-rabl@0.16.1-1?arch=all

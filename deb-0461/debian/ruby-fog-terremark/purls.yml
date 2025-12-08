@@ -1,0 +1,2 @@
+- pkg:deb/debian/ruby-fog-terremark@0.0.3-2.1?arch=all
+- pkg:deb/debian/ruby-fog-terremark@0.1.0-1?arch=all

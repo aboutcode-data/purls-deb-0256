@@ -1,0 +1,2 @@
+- pkg:deb/debian/python-pytest-dependency-doc@0.5.1-2?arch=all
+- pkg:deb/debian/python-pytest-dependency-doc@0.5.1-5?arch=all

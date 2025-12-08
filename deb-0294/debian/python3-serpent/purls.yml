@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-serpent@1.30.2-1?arch=all
+- pkg:deb/debian/python3-serpent@1.41-1?arch=all
+- pkg:deb/debian/python3-serpent@1.41-2?arch=all
+- pkg:deb/debian/python3-serpent@1.42-1?arch=all

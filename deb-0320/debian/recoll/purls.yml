@@ -1,0 +1,4 @@
+- pkg:deb/debian/recoll@1.28.5-2?arch=all
+- pkg:deb/debian/recoll@1.34.3-1?arch=all
+- pkg:deb/debian/recoll@1.43.0-1?arch=all
+- pkg:deb/debian/recoll@1.43.7-1?arch=all

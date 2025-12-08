@@ -1,0 +1,2 @@
+- pkg:deb/debian/puppet-module-rally@5.4.0-2?arch=all
+- pkg:deb/debian/puppet-module-rally@6.4.0-1?arch=all

@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-pylsp-black@1.2.1-2?arch=all
+- pkg:deb/debian/python3-pylsp-black@2.0.0-5?arch=all

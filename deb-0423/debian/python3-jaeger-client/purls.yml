@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-jaeger-client@4.8.0-1.1?arch=all
+- pkg:deb/debian/python3-jaeger-client@4.8.0-3?arch=all

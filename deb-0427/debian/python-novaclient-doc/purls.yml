@@ -1,0 +1,4 @@
+- pkg:deb/debian/python-novaclient-doc@17.2.1-3?arch=all
+- pkg:deb/debian/python-novaclient-doc@18.1.0-3?arch=all
+- pkg:deb/debian/python-novaclient-doc@18.11.0-2?arch=all
+- pkg:deb/debian/python-novaclient-doc@18.9.0-2?arch=all

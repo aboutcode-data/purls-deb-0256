@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-agate@1.13.0-2?arch=all
+- pkg:deb/debian/python3-agate@1.6.1-1?arch=all
+- pkg:deb/debian/python3-agate@1.6.3-2?arch=all
+- pkg:deb/debian/python3-agate@1.9.1-1?arch=all

@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-colorlog@4.7.2-1?arch=all
+- pkg:deb/debian/python3-colorlog@6.10.1-1?arch=all
+- pkg:deb/debian/python3-colorlog@6.7.0-1?arch=all
+- pkg:deb/debian/python3-colorlog@6.9.0-1?arch=all

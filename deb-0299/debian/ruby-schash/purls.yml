@@ -1,0 +1,2 @@
+- pkg:deb/debian/ruby-schash@0.1.2%2Bgh-1?arch=all
+- pkg:deb/debian/ruby-schash@0.1.2-1.1?arch=all

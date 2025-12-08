@@ -1,0 +1,4 @@
+- pkg:deb/debian/pyspectral-bin@0.10.4%2Bds-1?arch=all
+- pkg:deb/debian/pyspectral-bin@0.12.3%2Bds-1?arch=all
+- pkg:deb/debian/pyspectral-bin@0.13.5%2Bds-1?arch=all
+- pkg:deb/debian/pyspectral-bin@0.13.6%2Bds-1?arch=all

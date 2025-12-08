@@ -1,0 +1,4 @@
+- pkg:deb/debian/libqt5qevercloud3@3.0.3%2Bds-6?arch=amd64
+- pkg:deb/debian/libqt5qevercloud3@3.0.3%2Bds-6?arch=arm64
+- pkg:deb/debian/libqt5qevercloud3@3.0.3%2Bds-6?arch=armhf
+- pkg:deb/debian/libqt5qevercloud3@3.0.3%2Bds-6?arch=i386

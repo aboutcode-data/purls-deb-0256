@@ -1,0 +1,4 @@
+- pkg:deb/debian/python-pydl-doc@1.0.0~rc1-2?arch=all
+- pkg:deb/debian/python-pydl-doc@1.0.0~rc2-4?arch=all
+- pkg:deb/debian/python-pydl-doc@1.0.1-2?arch=all
+- pkg:deb/debian/python-pydl-doc@1.0.1-3?arch=all

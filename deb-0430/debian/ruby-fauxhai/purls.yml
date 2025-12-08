@@ -1,0 +1,2 @@
+- pkg:deb/debian/ruby-fauxhai@7.5.0-1?arch=all
+- pkg:deb/debian/ruby-fauxhai@9.3.0-1?arch=all

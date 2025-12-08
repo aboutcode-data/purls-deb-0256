@@ -1,0 +1,4 @@
+- pkg:deb/debian/libqpid-proton11-dev-doc@0.22.0-5.1?arch=all
+- pkg:deb/debian/libqpid-proton11-dev-doc@0.37.0-2?arch=all
+- pkg:deb/debian/libqpid-proton11-dev-doc@0.37.0-6?arch=all
+- pkg:deb/debian/libqpid-proton11-dev-doc@0.37.0-7?arch=all

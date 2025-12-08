@@ -1,0 +1,3 @@
+- pkg:deb/debian/pypi2deb@2.20180804%2Bnmu1?arch=all
+- pkg:deb/debian/pypi2deb@3.20230219?arch=all
+- pkg:deb/debian/pypi2deb@4.20240727?arch=all

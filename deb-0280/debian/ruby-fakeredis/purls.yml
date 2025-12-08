@@ -1,0 +1,2 @@
+- pkg:deb/debian/ruby-fakeredis@0.8.0-4?arch=all
+- pkg:deb/debian/ruby-fakeredis@0.8.0-7?arch=all

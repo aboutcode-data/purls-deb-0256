@@ -1,0 +1,2 @@
+- pkg:deb/debian/ruby-pathname2@1.8.2-2?arch=all
+- pkg:deb/debian/ruby-pathname2@1.8.4-1?arch=all

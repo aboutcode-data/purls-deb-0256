@@ -1,0 +1,2 @@
+- pkg:deb/debian/radiant@2.7.1%2Bdfsg-4?arch=all
+- pkg:deb/debian/radiant@2.8.1%2Bdfsg-2?arch=all

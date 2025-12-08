@@ -1,0 +1,4 @@
+- pkg:deb/debian/python-can-doc@3.3.2.final~github-2?arch=all
+- pkg:deb/debian/python-can-doc@4.1.0-1?arch=all
+- pkg:deb/debian/python-can-doc@4.5.0-1?arch=all
+- pkg:deb/debian/python-can-doc@4.6.1-4?arch=all

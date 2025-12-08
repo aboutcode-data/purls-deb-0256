@@ -1,0 +1,4 @@
+- pkg:deb/debian/policycoreutils-python-utils@3.1-1?arch=all
+- pkg:deb/debian/policycoreutils-python-utils@3.4-1?arch=all
+- pkg:deb/debian/policycoreutils-python-utils@3.8.1-2?arch=all
+- pkg:deb/debian/policycoreutils-python-utils@3.9-2?arch=all

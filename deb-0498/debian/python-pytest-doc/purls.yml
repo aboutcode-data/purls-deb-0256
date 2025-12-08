@@ -1,0 +1,5 @@
+- pkg:deb/debian/python-pytest-doc@6.0.2-2?arch=all
+- pkg:deb/debian/python-pytest-doc@7.2.1-2?arch=all
+- pkg:deb/debian/python-pytest-doc@8.3.5-2?arch=all
+- pkg:deb/debian/python-pytest-doc@8.4.2-1?arch=all
+- pkg:deb/debian/python-pytest-doc@9.0.1-1?arch=all

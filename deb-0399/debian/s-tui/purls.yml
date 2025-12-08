@@ -1,0 +1,4 @@
+- pkg:deb/debian/s-tui@1.0.2-2?arch=all
+- pkg:deb/debian/s-tui@1.1.4-1?arch=all
+- pkg:deb/debian/s-tui@1.1.6-1.2?arch=all
+- pkg:deb/debian/s-tui@1.2.0-1?arch=all

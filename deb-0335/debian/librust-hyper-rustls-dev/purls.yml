@@ -1,0 +1,3 @@
+- pkg:deb/debian/librust-hyper-rustls-dev@0.23.2-3?arch=all
+- pkg:deb/debian/librust-hyper-rustls-dev@0.27.5-2?arch=all
+- pkg:deb/debian/librust-hyper-rustls-dev@0.27.7-2?arch=all

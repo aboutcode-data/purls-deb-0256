@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-watchgod@0.6-2?arch=all
+- pkg:deb/debian/python3-watchgod@0.8.2-2?arch=all

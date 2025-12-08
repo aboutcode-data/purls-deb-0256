@@ -1,0 +1,17 @@
+- pkg:deb/debian/rkdeveloptool@1.32%2Bgit20210408.46bb4c0-3?arch=amd64
+- pkg:deb/debian/rkdeveloptool@1.32%2Bgit20210408.46bb4c0-3?arch=arm64
+- pkg:deb/debian/rkdeveloptool@1.32%2Bgit20210408.46bb4c0-3?arch=armel
+- pkg:deb/debian/rkdeveloptool@1.32%2Bgit20210408.46bb4c0-3?arch=armhf
+- pkg:deb/debian/rkdeveloptool@1.32%2Bgit20210408.46bb4c0-3?arch=i386
+- pkg:deb/debian/rkdeveloptool@1.32%2Bgit20210408.46bb4c0-3?arch=mips64el
+- pkg:deb/debian/rkdeveloptool@1.32%2Bgit20210408.46bb4c0-3?arch=mipsel
+- pkg:deb/debian/rkdeveloptool@1.32%2Bgit20210408.46bb4c0-3?arch=ppc64el
+- pkg:deb/debian/rkdeveloptool@1.32%2Bgit20210408.46bb4c0-3?arch=s390x
+- pkg:deb/debian/rkdeveloptool@1.32%2Bpine64git20240226.17823e9-1%2Bb1?arch=arm64
+- pkg:deb/debian/rkdeveloptool@1.32%2Bpine64git20240226.17823e9-1?arch=amd64
+- pkg:deb/debian/rkdeveloptool@1.32%2Bpine64git20240226.17823e9-1?arch=armel
+- pkg:deb/debian/rkdeveloptool@1.32%2Bpine64git20240226.17823e9-1?arch=armhf
+- pkg:deb/debian/rkdeveloptool@1.32%2Bpine64git20240226.17823e9-1?arch=i386
+- pkg:deb/debian/rkdeveloptool@1.32%2Bpine64git20240226.17823e9-1?arch=ppc64el
+- pkg:deb/debian/rkdeveloptool@1.32%2Bpine64git20240226.17823e9-1?arch=riscv64
+- pkg:deb/debian/rkdeveloptool@1.32%2Bpine64git20240226.17823e9-1?arch=s390x

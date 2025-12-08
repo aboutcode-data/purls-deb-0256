@@ -1,0 +1,3 @@
+- pkg:deb/debian/python-requests-toolbelt-doc@0.10.1-1?arch=all
+- pkg:deb/debian/python-requests-toolbelt-doc@0.9.1-1?arch=all
+- pkg:deb/debian/python-requests-toolbelt-doc@1.0.0-4?arch=all

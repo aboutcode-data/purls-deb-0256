@@ -1,0 +1,2 @@
+- pkg:deb/debian/ruby-get-process-mem@0.2.5-1?arch=all
+- pkg:deb/debian/ruby-get-process-mem@1.0.0-1?arch=all

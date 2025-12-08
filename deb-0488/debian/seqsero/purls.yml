@@ -1,0 +1,3 @@
+- pkg:deb/debian/seqsero@1.0.1%2Bdfsg-4?arch=all
+- pkg:deb/debian/seqsero@1.0.1%2Bdfsg-6?arch=amd64
+- pkg:deb/debian/seqsero@1.0.1%2Bdfsg-6?arch=arm64

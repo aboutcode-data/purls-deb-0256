@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-pyvista@0.44.1-11?arch=all
+- pkg:deb/debian/python3-pyvista@0.46.4-3?arch=all

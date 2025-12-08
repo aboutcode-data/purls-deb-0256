@@ -1,0 +1,4 @@
+- pkg:deb/debian/dpt-i2o-raidutils@0.0.6-23?arch=amd64
+- pkg:deb/debian/dpt-i2o-raidutils@0.0.6-23?arch=arm64
+- pkg:deb/debian/dpt-i2o-raidutils@0.0.6-23?arch=armhf
+- pkg:deb/debian/dpt-i2o-raidutils@0.0.6-23?arch=i386

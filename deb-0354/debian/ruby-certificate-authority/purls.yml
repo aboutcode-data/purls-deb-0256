@@ -1,0 +1,2 @@
+- pkg:deb/debian/ruby-certificate-authority@0.2.0~434c15cd-1?arch=all
+- pkg:deb/debian/ruby-certificate-authority@1.1.0-1?arch=all

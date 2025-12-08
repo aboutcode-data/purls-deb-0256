@@ -1,0 +1,3 @@
+- pkg:deb/debian/ruby-json-schemer@0.2.13-2?arch=all
+- pkg:deb/debian/ruby-json-schemer@0.2.18-2?arch=all
+- pkg:deb/debian/ruby-json-schemer@2.4.0-1?arch=all

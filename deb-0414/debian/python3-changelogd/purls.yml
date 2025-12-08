@@ -1,0 +1,3 @@
+- pkg:deb/debian/python3-changelogd@0.1.9-1?arch=all
+- pkg:deb/debian/python3-changelogd@0.1.9-1~bpo12%2B1?arch=all
+- pkg:deb/debian/python3-changelogd@0.1.9-2?arch=all

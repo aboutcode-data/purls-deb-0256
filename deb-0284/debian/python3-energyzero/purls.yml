@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-energyzero@2.1.1-2?arch=all
+- pkg:deb/debian/python3-energyzero@3.0.0-1?arch=all

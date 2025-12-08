@@ -1,0 +1,2 @@
+- pkg:deb/debian/librust-rustls-pki-types-dev@1.11.0-2?arch=all
+- pkg:deb/debian/librust-rustls-pki-types-dev@1.13.1-1?arch=all

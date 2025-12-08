@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-pytest-golden@0.2.2-1?arch=all
+- pkg:deb/debian/python3-pytest-golden@1.0.0-1?arch=all

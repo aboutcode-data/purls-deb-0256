@@ -1,0 +1,3 @@
+- pkg:deb/debian/ruby-rubocop-performance@1.7.1-1?arch=all
+- pkg:deb/debian/ruby-rubocop-performance@1.7.1-2?arch=all
+- pkg:deb/debian/ruby-rubocop-performance@1.7.1-3?arch=all

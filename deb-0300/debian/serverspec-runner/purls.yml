@@ -1,0 +1,2 @@
+- pkg:deb/debian/serverspec-runner@1.3.8-2?arch=all
+- pkg:deb/debian/serverspec-runner@1.3.9-2?arch=all

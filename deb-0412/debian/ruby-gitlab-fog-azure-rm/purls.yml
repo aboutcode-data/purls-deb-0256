@@ -1,0 +1,4 @@
+- pkg:deb/debian/ruby-gitlab-fog-azure-rm@1.0.0-4?arch=all
+- pkg:deb/debian/ruby-gitlab-fog-azure-rm@1.7.0-1?arch=all
+- pkg:deb/debian/ruby-gitlab-fog-azure-rm@1.9.1-1?arch=all
+- pkg:deb/debian/ruby-gitlab-fog-azure-rm@2.1.0-1?arch=all

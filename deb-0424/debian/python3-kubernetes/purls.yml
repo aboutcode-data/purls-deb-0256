@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-kubernetes@12.0.1-1?arch=all
+- pkg:deb/debian/python3-kubernetes@22.6.0-2?arch=all
+- pkg:deb/debian/python3-kubernetes@30.1.0-2?arch=all
+- pkg:deb/debian/python3-kubernetes@30.1.0-3?arch=all

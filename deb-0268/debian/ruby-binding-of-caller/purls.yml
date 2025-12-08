@@ -1,0 +1,2 @@
+- pkg:deb/debian/ruby-binding-of-caller@0.7.2%2Bdebian1-3?arch=all
+- pkg:deb/debian/ruby-binding-of-caller@1.0.0-1?arch=all

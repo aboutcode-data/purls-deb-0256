@@ -1,0 +1,4 @@
+- pkg:deb/debian/ruby-ffaker@2.13.0-2?arch=all
+- pkg:deb/debian/ruby-ffaker@2.20.0-1?arch=all
+- pkg:deb/debian/ruby-ffaker@2.23.0-2?arch=all
+- pkg:deb/debian/ruby-ffaker@2.25.0-1?arch=all

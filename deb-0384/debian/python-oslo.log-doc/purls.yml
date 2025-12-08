@@ -1,0 +1,4 @@
+- pkg:deb/debian/python-oslo.log-doc@4.4.0-2?arch=all
+- pkg:deb/debian/python-oslo.log-doc@5.0.1-1?arch=all
+- pkg:deb/debian/python-oslo.log-doc@7.1.0-4?arch=all
+- pkg:deb/debian/python-oslo.log-doc@7.2.1-2?arch=all

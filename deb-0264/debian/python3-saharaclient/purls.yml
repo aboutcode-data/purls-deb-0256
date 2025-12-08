@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-saharaclient@3.2.1-2?arch=all
+- pkg:deb/debian/python3-saharaclient@4.0.2-2?arch=all

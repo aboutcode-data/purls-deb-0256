@@ -1,0 +1,4 @@
+- pkg:deb/debian/python-argon2-doc@18.3.0-2?arch=all
+- pkg:deb/debian/python-argon2-doc@21.1.0-2?arch=all
+- pkg:deb/debian/python-argon2-doc@21.1.0-3?arch=all
+- pkg:deb/debian/python-argon2-doc@25.1.0-2?arch=all

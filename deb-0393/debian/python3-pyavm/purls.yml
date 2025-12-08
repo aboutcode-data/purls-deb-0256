@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-pyavm@0.9.4-7?arch=all
+- pkg:deb/debian/python3-pyavm@0.9.6-2?arch=all

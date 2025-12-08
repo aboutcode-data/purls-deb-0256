@@ -1,0 +1,4 @@
+- pkg:deb/debian/python-glance-store-doc@2.3.0-4?arch=all
+- pkg:deb/debian/python-glance-store-doc@4.1.0-4?arch=all
+- pkg:deb/debian/python-glance-store-doc@4.9.1-2?arch=all
+- pkg:deb/debian/python-glance-store-doc@5.2.0-2?arch=all

@@ -1,0 +1,7 @@
+- pkg:deb/debian/tkremind@03.03.01-1?arch=amd64
+- pkg:deb/debian/tkremind@03.03.01-1?arch=arm64
+- pkg:deb/debian/tkremind@03.03.01-1?arch=armhf
+- pkg:deb/debian/tkremind@03.03.01-1?arch=i386
+- pkg:deb/debian/tkremind@04.02.03-4?arch=all
+- pkg:deb/debian/tkremind@05.03.07-1%2Bdeb13u1?arch=all
+- pkg:deb/debian/tkremind@06.02.01-1?arch=all

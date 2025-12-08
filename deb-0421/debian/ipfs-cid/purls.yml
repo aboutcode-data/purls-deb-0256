@@ -1,0 +1,15 @@
+- pkg:deb/debian/ipfs-cid@0.0~git20200813.59cf068-1%2Bb2?arch=arm64
+- pkg:deb/debian/ipfs-cid@0.0~git20200813.59cf068-1%2Bb2?arch=mips64el
+- pkg:deb/debian/ipfs-cid@0.0~git20200813.59cf068-1%2Bb2?arch=ppc64el
+- pkg:deb/debian/ipfs-cid@0.0~git20200813.59cf068-1%2Bb2?arch=s390x
+- pkg:deb/debian/ipfs-cid@0.0~git20200813.59cf068-1%2Bb4?arch=amd64
+- pkg:deb/debian/ipfs-cid@0.0~git20200813.59cf068-2%2Bb6?arch=amd64
+- pkg:deb/debian/ipfs-cid@0.0~git20200813.59cf068-2%2Bb6?arch=arm64
+- pkg:deb/debian/ipfs-cid@0.0~git20200813.59cf068-2%2Bb6?arch=ppc64el
+- pkg:deb/debian/ipfs-cid@0.0~git20200813.59cf068-2%2Bb6?arch=s390x
+- pkg:deb/debian/ipfs-cid@0.0~git20200813.59cf068-2%2Bb7?arch=amd64
+- pkg:deb/debian/ipfs-cid@0.0~git20200813.59cf068-2%2Bb7?arch=arm64
+- pkg:deb/debian/ipfs-cid@0.0~git20200813.59cf068-2%2Bb7?arch=ppc64el
+- pkg:deb/debian/ipfs-cid@0.0~git20200813.59cf068-2%2Bb7?arch=riscv64
+- pkg:deb/debian/ipfs-cid@0.0~git20200813.59cf068-2%2Bb7?arch=s390x
+- pkg:deb/debian/ipfs-cid@0.0~git20200813.59cf068-2%2Bb8?arch=riscv64

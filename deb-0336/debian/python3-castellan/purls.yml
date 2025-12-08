@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-castellan@3.6.0-2?arch=all
+- pkg:deb/debian/python3-castellan@4.0.0-2?arch=all
+- pkg:deb/debian/python3-castellan@5.2.1-2?arch=all
+- pkg:deb/debian/python3-castellan@5.4.1-2?arch=all

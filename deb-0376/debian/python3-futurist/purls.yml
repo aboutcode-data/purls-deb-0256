@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-futurist@2.3.0-2?arch=all
+- pkg:deb/debian/python3-futurist@2.4.1-2?arch=all
+- pkg:deb/debian/python3-futurist@3.1.0-2?arch=all
+- pkg:deb/debian/python3-futurist@3.2.0-2?arch=all

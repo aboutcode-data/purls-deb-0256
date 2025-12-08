@@ -1,0 +1,2 @@
+- pkg:deb/debian/ruby-azure-storage-blob@2.0.0-3?arch=all
+- pkg:deb/debian/ruby-azure-storage-blob@2.0.3-1?arch=all

@@ -1,0 +1,2 @@
+- pkg:deb/debian/librust-ed25519-dev@2.2.3%2Bds-6?arch=all
+- pkg:deb/debian/librust-ed25519-dev@2.2.3%2Bds-7?arch=all

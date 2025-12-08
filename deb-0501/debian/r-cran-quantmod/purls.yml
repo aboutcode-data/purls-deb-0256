@@ -1,0 +1,4 @@
+- pkg:deb/debian/r-cran-quantmod@0.4.18-1?arch=all
+- pkg:deb/debian/r-cran-quantmod@0.4.20-1?arch=all
+- pkg:deb/debian/r-cran-quantmod@0.4.27-1?arch=all
+- pkg:deb/debian/r-cran-quantmod@0.4.28-1?arch=all

@@ -1,1 +1,2 @@
 - pkg:deb/debian/ptex-base@2.5-3.1?arch=all
+- pkg:deb/debian/ptex-base@2.5-3?arch=all

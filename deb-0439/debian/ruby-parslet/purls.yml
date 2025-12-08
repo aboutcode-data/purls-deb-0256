@@ -1,0 +1,3 @@
+- pkg:deb/debian/ruby-parslet@1.8.2-3?arch=all
+- pkg:deb/debian/ruby-parslet@1.8.2-4?arch=all
+- pkg:deb/debian/ruby-parslet@2.0.0-1?arch=all

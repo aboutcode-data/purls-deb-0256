@@ -1,0 +1,16 @@
+- pkg:deb/debian/librust-indieweb-dev@0.4.5-11?arch=all
+- pkg:deb/debian/librust-indieweb-dev@0.4.5-7?arch=amd64
+- pkg:deb/debian/librust-indieweb-dev@0.4.5-7?arch=arm64
+- pkg:deb/debian/librust-indieweb-dev@0.4.5-7?arch=armel
+- pkg:deb/debian/librust-indieweb-dev@0.4.5-7?arch=armhf
+- pkg:deb/debian/librust-indieweb-dev@0.4.5-7?arch=i386
+- pkg:deb/debian/librust-indieweb-dev@0.4.5-7?arch=ppc64el
+- pkg:deb/debian/librust-indieweb-dev@0.4.5-7?arch=riscv64
+- pkg:deb/debian/librust-indieweb-dev@0.4.5-7?arch=s390x
+- pkg:deb/debian/librust-indieweb-dev@0.4.5-8?arch=amd64
+- pkg:deb/debian/librust-indieweb-dev@0.4.5-8?arch=arm64
+- pkg:deb/debian/librust-indieweb-dev@0.4.5-8?arch=armhf
+- pkg:deb/debian/librust-indieweb-dev@0.4.5-8?arch=i386
+- pkg:deb/debian/librust-indieweb-dev@0.4.5-8?arch=ppc64el
+- pkg:deb/debian/librust-indieweb-dev@0.4.5-8?arch=riscv64
+- pkg:deb/debian/librust-indieweb-dev@0.4.5-8?arch=s390x

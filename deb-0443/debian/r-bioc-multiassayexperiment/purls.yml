@@ -1,0 +1,3 @@
+- pkg:deb/debian/r-bioc-multiassayexperiment@1.16.0%2Bdfsg-1?arch=all
+- pkg:deb/debian/r-bioc-multiassayexperiment@1.24.0%2Bdfsg-2?arch=all
+- pkg:deb/debian/r-bioc-multiassayexperiment@1.32.0%2Bdfsg-2?arch=all

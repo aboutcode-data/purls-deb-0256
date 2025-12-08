@@ -1,0 +1,3 @@
+- pkg:deb/debian/r-cran-jrc@0.4.0-1?arch=all
+- pkg:deb/debian/r-cran-jrc@0.5.1-1?arch=all
+- pkg:deb/debian/r-cran-jrc@0.6.0-1?arch=all

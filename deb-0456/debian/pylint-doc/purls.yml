@@ -1,0 +1,2 @@
+- pkg:deb/debian/pylint-doc@2.16.2-2?arch=all
+- pkg:deb/debian/pylint-doc@2.7.2-3?arch=all

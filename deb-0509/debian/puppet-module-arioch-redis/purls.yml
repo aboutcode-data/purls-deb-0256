@@ -1,0 +1,2 @@
+- pkg:deb/debian/puppet-module-arioch-redis@11.0.0-1?arch=all
+- pkg:deb/debian/puppet-module-arioch-redis@3.2.0-3?arch=all

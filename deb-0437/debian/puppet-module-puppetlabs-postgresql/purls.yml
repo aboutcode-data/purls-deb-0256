@@ -1,0 +1,2 @@
+- pkg:deb/debian/puppet-module-puppetlabs-postgresql@10.5.0-1?arch=all
+- pkg:deb/debian/puppet-module-puppetlabs-postgresql@6.7.0-2?arch=all

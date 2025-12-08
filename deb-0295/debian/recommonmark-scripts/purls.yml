@@ -1,0 +1,3 @@
+- pkg:deb/debian/recommonmark-scripts@0.6.0%2Bds-1?arch=all
+- pkg:deb/debian/recommonmark-scripts@0.7.1%2Bds-5?arch=all
+- pkg:deb/debian/recommonmark-scripts@0.7.1%2Bds-8?arch=all

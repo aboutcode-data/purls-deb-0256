@@ -1,0 +1,3 @@
+- pkg:deb/debian/python-odf-doc@1.4.1-1?arch=all
+- pkg:deb/debian/python-odf-doc@1.4.2-2?arch=all
+- pkg:deb/debian/python-odf-doc@1.4.2-4?arch=all

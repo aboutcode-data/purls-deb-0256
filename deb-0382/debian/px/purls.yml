@@ -1,0 +1,4 @@
+- pkg:deb/debian/px@1.4.0-1?arch=all
+- pkg:deb/debian/px@3.1.0-1?arch=all
+- pkg:deb/debian/px@3.6.12-1?arch=all
+- pkg:deb/debian/px@3.6.9-1?arch=all

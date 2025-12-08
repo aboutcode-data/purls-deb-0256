@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-pyvicare@2.44.0-1?arch=all
+- pkg:deb/debian/python3-pyvicare@2.55.1-1?arch=all

@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-xmlschema@1.10.0-6?arch=all
+- pkg:deb/debian/python3-xmlschema@1.4.2-1?arch=all
+- pkg:deb/debian/python3-xmlschema@3.4.5-1?arch=all
+- pkg:deb/debian/python3-xmlschema@4.1.0-1?arch=all

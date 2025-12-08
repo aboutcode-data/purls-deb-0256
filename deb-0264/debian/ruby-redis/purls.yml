@@ -1,0 +1,4 @@
+- pkg:deb/debian/ruby-redis@4.2.5-1?arch=all
+- pkg:deb/debian/ruby-redis@4.8.0-1?arch=all
+- pkg:deb/debian/ruby-redis@5.3.0-1?arch=all
+- pkg:deb/debian/ruby-redis@5.4.1-1?arch=all

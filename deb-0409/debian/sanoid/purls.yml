@@ -1,0 +1,4 @@
+- pkg:deb/debian/sanoid@2.0.3-4?arch=all
+- pkg:deb/debian/sanoid@2.1.0-1.1?arch=all
+- pkg:deb/debian/sanoid@2.2.0-2?arch=all
+- pkg:deb/debian/sanoid@2.3.0-1?arch=all

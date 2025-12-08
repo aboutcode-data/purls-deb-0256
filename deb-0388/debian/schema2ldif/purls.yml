@@ -1,0 +1,2 @@
+- pkg:deb/debian/schema2ldif@1.3-3?arch=all
+- pkg:deb/debian/schema2ldif@1.3-4?arch=all

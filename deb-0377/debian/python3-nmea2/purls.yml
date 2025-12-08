@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-nmea2@1.15.0-4?arch=all
+- pkg:deb/debian/python3-nmea2@1.19.0-3?arch=all

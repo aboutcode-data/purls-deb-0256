@@ -1,0 +1,3 @@
+- pkg:deb/debian/python3-pyngus@2.3.0-2?arch=all
+- pkg:deb/debian/python3-pyngus@2.3.0-4?arch=all
+- pkg:deb/debian/python3-pyngus@2.3.0-5?arch=all

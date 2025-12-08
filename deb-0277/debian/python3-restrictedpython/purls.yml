@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-restrictedpython@4.0~b3-2?arch=all
+- pkg:deb/debian/python3-restrictedpython@4.0~b3-3?arch=all
+- pkg:deb/debian/python3-restrictedpython@8.0-1?arch=all
+- pkg:deb/debian/python3-restrictedpython@8.1-1?arch=all

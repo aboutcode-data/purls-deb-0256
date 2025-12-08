@@ -1,0 +1,4 @@
+- pkg:deb/debian/python-testfixtures-doc@6.14.1-1?arch=all
+- pkg:deb/debian/python-testfixtures-doc@7.0.4-1?arch=all
+- pkg:deb/debian/python-testfixtures-doc@8.3.0-2?arch=all
+- pkg:deb/debian/python-testfixtures-doc@9.2.0-1?arch=all

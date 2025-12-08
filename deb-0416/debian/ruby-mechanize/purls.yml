@@ -1,0 +1,4 @@
+- pkg:deb/debian/ruby-mechanize@2.10.1-1.1?arch=all
+- pkg:deb/debian/ruby-mechanize@2.10.1-1?arch=all
+- pkg:deb/debian/ruby-mechanize@2.7.7-1?arch=all
+- pkg:deb/debian/ruby-mechanize@2.8.5-1?arch=all

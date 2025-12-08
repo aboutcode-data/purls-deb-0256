@@ -1,0 +1,2 @@
+- pkg:deb/debian/ruby-subexec@0.2.3%2Bgh-2.1?arch=all
+- pkg:deb/debian/ruby-subexec@0.2.3%2Bgh-3?arch=all

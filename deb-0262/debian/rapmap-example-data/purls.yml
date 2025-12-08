@@ -1,0 +1,4 @@
+- pkg:deb/debian/rapmap-example-data@0.15.0%2Bdfsg-1?arch=all
+- pkg:deb/debian/rapmap-example-data@0.15.0%2Bdfsg-3?arch=all
+- pkg:deb/debian/rapmap-example-data@0.15.0%2Bdfsg-4?arch=all
+- pkg:deb/debian/rapmap-example-data@0.15.0%2Bdfsg-5?arch=all

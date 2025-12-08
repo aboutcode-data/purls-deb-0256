@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-cassandra-doc@3.24.0-1?arch=all
+- pkg:deb/debian/python3-cassandra-doc@3.25.0-2?arch=all
+- pkg:deb/debian/python3-cassandra-doc@3.29.2-5?arch=all
+- pkg:deb/debian/python3-cassandra-doc@3.29.2-6?arch=all

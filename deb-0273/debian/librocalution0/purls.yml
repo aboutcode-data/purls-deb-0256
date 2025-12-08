@@ -1,0 +1,4 @@
+- pkg:deb/debian/librocalution0@5.7.1-3%2Bb1?arch=arm64
+- pkg:deb/debian/librocalution0@5.7.1-3?arch=amd64
+- pkg:deb/debian/librocalution0@5.7.1-3?arch=ppc64el
+- pkg:deb/debian/librocalution0@5.7.1-3?arch=riscv64

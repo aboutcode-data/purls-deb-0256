@@ -1,0 +1,2 @@
+- pkg:deb/debian/sagemath-database-elliptic-curves@0.8.1-5?arch=all
+- pkg:deb/debian/sagemath-database-elliptic-curves@0.8.1-6?arch=all

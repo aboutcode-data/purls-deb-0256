@@ -1,0 +1,4 @@
+- pkg:deb/debian/libsaga-api-7.3.0@7.3.0%2Bdfsg-5?arch=amd64
+- pkg:deb/debian/libsaga-api-7.3.0@7.3.0%2Bdfsg-5?arch=arm64
+- pkg:deb/debian/libsaga-api-7.3.0@7.3.0%2Bdfsg-5?arch=armhf
+- pkg:deb/debian/libsaga-api-7.3.0@7.3.0%2Bdfsg-5?arch=i386

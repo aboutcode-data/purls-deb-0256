@@ -1,0 +1,4 @@
+- pkg:deb/debian/python-gsd-doc@2.4.0-1?arch=all
+- pkg:deb/debian/python-gsd-doc@2.7.0-2?arch=all
+- pkg:deb/debian/python-gsd-doc@3.4.2-2?arch=all
+- pkg:deb/debian/python-gsd-doc@4.2.0-1?arch=all

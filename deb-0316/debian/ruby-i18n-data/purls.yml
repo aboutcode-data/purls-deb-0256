@@ -1,0 +1,2 @@
+- pkg:deb/debian/ruby-i18n-data@0.10.0-2?arch=all
+- pkg:deb/debian/ruby-i18n-data@0.15.0-2?arch=all

@@ -1,0 +1,3 @@
+- pkg:deb/debian/r-bioc-consensusclusterplus@1.54.0-1?arch=all
+- pkg:deb/debian/r-bioc-consensusclusterplus@1.62.0-1?arch=all
+- pkg:deb/debian/r-bioc-consensusclusterplus@1.70.0-2?arch=all

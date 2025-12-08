@@ -1,0 +1,2 @@
+- pkg:deb/debian/ruby-rack-cors@1.1.1-1?arch=all
+- pkg:deb/debian/ruby-rack-cors@2.0.2-1?arch=all

@@ -1,0 +1,11 @@
+- pkg:deb/debian/libhsa-runtime-dev@5.2.3-3?arch=amd64
+- pkg:deb/debian/libhsa-runtime-dev@5.2.3-3?arch=arm64
+- pkg:deb/debian/libhsa-runtime-dev@5.2.3-3?arch=mips64el
+- pkg:deb/debian/libhsa-runtime-dev@5.2.3-3?arch=ppc64el
+- pkg:deb/debian/libhsa-runtime-dev@5.2.3-3?arch=s390x
+- pkg:deb/debian/libhsa-runtime-dev@6.1.2-3?arch=amd64
+- pkg:deb/debian/libhsa-runtime-dev@6.1.2-3?arch=arm64
+- pkg:deb/debian/libhsa-runtime-dev@6.1.2-3?arch=ppc64el
+- pkg:deb/debian/libhsa-runtime-dev@6.4.3%2Bdfsg-4?arch=amd64
+- pkg:deb/debian/libhsa-runtime-dev@6.4.3%2Bdfsg-4?arch=arm64
+- pkg:deb/debian/libhsa-runtime-dev@6.4.3%2Bdfsg-4?arch=ppc64el
