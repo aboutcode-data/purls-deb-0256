@@ -1,0 +1,2 @@
+- pkg:deb/debian/debian-tag2upload-keyring@1.1?arch=all
+- pkg:deb/debian/debian-tag2upload-keyring@1.1~bpo12%2B2?arch=all

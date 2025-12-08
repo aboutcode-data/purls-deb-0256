@@ -1,0 +1,4 @@
+- pkg:deb/debian/libbullet3.06@3.06%2Bdfsg-4?arch=amd64
+- pkg:deb/debian/libbullet3.06@3.06%2Bdfsg-4?arch=arm64
+- pkg:deb/debian/libbullet3.06@3.06%2Bdfsg-4?arch=armhf
+- pkg:deb/debian/libbullet3.06@3.06%2Bdfsg-4?arch=i386

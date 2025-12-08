@@ -1,0 +1,5 @@
+- pkg:deb/debian/ansible@12.0.0%2Bdfsg-1?arch=all
+- pkg:deb/debian/ansible@12.0.0~b5%2Bdfsg-0%2Bdeb13u1?arch=all
+- pkg:deb/debian/ansible@12.2.0%2Bdfsg-1?arch=all
+- pkg:deb/debian/ansible@2.10.7%2Bmerged%2Bbase%2B2.10.17%2Bdfsg-0%2Bdeb11u1?arch=all
+- pkg:deb/debian/ansible@7.7.0%2Bdfsg-3%2Bdeb12u1?arch=all

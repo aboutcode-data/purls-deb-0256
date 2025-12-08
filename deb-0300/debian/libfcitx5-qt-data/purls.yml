@@ -1,0 +1,5 @@
+- pkg:deb/debian/libfcitx5-qt-data@5.0.16-1?arch=all
+- pkg:deb/debian/libfcitx5-qt-data@5.0.3-1?arch=all
+- pkg:deb/debian/libfcitx5-qt-data@5.1.11-1?arch=all
+- pkg:deb/debian/libfcitx5-qt-data@5.1.9-1?arch=all
+- pkg:deb/debian/libfcitx5-qt-data@5.1.9-1~bpo12%2B1?arch=all

@@ -1,0 +1,3 @@
+- pkg:deb/debian/libappmenu-gtk-parser-dev-common@0.7.6-2.1?arch=all
+- pkg:deb/debian/libappmenu-gtk-parser-dev-common@0.7.6-2?arch=all
+- pkg:deb/debian/libappmenu-gtk-parser-dev-common@25.04-1?arch=all

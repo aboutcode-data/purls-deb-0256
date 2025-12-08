@@ -1,0 +1,3 @@
+- pkg:deb/debian/fluster@0.1.0-1?arch=all
+- pkg:deb/debian/fluster@1.0.1%2Bgit20231211.d9106f5-1?arch=all
+- pkg:deb/debian/fluster@1.0.1%2Breally0.4.1-1?arch=all

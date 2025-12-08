@@ -1,0 +1,4 @@
+- pkg:deb/debian/bbmap@38.90%2Bdfsg-1?arch=all
+- pkg:deb/debian/bbmap@39.01%2Bdfsg-2?arch=all
+- pkg:deb/debian/bbmap@39.20%2Bdfsg-2?arch=all
+- pkg:deb/debian/bbmap@39.20%2Bdfsg-3?arch=all

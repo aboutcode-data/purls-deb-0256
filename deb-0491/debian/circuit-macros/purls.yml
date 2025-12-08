@@ -1,0 +1,2 @@
+- pkg:deb/debian/circuit-macros@10.1.4-1?arch=all
+- pkg:deb/debian/circuit-macros@9.5.0-1?arch=all

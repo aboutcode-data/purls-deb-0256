@@ -1,0 +1,4 @@
+- pkg:deb/debian/dh-golang@1.51?arch=all
+- pkg:deb/debian/dh-golang@1.59?arch=all
+- pkg:deb/debian/dh-golang@1.62~bpo12%2B1?arch=all
+- pkg:deb/debian/dh-golang@1.63?arch=all

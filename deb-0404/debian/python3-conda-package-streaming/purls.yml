@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-conda-package-streaming@0.10.0-1?arch=all
+- pkg:deb/debian/python3-conda-package-streaming@0.7.0-4?arch=all

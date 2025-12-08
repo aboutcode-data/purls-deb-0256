@@ -1,0 +1,2 @@
+- pkg:deb/debian/libboost1.74-doc@1.74.0%2Bds1-21?arch=all
+- pkg:deb/debian/libboost1.74-doc@1.74.0-9?arch=all

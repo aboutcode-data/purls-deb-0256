@@ -1,0 +1,4 @@
+- pkg:deb/debian/colord-data@1.4.5-3?arch=all
+- pkg:deb/debian/colord-data@1.4.6-2.2?arch=all
+- pkg:deb/debian/colord-data@1.4.7-3?arch=all
+- pkg:deb/debian/colord-data@1.4.8-2?arch=all

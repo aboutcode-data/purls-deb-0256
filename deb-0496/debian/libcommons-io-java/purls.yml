@@ -1,0 +1,3 @@
+- pkg:deb/debian/libcommons-io-java@2.11.0-2?arch=all
+- pkg:deb/debian/libcommons-io-java@2.19.0-1?arch=all
+- pkg:deb/debian/libcommons-io-java@2.8.0-1?arch=all

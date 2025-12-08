@@ -1,0 +1,2 @@
+- pkg:deb/debian/java-package@0.62?arch=all
+- pkg:deb/debian/java-package@0.64?arch=all

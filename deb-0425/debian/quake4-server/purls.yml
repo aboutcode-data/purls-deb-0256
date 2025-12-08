@@ -1,0 +1,4 @@
+- pkg:deb/debian/quake4-server@67?arch=i386
+- pkg:deb/debian/quake4-server@73?arch=i386
+- pkg:deb/debian/quake4-server@85.1?arch=i386
+- pkg:deb/debian/quake4-server@86?arch=i386

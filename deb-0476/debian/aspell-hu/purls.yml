@@ -1,0 +1,4 @@
+- pkg:deb/debian/aspell-hu@0.99.4.2-0-4.1?arch=all
+- pkg:deb/debian/aspell-hu@0.99.4.2-0-4?arch=all
+- pkg:deb/debian/aspell-hu@0.99.4.2-0-5?arch=all
+- pkg:deb/debian/aspell-hu@0.99.4.2-0-7?arch=all

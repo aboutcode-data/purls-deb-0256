@@ -1,0 +1,5 @@
+- pkg:deb/debian/autopkgtest@5.16?arch=all
+- pkg:deb/debian/autopkgtest@5.28?arch=all
+- pkg:deb/debian/autopkgtest@5.47~bpo12%2B1?arch=all
+- pkg:deb/debian/autopkgtest@5.49?arch=all
+- pkg:deb/debian/autopkgtest@5.52?arch=all

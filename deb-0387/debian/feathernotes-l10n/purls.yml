@@ -1,0 +1,4 @@
+- pkg:deb/debian/feathernotes-l10n@0.8.0-1?arch=all
+- pkg:deb/debian/feathernotes-l10n@1.1.0-1?arch=all
+- pkg:deb/debian/feathernotes-l10n@1.3.1-1?arch=all
+- pkg:deb/debian/feathernotes-l10n@1.3.2-1?arch=all

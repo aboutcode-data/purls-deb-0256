@@ -1,0 +1,3 @@
+- pkg:deb/debian/ganyremote@8.1-1.1?arch=all
+- pkg:deb/debian/ganyremote@8.1-2?arch=all
+- pkg:deb/debian/ganyremote@8.1.1-2?arch=all

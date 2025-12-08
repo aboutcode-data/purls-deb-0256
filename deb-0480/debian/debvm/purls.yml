@@ -1,0 +1,4 @@
+- pkg:deb/debian/debvm@0.2.10%2Bdeb12u1?arch=all
+- pkg:deb/debian/debvm@0.4.5?arch=all
+- pkg:deb/debian/debvm@0.4.5~bpo12%2B2?arch=all
+- pkg:deb/debian/debvm@0.5.0?arch=all

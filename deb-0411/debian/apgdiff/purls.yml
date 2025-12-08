@@ -1,0 +1,2 @@
+- pkg:deb/debian/apgdiff@2.6-1?arch=all
+- pkg:deb/debian/apgdiff@2.7.0-1?arch=all

@@ -1,0 +1,5 @@
+- pkg:deb/debian/aodh-evaluator@11.0.0-2?arch=all
+- pkg:deb/debian/aodh-evaluator@15.0.0-3?arch=all
+- pkg:deb/debian/aodh-evaluator@20.0.0-2?arch=all
+- pkg:deb/debian/aodh-evaluator@21.0.0-3?arch=all
+- pkg:deb/debian/aodh-evaluator@21.0.0-4?arch=all

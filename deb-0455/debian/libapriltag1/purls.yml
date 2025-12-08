@@ -1,0 +1,4 @@
+- pkg:deb/debian/libapriltag1@0.10.0-6%2Bb2?arch=amd64
+- pkg:deb/debian/libapriltag1@0.10.0-6%2Bb2?arch=arm64
+- pkg:deb/debian/libapriltag1@0.10.0-6%2Bb2?arch=armhf
+- pkg:deb/debian/libapriltag1@0.10.0-6%2Bb2?arch=i386

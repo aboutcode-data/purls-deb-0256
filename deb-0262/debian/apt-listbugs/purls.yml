@@ -1,0 +1,3 @@
+- pkg:deb/debian/apt-listbugs@0.1.35?arch=all
+- pkg:deb/debian/apt-listbugs@0.1.40?arch=all
+- pkg:deb/debian/apt-listbugs@0.1.47?arch=all

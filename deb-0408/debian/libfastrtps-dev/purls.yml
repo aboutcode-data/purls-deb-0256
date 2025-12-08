@@ -1,0 +1,15 @@
+- pkg:deb/debian/libfastrtps-dev@2.1.0%2Bds-9%2Bdeb11u1?arch=amd64
+- pkg:deb/debian/libfastrtps-dev@2.1.0%2Bds-9%2Bdeb11u1?arch=arm64
+- pkg:deb/debian/libfastrtps-dev@2.1.0%2Bds-9%2Bdeb11u1?arch=armhf
+- pkg:deb/debian/libfastrtps-dev@2.1.0%2Bds-9%2Bdeb11u1?arch=i386
+- pkg:deb/debian/libfastrtps-dev@2.9.1%2Bds-1%2Bdeb12u2?arch=amd64
+- pkg:deb/debian/libfastrtps-dev@2.9.1%2Bds-1%2Bdeb12u2?arch=arm64
+- pkg:deb/debian/libfastrtps-dev@2.9.1%2Bds-1%2Bdeb12u2?arch=armel
+- pkg:deb/debian/libfastrtps-dev@2.9.1%2Bds-1%2Bdeb12u2?arch=armhf
+- pkg:deb/debian/libfastrtps-dev@2.9.1%2Bds-1%2Bdeb12u2?arch=i386
+- pkg:deb/debian/libfastrtps-dev@2.9.1%2Bds-1%2Bdeb12u2?arch=mips64el
+- pkg:deb/debian/libfastrtps-dev@2.9.1%2Bds-1%2Bdeb12u2?arch=mipsel
+- pkg:deb/debian/libfastrtps-dev@2.9.1%2Bds-1%2Bdeb12u2?arch=ppc64el
+- pkg:deb/debian/libfastrtps-dev@2.9.1%2Bds-1%2Bdeb12u2?arch=s390x
+- pkg:deb/debian/libfastrtps-dev@3.1.2%2Bds-1?arch=all
+- pkg:deb/debian/libfastrtps-dev@3.3.0%2Bds-3?arch=all

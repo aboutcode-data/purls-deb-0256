@@ -1,0 +1,11 @@
+- pkg:deb/debian/cdargs@1.35-12%2Bb2?arch=arm64
+- pkg:deb/debian/cdargs@1.35-12%2Bb2?arch=riscv64
+- pkg:deb/debian/cdargs@1.35-12?arch=amd64
+- pkg:deb/debian/cdargs@1.35-12?arch=arm64
+- pkg:deb/debian/cdargs@1.35-12?arch=armel
+- pkg:deb/debian/cdargs@1.35-12?arch=armhf
+- pkg:deb/debian/cdargs@1.35-12?arch=i386
+- pkg:deb/debian/cdargs@1.35-12?arch=mips64el
+- pkg:deb/debian/cdargs@1.35-12?arch=mipsel
+- pkg:deb/debian/cdargs@1.35-12?arch=ppc64el
+- pkg:deb/debian/cdargs@1.35-12?arch=s390x

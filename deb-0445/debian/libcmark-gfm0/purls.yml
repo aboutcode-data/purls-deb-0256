@@ -1,0 +1,4 @@
+- pkg:deb/debian/libcmark-gfm0@0.29.0.gfm.0-6?arch=amd64
+- pkg:deb/debian/libcmark-gfm0@0.29.0.gfm.0-6?arch=arm64
+- pkg:deb/debian/libcmark-gfm0@0.29.0.gfm.0-6?arch=armhf
+- pkg:deb/debian/libcmark-gfm0@0.29.0.gfm.0-6?arch=i386

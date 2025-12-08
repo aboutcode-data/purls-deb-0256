@@ -1,0 +1,3 @@
+- pkg:deb/debian/python3-capirca@2.0.6-1?arch=all
+- pkg:deb/debian/python3-capirca@2.0.9-0.1?arch=all
+- pkg:deb/debian/python3-capirca@2.0.9-0.2?arch=all

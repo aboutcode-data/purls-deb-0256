@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-dtfabric@20200621-1?arch=all
+- pkg:deb/debian/python3-dtfabric@20221218-1?arch=all
+- pkg:deb/debian/python3-dtfabric@20240211-1?arch=all
+- pkg:deb/debian/python3-dtfabric@20251118-1?arch=all

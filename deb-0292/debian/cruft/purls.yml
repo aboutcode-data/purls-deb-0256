@@ -1,0 +1,6 @@
+- pkg:deb/debian/cruft@0.9.39?arch=amd64
+- pkg:deb/debian/cruft@0.9.39?arch=arm64
+- pkg:deb/debian/cruft@0.9.39?arch=armhf
+- pkg:deb/debian/cruft@0.9.39?arch=i386
+- pkg:deb/debian/cruft@0.9.54?arch=all
+- pkg:deb/debian/cruft@0.9.71?arch=all

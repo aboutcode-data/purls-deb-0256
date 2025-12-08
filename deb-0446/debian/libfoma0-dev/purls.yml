@@ -1,0 +1,5 @@
+- pkg:deb/debian/libfoma0-dev@0.10.0%2Bs311-1?arch=all
+- pkg:deb/debian/libfoma0-dev@0.9.18%2Br243-8?arch=amd64
+- pkg:deb/debian/libfoma0-dev@0.9.18%2Br243-8?arch=arm64
+- pkg:deb/debian/libfoma0-dev@0.9.18%2Br243-8?arch=armhf
+- pkg:deb/debian/libfoma0-dev@0.9.18%2Br243-8?arch=i386

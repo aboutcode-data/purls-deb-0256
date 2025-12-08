@@ -1,0 +1,2 @@
+- pkg:deb/debian/games-chess@4?arch=all
+- pkg:deb/debian/games-chess@5?arch=all

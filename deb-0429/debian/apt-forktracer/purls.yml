@@ -1,0 +1,2 @@
+- pkg:deb/debian/apt-forktracer@0.11?arch=all
+- pkg:deb/debian/apt-forktracer@0.9?arch=all

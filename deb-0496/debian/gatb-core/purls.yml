@@ -1,0 +1,11 @@
+- pkg:deb/debian/gatb-core@1.4.2%2Bdfsg-11?arch=amd64
+- pkg:deb/debian/gatb-core@1.4.2%2Bdfsg-11?arch=arm64
+- pkg:deb/debian/gatb-core@1.4.2%2Bdfsg-11?arch=mips64el
+- pkg:deb/debian/gatb-core@1.4.2%2Bdfsg-11?arch=ppc64el
+- pkg:deb/debian/gatb-core@1.4.2%2Bdfsg-13%2Bb4?arch=amd64
+- pkg:deb/debian/gatb-core@1.4.2%2Bdfsg-13%2Bb4?arch=arm64
+- pkg:deb/debian/gatb-core@1.4.2%2Bdfsg-13%2Bb4?arch=ppc64el
+- pkg:deb/debian/gatb-core@1.4.2%2Bdfsg-13%2Bb4?arch=riscv64
+- pkg:deb/debian/gatb-core@1.4.2%2Bdfsg-6?arch=amd64
+- pkg:deb/debian/gatb-core@1.4.2%2Bdfsg-6?arch=arm64
+- pkg:deb/debian/gatb-core@1.4.2%2Bdfsg-6?arch=i386

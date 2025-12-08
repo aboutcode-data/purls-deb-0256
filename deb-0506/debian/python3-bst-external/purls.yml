@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-bst-external@0.29.0-2?arch=all
+- pkg:deb/debian/python3-bst-external@0.30.0-1?arch=all

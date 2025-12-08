@@ -1,0 +1,3 @@
+- pkg:deb/debian/libdatatype99-dev@1.6.4-3?arch=all
+- pkg:deb/debian/libdatatype99-dev@1.6.4-3~bpo12%2B1?arch=all
+- pkg:deb/debian/libdatatype99-dev@1.6.5-1?arch=all

@@ -1,0 +1,4 @@
+- pkg:deb/debian/deepin-icon-theme@2020.09.25-1?arch=all
+- pkg:deb/debian/deepin-icon-theme@2021.11.24-1?arch=all
+- pkg:deb/debian/deepin-icon-theme@2025.03.27-1?arch=all
+- pkg:deb/debian/deepin-icon-theme@2025.8.14-1?arch=all

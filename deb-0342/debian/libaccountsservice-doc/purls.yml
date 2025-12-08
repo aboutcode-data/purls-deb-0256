@@ -1,0 +1,4 @@
+- pkg:deb/debian/libaccountsservice-doc@0.6.55-3?arch=all
+- pkg:deb/debian/libaccountsservice-doc@22.08.8-6?arch=all
+- pkg:deb/debian/libaccountsservice-doc@23.13.9-7?arch=all
+- pkg:deb/debian/libaccountsservice-doc@23.13.9-8?arch=all

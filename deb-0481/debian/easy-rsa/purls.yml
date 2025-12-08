@@ -1,0 +1,4 @@
+- pkg:deb/debian/easy-rsa@3.0.8-1?arch=all
+- pkg:deb/debian/easy-rsa@3.1.0-1?arch=all
+- pkg:deb/debian/easy-rsa@3.2.2-1?arch=all
+- pkg:deb/debian/easy-rsa@3.2.4-1?arch=all

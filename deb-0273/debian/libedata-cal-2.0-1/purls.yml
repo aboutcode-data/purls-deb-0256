@@ -1,0 +1,4 @@
+- pkg:deb/debian/libedata-cal-2.0-1@3.38.3-1%2Bdeb11u2?arch=amd64
+- pkg:deb/debian/libedata-cal-2.0-1@3.38.3-1%2Bdeb11u2?arch=arm64
+- pkg:deb/debian/libedata-cal-2.0-1@3.38.3-1%2Bdeb11u2?arch=armhf
+- pkg:deb/debian/libedata-cal-2.0-1@3.38.3-1%2Bdeb11u2?arch=i386

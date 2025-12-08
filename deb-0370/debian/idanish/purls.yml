@@ -1,0 +1,7 @@
+- pkg:deb/debian/idanish@1.6.36-11.1?arch=amd64
+- pkg:deb/debian/idanish@1.6.36-11.1?arch=arm64
+- pkg:deb/debian/idanish@1.6.36-11.1?arch=armhf
+- pkg:deb/debian/idanish@1.6.36-11.1?arch=i386
+- pkg:deb/debian/idanish@1.6.36-14?arch=all
+- pkg:deb/debian/idanish@1.6.36-17?arch=all
+- pkg:deb/debian/idanish@1.6.36-18?arch=all

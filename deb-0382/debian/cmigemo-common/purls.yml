@@ -1,0 +1,4 @@
+- pkg:deb/debian/cmigemo-common@1.2%2Bgh0.20150404-7.1?arch=all
+- pkg:deb/debian/cmigemo-common@1.2%2Bgh0.20150404-8?arch=all
+- pkg:deb/debian/cmigemo-common@1.2%2Bgh0.20220623-1?arch=all
+- pkg:deb/debian/cmigemo-common@1.2%2Bgh0.20220623-3?arch=all

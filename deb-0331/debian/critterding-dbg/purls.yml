@@ -1,0 +1,6 @@
+- pkg:deb/debian/critterding-dbg@1.0-beta14%2Bdfsg-2%2Bb2?arch=arm64
+- pkg:deb/debian/critterding-dbg@1.0-beta14%2Bdfsg-2%2Bb2?arch=armhf
+- pkg:deb/debian/critterding-dbg@1.0-beta14%2Bdfsg-2%2Bb2?arch=i386
+- pkg:deb/debian/critterding-dbg@1.0-beta14%2Bdfsg-2%2Bb2?arch=ppc64el
+- pkg:deb/debian/critterding-dbg@1.0-beta14%2Bdfsg-2%2Bb2?arch=s390x
+- pkg:deb/debian/critterding-dbg@1.0-beta14%2Bdfsg-2%2Bb3?arch=amd64

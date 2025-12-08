@@ -1,0 +1,4 @@
+- pkg:deb/debian/elpa-esxml@0.3.5-1?arch=all
+- pkg:deb/debian/elpa-esxml@0.3.7-1?arch=all
+- pkg:deb/debian/elpa-esxml@0.3.7-2?arch=all
+- pkg:deb/debian/elpa-esxml@0.3.8-1?arch=all

@@ -1,0 +1,4 @@
+- pkg:deb/debian/brutespray@1.6.8-1?arch=all
+- pkg:deb/debian/brutespray@1.8.1-1?arch=all
+- pkg:deb/debian/brutespray@1.8.1-2?arch=all
+- pkg:deb/debian/brutespray@1.8.1-3?arch=all

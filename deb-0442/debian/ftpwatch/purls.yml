@@ -1,0 +1,3 @@
+- pkg:deb/debian/ftpwatch@1.23%2Bnmu1?arch=all
+- pkg:deb/debian/ftpwatch@1.24%2Bnmu2?arch=all
+- pkg:deb/debian/ftpwatch@1.24?arch=all

@@ -1,0 +1,6 @@
+- pkg:deb/debian/accerciser@3.38.0-1?arch=all
+- pkg:deb/debian/accerciser@3.40.0-2?arch=all
+- pkg:deb/debian/accerciser@3.46.2-3?arch=all
+- pkg:deb/debian/accerciser@3.46.2-3~bpo12%2B1?arch=all
+- pkg:deb/debian/accerciser@3.48.0-1?arch=all
+- pkg:deb/debian/accerciser@3.48.0-1~bpo13%2B1?arch=all

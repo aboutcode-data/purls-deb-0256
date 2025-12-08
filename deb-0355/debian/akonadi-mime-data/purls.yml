@@ -1,0 +1,4 @@
+- pkg:deb/debian/akonadi-mime-data@20.08.3-1?arch=all
+- pkg:deb/debian/akonadi-mime-data@22.12.3-1?arch=all
+- pkg:deb/debian/akonadi-mime-data@24.12.3-1?arch=all
+- pkg:deb/debian/akonadi-mime-data@25.08.3-2?arch=all

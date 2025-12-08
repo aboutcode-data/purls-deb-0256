@@ -1,0 +1,4 @@
+- pkg:deb/debian/acr@1.9.4-1?arch=all
+- pkg:deb/debian/acr@2.1.2-1~bpo12%2B1?arch=all
+- pkg:deb/debian/acr@2.2.0-1?arch=all
+- pkg:deb/debian/acr@2.2.4-2?arch=all

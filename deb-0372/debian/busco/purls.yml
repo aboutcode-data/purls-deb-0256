@@ -1,0 +1,6 @@
+- pkg:deb/debian/busco@5.0.0-1?arch=all
+- pkg:deb/debian/busco@5.4.4-1?arch=amd64
+- pkg:deb/debian/busco@5.4.4-1?arch=i386
+- pkg:deb/debian/busco@5.5.0-3?arch=amd64
+- pkg:deb/debian/busco@5.5.0-3?arch=arm64
+- pkg:deb/debian/busco@5.5.0-3?arch=i386

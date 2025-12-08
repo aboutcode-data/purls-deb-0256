@@ -1,0 +1,2 @@
+- pkg:deb/debian/buildbot-slave@2.10.1-1?arch=all
+- pkg:deb/debian/buildbot-slave@3.7.0-2?arch=all

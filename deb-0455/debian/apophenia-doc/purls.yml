@@ -1,0 +1,2 @@
+- pkg:deb/debian/apophenia-doc@1.0%2Bds-10?arch=all
+- pkg:deb/debian/apophenia-doc@1.0%2Bds-8?arch=all

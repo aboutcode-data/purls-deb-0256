@@ -1,0 +1,2 @@
+- pkg:deb/debian/python-flask-bootstrap-doc@2.2.0%2Bds1-1?arch=all
+- pkg:deb/debian/python-flask-bootstrap-doc@2.4.2%2Bds-1?arch=all

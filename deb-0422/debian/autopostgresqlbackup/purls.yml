@@ -1,0 +1,2 @@
+- pkg:deb/debian/autopostgresqlbackup@1.1-1.1?arch=all
+- pkg:deb/debian/autopostgresqlbackup@2.5-1?arch=all

@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-django-recurrence@1.10.3-1?arch=all
+- pkg:deb/debian/python3-django-recurrence@1.11.1-1?arch=all
+- pkg:deb/debian/python3-django-recurrence@1.12.1-1?arch=all
+- pkg:deb/debian/python3-django-recurrence@1.12.1-2?arch=all

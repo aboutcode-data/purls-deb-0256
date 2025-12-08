@@ -1,0 +1,3 @@
+- pkg:deb/debian/freediameter@1.2.1-8?arch=all
+- pkg:deb/debian/freediameter@1.5.0-1?arch=all
+- pkg:deb/debian/freediameter@1.6.0-1?arch=all

@@ -1,0 +1,4 @@
+- pkg:deb/debian/cdrkit-doc@1.1.11-3.2?arch=all
+- pkg:deb/debian/cdrkit-doc@1.1.11-3.4?arch=all
+- pkg:deb/debian/cdrkit-doc@1.1.11-4?arch=all
+- pkg:deb/debian/cdrkit-doc@1.1.11-5?arch=all

@@ -1,0 +1,4 @@
+- pkg:deb/debian/r-cran-fasianoptions@3042.82-1%2Bb3?arch=amd64
+- pkg:deb/debian/r-cran-fasianoptions@3042.82-1%2Bb3?arch=arm64
+- pkg:deb/debian/r-cran-fasianoptions@3042.82-1%2Bb3?arch=armhf
+- pkg:deb/debian/r-cran-fasianoptions@3042.82-1%2Bb3?arch=i386

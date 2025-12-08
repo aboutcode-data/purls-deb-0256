@@ -1,0 +1,2 @@
+- pkg:deb/debian/ttf-mscorefonts-installer@3.8.1?arch=all
+- pkg:deb/debian/ttf-mscorefonts-installer@3.8?arch=all

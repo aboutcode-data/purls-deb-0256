@@ -1,0 +1,4 @@
+- pkg:deb/debian/coop-computing-tools-doc@7.1.2-5?arch=all
+- pkg:deb/debian/coop-computing-tools-doc@7.14.5-1?arch=all
+- pkg:deb/debian/coop-computing-tools-doc@7.15.9-1?arch=all
+- pkg:deb/debian/coop-computing-tools-doc@9.9-2?arch=all

@@ -1,0 +1,2 @@
+- pkg:deb/debian/ruby-spamcheck@1.0.0%2Bgit20220819.662e6bf-2?arch=all
+- pkg:deb/debian/ruby-spamcheck@1.10.1-2?arch=all

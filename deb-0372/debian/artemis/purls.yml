@@ -1,0 +1,4 @@
+- pkg:deb/debian/artemis@18.1.0%2Bdfsg-3?arch=amd64
+- pkg:deb/debian/artemis@18.2.0%2Bdfsg-3?arch=all
+- pkg:deb/debian/artemis@18.2.0%2Bdfsg-4?arch=all
+- pkg:deb/debian/artemis@18.2.0%2Bdfsg-5?arch=all

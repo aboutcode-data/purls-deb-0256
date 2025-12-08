@@ -1,0 +1,2 @@
+- pkg:deb/debian/foma-bin@0.10.0%2Bs311-1?arch=all
+- pkg:deb/debian/foma-bin@0.9.18%2Br243-8?arch=all

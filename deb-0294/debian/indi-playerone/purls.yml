@@ -1,0 +1,6 @@
+- pkg:deb/debian/indi-playerone@0.9%2B20230105184731-1?arch=amd64
+- pkg:deb/debian/indi-playerone@0.9%2B20230105184731-1?arch=arm64
+- pkg:deb/debian/indi-playerone@0.9%2B20230105184731-1?arch=armhf
+- pkg:deb/debian/indi-playerone@0.9%2B20230105184731-3?arch=amd64
+- pkg:deb/debian/indi-playerone@0.9%2B20230105184731-3?arch=arm64
+- pkg:deb/debian/indi-playerone@0.9%2B20230105184731-3?arch=armhf

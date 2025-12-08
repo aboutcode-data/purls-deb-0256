@@ -1,0 +1,2 @@
+- pkg:deb/debian/chordpro@6.070%2Bds-3?arch=all
+- pkg:deb/debian/chordpro@6.090.0%2Bds-1?arch=all

@@ -1,0 +1,3 @@
+- pkg:deb/debian/autoconf-archive@20190106-2.1?arch=all
+- pkg:deb/debian/autoconf-archive@20220903-3?arch=all
+- pkg:deb/debian/autoconf-archive@20241016-3?arch=all

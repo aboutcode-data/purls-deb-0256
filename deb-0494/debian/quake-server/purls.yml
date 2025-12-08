@@ -1,0 +1,4 @@
+- pkg:deb/debian/quake-server@67?arch=all
+- pkg:deb/debian/quake-server@73?arch=all
+- pkg:deb/debian/quake-server@85.1?arch=all
+- pkg:deb/debian/quake-server@86?arch=all

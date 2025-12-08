@@ -1,0 +1,13 @@
+- pkg:deb/debian/libdeal.ii-dev@9.2.0-3%2Bb2?arch=amd64
+- pkg:deb/debian/libdeal.ii-dev@9.2.0-3%2Bb2?arch=arm64
+- pkg:deb/debian/libdeal.ii-dev@9.4.1-1?arch=amd64
+- pkg:deb/debian/libdeal.ii-dev@9.4.1-1?arch=ppc64el
+- pkg:deb/debian/libdeal.ii-dev@9.4.1-1?arch=s390x
+- pkg:deb/debian/libdeal.ii-dev@9.6.2-4%2Bb3?arch=ppc64el
+- pkg:deb/debian/libdeal.ii-dev@9.6.2-4?arch=amd64
+- pkg:deb/debian/libdeal.ii-dev@9.6.2-4?arch=ppc64el
+- pkg:deb/debian/libdeal.ii-dev@9.6.2-4?arch=riscv64
+- pkg:deb/debian/libdeal.ii-dev@9.6.2-4?arch=s390x
+- pkg:deb/debian/libdeal.ii-dev@9.7.1-1?arch=amd64
+- pkg:deb/debian/libdeal.ii-dev@9.7.1-1?arch=riscv64
+- pkg:deb/debian/libdeal.ii-dev@9.7.1-1?arch=s390x

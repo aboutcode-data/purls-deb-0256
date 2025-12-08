@@ -1,0 +1,6 @@
+- pkg:deb/debian/nvidia-settings-tesla@525.125.06-1~deb12u1?arch=amd64
+- pkg:deb/debian/nvidia-settings-tesla@525.125.06-1~deb12u1?arch=arm64
+- pkg:deb/debian/nvidia-settings-tesla@525.125.06-1~deb12u1?arch=ppc64el
+- pkg:deb/debian/nvidia-settings-tesla@525.147.05-1?arch=amd64
+- pkg:deb/debian/nvidia-settings-tesla@525.147.05-1?arch=arm64
+- pkg:deb/debian/nvidia-settings-tesla@525.147.05-1?arch=ppc64el

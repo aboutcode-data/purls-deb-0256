@@ -1,0 +1,3 @@
+- pkg:deb/debian/afnix-doc@3.4.0-2?arch=all
+- pkg:deb/debian/afnix-doc@3.7.0-1?arch=all
+- pkg:deb/debian/afnix-doc@3.8.0-1.1?arch=all

@@ -1,0 +1,5 @@
+- pkg:deb/debian/dapl2-utils@2.1.10.1.f1e05b7a-3%2Bb1?arch=amd64
+- pkg:deb/debian/dapl2-utils@2.1.10.1.f1e05b7a-3?arch=arm64
+- pkg:deb/debian/dapl2-utils@2.1.10.1.f1e05b7a-3?arch=i386
+- pkg:deb/debian/dapl2-utils@2.1.10.1.f1e05b7a-3?arch=ppc64el
+- pkg:deb/debian/dapl2-utils@2.1.10.1.f1e05b7a-3?arch=s390x

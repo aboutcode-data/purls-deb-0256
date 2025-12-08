@@ -1,0 +1,3 @@
+- pkg:deb/debian/casacore-data-sources@2-2?arch=all
+- pkg:deb/debian/casacore-data-sources@2-4?arch=all
+- pkg:deb/debian/casacore-data-sources@2-6?arch=all

@@ -1,0 +1,4 @@
+- pkg:deb/debian/chirp@20200227%2Bpy3%2B20200213-3?arch=all
+- pkg:deb/debian/chirp@20221106%2Bpy3-1?arch=all
+- pkg:deb/debian/chirp@20250502-1?arch=all
+- pkg:deb/debian/chirp@20251108-1?arch=all

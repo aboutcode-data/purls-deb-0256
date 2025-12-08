@@ -1,0 +1,17 @@
+- pkg:deb/debian/adequate@0.15.6?arch=all
+- pkg:deb/debian/adequate@0.15.9~deb12u1?arch=all
+- pkg:deb/debian/adequate@0.17.5%2Bb5?arch=amd64
+- pkg:deb/debian/adequate@0.17.5%2Bb5?arch=arm64
+- pkg:deb/debian/adequate@0.17.5%2Bb5?arch=armel
+- pkg:deb/debian/adequate@0.17.5%2Bb5?arch=armhf
+- pkg:deb/debian/adequate@0.17.5%2Bb5?arch=i386
+- pkg:deb/debian/adequate@0.17.5%2Bb5?arch=ppc64el
+- pkg:deb/debian/adequate@0.17.5%2Bb5?arch=riscv64
+- pkg:deb/debian/adequate@0.17.5%2Bb5?arch=s390x
+- pkg:deb/debian/adequate@0.17.6%2Bb1?arch=amd64
+- pkg:deb/debian/adequate@0.17.6?arch=arm64
+- pkg:deb/debian/adequate@0.17.6?arch=armhf
+- pkg:deb/debian/adequate@0.17.6?arch=i386
+- pkg:deb/debian/adequate@0.17.6?arch=ppc64el
+- pkg:deb/debian/adequate@0.17.6?arch=riscv64
+- pkg:deb/debian/adequate@0.17.6?arch=s390x

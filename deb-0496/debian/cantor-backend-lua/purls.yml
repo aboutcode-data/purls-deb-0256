@@ -1,0 +1,6 @@
+- pkg:deb/debian/cantor-backend-lua@20.12.1-5?arch=amd64
+- pkg:deb/debian/cantor-backend-lua@20.12.1-5?arch=i386
+- pkg:deb/debian/cantor-backend-lua@22.12.3-1?arch=amd64
+- pkg:deb/debian/cantor-backend-lua@22.12.3-1?arch=i386
+- pkg:deb/debian/cantor-backend-lua@25.04.2-3%2Bb1?arch=amd64
+- pkg:deb/debian/cantor-backend-lua@25.04.2-3?arch=amd64

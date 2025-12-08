@@ -1,0 +1,4 @@
+- pkg:deb/debian/libapparmor-perl@2.13.6-10?arch=amd64
+- pkg:deb/debian/libapparmor-perl@2.13.6-10?arch=arm64
+- pkg:deb/debian/libapparmor-perl@2.13.6-10?arch=armhf
+- pkg:deb/debian/libapparmor-perl@2.13.6-10?arch=i386

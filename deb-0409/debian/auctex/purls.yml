@@ -1,0 +1,2 @@
+- pkg:deb/debian/auctex@12.2-1?arch=all
+- pkg:deb/debian/auctex@13.2-1.1?arch=all

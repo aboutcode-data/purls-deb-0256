@@ -1,0 +1,3 @@
+- pkg:deb/debian/dict-cc-cedict@0.0~repack20250329-1?arch=all
+- pkg:deb/debian/dict-cc-cedict@0.0~repack20251008-1?arch=all
+- pkg:deb/debian/dict-cc-cedict@0.0~repack20251202-1?arch=all

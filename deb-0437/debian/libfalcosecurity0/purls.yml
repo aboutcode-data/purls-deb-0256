@@ -1,0 +1,9 @@
+- pkg:deb/debian/libfalcosecurity0@0.1.1dev%2Bgit20220316.e5c53d64-5.1?arch=amd64
+- pkg:deb/debian/libfalcosecurity0@0.1.1dev%2Bgit20220316.e5c53d64-5.1?arch=arm64
+- pkg:deb/debian/libfalcosecurity0@0.1.1dev%2Bgit20220316.e5c53d64-5.1?arch=armel
+- pkg:deb/debian/libfalcosecurity0@0.1.1dev%2Bgit20220316.e5c53d64-5.1?arch=armhf
+- pkg:deb/debian/libfalcosecurity0@0.1.1dev%2Bgit20220316.e5c53d64-5.1?arch=i386
+- pkg:deb/debian/libfalcosecurity0@0.1.1dev%2Bgit20220316.e5c53d64-5.1?arch=mips64el
+- pkg:deb/debian/libfalcosecurity0@0.1.1dev%2Bgit20220316.e5c53d64-5.1?arch=mipsel
+- pkg:deb/debian/libfalcosecurity0@0.1.1dev%2Bgit20220316.e5c53d64-5.1?arch=ppc64el
+- pkg:deb/debian/libfalcosecurity0@0.1.1dev%2Bgit20220316.e5c53d64-5.1?arch=s390x

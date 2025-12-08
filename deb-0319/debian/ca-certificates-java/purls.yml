@@ -1,0 +1,4 @@
+- pkg:deb/debian/ca-certificates-java@20190909%2Bdeb11u1?arch=all
+- pkg:deb/debian/ca-certificates-java@20230620~deb12u1~bpo12%2B1?arch=all
+- pkg:deb/debian/ca-certificates-java@20230710~deb12u1?arch=all
+- pkg:deb/debian/ca-certificates-java@20240118?arch=all

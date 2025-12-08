@@ -1,0 +1,9 @@
+- pkg:deb/debian/lib4ti2-0@1.6.9%2Bds-8?arch=amd64
+- pkg:deb/debian/lib4ti2-0@1.6.9%2Bds-8?arch=arm64
+- pkg:deb/debian/lib4ti2-0@1.6.9%2Bds-8?arch=armel
+- pkg:deb/debian/lib4ti2-0@1.6.9%2Bds-8?arch=armhf
+- pkg:deb/debian/lib4ti2-0@1.6.9%2Bds-8?arch=i386
+- pkg:deb/debian/lib4ti2-0@1.6.9%2Bds-8?arch=mips64el
+- pkg:deb/debian/lib4ti2-0@1.6.9%2Bds-8?arch=mipsel
+- pkg:deb/debian/lib4ti2-0@1.6.9%2Bds-8?arch=ppc64el
+- pkg:deb/debian/lib4ti2-0@1.6.9%2Bds-8?arch=s390x

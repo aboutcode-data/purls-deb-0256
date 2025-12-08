@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-azure-functions-devops-build@0.0.22-5?arch=all
+- pkg:deb/debian/python3-azure-functions-devops-build@0.0.22-6?arch=all

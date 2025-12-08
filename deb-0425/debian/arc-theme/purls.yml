@@ -1,0 +1,3 @@
+- pkg:deb/debian/arc-theme@20201013-2?arch=all
+- pkg:deb/debian/arc-theme@20221218-1?arch=all
+- pkg:deb/debian/arc-theme@20221218-2?arch=all

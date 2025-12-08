@@ -1,0 +1,3 @@
+- pkg:deb/debian/cardpeek-data@0.8.4-1.1?arch=all
+- pkg:deb/debian/cardpeek-data@0.8.4-3?arch=all
+- pkg:deb/debian/cardpeek-data@0.8.4-6?arch=all

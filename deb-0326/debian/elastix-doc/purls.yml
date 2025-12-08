@@ -1,0 +1,3 @@
+- pkg:deb/debian/elastix-doc@4.9.0-2?arch=all
+- pkg:deb/debian/elastix-doc@5.0.1-4?arch=all
+- pkg:deb/debian/elastix-doc@5.2.0-2?arch=all

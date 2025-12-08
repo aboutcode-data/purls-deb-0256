@@ -1,0 +1,4 @@
+- pkg:deb/debian/ddccontrol-db@20190826-1?arch=all
+- pkg:deb/debian/ddccontrol-db@20230223-1?arch=all
+- pkg:deb/debian/ddccontrol-db@20250504-1?arch=all
+- pkg:deb/debian/ddccontrol-db@20251102-1?arch=all

@@ -1,0 +1,16 @@
+- pkg:deb/debian/fvwm1@1.24r-57%2Bb1?arch=amd64
+- pkg:deb/debian/fvwm1@1.24r-57.2?arch=amd64
+- pkg:deb/debian/fvwm1@1.24r-57.2?arch=arm64
+- pkg:deb/debian/fvwm1@1.24r-57.2?arch=armhf
+- pkg:deb/debian/fvwm1@1.24r-57.2?arch=i386
+- pkg:deb/debian/fvwm1@1.24r-57.2?arch=ppc64el
+- pkg:deb/debian/fvwm1@1.24r-57.2?arch=riscv64
+- pkg:deb/debian/fvwm1@1.24r-57.2?arch=s390x
+- pkg:deb/debian/fvwm1@1.24r-57?arch=arm64
+- pkg:deb/debian/fvwm1@1.24r-57?arch=armel
+- pkg:deb/debian/fvwm1@1.24r-57?arch=armhf
+- pkg:deb/debian/fvwm1@1.24r-57?arch=i386
+- pkg:deb/debian/fvwm1@1.24r-57?arch=mips64el
+- pkg:deb/debian/fvwm1@1.24r-57?arch=mipsel
+- pkg:deb/debian/fvwm1@1.24r-57?arch=ppc64el
+- pkg:deb/debian/fvwm1@1.24r-57?arch=s390x

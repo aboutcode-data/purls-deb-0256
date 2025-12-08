@@ -1,0 +1,2 @@
+- pkg:deb/debian/etw-data@3.6%2Bsvn162-6?arch=all
+- pkg:deb/debian/etw-data@3.6%2Bsvn162-7?arch=all

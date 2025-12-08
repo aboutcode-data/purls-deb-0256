@@ -1,0 +1,3 @@
+- pkg:deb/debian/autoconf-dickey@2.52%2B20210105-1?arch=all
+- pkg:deb/debian/autoconf-dickey@2.52%2B20230114-1?arch=all
+- pkg:deb/debian/autoconf-dickey@2.52%2B20250126-1?arch=all

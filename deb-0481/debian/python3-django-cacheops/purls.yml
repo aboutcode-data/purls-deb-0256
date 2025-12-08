@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-django-cacheops@6.2-1?arch=all
+- pkg:deb/debian/python3-django-cacheops@7.2-1?arch=all

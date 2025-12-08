@@ -1,0 +1,4 @@
+- pkg:deb/debian/buku@4.5%2Bds-1?arch=all
+- pkg:deb/debian/buku@4.7%2Bds-1?arch=all
+- pkg:deb/debian/buku@4.9%2Bds-1?arch=all
+- pkg:deb/debian/buku@5.0%2Bds-1?arch=all

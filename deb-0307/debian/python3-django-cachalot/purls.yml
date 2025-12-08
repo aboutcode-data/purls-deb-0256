@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-django-cachalot@2.4.3-2?arch=all
+- pkg:deb/debian/python3-django-cachalot@2.8.0-1?arch=all

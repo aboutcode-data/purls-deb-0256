@@ -1,0 +1,6 @@
+- pkg:deb/debian/dolphin-emu@2503%2Bdfsg-1%2Bdeb13u1?arch=amd64
+- pkg:deb/debian/dolphin-emu@2503%2Bdfsg-1%2Bdeb13u1?arch=arm64
+- pkg:deb/debian/dolphin-emu@2509%2Bdfsg-1?arch=amd64
+- pkg:deb/debian/dolphin-emu@2509%2Bdfsg-1?arch=arm64
+- pkg:deb/debian/dolphin-emu@5.0-17995-1?arch=amd64
+- pkg:deb/debian/dolphin-emu@5.0-17995-1?arch=arm64

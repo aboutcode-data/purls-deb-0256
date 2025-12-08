@@ -1,0 +1,2 @@
+- pkg:deb/debian/devscripts-el@40.5?arch=all
+- pkg:deb/debian/devscripts-el@40.7?arch=all

@@ -1,0 +1,4 @@
+- pkg:deb/debian/cinnamon-session-common@4.8.0-3?arch=all
+- pkg:deb/debian/cinnamon-session-common@5.6.0-1?arch=all
+- pkg:deb/debian/cinnamon-session-common@6.4.0-1?arch=all
+- pkg:deb/debian/cinnamon-session-common@6.4.2-1?arch=all

@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-django-auto-one-to-one@3.3.0-1?arch=all
+- pkg:deb/debian/python3-django-auto-one-to-one@3.3.5-1?arch=all
+- pkg:deb/debian/python3-django-auto-one-to-one@3.3.5-2?arch=all
+- pkg:deb/debian/python3-django-auto-one-to-one@3.3.6-1?arch=all

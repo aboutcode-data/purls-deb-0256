@@ -1,0 +1,4 @@
+- pkg:deb/debian/cflow-l10n@1.6-4?arch=all
+- pkg:deb/debian/cflow-l10n@1.7-4?arch=all
+- pkg:deb/debian/cflow-l10n@1.7-5?arch=all
+- pkg:deb/debian/cflow-l10n@1.8-1?arch=all

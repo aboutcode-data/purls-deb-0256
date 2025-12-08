@@ -1,0 +1,5 @@
+- pkg:deb/debian/appstream-doc@0.14.4-1?arch=all
+- pkg:deb/debian/appstream-doc@0.16.1-2?arch=all
+- pkg:deb/debian/appstream-doc@1.0.5-1?arch=all
+- pkg:deb/debian/appstream-doc@1.1.0-1?arch=all
+- pkg:deb/debian/appstream-doc@1.1.1-1?arch=all

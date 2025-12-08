@@ -1,0 +1,3 @@
+- pkg:deb/debian/libappconfig-perl@1.71-2.1?arch=all
+- pkg:deb/debian/libappconfig-perl@1.71-2.2?arch=all
+- pkg:deb/debian/libappconfig-perl@1.71-2.3?arch=all

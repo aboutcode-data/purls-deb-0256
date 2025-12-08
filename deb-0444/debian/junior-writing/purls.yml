@@ -1,0 +1,3 @@
+- pkg:deb/debian/junior-writing@1.29?arch=all
+- pkg:deb/debian/junior-writing@1.30?arch=all
+- pkg:deb/debian/junior-writing@1.32?arch=all

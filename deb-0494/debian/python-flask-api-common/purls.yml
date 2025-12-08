@@ -1,0 +1,2 @@
+- pkg:deb/debian/python-flask-api-common@1.1%2Bdfsg-1.1?arch=all
+- pkg:deb/debian/python-flask-api-common@1.1%2Bdfsg-3?arch=all

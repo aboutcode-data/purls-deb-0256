@@ -1,0 +1,2 @@
+- pkg:deb/debian/ceilometer-instance-poller@0.1.5-1?arch=all
+- pkg:deb/debian/ceilometer-instance-poller@1.0.0-2?arch=all

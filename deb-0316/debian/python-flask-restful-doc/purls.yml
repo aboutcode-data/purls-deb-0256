@@ -1,0 +1,4 @@
+- pkg:deb/debian/python-flask-restful-doc@0.3.10-5?arch=all
+- pkg:deb/debian/python-flask-restful-doc@0.3.10-7?arch=all
+- pkg:deb/debian/python-flask-restful-doc@0.3.8-5?arch=all
+- pkg:deb/debian/python-flask-restful-doc@0.3.9-6?arch=all

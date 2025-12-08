@@ -1,0 +1,8 @@
+- pkg:deb/debian/libbpftune0@0.0~git20250314.8fd59cc-1?arch=amd64
+- pkg:deb/debian/libbpftune0@0.0~git20250314.8fd59cc-1?arch=arm64
+- pkg:deb/debian/libbpftune0@0.0~git20250314.8fd59cc-1?arch=i386
+- pkg:deb/debian/libbpftune0@0.0~git20250723.5966387-1%2Bb1?arch=amd64
+- pkg:deb/debian/libbpftune0@0.0~git20250723.5966387-1%2Bb1?arch=arm64
+- pkg:deb/debian/libbpftune0@0.0~git20251206.4bcc284-1?arch=amd64
+- pkg:deb/debian/libbpftune0@0.0~git20251206.4bcc284-1?arch=arm64
+- pkg:deb/debian/libbpftune0@0.0~git20251206.4bcc284-1?arch=i386

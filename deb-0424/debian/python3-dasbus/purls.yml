@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-dasbus@1.7-1?arch=all
+- pkg:deb/debian/python3-dasbus@1.7-2?arch=all

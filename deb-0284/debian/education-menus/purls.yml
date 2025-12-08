@@ -1,0 +1,4 @@
+- pkg:deb/debian/education-menus@2.11.37?arch=all
+- pkg:deb/debian/education-menus@2.12.15?arch=all
+- pkg:deb/debian/education-menus@2.13.3?arch=all
+- pkg:deb/debian/education-menus@2.13.5?arch=all

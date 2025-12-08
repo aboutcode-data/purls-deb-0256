@@ -1,0 +1,2 @@
+- pkg:deb/debian/big-cursor@3.12?arch=all
+- pkg:deb/debian/big-cursor@3.16?arch=all

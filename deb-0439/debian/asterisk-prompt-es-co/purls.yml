@@ -1,0 +1,3 @@
+- pkg:deb/debian/asterisk-prompt-es-co@0.20070403-2.1?arch=all
+- pkg:deb/debian/asterisk-prompt-es-co@0.20070403-2?arch=all
+- pkg:deb/debian/asterisk-prompt-es-co@0.20070403-4?arch=all

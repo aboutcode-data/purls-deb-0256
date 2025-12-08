@@ -1,0 +1,2 @@
+- pkg:deb/debian/libbcutil-java@1.72-2?arch=all
+- pkg:deb/debian/libbcutil-java@1.80-3?arch=all

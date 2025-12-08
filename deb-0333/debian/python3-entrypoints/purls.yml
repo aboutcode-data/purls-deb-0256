@@ -1,0 +1,3 @@
+- pkg:deb/debian/python3-entrypoints@0.3-5?arch=all
+- pkg:deb/debian/python3-entrypoints@0.4-2?arch=all
+- pkg:deb/debian/python3-entrypoints@0.4-3?arch=all

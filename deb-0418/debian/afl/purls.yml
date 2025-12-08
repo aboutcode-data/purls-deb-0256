@@ -1,0 +1,2 @@
+- pkg:deb/debian/afl@2.68c-1?arch=all
+- pkg:deb/debian/afl@4.04c-4?arch=all

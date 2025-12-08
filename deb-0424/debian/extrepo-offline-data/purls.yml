@@ -1,0 +1,3 @@
+- pkg:deb/debian/extrepo-offline-data@1.0.3%2Bdeb12u1?arch=all
+- pkg:deb/debian/extrepo-offline-data@1.0.4?arch=all
+- pkg:deb/debian/extrepo-offline-data@1.0.6?arch=all

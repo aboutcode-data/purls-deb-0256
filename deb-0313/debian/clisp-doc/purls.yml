@@ -1,0 +1,4 @@
+- pkg:deb/debian/clisp-doc@2.49.20180218%2Breally2.49.92-3?arch=all
+- pkg:deb/debian/clisp-doc@2.49.20210628.gitde01f0f-3?arch=all
+- pkg:deb/debian/clisp-doc@2.49.20241228.gitc3ec11b-2?arch=all
+- pkg:deb/debian/clisp-doc@2.49.20250504.gitf662209-2?arch=all

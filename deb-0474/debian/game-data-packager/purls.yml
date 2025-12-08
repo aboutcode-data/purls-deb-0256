@@ -1,0 +1,4 @@
+- pkg:deb/debian/game-data-packager@67?arch=all
+- pkg:deb/debian/game-data-packager@73?arch=all
+- pkg:deb/debian/game-data-packager@85.1?arch=all
+- pkg:deb/debian/game-data-packager@86?arch=all

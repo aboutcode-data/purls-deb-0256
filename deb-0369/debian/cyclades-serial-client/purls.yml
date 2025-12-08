@@ -1,0 +1,17 @@
+- pkg:deb/debian/cyclades-serial-client@0.94?arch=amd64
+- pkg:deb/debian/cyclades-serial-client@0.94?arch=arm64
+- pkg:deb/debian/cyclades-serial-client@0.94?arch=armel
+- pkg:deb/debian/cyclades-serial-client@0.94?arch=armhf
+- pkg:deb/debian/cyclades-serial-client@0.94?arch=i386
+- pkg:deb/debian/cyclades-serial-client@0.94?arch=mips64el
+- pkg:deb/debian/cyclades-serial-client@0.94?arch=mipsel
+- pkg:deb/debian/cyclades-serial-client@0.94?arch=ppc64el
+- pkg:deb/debian/cyclades-serial-client@0.94?arch=s390x
+- pkg:deb/debian/cyclades-serial-client@0.95?arch=amd64
+- pkg:deb/debian/cyclades-serial-client@0.95?arch=arm64
+- pkg:deb/debian/cyclades-serial-client@0.95?arch=armel
+- pkg:deb/debian/cyclades-serial-client@0.95?arch=armhf
+- pkg:deb/debian/cyclades-serial-client@0.95?arch=i386
+- pkg:deb/debian/cyclades-serial-client@0.95?arch=ppc64el
+- pkg:deb/debian/cyclades-serial-client@0.95?arch=riscv64
+- pkg:deb/debian/cyclades-serial-client@0.95?arch=s390x

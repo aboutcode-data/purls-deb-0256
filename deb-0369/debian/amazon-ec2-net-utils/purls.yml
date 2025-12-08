@@ -1,0 +1,2 @@
+- pkg:deb/debian/amazon-ec2-net-utils@2.3.0-3?arch=all
+- pkg:deb/debian/amazon-ec2-net-utils@2.4.1-2?arch=all

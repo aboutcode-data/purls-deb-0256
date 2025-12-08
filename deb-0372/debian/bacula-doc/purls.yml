@@ -1,0 +1,4 @@
+- pkg:deb/debian/bacula-doc@15.0.3%2Bdebian1-1?arch=all
+- pkg:deb/debian/bacula-doc@15.0.3%2Bdebian1-1~bpo12%2B1?arch=all
+- pkg:deb/debian/bacula-doc@9.6.7-1?arch=all
+- pkg:deb/debian/bacula-doc@9.6.7-2?arch=all

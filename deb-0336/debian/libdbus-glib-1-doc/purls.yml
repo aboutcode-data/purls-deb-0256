@@ -1,0 +1,4 @@
+- pkg:deb/debian/libdbus-glib-1-doc@0.110-6?arch=all
+- pkg:deb/debian/libdbus-glib-1-doc@0.112-3?arch=all
+- pkg:deb/debian/libdbus-glib-1-doc@0.114-1?arch=all
+- pkg:deb/debian/libdbus-glib-1-doc@0.114-2?arch=all

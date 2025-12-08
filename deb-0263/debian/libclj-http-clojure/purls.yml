@@ -1,0 +1,2 @@
+- pkg:deb/debian/libclj-http-clojure@2.3.0-1.1?arch=all
+- pkg:deb/debian/libclj-http-clojure@3.12.3-2?arch=all

@@ -1,0 +1,5 @@
+- pkg:deb/debian/fcitx5-data@5.0.21-3?arch=all
+- pkg:deb/debian/fcitx5-data@5.0.5-1?arch=all
+- pkg:deb/debian/fcitx5-data@5.1.12-2?arch=all
+- pkg:deb/debian/fcitx5-data@5.1.12-2~bpo12%2B1?arch=all
+- pkg:deb/debian/fcitx5-data@5.1.16-1?arch=all

@@ -1,0 +1,4 @@
+- pkg:deb/debian/elpa-buttercup@1.24-1?arch=all
+- pkg:deb/debian/elpa-buttercup@1.26-4?arch=all
+- pkg:deb/debian/elpa-buttercup@1.37-1?arch=all
+- pkg:deb/debian/elpa-buttercup@1.38-1?arch=all

@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-funcparserlib@0.3.6%2Bdfsg1-1?arch=all
+- pkg:deb/debian/python3-funcparserlib@1.0.0-0.2?arch=all

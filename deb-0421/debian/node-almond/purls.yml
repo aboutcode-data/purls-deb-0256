@@ -1,0 +1,2 @@
+- pkg:deb/debian/node-almond@0.3.3%2Bdfsg-10?arch=all
+- pkg:deb/debian/node-almond@0.3.3%2Bdfsg-6?arch=all

@@ -1,0 +1,3 @@
+- pkg:deb/debian/libctpl-doc@0.3.4%2Bdfsg-1.1?arch=all
+- pkg:deb/debian/libctpl-doc@0.3.4%2Bdfsg-4?arch=all
+- pkg:deb/debian/libctpl-doc@0.3.5%2Bdfsg-2?arch=all

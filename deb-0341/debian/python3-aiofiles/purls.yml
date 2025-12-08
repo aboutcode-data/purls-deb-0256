@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-aiofiles@0.6.0-2?arch=all
+- pkg:deb/debian/python3-aiofiles@23.1.0-1?arch=all
+- pkg:deb/debian/python3-aiofiles@24.1.0-2?arch=all
+- pkg:deb/debian/python3-aiofiles@25.1.0-2?arch=all

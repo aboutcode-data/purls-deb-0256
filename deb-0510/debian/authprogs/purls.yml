@@ -1,0 +1,3 @@
+- pkg:deb/debian/authprogs@0.6.0%2Bgit7afaa40-2?arch=all
+- pkg:deb/debian/authprogs@0.7.5-1?arch=all
+- pkg:deb/debian/authprogs@0.7.5-2?arch=all

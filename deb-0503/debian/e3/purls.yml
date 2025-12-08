@@ -1,0 +1,4 @@
+- pkg:deb/debian/e3@2.82%2Bdfsg-2?arch=amd64
+- pkg:deb/debian/e3@2.82%2Bdfsg-2?arch=i386
+- pkg:deb/debian/e3@2.82%2Bdfsg-4?arch=amd64
+- pkg:deb/debian/e3@2.82%2Bdfsg-4?arch=i386

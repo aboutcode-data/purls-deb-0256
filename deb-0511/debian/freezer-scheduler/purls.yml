@@ -1,0 +1,2 @@
+- pkg:deb/debian/freezer-scheduler@13.0.0-2?arch=all
+- pkg:deb/debian/freezer-scheduler@9.0.0-2?arch=all

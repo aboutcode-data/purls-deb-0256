@@ -1,0 +1,2 @@
+- pkg:deb/debian/ckbuilder@2.3.2%2Bdfsg-2?arch=all
+- pkg:deb/debian/ckbuilder@2.4.3%2Bdfsg-2?arch=all

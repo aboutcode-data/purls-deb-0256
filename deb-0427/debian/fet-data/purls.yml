@@ -1,0 +1,3 @@
+- pkg:deb/debian/fet-data@5.48.1-1?arch=all
+- pkg:deb/debian/fet-data@6.8.5-1?arch=all
+- pkg:deb/debian/fet-data@7.0.8-3?arch=all

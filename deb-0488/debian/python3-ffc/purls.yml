@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-ffc@2019.2.0~git20210115.cb26c91-1?arch=all
+- pkg:deb/debian/python3-ffc@2019.2.0~git20210714.a20cbe7-3?arch=all
+- pkg:deb/debian/python3-ffc@2019.2.0~legacy20230509.35df986-4?arch=all
+- pkg:deb/debian/python3-ffc@2019.2.0~legacy20230509.35df986-6?arch=all

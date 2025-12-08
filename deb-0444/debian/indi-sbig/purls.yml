@@ -1,0 +1,6 @@
+- pkg:deb/debian/indi-sbig@2.1%2B20221220234924-1?arch=amd64
+- pkg:deb/debian/indi-sbig@2.1%2B20221220234924-1?arch=arm64
+- pkg:deb/debian/indi-sbig@2.1%2B20221220234924-1?arch=armhf
+- pkg:deb/debian/indi-sbig@2.1%2B20221220234924-4?arch=amd64
+- pkg:deb/debian/indi-sbig@2.1%2B20221220234924-4?arch=arm64
+- pkg:deb/debian/indi-sbig@2.1%2B20221220234924-4?arch=armhf

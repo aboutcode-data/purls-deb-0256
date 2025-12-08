@@ -1,0 +1,5 @@
+- pkg:deb/debian/dokuwiki-farm@2024-02-06b%2Bdfsg-9?arch=all
+- pkg:deb/debian/dokuwiki-farm@2025-05-14.b%2Bdfsg-1?arch=all
+- pkg:deb/debian/dokuwiki-farm@2025-05-14.b%2Bdfsg-2?arch=all
+- pkg:deb/debian/dokuwiki-farm@2025-05-14.b%2Bdfsg-3?arch=all
+- pkg:deb/debian/dokuwiki-farm@2025-05-14.b%2Bdfsg-4?arch=all

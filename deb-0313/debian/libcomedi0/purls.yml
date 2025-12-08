@@ -1,0 +1,13 @@
+- pkg:deb/debian/libcomedi0@0.11.0%2B5-1%2Bb3?arch=amd64
+- pkg:deb/debian/libcomedi0@0.11.0%2B5-1%2Bb3?arch=arm64
+- pkg:deb/debian/libcomedi0@0.11.0%2B5-1%2Bb3?arch=armhf
+- pkg:deb/debian/libcomedi0@0.11.0%2B5-1%2Bb3?arch=i386
+- pkg:deb/debian/libcomedi0@0.11.0%2B5-1%2Bb8?arch=amd64
+- pkg:deb/debian/libcomedi0@0.11.0%2B5-1%2Bb8?arch=arm64
+- pkg:deb/debian/libcomedi0@0.11.0%2B5-1%2Bb8?arch=armel
+- pkg:deb/debian/libcomedi0@0.11.0%2B5-1%2Bb8?arch=armhf
+- pkg:deb/debian/libcomedi0@0.11.0%2B5-1%2Bb8?arch=i386
+- pkg:deb/debian/libcomedi0@0.11.0%2B5-1%2Bb8?arch=mips64el
+- pkg:deb/debian/libcomedi0@0.11.0%2B5-1%2Bb8?arch=mipsel
+- pkg:deb/debian/libcomedi0@0.11.0%2B5-1%2Bb8?arch=ppc64el
+- pkg:deb/debian/libcomedi0@0.11.0%2B5-1%2Bb8?arch=s390x

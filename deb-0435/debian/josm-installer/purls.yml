@@ -1,0 +1,6 @@
+- pkg:deb/debian/josm-installer@0.0.1%2Bsvn17345?arch=all
+- pkg:deb/debian/josm-installer@0.0.2%2Bsvn18515?arch=all
+- pkg:deb/debian/josm-installer@0.0.6%2Bsvn19237?arch=all
+- pkg:deb/debian/josm-installer@0.0.6%2Bsvn19237~bpo12%2B1?arch=all
+- pkg:deb/debian/josm-installer@0.0.7%2Bsvn19430?arch=all
+- pkg:deb/debian/josm-installer@0.0.7%2Bsvn19430~bpo13%2B1?arch=all

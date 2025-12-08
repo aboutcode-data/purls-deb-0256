@@ -1,0 +1,3 @@
+- pkg:deb/debian/aspell-kk@0.2-2?arch=all
+- pkg:deb/debian/aspell-kk@0.2-3?arch=all
+- pkg:deb/debian/aspell-kk@0.2-5?arch=all

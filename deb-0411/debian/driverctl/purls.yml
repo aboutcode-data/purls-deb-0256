@@ -1,0 +1,2 @@
+- pkg:deb/debian/driverctl@0.111-1?arch=all
+- pkg:deb/debian/driverctl@0.115-2?arch=all

@@ -1,0 +1,2 @@
+- pkg:deb/debian/apt-listdifferences@1.20190206?arch=all
+- pkg:deb/debian/apt-listdifferences@1.20230122?arch=all

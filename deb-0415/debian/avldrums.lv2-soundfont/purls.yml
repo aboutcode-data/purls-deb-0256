@@ -1,0 +1,3 @@
+- pkg:deb/debian/avldrums.lv2-soundfont@0.4.2~repack1-1?arch=all
+- pkg:deb/debian/avldrums.lv2-soundfont@0.5.2-2?arch=all
+- pkg:deb/debian/avldrums.lv2-soundfont@0.7.3-1?arch=all

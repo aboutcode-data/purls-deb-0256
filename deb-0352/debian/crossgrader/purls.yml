@@ -1,0 +1,3 @@
+- pkg:deb/debian/crossgrader@0.0.3%2Bnmu3?arch=all
+- pkg:deb/debian/crossgrader@0.0.3%2Bnmu4?arch=all
+- pkg:deb/debian/crossgrader@0.0.3%2Bnmu5?arch=all

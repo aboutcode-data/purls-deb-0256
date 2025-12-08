@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-blinkpy@0.23.0-2?arch=all
+- pkg:deb/debian/python3-blinkpy@0.24.1-1?arch=all

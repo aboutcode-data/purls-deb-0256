@@ -1,0 +1,3 @@
+- pkg:deb/debian/catfish@4.16.0-1?arch=all
+- pkg:deb/debian/catfish@4.16.4-2?arch=all
+- pkg:deb/debian/catfish@4.20.0-2?arch=all

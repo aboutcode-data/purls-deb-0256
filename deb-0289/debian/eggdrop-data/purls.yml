@@ -1,0 +1,3 @@
+- pkg:deb/debian/eggdrop-data@1.10.1-1?arch=all
+- pkg:deb/debian/eggdrop-data@1.8.4%2Brepack1-0.1?arch=all
+- pkg:deb/debian/eggdrop-data@1.8.4-1?arch=all

@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-django-modeltranslation@0.16.1-1?arch=all
+- pkg:deb/debian/python3-django-modeltranslation@0.17.5-2?arch=all
+- pkg:deb/debian/python3-django-modeltranslation@0.19.15-1?arch=all
+- pkg:deb/debian/python3-django-modeltranslation@0.19.18-1?arch=all

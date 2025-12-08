@@ -1,0 +1,2 @@
+- pkg:deb/debian/dh-nss@1.7?arch=all
+- pkg:deb/debian/dh-nss@1.8~exp1?arch=all

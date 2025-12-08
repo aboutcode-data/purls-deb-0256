@@ -1,0 +1,2 @@
+- pkg:deb/debian/dt-schema@2022.08.2-5?arch=all
+- pkg:deb/debian/dt-schema@2025.08-1?arch=all

@@ -1,0 +1,4 @@
+- pkg:deb/debian/gajim-triggers@1.3.1-2?arch=all
+- pkg:deb/debian/gajim-triggers@1.4.8-1?arch=all
+- pkg:deb/debian/gajim-triggers@1.6.0-1?arch=all
+- pkg:deb/debian/gajim-triggers@1.6.0-2?arch=all

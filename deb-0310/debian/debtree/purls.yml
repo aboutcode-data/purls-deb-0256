@@ -1,0 +1,2 @@
+- pkg:deb/debian/debtree@1.1.0?arch=all
+- pkg:deb/debian/debtree@1.1.2?arch=all

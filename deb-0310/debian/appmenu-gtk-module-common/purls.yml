@@ -1,0 +1,3 @@
+- pkg:deb/debian/appmenu-gtk-module-common@0.7.6-2.1?arch=all
+- pkg:deb/debian/appmenu-gtk-module-common@0.7.6-2?arch=all
+- pkg:deb/debian/appmenu-gtk-module-common@25.04-1?arch=all

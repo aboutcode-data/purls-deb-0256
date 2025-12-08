@@ -1,0 +1,5 @@
+- pkg:deb/debian/e2fsprogs-l10n@1.46.2-2?arch=all
+- pkg:deb/debian/e2fsprogs-l10n@1.47.0-2?arch=all
+- pkg:deb/debian/e2fsprogs-l10n@1.47.2-3?arch=all
+- pkg:deb/debian/e2fsprogs-l10n@1.47.2-3~bpo12%2B1?arch=all
+- pkg:deb/debian/e2fsprogs-l10n@1.47.3~rc3-1?arch=all

@@ -1,0 +1,2 @@
+- pkg:deb/debian/c-sig@3.8-24?arch=all
+- pkg:deb/debian/c-sig@3.8-26?arch=all
