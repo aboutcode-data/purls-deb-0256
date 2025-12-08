@@ -1,0 +1,4 @@
+- pkg:deb/debian/khard@0.17.0-1?arch=all
+- pkg:deb/debian/khard@0.18.0-1?arch=all
+- pkg:deb/debian/khard@0.19.1-5?arch=all
+- pkg:deb/debian/khard@0.20.0-1?arch=all

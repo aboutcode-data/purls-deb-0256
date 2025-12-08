@@ -1,0 +1,4 @@
+- pkg:deb/debian/hyphy-common@2.5.28%2Bdfsg-3?arch=all
+- pkg:deb/debian/hyphy-common@2.5.47%2Bdfsg-1?arch=all
+- pkg:deb/debian/hyphy-common@2.5.69%2Bdfsg-1?arch=all
+- pkg:deb/debian/hyphy-common@2.5.69%2Bdfsg-2?arch=all

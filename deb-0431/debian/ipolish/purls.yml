@@ -1,0 +1,3 @@
+- pkg:deb/debian/ipolish@20210105-1?arch=all
+- pkg:deb/debian/ipolish@20220301-1?arch=all
+- pkg:deb/debian/ipolish@20240901-1?arch=all

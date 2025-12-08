@@ -1,0 +1,8 @@
+- pkg:deb/debian/libosl-dev@0.8.0-3%2Bb1?arch=amd64
+- pkg:deb/debian/libosl-dev@0.8.0-3%2Bb1?arch=i386
+- pkg:deb/debian/libosl-dev@0.8.0-4%2Bb1?arch=amd64
+- pkg:deb/debian/libosl-dev@0.8.0-4%2Bb1?arch=i386
+- pkg:deb/debian/libosl-dev@0.8.0-4%2Bb2?arch=i386
+- pkg:deb/debian/libosl-dev@0.8.0-4%2Bb3?arch=amd64
+- pkg:deb/debian/libosl-dev@0.8.0-4.1?arch=amd64
+- pkg:deb/debian/libosl-dev@0.8.0-4.1?arch=i386

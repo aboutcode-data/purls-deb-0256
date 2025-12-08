@@ -1,0 +1,2 @@
+- pkg:deb/debian/jupyterhub@3.0.0%2Bds1-1?arch=all
+- pkg:deb/debian/jupyterhub@5.2.1%2Bds1-4?arch=all

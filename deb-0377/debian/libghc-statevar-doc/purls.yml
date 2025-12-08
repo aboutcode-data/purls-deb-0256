@@ -1,0 +1,3 @@
+- pkg:deb/debian/libghc-statevar-doc@1.2-1?arch=all
+- pkg:deb/debian/libghc-statevar-doc@1.2.2-1?arch=all
+- pkg:deb/debian/libghc-statevar-doc@1.2.2-3?arch=all

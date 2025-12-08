@@ -1,0 +1,2 @@
+- pkg:deb/debian/libgps-point-perl@0.20-2.1?arch=all
+- pkg:deb/debian/libgps-point-perl@0.20-5?arch=all

@@ -1,0 +1,2 @@
+- pkg:deb/debian/libgraph-readwrite-perl@2.09-1.1?arch=all
+- pkg:deb/debian/libgraph-readwrite-perl@2.10-1?arch=all

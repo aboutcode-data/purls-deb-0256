@@ -1,0 +1,4 @@
+- pkg:deb/debian/libgxps-doc@0.3.2-1?arch=all
+- pkg:deb/debian/libgxps-doc@0.3.2-2?arch=all
+- pkg:deb/debian/libgxps-doc@0.3.2-4?arch=all
+- pkg:deb/debian/libgxps-doc@0.3.2-6?arch=all

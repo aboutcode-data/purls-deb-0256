@@ -1,0 +1,7 @@
+- pkg:deb/debian/libcrcutil0t64@1.0-5.4?arch=amd64
+- pkg:deb/debian/libcrcutil0t64@1.0-5.4?arch=arm64
+- pkg:deb/debian/libcrcutil0t64@1.0-5.4?arch=armel
+- pkg:deb/debian/libcrcutil0t64@1.0-5.4?arch=armhf
+- pkg:deb/debian/libcrcutil0t64@1.0-5.4?arch=i386
+- pkg:deb/debian/libcrcutil0t64@1.0-5.4?arch=ppc64el
+- pkg:deb/debian/libcrcutil0t64@1.0-5.4?arch=riscv64

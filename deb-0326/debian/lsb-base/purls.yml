@@ -1,0 +1,2 @@
+- pkg:deb/debian/lsb-base@11.1.0?arch=all
+- pkg:deb/debian/lsb-base@11.6?arch=all

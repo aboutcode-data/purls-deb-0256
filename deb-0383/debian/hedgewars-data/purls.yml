@@ -1,0 +1,4 @@
+- pkg:deb/debian/hedgewars-data@1.0.0-14?arch=all
+- pkg:deb/debian/hedgewars-data@1.0.2-13?arch=all
+- pkg:deb/debian/hedgewars-data@1.0.2-6?arch=all
+- pkg:deb/debian/hedgewars-data@1.0.3-4?arch=all

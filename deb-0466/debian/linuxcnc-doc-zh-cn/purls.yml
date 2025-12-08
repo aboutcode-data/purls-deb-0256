@@ -1,0 +1,3 @@
+- pkg:deb/debian/linuxcnc-doc-zh-cn@2.9.0~pre1%2Bgit20230208.f1270d6ed7-1%2Bdeb12u1?arch=all
+- pkg:deb/debian/linuxcnc-doc-zh-cn@2.9.4-2?arch=all
+- pkg:deb/debian/linuxcnc-doc-zh-cn@2.9.7-1?arch=all

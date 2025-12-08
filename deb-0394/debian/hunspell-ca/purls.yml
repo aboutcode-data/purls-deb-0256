@@ -1,0 +1,4 @@
+- pkg:deb/debian/hunspell-ca@3.0.6%2Brepack1-1?arch=all
+- pkg:deb/debian/hunspell-ca@3.0.7%2Brepack1-5?arch=all
+- pkg:deb/debian/hunspell-ca@3.0.9%2Brepack1-2?arch=all
+- pkg:deb/debian/hunspell-ca@3.0.9%2Brepack1-3?arch=all

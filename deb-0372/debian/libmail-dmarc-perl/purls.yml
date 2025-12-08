@@ -1,0 +1,3 @@
+- pkg:deb/debian/libmail-dmarc-perl@1.20211209-4?arch=all
+- pkg:deb/debian/libmail-dmarc-perl@1.20240314-1?arch=all
+- pkg:deb/debian/libmail-dmarc-perl@1.20250805-1?arch=all

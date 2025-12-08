@@ -1,0 +1,3 @@
+- pkg:deb/debian/libjs-highlight.js@10.7.3%2Bdfsg-2?arch=all
+- pkg:deb/debian/libjs-highlight.js@9.18.5%2Bdfsg1-1?arch=all
+- pkg:deb/debian/libjs-highlight.js@9.18.5%2Bdfsg1-2?arch=all

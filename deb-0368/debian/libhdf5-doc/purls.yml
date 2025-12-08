@@ -1,0 +1,5 @@
+- pkg:deb/debian/libhdf5-doc@1.10.6%2Brepack-4%2Bdeb11u1?arch=all
+- pkg:deb/debian/libhdf5-doc@1.10.8%2Brepack1-1?arch=all
+- pkg:deb/debian/libhdf5-doc@1.14.5%2Brepack-3?arch=all
+- pkg:deb/debian/libhdf5-doc@1.14.5%2Brepack-4?arch=all
+- pkg:deb/debian/libhdf5-doc@1.14.6%2Brepack-1~exp17?arch=all

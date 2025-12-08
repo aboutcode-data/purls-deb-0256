@@ -1,0 +1,2 @@
+- pkg:deb/debian/clang-20-doc@20.1.8-1?arch=all
+- pkg:deb/debian/clang-20-doc@20.1.8-1~exp1?arch=all

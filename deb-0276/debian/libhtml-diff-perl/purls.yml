@@ -1,0 +1,2 @@
+- pkg:deb/debian/libhtml-diff-perl@0.600-1?arch=all
+- pkg:deb/debian/libhtml-diff-perl@0.600-2?arch=all

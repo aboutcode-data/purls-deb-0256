@@ -1,0 +1,15 @@
+- pkg:deb/debian/libapache2-mod-bw@0.92-11%2Bb1?arch=amd64
+- pkg:deb/debian/libapache2-mod-bw@0.92-11%2Bb1?arch=arm64
+- pkg:deb/debian/libapache2-mod-bw@0.92-11%2Bb1?arch=armhf
+- pkg:deb/debian/libapache2-mod-bw@0.92-11%2Bb1?arch=i386
+- pkg:deb/debian/libapache2-mod-bw@0.92-13%2Bb1?arch=arm64
+- pkg:deb/debian/libapache2-mod-bw@0.92-13%2Bb1?arch=riscv64
+- pkg:deb/debian/libapache2-mod-bw@0.92-13?arch=amd64
+- pkg:deb/debian/libapache2-mod-bw@0.92-13?arch=arm64
+- pkg:deb/debian/libapache2-mod-bw@0.92-13?arch=armel
+- pkg:deb/debian/libapache2-mod-bw@0.92-13?arch=armhf
+- pkg:deb/debian/libapache2-mod-bw@0.92-13?arch=i386
+- pkg:deb/debian/libapache2-mod-bw@0.92-13?arch=mips64el
+- pkg:deb/debian/libapache2-mod-bw@0.92-13?arch=mipsel
+- pkg:deb/debian/libapache2-mod-bw@0.92-13?arch=ppc64el
+- pkg:deb/debian/libapache2-mod-bw@0.92-13?arch=s390x

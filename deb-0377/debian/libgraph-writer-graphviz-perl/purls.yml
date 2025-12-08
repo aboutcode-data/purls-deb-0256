@@ -1,0 +1,2 @@
+- pkg:deb/debian/libgraph-writer-graphviz-perl@0.11-2.1?arch=all
+- pkg:deb/debian/libgraph-writer-graphviz-perl@0.12-1?arch=all

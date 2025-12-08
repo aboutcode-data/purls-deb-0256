@@ -1,0 +1,3 @@
+- pkg:deb/debian/lesana@0.10.1-3?arch=all
+- pkg:deb/debian/lesana@0.8.1-1?arch=all
+- pkg:deb/debian/lesana@0.9.1-3?arch=all

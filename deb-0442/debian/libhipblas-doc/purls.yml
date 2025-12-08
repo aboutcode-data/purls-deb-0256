@@ -1,0 +1,2 @@
+- pkg:deb/debian/libhipblas-doc@5.5.1-4?arch=all
+- pkg:deb/debian/libhipblas-doc@6.4.3-3?arch=all

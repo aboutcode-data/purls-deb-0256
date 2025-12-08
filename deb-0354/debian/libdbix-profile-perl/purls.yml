@@ -1,0 +1,2 @@
+- pkg:deb/debian/libdbix-profile-perl@1.0-5?arch=all
+- pkg:deb/debian/libdbix-profile-perl@1.0-7?arch=all

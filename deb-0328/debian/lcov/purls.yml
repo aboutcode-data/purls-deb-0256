@@ -1,0 +1,4 @@
+- pkg:deb/debian/lcov@1.14-2?arch=all
+- pkg:deb/debian/lcov@1.16-1?arch=all
+- pkg:deb/debian/lcov@2.3.1-1?arch=all
+- pkg:deb/debian/lcov@2.3.2-1?arch=all

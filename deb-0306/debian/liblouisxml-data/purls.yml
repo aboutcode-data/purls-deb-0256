@@ -1,0 +1,4 @@
+- pkg:deb/debian/liblouisxml-data@2.4.0-11?arch=all
+- pkg:deb/debian/liblouisxml-data@2.4.0-12?arch=all
+- pkg:deb/debian/liblouisxml-data@2.4.0-14?arch=all
+- pkg:deb/debian/liblouisxml-data@2.4.0-15?arch=all

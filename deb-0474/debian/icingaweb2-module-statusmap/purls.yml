@@ -1,0 +1,4 @@
+- pkg:deb/debian/icingaweb2-module-statusmap@20160720-10?arch=all
+- pkg:deb/debian/icingaweb2-module-statusmap@20160720-2?arch=all
+- pkg:deb/debian/icingaweb2-module-statusmap@20160720-4?arch=all
+- pkg:deb/debian/icingaweb2-module-statusmap@20160720-8?arch=all

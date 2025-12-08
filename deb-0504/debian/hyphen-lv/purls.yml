@@ -1,0 +1,3 @@
+- pkg:deb/debian/hyphen-lv@1.4.0-1.1?arch=all
+- pkg:deb/debian/hyphen-lv@1.4.0-4?arch=all
+- pkg:deb/debian/hyphen-lv@1.4.0-5?arch=all

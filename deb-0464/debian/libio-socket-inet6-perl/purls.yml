@@ -1,0 +1,2 @@
+- pkg:deb/debian/libio-socket-inet6-perl@2.72-2.1?arch=all
+- pkg:deb/debian/libio-socket-inet6-perl@2.73-1?arch=all

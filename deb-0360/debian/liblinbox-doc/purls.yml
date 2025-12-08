@@ -1,0 +1,4 @@
+- pkg:deb/debian/liblinbox-doc@1.6.3-3?arch=all
+- pkg:deb/debian/liblinbox-doc@1.7.0-3?arch=all
+- pkg:deb/debian/liblinbox-doc@1.7.0-5?arch=all
+- pkg:deb/debian/liblinbox-doc@1.7.1-2?arch=all

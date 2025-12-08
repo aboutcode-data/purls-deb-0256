@@ -1,0 +1,2 @@
+- pkg:deb/debian/vfp-support@15.1?arch=armel
+- pkg:deb/debian/vfp-support@27?arch=armel

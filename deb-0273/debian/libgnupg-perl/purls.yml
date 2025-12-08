@@ -1,0 +1,2 @@
+- pkg:deb/debian/libgnupg-perl@0.19-3?arch=all
+- pkg:deb/debian/libgnupg-perl@0.19-5?arch=all

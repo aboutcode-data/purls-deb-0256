@@ -1,0 +1,2 @@
+- pkg:deb/debian/libnet-radius-perl@2.103%2Bdfsg-1.1?arch=all
+- pkg:deb/debian/libnet-radius-perl@2.103%2Bdfsg-2?arch=all

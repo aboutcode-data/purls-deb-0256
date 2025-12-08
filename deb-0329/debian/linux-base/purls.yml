@@ -1,0 +1,5 @@
+- pkg:deb/debian/linux-base@4.12?arch=all
+- pkg:deb/debian/linux-base@4.12~bpo12%2B1?arch=all
+- pkg:deb/debian/linux-base@4.14?arch=all
+- pkg:deb/debian/linux-base@4.6?arch=all
+- pkg:deb/debian/linux-base@4.9?arch=all

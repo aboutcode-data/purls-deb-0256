@@ -1,0 +1,4 @@
+- pkg:deb/debian/liblinbox-1.6.3-0@1.6.3-3?arch=amd64
+- pkg:deb/debian/liblinbox-1.6.3-0@1.6.3-3?arch=arm64
+- pkg:deb/debian/liblinbox-1.6.3-0@1.6.3-3?arch=armhf
+- pkg:deb/debian/liblinbox-1.6.3-0@1.6.3-3?arch=i386

@@ -1,0 +1,6 @@
+- pkg:deb/debian/ikarus@0.0.3%2Bbzr.2010.01.26%2Bbap.1-1%2Bb1?arch=amd64
+- pkg:deb/debian/ikarus@0.0.3%2Bbzr.2010.01.26%2Bbap.1-1%2Bb1?arch=i386
+- pkg:deb/debian/ikarus@0.0.3%2Bbzr.2010.01.26%2Bbap.1-1?arch=amd64
+- pkg:deb/debian/ikarus@0.0.3%2Bbzr.2010.01.26%2Bbap.1-1?arch=i386
+- pkg:deb/debian/ikarus@0.0.3%2Bbzr.2010.01.26-7?arch=amd64
+- pkg:deb/debian/ikarus@0.0.3%2Bbzr.2010.01.26-7?arch=i386

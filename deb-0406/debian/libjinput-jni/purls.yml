@@ -1,0 +1,10 @@
+- pkg:deb/debian/libjinput-jni@20100502%2Bdfsg-11%2Bb1?arch=riscv64
+- pkg:deb/debian/libjinput-jni@20100502%2Bdfsg-11?arch=amd64
+- pkg:deb/debian/libjinput-jni@20100502%2Bdfsg-11?arch=arm64
+- pkg:deb/debian/libjinput-jni@20100502%2Bdfsg-11?arch=armel
+- pkg:deb/debian/libjinput-jni@20100502%2Bdfsg-11?arch=armhf
+- pkg:deb/debian/libjinput-jni@20100502%2Bdfsg-11?arch=i386
+- pkg:deb/debian/libjinput-jni@20100502%2Bdfsg-11?arch=mips64el
+- pkg:deb/debian/libjinput-jni@20100502%2Bdfsg-11?arch=mipsel
+- pkg:deb/debian/libjinput-jni@20100502%2Bdfsg-11?arch=ppc64el
+- pkg:deb/debian/libjinput-jni@20100502%2Bdfsg-11?arch=s390x

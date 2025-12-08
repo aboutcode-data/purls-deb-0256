@@ -1,0 +1,4 @@
+- pkg:deb/debian/libmodule-install-contributors-perl@0.001-1.1?arch=all
+- pkg:deb/debian/libmodule-install-contributors-perl@0.001-2?arch=all
+- pkg:deb/debian/libmodule-install-contributors-perl@0.001-3?arch=all
+- pkg:deb/debian/libmodule-install-contributors-perl@0.001-4?arch=all

@@ -1,0 +1,3 @@
+- pkg:deb/debian/libcpan-reporter-perl@1.2018-1?arch=all
+- pkg:deb/debian/libcpan-reporter-perl@1.2018-2?arch=all
+- pkg:deb/debian/libcpan-reporter-perl@1.2020-1?arch=all

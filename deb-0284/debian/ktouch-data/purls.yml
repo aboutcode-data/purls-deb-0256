@@ -1,0 +1,4 @@
+- pkg:deb/debian/ktouch-data@20.12.0-2?arch=all
+- pkg:deb/debian/ktouch-data@22.12.3-1?arch=all
+- pkg:deb/debian/ktouch-data@25.04.0-2?arch=all
+- pkg:deb/debian/ktouch-data@25.08.0-1?arch=all

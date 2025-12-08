@@ -1,0 +1,4 @@
+- pkg:deb/debian/libfido2-doc@1.12.0-2?arch=all
+- pkg:deb/debian/libfido2-doc@1.15.0-1?arch=all
+- pkg:deb/debian/libfido2-doc@1.16.0-2?arch=all
+- pkg:deb/debian/libfido2-doc@1.6.0-2?arch=all

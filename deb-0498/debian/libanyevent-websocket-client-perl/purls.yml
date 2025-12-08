@@ -1,0 +1,2 @@
+- pkg:deb/debian/libanyevent-websocket-client-perl@0.54-1?arch=all
+- pkg:deb/debian/libanyevent-websocket-client-perl@0.55-1?arch=all

@@ -1,0 +1,3 @@
+- pkg:deb/debian/libitext5-java@5.5.13.2-1%2Bdeb11u1?arch=all
+- pkg:deb/debian/libitext5-java@5.5.13.3-2?arch=all
+- pkg:deb/debian/libitext5-java@5.5.13.3-4?arch=all

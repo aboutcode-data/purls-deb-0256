@@ -1,0 +1,3 @@
+- pkg:deb/debian/lammps-examples@20210122~gita77bb%2Bds1-2?arch=all
+- pkg:deb/debian/lammps-examples@20220106.git7586adbb6a%2Bds1-2?arch=all
+- pkg:deb/debian/lammps-examples@20250204%2Bdfsg.1-2?arch=all

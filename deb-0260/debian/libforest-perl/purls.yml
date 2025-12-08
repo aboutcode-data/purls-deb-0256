@@ -1,0 +1,2 @@
+- pkg:deb/debian/libforest-perl@0.10-1.1?arch=all
+- pkg:deb/debian/libforest-perl@0.10-2?arch=all

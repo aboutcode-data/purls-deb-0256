@@ -1,0 +1,4 @@
+- pkg:deb/debian/libjlibeps-java-doc@0.1.ds3-4?arch=all
+- pkg:deb/debian/libjlibeps-java-doc@0.1.ds3-6?arch=all
+- pkg:deb/debian/libjlibeps-java-doc@0.1.ds3-7?arch=all
+- pkg:deb/debian/libjlibeps-java-doc@0.1.ds3-8?arch=all

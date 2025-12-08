@@ -1,0 +1,2 @@
+- pkg:deb/debian/libhttpcore-java@4.4.14-1?arch=all
+- pkg:deb/debian/libhttpcore-java@4.4.16-1?arch=all

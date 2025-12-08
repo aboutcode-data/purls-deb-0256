@@ -1,0 +1,2 @@
+- pkg:deb/debian/libnativecall-perl@0.006-2?arch=all
+- pkg:deb/debian/libnativecall-perl@0.006-3?arch=all

@@ -1,0 +1,3 @@
+- pkg:deb/debian/libghc-tagged-doc@0.8.6-3?arch=all
+- pkg:deb/debian/libghc-tagged-doc@0.8.6.1-1?arch=all
+- pkg:deb/debian/libghc-tagged-doc@0.8.8-1?arch=all

@@ -1,0 +1,3 @@
+- pkg:deb/debian/lqa@20191129~git41a4806-2?arch=all
+- pkg:deb/debian/lqa@20230104~git9be8db8ab65c-1?arch=all
+- pkg:deb/debian/lqa@20230104~git9be8db8ab65c-2?arch=all

@@ -1,0 +1,11 @@
+- pkg:deb/debian/kmerresistance@2.2.0-2?arch=amd64
+- pkg:deb/debian/kmerresistance@2.2.0-2?arch=arm64
+- pkg:deb/debian/kmerresistance@2.2.0-2?arch=armhf
+- pkg:deb/debian/kmerresistance@2.2.0-2?arch=i386
+- pkg:deb/debian/kmerresistance@2.2.0-4%2Bb1?arch=arm64
+- pkg:deb/debian/kmerresistance@2.2.0-4%2Bb1?arch=riscv64
+- pkg:deb/debian/kmerresistance@2.2.0-4?arch=amd64
+- pkg:deb/debian/kmerresistance@2.2.0-4?arch=arm64
+- pkg:deb/debian/kmerresistance@2.2.0-4?arch=mips64el
+- pkg:deb/debian/kmerresistance@2.2.0-4?arch=ppc64el
+- pkg:deb/debian/kmerresistance@2.2.0-4?arch=s390x

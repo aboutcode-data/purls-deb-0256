@@ -1,0 +1,2 @@
+- pkg:deb/debian/libclipboard-perl@0.27-1?arch=all
+- pkg:deb/debian/libclipboard-perl@0.32-1?arch=all

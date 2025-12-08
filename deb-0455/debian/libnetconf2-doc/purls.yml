@@ -1,0 +1,4 @@
+- pkg:deb/debian/libnetconf2-doc@1.1.16-1.1?arch=all
+- pkg:deb/debian/libnetconf2-doc@2.0.24-3?arch=all
+- pkg:deb/debian/libnetconf2-doc@3.7.1-1?arch=all
+- pkg:deb/debian/libnetconf2-doc@3.7.10-2?arch=all

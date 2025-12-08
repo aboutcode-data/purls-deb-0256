@@ -1,0 +1,4 @@
+- pkg:deb/debian/lurker@2.3-6%2Bb1?arch=amd64
+- pkg:deb/debian/lurker@2.3-6?arch=arm64
+- pkg:deb/debian/lurker@2.3-6?arch=armhf
+- pkg:deb/debian/lurker@2.3-6?arch=i386

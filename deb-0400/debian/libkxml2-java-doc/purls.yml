@@ -1,0 +1,2 @@
+- pkg:deb/debian/libkxml2-java-doc@2.3.0%2Bds1-2.1?arch=all
+- pkg:deb/debian/libkxml2-java-doc@2.3.0%2Bds1-3?arch=all

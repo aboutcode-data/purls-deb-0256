@@ -1,0 +1,2 @@
+- pkg:deb/debian/libfile-rsync-perl@0.49-1?arch=all
+- pkg:deb/debian/libfile-rsync-perl@0.49-4?arch=all

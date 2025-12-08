@@ -1,0 +1,3 @@
+- pkg:deb/debian/libdispatch-class-perl@0.02-2.1?arch=all
+- pkg:deb/debian/libdispatch-class-perl@0.02-4?arch=all
+- pkg:deb/debian/libdispatch-class-perl@0.04-1?arch=all

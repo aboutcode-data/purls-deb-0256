@@ -1,0 +1,17 @@
+- pkg:deb/debian/libjs-of-ocaml-ocamlbuild-ocaml-dev@0.0.0%2Bgit20220118%2B852302c8-2?arch=amd64
+- pkg:deb/debian/libjs-of-ocaml-ocamlbuild-ocaml-dev@0.0.0%2Bgit20220118%2B852302c8-2?arch=arm64
+- pkg:deb/debian/libjs-of-ocaml-ocamlbuild-ocaml-dev@0.0.0%2Bgit20220118%2B852302c8-2?arch=armel
+- pkg:deb/debian/libjs-of-ocaml-ocamlbuild-ocaml-dev@0.0.0%2Bgit20220118%2B852302c8-2?arch=armhf
+- pkg:deb/debian/libjs-of-ocaml-ocamlbuild-ocaml-dev@0.0.0%2Bgit20220118%2B852302c8-2?arch=i386
+- pkg:deb/debian/libjs-of-ocaml-ocamlbuild-ocaml-dev@0.0.0%2Bgit20220118%2B852302c8-2?arch=mips64el
+- pkg:deb/debian/libjs-of-ocaml-ocamlbuild-ocaml-dev@0.0.0%2Bgit20220118%2B852302c8-2?arch=mipsel
+- pkg:deb/debian/libjs-of-ocaml-ocamlbuild-ocaml-dev@0.0.0%2Bgit20220118%2B852302c8-2?arch=ppc64el
+- pkg:deb/debian/libjs-of-ocaml-ocamlbuild-ocaml-dev@0.0.0%2Bgit20220118%2B852302c8-2?arch=s390x
+- pkg:deb/debian/libjs-of-ocaml-ocamlbuild-ocaml-dev@5.0-2%2Bb8?arch=amd64
+- pkg:deb/debian/libjs-of-ocaml-ocamlbuild-ocaml-dev@5.0-2%2Bb8?arch=arm64
+- pkg:deb/debian/libjs-of-ocaml-ocamlbuild-ocaml-dev@5.0-2%2Bb8?arch=armel
+- pkg:deb/debian/libjs-of-ocaml-ocamlbuild-ocaml-dev@5.0-2%2Bb8?arch=armhf
+- pkg:deb/debian/libjs-of-ocaml-ocamlbuild-ocaml-dev@5.0-2%2Bb8?arch=i386
+- pkg:deb/debian/libjs-of-ocaml-ocamlbuild-ocaml-dev@5.0-2%2Bb8?arch=ppc64el
+- pkg:deb/debian/libjs-of-ocaml-ocamlbuild-ocaml-dev@5.0-2%2Bb8?arch=s390x
+- pkg:deb/debian/libjs-of-ocaml-ocamlbuild-ocaml-dev@5.0-2%2Bb9?arch=riscv64

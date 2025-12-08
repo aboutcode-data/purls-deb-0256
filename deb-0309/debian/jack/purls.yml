@@ -1,0 +1,2 @@
+- pkg:deb/debian/jack@4~git20241202.3410dc1-2?arch=all
+- pkg:deb/debian/jack@4~git20250824.24abfd5-1?arch=all

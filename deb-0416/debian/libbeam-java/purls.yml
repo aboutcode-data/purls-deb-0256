@@ -1,0 +1,2 @@
+- pkg:deb/debian/libbeam-java@1.3.3-3?arch=all
+- pkg:deb/debian/libbeam-java@1.3.9-1?arch=all

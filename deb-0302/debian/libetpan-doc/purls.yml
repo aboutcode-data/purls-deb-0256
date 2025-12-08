@@ -1,0 +1,4 @@
+- pkg:deb/debian/libetpan-doc@1.9.4-3.1?arch=all
+- pkg:deb/debian/libetpan-doc@1.9.4-3?arch=all
+- pkg:deb/debian/libetpan-doc@1.9.4-6?arch=all
+- pkg:deb/debian/libetpan-doc@1.9.4-8?arch=all

@@ -1,0 +1,2 @@
+- pkg:deb/debian/libjarjar-maven-plugin-java@1.9-8?arch=all
+- pkg:deb/debian/libjarjar-maven-plugin-java@1.9-9?arch=all

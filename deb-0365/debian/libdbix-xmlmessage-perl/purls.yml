@@ -1,0 +1,2 @@
+- pkg:deb/debian/libdbix-xmlmessage-perl@0.05-10.1?arch=all
+- pkg:deb/debian/libdbix-xmlmessage-perl@0.05-11?arch=all

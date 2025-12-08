@@ -1,0 +1,4 @@
+- pkg:deb/debian/libpdf-table-perl@1.002-1?arch=all
+- pkg:deb/debian/libpdf-table-perl@1.003-1?arch=all
+- pkg:deb/debian/libpdf-table-perl@1.006-1?arch=all
+- pkg:deb/debian/libpdf-table-perl@1.007-1?arch=all

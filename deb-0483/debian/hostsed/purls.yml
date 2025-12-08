@@ -1,0 +1,2 @@
+- pkg:deb/debian/hostsed@0.3.0-2?arch=all
+- pkg:deb/debian/hostsed@0.4.0-2?arch=all

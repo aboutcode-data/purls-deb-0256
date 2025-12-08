@@ -1,0 +1,2 @@
+- pkg:deb/debian/libconfigreader-perl@0.5-5.1?arch=all
+- pkg:deb/debian/libconfigreader-perl@0.5-7?arch=all

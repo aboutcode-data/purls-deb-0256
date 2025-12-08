@@ -1,0 +1,2 @@
+- pkg:deb/debian/libnet-github-perl@1.01-1?arch=all
+- pkg:deb/debian/libnet-github-perl@1.05-1?arch=all

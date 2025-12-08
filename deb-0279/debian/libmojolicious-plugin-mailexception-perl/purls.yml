@@ -1,0 +1,2 @@
+- pkg:deb/debian/libmojolicious-plugin-mailexception-perl@0.20-1.1?arch=all
+- pkg:deb/debian/libmojolicious-plugin-mailexception-perl@0.24-1?arch=all

@@ -1,0 +1,4 @@
+- pkg:deb/debian/howm@1.4.7-1?arch=all
+- pkg:deb/debian/howm@1.4.8-1?arch=all
+- pkg:deb/debian/howm@1.5.3-1?arch=all
+- pkg:deb/debian/howm@1.5.5-1?arch=all

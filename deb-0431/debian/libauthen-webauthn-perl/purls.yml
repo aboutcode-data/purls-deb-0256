@@ -1,0 +1,2 @@
+- pkg:deb/debian/libauthen-webauthn-perl@0.001-2?arch=all
+- pkg:deb/debian/libauthen-webauthn-perl@0.005-1?arch=all

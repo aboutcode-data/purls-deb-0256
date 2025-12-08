@@ -1,0 +1,2 @@
+- pkg:deb/debian/libdbix-dbschema-perl@0.45-1?arch=all
+- pkg:deb/debian/libdbix-dbschema-perl@0.47-1?arch=all

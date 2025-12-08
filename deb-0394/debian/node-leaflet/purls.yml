@@ -1,0 +1,2 @@
+- pkg:deb/debian/node-leaflet@1.7.1~dfsg-2?arch=all
+- pkg:deb/debian/node-leaflet@1.7.1~dfsg-7?arch=all

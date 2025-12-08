@@ -1,0 +1,3 @@
+- pkg:deb/debian/libghc-wai-app-file-cgi-doc@3.1.10-1?arch=all
+- pkg:deb/debian/libghc-wai-app-file-cgi-doc@3.1.10-3?arch=all
+- pkg:deb/debian/libghc-wai-app-file-cgi-doc@3.1.9-1?arch=all

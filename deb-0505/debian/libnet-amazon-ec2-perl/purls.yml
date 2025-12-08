@@ -1,0 +1,2 @@
+- pkg:deb/debian/libnet-amazon-ec2-perl@0.36-1?arch=all
+- pkg:deb/debian/libnet-amazon-ec2-perl@0.36-2?arch=all

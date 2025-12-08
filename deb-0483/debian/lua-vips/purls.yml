@@ -1,0 +1,5 @@
+- pkg:deb/debian/lua-vips@1.1.12-2?arch=amd64
+- pkg:deb/debian/lua-vips@1.1.12-2?arch=arm64
+- pkg:deb/debian/lua-vips@1.1.12-2?arch=armel
+- pkg:deb/debian/lua-vips@1.1.12-2?arch=armhf
+- pkg:deb/debian/lua-vips@1.1.12-2?arch=i386

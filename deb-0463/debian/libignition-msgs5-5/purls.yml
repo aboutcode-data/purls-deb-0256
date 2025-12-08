@@ -1,0 +1,4 @@
+- pkg:deb/debian/libignition-msgs5-5@5.1.0%2Bdfsg-7?arch=amd64
+- pkg:deb/debian/libignition-msgs5-5@5.1.0%2Bdfsg-7?arch=arm64
+- pkg:deb/debian/libignition-msgs5-5@5.1.0%2Bdfsg-7?arch=armhf
+- pkg:deb/debian/libignition-msgs5-5@5.1.0%2Bdfsg-7?arch=i386

@@ -1,0 +1,4 @@
+- pkg:deb/debian/libnumber-phone-perl@3.6006-1?arch=all
+- pkg:deb/debian/libnumber-phone-perl@3.9001-1?arch=all
+- pkg:deb/debian/libnumber-phone-perl@4.0006-1?arch=all
+- pkg:deb/debian/libnumber-phone-perl@4.0008-1?arch=all

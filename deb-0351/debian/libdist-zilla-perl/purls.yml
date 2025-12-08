@@ -1,0 +1,4 @@
+- pkg:deb/debian/libdist-zilla-perl@6.017-1?arch=all
+- pkg:deb/debian/libdist-zilla-perl@6.030-1?arch=all
+- pkg:deb/debian/libdist-zilla-perl@6.032-1?arch=all
+- pkg:deb/debian/libdist-zilla-perl@6.036-1?arch=all

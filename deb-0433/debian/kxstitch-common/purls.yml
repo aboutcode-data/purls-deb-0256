@@ -1,0 +1,2 @@
+- pkg:deb/debian/kxstitch-common@2.2.0-3?arch=all
+- pkg:deb/debian/kxstitch-common@3.0.0~git20250215.a6082a9b-1?arch=all

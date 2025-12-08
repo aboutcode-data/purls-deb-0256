@@ -1,0 +1,4 @@
+- pkg:deb/debian/libgd-graph3d-perl@0.63-10?arch=all
+- pkg:deb/debian/libgd-graph3d-perl@0.63-11?arch=all
+- pkg:deb/debian/libgd-graph3d-perl@0.63-12?arch=all
+- pkg:deb/debian/libgd-graph3d-perl@0.63-9.1?arch=all

@@ -1,0 +1,3 @@
+- pkg:deb/debian/libjuniversalchardet-java@1.0.3-1.1?arch=all
+- pkg:deb/debian/libjuniversalchardet-java@2.4.0-3?arch=all
+- pkg:deb/debian/libjuniversalchardet-java@2.5.0-1?arch=all

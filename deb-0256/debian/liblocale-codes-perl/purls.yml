@@ -1,0 +1,4 @@
+- pkg:deb/debian/liblocale-codes-perl@3.66-1?arch=all
+- pkg:deb/debian/liblocale-codes-perl@3.73-1?arch=all
+- pkg:deb/debian/liblocale-codes-perl@3.82-1?arch=all
+- pkg:deb/debian/liblocale-codes-perl@3.86-1?arch=all

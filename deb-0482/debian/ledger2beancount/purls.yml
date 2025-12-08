@@ -1,0 +1,2 @@
+- pkg:deb/debian/ledger2beancount@2.5-1?arch=all
+- pkg:deb/debian/ledger2beancount@2.7-1?arch=all

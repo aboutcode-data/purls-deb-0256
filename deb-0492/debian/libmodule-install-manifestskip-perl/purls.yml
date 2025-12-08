@@ -1,0 +1,4 @@
+- pkg:deb/debian/libmodule-install-manifestskip-perl@0.24-1.1?arch=all
+- pkg:deb/debian/libmodule-install-manifestskip-perl@0.24-2?arch=all
+- pkg:deb/debian/libmodule-install-manifestskip-perl@0.24-3?arch=all
+- pkg:deb/debian/libmodule-install-manifestskip-perl@0.24-4?arch=all

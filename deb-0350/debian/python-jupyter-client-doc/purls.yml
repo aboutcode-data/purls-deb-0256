@@ -1,0 +1,4 @@
+- pkg:deb/debian/python-jupyter-client-doc@6.1.11-2?arch=all
+- pkg:deb/debian/python-jupyter-client-doc@7.4.9-2?arch=all
+- pkg:deb/debian/python-jupyter-client-doc@8.6.3-2?arch=all
+- pkg:deb/debian/python-jupyter-client-doc@8.6.3-3?arch=all

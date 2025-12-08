@@ -1,0 +1,3 @@
+- pkg:deb/debian/libcal-dav-perl@0.6-3.1?arch=all
+- pkg:deb/debian/libcal-dav-perl@0.6-4?arch=all
+- pkg:deb/debian/libcal-dav-perl@0.6-5?arch=all

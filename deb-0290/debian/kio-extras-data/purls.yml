@@ -1,0 +1,4 @@
+- pkg:deb/debian/kio-extras-data@20.12.2-1?arch=all
+- pkg:deb/debian/kio-extras-data@22.12.3-1?arch=all
+- pkg:deb/debian/kio-extras-data@25.04.3-1?arch=all
+- pkg:deb/debian/kio-extras-data@25.04.3-3?arch=all

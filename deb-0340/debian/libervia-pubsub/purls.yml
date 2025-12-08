@@ -1,0 +1,3 @@
+- pkg:deb/debian/libervia-pubsub@0.4.0%2Bhg473-1?arch=all
+- pkg:deb/debian/libervia-pubsub@0.5.0~hg494-1?arch=all
+- pkg:deb/debian/libervia-pubsub@0.5.0~hg494-2?arch=all

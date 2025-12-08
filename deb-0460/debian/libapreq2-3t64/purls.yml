@@ -1,0 +1,15 @@
+- pkg:deb/debian/libapreq2-3t64@2.17-7%2Bb1?arch=armel
+- pkg:deb/debian/libapreq2-3t64@2.17-7%2Bb1?arch=ppc64el
+- pkg:deb/debian/libapreq2-3t64@2.17-7%2Bb1?arch=riscv64
+- pkg:deb/debian/libapreq2-3t64@2.17-7%2Bb1?arch=s390x
+- pkg:deb/debian/libapreq2-3t64@2.17-7%2Bb2?arch=amd64
+- pkg:deb/debian/libapreq2-3t64@2.17-7%2Bb2?arch=arm64
+- pkg:deb/debian/libapreq2-3t64@2.17-7%2Bb2?arch=armhf
+- pkg:deb/debian/libapreq2-3t64@2.17-7%2Bb2?arch=i386
+- pkg:deb/debian/libapreq2-3t64@2.17-8?arch=amd64
+- pkg:deb/debian/libapreq2-3t64@2.17-8?arch=arm64
+- pkg:deb/debian/libapreq2-3t64@2.17-8?arch=armhf
+- pkg:deb/debian/libapreq2-3t64@2.17-8?arch=i386
+- pkg:deb/debian/libapreq2-3t64@2.17-8?arch=ppc64el
+- pkg:deb/debian/libapreq2-3t64@2.17-8?arch=riscv64
+- pkg:deb/debian/libapreq2-3t64@2.17-8?arch=s390x

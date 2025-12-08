@@ -1,0 +1,2 @@
+- pkg:deb/debian/libapache-authznetldap-perl@0.07-6?arch=all
+- pkg:deb/debian/libapache-authznetldap-perl@0.07-7?arch=all

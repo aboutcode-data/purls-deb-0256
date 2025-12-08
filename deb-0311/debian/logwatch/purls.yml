@@ -1,0 +1,4 @@
+- pkg:deb/debian/logwatch@7.12-3?arch=all
+- pkg:deb/debian/logwatch@7.13-1?arch=all
+- pkg:deb/debian/logwatch@7.5.5-1?arch=all
+- pkg:deb/debian/logwatch@7.7-1?arch=all

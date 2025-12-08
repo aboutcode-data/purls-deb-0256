@@ -1,0 +1,4 @@
+- pkg:deb/debian/latexmk@4.70b-0.2?arch=all
+- pkg:deb/debian/latexmk@4.79-1?arch=all
+- pkg:deb/debian/latexmk@4.86~ds-1?arch=all
+- pkg:deb/debian/latexmk@4.87~ds-1?arch=all

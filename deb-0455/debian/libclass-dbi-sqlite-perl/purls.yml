@@ -1,0 +1,2 @@
+- pkg:deb/debian/libclass-dbi-sqlite-perl@0.11-5.1?arch=all
+- pkg:deb/debian/libclass-dbi-sqlite-perl@0.11-6?arch=all

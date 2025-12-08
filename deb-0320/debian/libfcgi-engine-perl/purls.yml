@@ -1,0 +1,2 @@
+- pkg:deb/debian/libfcgi-engine-perl@0.22-1.1?arch=all
+- pkg:deb/debian/libfcgi-engine-perl@0.22-2?arch=all

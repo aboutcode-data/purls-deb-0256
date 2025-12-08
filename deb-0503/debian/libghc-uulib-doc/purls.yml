@@ -1,0 +1,3 @@
+- pkg:deb/debian/libghc-uulib-doc@0.9.24-1?arch=all
+- pkg:deb/debian/libghc-uulib-doc@0.9.24-2?arch=all
+- pkg:deb/debian/libghc-uulib-doc@0.9.25-1?arch=all

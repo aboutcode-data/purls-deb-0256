@@ -1,0 +1,4 @@
+- pkg:deb/debian/libex-monkeypatched-perl@0.03-1.1?arch=all
+- pkg:deb/debian/libex-monkeypatched-perl@0.03-2?arch=all
+- pkg:deb/debian/libex-monkeypatched-perl@0.03-3?arch=all
+- pkg:deb/debian/libex-monkeypatched-perl@0.03-4?arch=all

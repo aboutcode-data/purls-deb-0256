@@ -1,0 +1,2 @@
+- pkg:deb/debian/libmojo-jwt-perl@0.09-1?arch=all
+- pkg:deb/debian/libmojo-jwt-perl@1.01-1?arch=all

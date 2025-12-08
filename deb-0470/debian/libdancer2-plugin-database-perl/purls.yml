@@ -1,0 +1,3 @@
+- pkg:deb/debian/libdancer2-plugin-database-perl@2.17-1?arch=all
+- pkg:deb/debian/libdancer2-plugin-database-perl@2.17-2?arch=all
+- pkg:deb/debian/libdancer2-plugin-database-perl@2.17-3?arch=all

@@ -1,0 +1,2 @@
+- pkg:deb/debian/koko-data@25.04.0-1?arch=all
+- pkg:deb/debian/koko-data@25.08.0-1?arch=all

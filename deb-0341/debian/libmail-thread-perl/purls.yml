@@ -1,0 +1,2 @@
+- pkg:deb/debian/libmail-thread-perl@2.55-2.1?arch=all
+- pkg:deb/debian/libmail-thread-perl@2.55-3?arch=all

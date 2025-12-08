@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-k8s-kubectl-dev@1.32.3%2Bds-2?arch=all
+- pkg:deb/debian/golang-k8s-kubectl-dev@1.33.4%2Bds-1?arch=all

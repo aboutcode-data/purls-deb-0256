@@ -1,0 +1,2 @@
+- pkg:deb/debian/hipify-perl@6.0.2%2Bdfsg-1?arch=all
+- pkg:deb/debian/hipify-perl@7.0.2%2Bdfsg-1?arch=all

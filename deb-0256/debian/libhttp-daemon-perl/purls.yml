@@ -1,0 +1,2 @@
+- pkg:deb/debian/libhttp-daemon-perl@6.12-1%2Bdeb11u1?arch=all
+- pkg:deb/debian/libhttp-daemon-perl@6.16-1?arch=all

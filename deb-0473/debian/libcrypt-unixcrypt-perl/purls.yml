@@ -1,0 +1,2 @@
+- pkg:deb/debian/libcrypt-unixcrypt-perl@1.0-7.1?arch=all
+- pkg:deb/debian/libcrypt-unixcrypt-perl@1.0-8?arch=all

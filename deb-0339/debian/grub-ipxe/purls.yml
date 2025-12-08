@@ -1,0 +1,8 @@
+- pkg:deb/debian/grub-ipxe@1.21.1%2Bgit-20250829.969ce2c55%2Bdfsg-1?arch=amd64
+- pkg:deb/debian/grub-ipxe@1.21.1%2Bgit-20250829.969ce2c55%2Bdfsg-1?arch=arm64
+- pkg:deb/debian/grub-ipxe@1.21.1%2Bgit-20250829.969ce2c55%2Bdfsg-1?arch=i386
+- pkg:deb/debian/grub-ipxe@1.21.1%2Bgit-20250829.969ce2c55%2Bdfsg-1?arch=riscv64
+- pkg:deb/debian/grub-ipxe@1.21.1%2Bgit20250501.dad20602%2Bdfsg-1?arch=amd64
+- pkg:deb/debian/grub-ipxe@1.21.1%2Bgit20250501.dad20602%2Bdfsg-1?arch=arm64
+- pkg:deb/debian/grub-ipxe@1.21.1%2Bgit20250501.dad20602%2Bdfsg-1?arch=i386
+- pkg:deb/debian/grub-ipxe@1.21.1%2Bgit20250501.dad20602%2Bdfsg-1?arch=riscv64

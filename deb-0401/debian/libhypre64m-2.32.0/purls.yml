@@ -1,0 +1,10 @@
+- pkg:deb/debian/libhypre64m-2.32.0@2.32.0-4?arch=amd64
+- pkg:deb/debian/libhypre64m-2.32.0@2.32.0-4?arch=arm64
+- pkg:deb/debian/libhypre64m-2.32.0@2.32.0-4?arch=ppc64el
+- pkg:deb/debian/libhypre64m-2.32.0@2.32.0-4?arch=riscv64
+- pkg:deb/debian/libhypre64m-2.32.0@2.32.0-4?arch=s390x
+- pkg:deb/debian/libhypre64m-2.32.0@2.32.0-5?arch=amd64
+- pkg:deb/debian/libhypre64m-2.32.0@2.32.0-5?arch=arm64
+- pkg:deb/debian/libhypre64m-2.32.0@2.32.0-5?arch=ppc64el
+- pkg:deb/debian/libhypre64m-2.32.0@2.32.0-5?arch=riscv64
+- pkg:deb/debian/libhypre64m-2.32.0@2.32.0-5?arch=s390x

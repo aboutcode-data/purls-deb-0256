@@ -1,0 +1,5 @@
+- pkg:deb/debian/libhx-doc@3.25-2?arch=all
+- pkg:deb/debian/libhx-doc@4.10-1?arch=all
+- pkg:deb/debian/libhx-doc@4.26-1?arch=all
+- pkg:deb/debian/libhx-doc@4.27-1?arch=all
+- pkg:deb/debian/libhx-doc@5.2-1~exp1?arch=all

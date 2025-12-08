@@ -1,0 +1,4 @@
+- pkg:deb/debian/libnamespace-sweep-perl@0.006-2.1?arch=all
+- pkg:deb/debian/libnamespace-sweep-perl@0.006-3?arch=all
+- pkg:deb/debian/libnamespace-sweep-perl@0.006-4?arch=all
+- pkg:deb/debian/libnamespace-sweep-perl@0.006-5?arch=all

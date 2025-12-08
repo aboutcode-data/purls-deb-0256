@@ -1,0 +1,4 @@
+- pkg:deb/debian/libconfig-model-systemd-perl@0.247.1-1?arch=all
+- pkg:deb/debian/libconfig-model-systemd-perl@0.252.2-1?arch=all
+- pkg:deb/debian/libconfig-model-systemd-perl@0.257.2-1?arch=all
+- pkg:deb/debian/libconfig-model-systemd-perl@0.258.1-1?arch=all

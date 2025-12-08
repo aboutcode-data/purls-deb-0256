@@ -1,0 +1,3 @@
+- pkg:deb/debian/libnet-epp-perl@0.22-1.1?arch=all
+- pkg:deb/debian/libnet-epp-perl@0.22-2?arch=all
+- pkg:deb/debian/libnet-epp-perl@0.28-1?arch=all

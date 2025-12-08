@@ -1,0 +1,15 @@
+- pkg:deb/debian/libheartbeat2t64@3.0.6-17?arch=amd64
+- pkg:deb/debian/libheartbeat2t64@3.0.6-17?arch=arm64
+- pkg:deb/debian/libheartbeat2t64@3.0.6-17?arch=armel
+- pkg:deb/debian/libheartbeat2t64@3.0.6-17?arch=armhf
+- pkg:deb/debian/libheartbeat2t64@3.0.6-17?arch=i386
+- pkg:deb/debian/libheartbeat2t64@3.0.6-17?arch=ppc64el
+- pkg:deb/debian/libheartbeat2t64@3.0.6-17?arch=riscv64
+- pkg:deb/debian/libheartbeat2t64@3.0.6-17?arch=s390x
+- pkg:deb/debian/libheartbeat2t64@3.0.6-18?arch=amd64
+- pkg:deb/debian/libheartbeat2t64@3.0.6-18?arch=arm64
+- pkg:deb/debian/libheartbeat2t64@3.0.6-18?arch=armhf
+- pkg:deb/debian/libheartbeat2t64@3.0.6-18?arch=i386
+- pkg:deb/debian/libheartbeat2t64@3.0.6-18?arch=ppc64el
+- pkg:deb/debian/libheartbeat2t64@3.0.6-18?arch=riscv64
+- pkg:deb/debian/libheartbeat2t64@3.0.6-18?arch=s390x

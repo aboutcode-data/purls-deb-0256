@@ -1,0 +1,2 @@
+- pkg:deb/debian/liblog-handler-perl@0.90-1?arch=all
+- pkg:deb/debian/liblog-handler-perl@0.90-2?arch=all

@@ -1,0 +1,3 @@
+- pkg:deb/debian/lua-rex-doc@2.7.2-4.1?arch=all
+- pkg:deb/debian/lua-rex-doc@2.9.1-2?arch=all
+- pkg:deb/debian/lua-rex-doc@2.9.2-3?arch=all

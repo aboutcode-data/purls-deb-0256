@@ -1,0 +1,4 @@
+- pkg:deb/debian/libconfig-model-itself-perl@2.022-1?arch=all
+- pkg:deb/debian/libconfig-model-itself-perl@2.023-1?arch=all
+- pkg:deb/debian/libconfig-model-itself-perl@2.025-1?arch=all
+- pkg:deb/debian/libconfig-model-itself-perl@2.025-2?arch=all

@@ -1,0 +1,4 @@
+- pkg:deb/debian/linux-doc-6.1@6.1.137-1?arch=all
+- pkg:deb/debian/linux-doc-6.1@6.1.148-1?arch=all
+- pkg:deb/debian/linux-doc-6.1@6.1.153-1?arch=all
+- pkg:deb/debian/linux-doc-6.1@6.1.158-1?arch=all

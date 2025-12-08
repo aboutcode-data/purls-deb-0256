@@ -1,0 +1,2 @@
+- pkg:deb/debian/lomiri-desktop-session@0.2-4?arch=all
+- pkg:deb/debian/lomiri-desktop-session@0.3-11?arch=all

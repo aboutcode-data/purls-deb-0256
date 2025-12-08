@@ -1,0 +1,4 @@
+- pkg:deb/debian/kdiff3-doc@1.10.0-1?arch=all
+- pkg:deb/debian/kdiff3-doc@1.12.2-1?arch=all
+- pkg:deb/debian/kdiff3-doc@1.12.3-1?arch=all
+- pkg:deb/debian/kdiff3-doc@1.8.5-1?arch=all

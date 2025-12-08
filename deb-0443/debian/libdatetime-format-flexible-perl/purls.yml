@@ -1,0 +1,3 @@
+- pkg:deb/debian/libdatetime-format-flexible-perl@0.32-1?arch=all
+- pkg:deb/debian/libdatetime-format-flexible-perl@0.34-1?arch=all
+- pkg:deb/debian/libdatetime-format-flexible-perl@0.37-1?arch=all

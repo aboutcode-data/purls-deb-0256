@@ -1,0 +1,2 @@
+- pkg:deb/debian/armv7-support@15.1?arch=armel
+- pkg:deb/debian/armv7-support@27?arch=armel

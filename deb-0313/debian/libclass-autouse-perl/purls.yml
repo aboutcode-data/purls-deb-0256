@@ -1,0 +1,2 @@
+- pkg:deb/debian/libclass-autouse-perl@2.01-1.1?arch=all
+- pkg:deb/debian/libclass-autouse-perl@2.02-1?arch=all

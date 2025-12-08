@@ -1,0 +1,4 @@
+- pkg:deb/debian/limesuite-udev@20.10.0%2Bdfsg-2?arch=all
+- pkg:deb/debian/limesuite-udev@22.09.1%2Bdfsg-1?arch=all
+- pkg:deb/debian/limesuite-udev@23.11.0%2Bdfsg-3?arch=all
+- pkg:deb/debian/limesuite-udev@23.11.0%2Bdfsg-4?arch=all

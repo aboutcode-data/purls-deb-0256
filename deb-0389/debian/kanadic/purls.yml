@@ -1,0 +1,4 @@
+- pkg:deb/debian/kanadic@6.5deb2-12?arch=all
+- pkg:deb/debian/kanadic@6.5deb2-13.1?arch=all
+- pkg:deb/debian/kanadic@6.5deb2-13.2?arch=all
+- pkg:deb/debian/kanadic@6.5deb2-13?arch=all

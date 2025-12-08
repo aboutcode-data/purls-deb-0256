@@ -1,0 +1,4 @@
+- pkg:deb/debian/libb-keywords-perl@1.22-1?arch=all
+- pkg:deb/debian/libb-keywords-perl@1.24-2?arch=all
+- pkg:deb/debian/libb-keywords-perl@1.27-1?arch=all
+- pkg:deb/debian/libb-keywords-perl@1.29-1?arch=all

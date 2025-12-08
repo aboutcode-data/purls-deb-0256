@@ -1,0 +1,2 @@
+- pkg:deb/debian/libjsr305-java@0.1~%2Bsvn49-11?arch=all
+- pkg:deb/debian/libjsr305-java@0.1~%2Bsvn49-12?arch=all

@@ -1,0 +1,2 @@
+- pkg:deb/debian/debian-kernel-handbook@1.0.19?arch=all
+- pkg:deb/debian/debian-kernel-handbook@1.0.21?arch=all

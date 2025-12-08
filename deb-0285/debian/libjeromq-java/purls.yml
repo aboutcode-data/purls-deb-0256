@@ -1,0 +1,2 @@
+- pkg:deb/debian/libjeromq-java@0.3.6-1.1?arch=all
+- pkg:deb/debian/libjeromq-java@0.6.0-1?arch=all

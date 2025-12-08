@@ -1,0 +1,4 @@
+- pkg:deb/debian/python-libcomps-doc@0.1.15-4?arch=all
+- pkg:deb/debian/python-libcomps-doc@0.1.19-2?arch=all
+- pkg:deb/debian/python-libcomps-doc@0.1.21-1?arch=all
+- pkg:deb/debian/python-libcomps-doc@0.1.23-1?arch=all

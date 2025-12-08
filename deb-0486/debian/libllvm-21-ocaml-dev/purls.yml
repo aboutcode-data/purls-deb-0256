@@ -1,0 +1,10 @@
+- pkg:deb/debian/libllvm-21-ocaml-dev@21.1.6-2?arch=amd64
+- pkg:deb/debian/libllvm-21-ocaml-dev@21.1.6-2?arch=arm64
+- pkg:deb/debian/libllvm-21-ocaml-dev@21.1.6-2?arch=ppc64el
+- pkg:deb/debian/libllvm-21-ocaml-dev@21.1.6-2?arch=riscv64
+- pkg:deb/debian/libllvm-21-ocaml-dev@21.1.6-2?arch=s390x
+- pkg:deb/debian/libllvm-21-ocaml-dev@21.1.6-3?arch=amd64
+- pkg:deb/debian/libllvm-21-ocaml-dev@21.1.6-3?arch=arm64
+- pkg:deb/debian/libllvm-21-ocaml-dev@21.1.6-3?arch=ppc64el
+- pkg:deb/debian/libllvm-21-ocaml-dev@21.1.6-3?arch=riscv64
+- pkg:deb/debian/libllvm-21-ocaml-dev@21.1.6-3?arch=s390x

@@ -1,0 +1,2 @@
+- pkg:deb/debian/libcatalyst-model-dbi-perl@0.32-2.1?arch=all
+- pkg:deb/debian/libcatalyst-model-dbi-perl@0.32-3?arch=all
