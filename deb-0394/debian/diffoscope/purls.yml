@@ -3,3 +3,4 @@
 - pkg:deb/debian/diffoscope@297?arch=all
 - pkg:deb/debian/diffoscope@306~bpo13%2B1?arch=all
 - pkg:deb/debian/diffoscope@309?arch=all
+- pkg:deb/debian/diffoscope@313?arch=all

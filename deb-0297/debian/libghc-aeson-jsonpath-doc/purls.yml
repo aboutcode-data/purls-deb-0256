@@ -1,1 +1,2 @@
 - pkg:deb/debian/libghc-aeson-jsonpath-doc@0.3.0.2-1?arch=all
+- pkg:deb/debian/libghc-aeson-jsonpath-doc@0.3.0.2-2?arch=all

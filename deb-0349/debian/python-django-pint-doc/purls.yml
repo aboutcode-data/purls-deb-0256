@@ -1,2 +1,3 @@
 - pkg:deb/debian/python-django-pint-doc@0.7.1-2?arch=all
 - pkg:deb/debian/python-django-pint-doc@0.7.3-3?arch=all
+- pkg:deb/debian/python-django-pint-doc@1.0.4-1?arch=all

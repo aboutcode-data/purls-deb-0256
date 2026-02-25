@@ -1,3 +1,4 @@
 - pkg:deb/debian/libghc-gi-gdkpixbuf-doc@2.0.24-1?arch=all
 - pkg:deb/debian/libghc-gi-gdkpixbuf-doc@2.0.29-1?arch=all
 - pkg:deb/debian/libghc-gi-gdkpixbuf-doc@2.0.32-1?arch=all
+- pkg:deb/debian/libghc-gi-gdkpixbuf-doc@2.0.32-2?arch=all

@@ -1,1 +1,2 @@
 - pkg:deb/debian/ruby-cvss-suite@3.1.0-2?arch=all
+- pkg:deb/debian/ruby-cvss-suite@4.1.2-1?arch=all

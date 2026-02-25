@@ -1,2 +1,3 @@
 - pkg:deb/debian/python3-sphinxcontrib.phpdomain@0.13.0-1?arch=all
 - pkg:deb/debian/python3-sphinxcontrib.phpdomain@0.13.0-2?arch=all
+- pkg:deb/debian/python3-sphinxcontrib.phpdomain@0.13.2-1?arch=all

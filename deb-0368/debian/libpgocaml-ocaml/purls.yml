@@ -26,3 +26,5 @@
 - pkg:deb/debian/libpgocaml-ocaml@4.4.0-1%2Bb22?arch=ppc64el
 - pkg:deb/debian/libpgocaml-ocaml@4.4.0-1%2Bb22?arch=riscv64
 - pkg:deb/debian/libpgocaml-ocaml@4.4.0-1%2Bb22?arch=s390x
+- pkg:deb/debian/libpgocaml-ocaml@4.4.0-1%2Bb25?arch=amd64
+- pkg:deb/debian/libpgocaml-ocaml@4.4.0-1%2Bb25?arch=arm64

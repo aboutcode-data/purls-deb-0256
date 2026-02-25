@@ -19,3 +19,4 @@
 - pkg:deb/debian/charmap.app@0.3~rc1-6%2Bb1?arch=ppc64el
 - pkg:deb/debian/charmap.app@0.3~rc1-6%2Bb1?arch=riscv64
 - pkg:deb/debian/charmap.app@0.3~rc1-6%2Bb1?arch=s390x
+- pkg:deb/debian/charmap.app@0.3~rc1-6?arch=loong64

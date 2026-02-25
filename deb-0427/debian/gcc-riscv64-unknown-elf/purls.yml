@@ -22,6 +22,14 @@
 - pkg:deb/debian/gcc-riscv64-unknown-elf@14.2.0%2B20?arch=ppc64el
 - pkg:deb/debian/gcc-riscv64-unknown-elf@14.2.0%2B20?arch=riscv64
 - pkg:deb/debian/gcc-riscv64-unknown-elf@14.2.0%2B20?arch=s390x
+- pkg:deb/debian/gcc-riscv64-unknown-elf@15.2.0-23?arch=amd64
+- pkg:deb/debian/gcc-riscv64-unknown-elf@15.2.0-23?arch=arm64
+- pkg:deb/debian/gcc-riscv64-unknown-elf@15.2.0-23?arch=armhf
+- pkg:deb/debian/gcc-riscv64-unknown-elf@15.2.0-23?arch=i386
+- pkg:deb/debian/gcc-riscv64-unknown-elf@15.2.0-23?arch=loong64
+- pkg:deb/debian/gcc-riscv64-unknown-elf@15.2.0-23?arch=ppc64el
+- pkg:deb/debian/gcc-riscv64-unknown-elf@15.2.0-23?arch=riscv64
+- pkg:deb/debian/gcc-riscv64-unknown-elf@15.2.0-23?arch=s390x
 - pkg:deb/debian/gcc-riscv64-unknown-elf@8.3.0.2019.08%2Bdfsg-1?arch=amd64
 - pkg:deb/debian/gcc-riscv64-unknown-elf@8.3.0.2019.08%2Bdfsg-1?arch=arm64
 - pkg:deb/debian/gcc-riscv64-unknown-elf@8.3.0.2019.08%2Bdfsg-1?arch=armhf

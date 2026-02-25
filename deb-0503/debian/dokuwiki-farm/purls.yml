@@ -3,3 +3,4 @@
 - pkg:deb/debian/dokuwiki-farm@2025-05-14.b%2Bdfsg-2?arch=all
 - pkg:deb/debian/dokuwiki-farm@2025-05-14.b%2Bdfsg-3?arch=all
 - pkg:deb/debian/dokuwiki-farm@2025-05-14.b%2Bdfsg-4?arch=all
+- pkg:deb/debian/dokuwiki-farm@2025-05-14.b%2Bdfsg-5?arch=all

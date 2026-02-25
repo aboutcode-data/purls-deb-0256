@@ -1,0 +1,5 @@
+- pkg:deb/debian/libraw24@0.22.0-1~exp1?arch=arm64
+- pkg:deb/debian/libraw24@0.22.0-1~exp1?arch=loong64
+- pkg:deb/debian/libraw24@0.22.0-1~exp1?arch=ppc64el
+- pkg:deb/debian/libraw24@0.22.0-1~exp1?arch=riscv64
+- pkg:deb/debian/libraw24@0.22.0-1~exp1?arch=s390x

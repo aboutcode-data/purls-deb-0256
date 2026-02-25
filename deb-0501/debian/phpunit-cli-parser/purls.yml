@@ -2,3 +2,4 @@
 - pkg:deb/debian/phpunit-cli-parser@1.0.1-3?arch=all
 - pkg:deb/debian/phpunit-cli-parser@3.0.2-2?arch=all
 - pkg:deb/debian/phpunit-cli-parser@4.2.0-4?arch=all
+- pkg:deb/debian/phpunit-cli-parser@5.0.0-2?arch=all

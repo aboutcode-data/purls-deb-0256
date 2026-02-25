@@ -1,3 +1,4 @@
 - pkg:deb/debian/postgresql-postgis-scripts@3.3.2%2Bdfsg-1?arch=all
 - pkg:deb/debian/postgresql-postgis-scripts@3.5.2%2Bdfsg-1?arch=all
 - pkg:deb/debian/postgresql-postgis-scripts@3.6.1%2Bdfsg-1?arch=all
+- pkg:deb/debian/postgresql-postgis-scripts@3.6.2%2Bdfsg-1?arch=all

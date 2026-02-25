@@ -19,6 +19,7 @@
 - pkg:deb/debian/base-files@13.8%2Bdeb13u2?arch=ppc64el
 - pkg:deb/debian/base-files@13.8%2Bdeb13u2?arch=riscv64
 - pkg:deb/debian/base-files@13.8%2Bdeb13u2?arch=s390x
+- pkg:deb/debian/base-files@14%2Bb1?arch=loong64
 - pkg:deb/debian/base-files@14?arch=amd64
 - pkg:deb/debian/base-files@14?arch=arm64
 - pkg:deb/debian/base-files@14?arch=armhf

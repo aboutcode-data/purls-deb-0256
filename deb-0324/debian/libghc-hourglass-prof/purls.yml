@@ -19,3 +19,4 @@
 - pkg:deb/debian/libghc-hourglass-prof@0.2.12-7?arch=ppc64el
 - pkg:deb/debian/libghc-hourglass-prof@0.2.12-7?arch=riscv64
 - pkg:deb/debian/libghc-hourglass-prof@0.2.12-7?arch=s390x
+- pkg:deb/debian/libghc-hourglass-prof@0.2.12-8?arch=loong64

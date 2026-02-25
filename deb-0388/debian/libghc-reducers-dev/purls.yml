@@ -19,3 +19,4 @@
 - pkg:deb/debian/libghc-reducers-dev@3.12.4-3?arch=ppc64el
 - pkg:deb/debian/libghc-reducers-dev@3.12.4-3?arch=riscv64
 - pkg:deb/debian/libghc-reducers-dev@3.12.4-3?arch=s390x
+- pkg:deb/debian/libghc-reducers-dev@3.12.5-1?arch=loong64

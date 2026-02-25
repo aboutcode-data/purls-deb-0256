@@ -11,6 +11,7 @@
 - pkg:deb/debian/opencfu@4.0.0%2Bdfsg-2?arch=armel
 - pkg:deb/debian/opencfu@4.0.0%2Bdfsg-2?arch=armhf
 - pkg:deb/debian/opencfu@4.0.0%2Bdfsg-2?arch=i386
+- pkg:deb/debian/opencfu@4.0.0%2Bdfsg-2?arch=loong64
 - pkg:deb/debian/opencfu@4.0.0%2Bdfsg-2?arch=mips64el
 - pkg:deb/debian/opencfu@4.0.0%2Bdfsg-2?arch=mipsel
 - pkg:deb/debian/opencfu@4.0.0%2Bdfsg-2?arch=ppc64el

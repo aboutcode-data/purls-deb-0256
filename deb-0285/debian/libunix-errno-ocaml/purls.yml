@@ -12,6 +12,8 @@
 - pkg:deb/debian/libunix-errno-ocaml@0.6.2-1%2Bb10?arch=ppc64el
 - pkg:deb/debian/libunix-errno-ocaml@0.6.2-1%2Bb10?arch=riscv64
 - pkg:deb/debian/libunix-errno-ocaml@0.6.2-1%2Bb10?arch=s390x
+- pkg:deb/debian/libunix-errno-ocaml@0.6.2-1%2Bb13?arch=amd64
+- pkg:deb/debian/libunix-errno-ocaml@0.6.2-1%2Bb13?arch=arm64
 - pkg:deb/debian/libunix-errno-ocaml@0.6.2-1%2Bb3?arch=armhf
 - pkg:deb/debian/libunix-errno-ocaml@0.6.2-1%2Bb4?arch=armhf
 - pkg:deb/debian/libunix-errno-ocaml@0.6.2-1%2Bb5?arch=armhf

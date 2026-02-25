@@ -3,3 +3,5 @@
 - pkg:deb/debian/network-manager-config-connectivity-debian@1.52.1-1?arch=all
 - pkg:deb/debian/network-manager-config-connectivity-debian@1.54.1-1?arch=all
 - pkg:deb/debian/network-manager-config-connectivity-debian@1.54.2-2?arch=all
+- pkg:deb/debian/network-manager-config-connectivity-debian@1.54.3-2?arch=all
+- pkg:deb/debian/network-manager-config-connectivity-debian@1.56.0-1?arch=all

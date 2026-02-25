@@ -26,3 +26,5 @@
 - pkg:deb/debian/libhex-ocaml-dev@1.5.0-3%2Bb18?arch=ppc64el
 - pkg:deb/debian/libhex-ocaml-dev@1.5.0-3%2Bb18?arch=riscv64
 - pkg:deb/debian/libhex-ocaml-dev@1.5.0-3%2Bb18?arch=s390x
+- pkg:deb/debian/libhex-ocaml-dev@1.5.0-3%2Bb21?arch=amd64
+- pkg:deb/debian/libhex-ocaml-dev@1.5.0-3%2Bb21?arch=arm64

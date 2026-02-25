@@ -20,3 +20,4 @@
 - pkg:deb/debian/rygel-tracker@0.44.2-1?arch=riscv64
 - pkg:deb/debian/rygel-tracker@0.44.2-1?arch=s390x
 - pkg:deb/debian/rygel-tracker@45.0-1?arch=all
+- pkg:deb/debian/rygel-tracker@45.1-3?arch=all

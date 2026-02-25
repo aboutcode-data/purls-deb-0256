@@ -15,3 +15,4 @@
 - pkg:deb/debian/libghc-lpeg-dev@1.0.4-2?arch=ppc64el
 - pkg:deb/debian/libghc-lpeg-dev@1.0.4-2?arch=riscv64
 - pkg:deb/debian/libghc-lpeg-dev@1.0.4-2?arch=s390x
+- pkg:deb/debian/libghc-lpeg-dev@1.1.0-1?arch=loong64

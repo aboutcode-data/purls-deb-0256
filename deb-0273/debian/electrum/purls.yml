@@ -3,3 +3,4 @@
 - pkg:deb/debian/electrum@4.5.8%2Bds-5~bpo12%2B1?arch=all
 - pkg:deb/debian/electrum@4.5.8%2Bds-6?arch=all
 - pkg:deb/debian/electrum@4.6.2%2Bdfsg-2?arch=all
+- pkg:deb/debian/electrum@4.7.0%2Bdfsg2-1?arch=all

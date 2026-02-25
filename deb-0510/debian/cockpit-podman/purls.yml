@@ -2,5 +2,7 @@
 - pkg:deb/debian/cockpit-podman@108-1~bpo12%2B1?arch=all
 - pkg:deb/debian/cockpit-podman@118-1?arch=all
 - pkg:deb/debian/cockpit-podman@118-1~bpo13%2B1?arch=all
+- pkg:deb/debian/cockpit-podman@121-1?arch=all
+- pkg:deb/debian/cockpit-podman@121-1~bpo13%2B1?arch=all
 - pkg:deb/debian/cockpit-podman@28-1?arch=all
 - pkg:deb/debian/cockpit-podman@67-1?arch=all

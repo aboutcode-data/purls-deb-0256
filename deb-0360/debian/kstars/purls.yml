@@ -26,3 +26,4 @@
 - pkg:deb/debian/kstars@3.7.9-1?arch=ppc64el
 - pkg:deb/debian/kstars@3.7.9-1?arch=riscv64
 - pkg:deb/debian/kstars@3.7.9-1?arch=s390x
+- pkg:deb/debian/kstars@3.8.1-2?arch=loong64

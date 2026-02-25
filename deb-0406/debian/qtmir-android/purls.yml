@@ -6,3 +6,5 @@
 - pkg:deb/debian/qtmir-android@0.8.0~git20250407.ea2f477-1?arch=armhf
 - pkg:deb/debian/qtmir-android@0.8.0~git20250407.ea2f477-7?arch=arm64
 - pkg:deb/debian/qtmir-android@0.8.0~git20250407.ea2f477-7?arch=armhf
+- pkg:deb/debian/qtmir-android@0.8.0~git20250407.ea2f477-8?arch=arm64
+- pkg:deb/debian/qtmir-android@0.8.0~git20250407.ea2f477-8?arch=armhf

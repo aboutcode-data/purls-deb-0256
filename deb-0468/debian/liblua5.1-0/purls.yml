@@ -6,6 +6,14 @@
 - pkg:deb/debian/liblua5.1-0@5.1.5-11?arch=ppc64el
 - pkg:deb/debian/liblua5.1-0@5.1.5-11?arch=riscv64
 - pkg:deb/debian/liblua5.1-0@5.1.5-11?arch=s390x
+- pkg:deb/debian/liblua5.1-0@5.1.5-12?arch=amd64
+- pkg:deb/debian/liblua5.1-0@5.1.5-12?arch=arm64
+- pkg:deb/debian/liblua5.1-0@5.1.5-12?arch=armhf
+- pkg:deb/debian/liblua5.1-0@5.1.5-12?arch=i386
+- pkg:deb/debian/liblua5.1-0@5.1.5-12?arch=loong64
+- pkg:deb/debian/liblua5.1-0@5.1.5-12?arch=ppc64el
+- pkg:deb/debian/liblua5.1-0@5.1.5-12?arch=riscv64
+- pkg:deb/debian/liblua5.1-0@5.1.5-12?arch=s390x
 - pkg:deb/debian/liblua5.1-0@5.1.5-8.1%2Bb3?arch=amd64
 - pkg:deb/debian/liblua5.1-0@5.1.5-8.1%2Bb3?arch=arm64
 - pkg:deb/debian/liblua5.1-0@5.1.5-8.1%2Bb3?arch=armhf

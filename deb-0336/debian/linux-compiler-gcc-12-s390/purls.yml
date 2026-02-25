@@ -1,2 +1,3 @@
 - pkg:deb/debian/linux-compiler-gcc-12-s390@6.1.148-1?arch=s390x
 - pkg:deb/debian/linux-compiler-gcc-12-s390@6.1.158-1?arch=s390x
+- pkg:deb/debian/linux-compiler-gcc-12-s390@6.1.162-1?arch=s390x

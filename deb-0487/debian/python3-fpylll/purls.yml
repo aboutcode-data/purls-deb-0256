@@ -25,4 +25,5 @@
 - pkg:deb/debian/python3-fpylll@0.6.4-1.1%2Bb1?arch=i386
 - pkg:deb/debian/python3-fpylll@0.6.4-1.1%2Bb1?arch=ppc64el
 - pkg:deb/debian/python3-fpylll@0.6.4-1.1%2Bb1?arch=s390x
+- pkg:deb/debian/python3-fpylll@0.6.4-1.1?arch=loong64
 - pkg:deb/debian/python3-fpylll@0.6.4-1.1?arch=riscv64

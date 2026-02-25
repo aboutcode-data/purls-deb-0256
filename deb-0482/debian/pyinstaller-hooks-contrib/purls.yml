@@ -1,2 +1,3 @@
+- pkg:deb/debian/pyinstaller-hooks-contrib@2025.11-1~bpo13%2B1?arch=all
 - pkg:deb/debian/pyinstaller-hooks-contrib@2025.9-1?arch=all
 - pkg:deb/debian/pyinstaller-hooks-contrib@2025.9-1~bpo13%2B1?arch=all

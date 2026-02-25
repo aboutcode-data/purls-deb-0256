@@ -33,3 +33,4 @@
 - pkg:deb/debian/gnome-builder@49.1-2?arch=i386
 - pkg:deb/debian/gnome-builder@49.1-2?arch=ppc64el
 - pkg:deb/debian/gnome-builder@49.1-2?arch=s390x
+- pkg:deb/debian/gnome-builder@49.1-3?arch=loong64

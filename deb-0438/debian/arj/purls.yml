@@ -19,3 +19,11 @@
 - pkg:deb/debian/arj@3.10.22-28?arch=ppc64el
 - pkg:deb/debian/arj@3.10.22-28?arch=riscv64
 - pkg:deb/debian/arj@3.10.22-28?arch=s390x
+- pkg:deb/debian/arj@3.10.22-29?arch=amd64
+- pkg:deb/debian/arj@3.10.22-29?arch=arm64
+- pkg:deb/debian/arj@3.10.22-29?arch=armhf
+- pkg:deb/debian/arj@3.10.22-29?arch=i386
+- pkg:deb/debian/arj@3.10.22-29?arch=loong64
+- pkg:deb/debian/arj@3.10.22-29?arch=ppc64el
+- pkg:deb/debian/arj@3.10.22-29?arch=riscv64
+- pkg:deb/debian/arj@3.10.22-29?arch=s390x

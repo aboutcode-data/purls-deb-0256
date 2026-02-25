@@ -1,3 +1,4 @@
 - pkg:deb/debian/python3-trove@18.0.0-2?arch=all
 - pkg:deb/debian/python3-trove@23.0.0-2?arch=all
 - pkg:deb/debian/python3-trove@24.0.0-1?arch=all
+- pkg:deb/debian/python3-trove@24.0.0-2?arch=all

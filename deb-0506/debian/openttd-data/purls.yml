@@ -2,3 +2,4 @@
 - pkg:deb/debian/openttd-data@13.0-2?arch=all
 - pkg:deb/debian/openttd-data@14.1-1?arch=all
 - pkg:deb/debian/openttd-data@14.1-2?arch=all
+- pkg:deb/debian/openttd-data@15.1-1?arch=all

@@ -5,6 +5,14 @@
 - pkg:deb/debian/libtinyframe-dev@0.1.1-10?arch=ppc64el
 - pkg:deb/debian/libtinyframe-dev@0.1.1-10?arch=riscv64
 - pkg:deb/debian/libtinyframe-dev@0.1.1-10?arch=s390x
+- pkg:deb/debian/libtinyframe-dev@0.1.1-13?arch=amd64
+- pkg:deb/debian/libtinyframe-dev@0.1.1-13?arch=arm64
+- pkg:deb/debian/libtinyframe-dev@0.1.1-13?arch=armhf
+- pkg:deb/debian/libtinyframe-dev@0.1.1-13?arch=i386
+- pkg:deb/debian/libtinyframe-dev@0.1.1-13?arch=loong64
+- pkg:deb/debian/libtinyframe-dev@0.1.1-13?arch=ppc64el
+- pkg:deb/debian/libtinyframe-dev@0.1.1-13?arch=riscv64
+- pkg:deb/debian/libtinyframe-dev@0.1.1-13?arch=s390x
 - pkg:deb/debian/libtinyframe-dev@0.1.1-4?arch=amd64
 - pkg:deb/debian/libtinyframe-dev@0.1.1-4?arch=arm64
 - pkg:deb/debian/libtinyframe-dev@0.1.1-4?arch=armel

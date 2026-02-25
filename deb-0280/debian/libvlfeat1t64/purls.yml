@@ -13,3 +13,4 @@
 - pkg:deb/debian/libvlfeat1t64@0.9.21%2Bfull-4%2Bb1?arch=ppc64el
 - pkg:deb/debian/libvlfeat1t64@0.9.21%2Bfull-4%2Bb1?arch=riscv64
 - pkg:deb/debian/libvlfeat1t64@0.9.21%2Bfull-4%2Bb1?arch=s390x
+- pkg:deb/debian/libvlfeat1t64@0.9.21%2Bfull-5?arch=loong64

@@ -1,3 +1,4 @@
 - pkg:deb/debian/debian-faq-zh-cn@10.1?arch=all
 - pkg:deb/debian/debian-faq-zh-cn@11.1?arch=all
 - pkg:deb/debian/debian-faq-zh-cn@12.2?arch=all
+- pkg:deb/debian/debian-faq-zh-cn@13.1?arch=all

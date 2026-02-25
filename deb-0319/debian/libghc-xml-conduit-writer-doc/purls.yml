@@ -2,3 +2,4 @@
 - pkg:deb/debian/libghc-xml-conduit-writer-doc@0.1.1.2-6?arch=all
 - pkg:deb/debian/libghc-xml-conduit-writer-doc@0.1.1.5-1?arch=all
 - pkg:deb/debian/libghc-xml-conduit-writer-doc@0.1.1.6-1?arch=all
+- pkg:deb/debian/libghc-xml-conduit-writer-doc@0.1.1.6-2?arch=all

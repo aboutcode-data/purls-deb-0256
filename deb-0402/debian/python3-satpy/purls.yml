@@ -2,3 +2,4 @@
 - pkg:deb/debian/python3-satpy@0.39.0-2?arch=all
 - pkg:deb/debian/python3-satpy@0.55.0-1?arch=all
 - pkg:deb/debian/python3-satpy@0.59.0-1?arch=all
+- pkg:deb/debian/python3-satpy@0.59.0-3?arch=all

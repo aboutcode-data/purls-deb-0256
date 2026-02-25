@@ -2,3 +2,4 @@
 - pkg:deb/debian/python3-ironic-neutron-agent@6.0.0-2?arch=all
 - pkg:deb/debian/python3-ironic-neutron-agent@6.5.0-2?arch=all
 - pkg:deb/debian/python3-ironic-neutron-agent@7.0.0-2?arch=all
+- pkg:deb/debian/python3-ironic-neutron-agent@7.0.0-3?arch=all

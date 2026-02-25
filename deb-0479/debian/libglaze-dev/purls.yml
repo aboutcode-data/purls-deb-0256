@@ -1,2 +1,5 @@
 - pkg:deb/debian/libglaze-dev@6.0.0-1?arch=all
 - pkg:deb/debian/libglaze-dev@6.1.0-1?arch=all
+- pkg:deb/debian/libglaze-dev@7.0.2-1?arch=all
+- pkg:deb/debian/libglaze-dev@7.0.2-3?arch=all
+- pkg:deb/debian/libglaze-dev@7.0.2-4?arch=all

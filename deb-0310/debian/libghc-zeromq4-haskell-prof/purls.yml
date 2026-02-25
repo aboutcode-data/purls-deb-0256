@@ -19,3 +19,4 @@
 - pkg:deb/debian/libghc-zeromq4-haskell-prof@0.8.0-4?arch=ppc64el
 - pkg:deb/debian/libghc-zeromq4-haskell-prof@0.8.0-4?arch=riscv64
 - pkg:deb/debian/libghc-zeromq4-haskell-prof@0.8.0-4?arch=s390x
+- pkg:deb/debian/libghc-zeromq4-haskell-prof@0.8.0-5?arch=loong64

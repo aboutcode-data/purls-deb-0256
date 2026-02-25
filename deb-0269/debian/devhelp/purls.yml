@@ -2,6 +2,7 @@
 - pkg:deb/debian/devhelp@3.38.1-1?arch=arm64
 - pkg:deb/debian/devhelp@3.38.1-1?arch=armhf
 - pkg:deb/debian/devhelp@3.38.1-1?arch=i386
+- pkg:deb/debian/devhelp@43.0%2B50~rc-1?arch=all
 - pkg:deb/debian/devhelp@43.0-3?arch=amd64
 - pkg:deb/debian/devhelp@43.0-3?arch=arm64
 - pkg:deb/debian/devhelp@43.0-3?arch=armel

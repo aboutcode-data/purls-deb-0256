@@ -1,4 +1,5 @@
 - pkg:deb/debian/python3-filelock@3.0.12-2?arch=all
 - pkg:deb/debian/python3-filelock@3.18.0-1?arch=all
 - pkg:deb/debian/python3-filelock@3.20.0-1?arch=all
+- pkg:deb/debian/python3-filelock@3.24.3-1?arch=all
 - pkg:deb/debian/python3-filelock@3.9.0-1?arch=all

@@ -1,3 +1,4 @@
 - pkg:deb/debian/unihedron-device-manager@1.0.0.322-4?arch=amd64
 - pkg:deb/debian/unihedron-device-manager@1.0.0.337-1%2Bb1?arch=amd64
+- pkg:deb/debian/unihedron-device-manager@1.0.0.352%2Bdfsg-2?arch=amd64
 - pkg:deb/debian/unihedron-device-manager@1.0.0.352-1?arch=amd64

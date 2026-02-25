@@ -1,1 +1,2 @@
 - pkg:deb/debian/python3-asyncinotify@4.3.2-1?arch=all
+- pkg:deb/debian/python3-asyncinotify@4.4.0-1?arch=all

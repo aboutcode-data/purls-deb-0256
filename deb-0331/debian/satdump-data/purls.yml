@@ -1,2 +1,3 @@
 - pkg:deb/debian/satdump-data@1.2.2%2Bgb79af48-1?arch=all
+- pkg:deb/debian/satdump-data@1.2.2%2Bgb79af48-2?arch=all
 - pkg:deb/debian/satdump-data@1.2.2-1?arch=all

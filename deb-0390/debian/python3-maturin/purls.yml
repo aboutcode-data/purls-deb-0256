@@ -19,3 +19,5 @@
 - pkg:deb/debian/python3-maturin@1.9.4-3?arch=i386
 - pkg:deb/debian/python3-maturin@1.9.4-3?arch=ppc64el
 - pkg:deb/debian/python3-maturin@1.9.4-3?arch=s390x
+- pkg:deb/debian/python3-maturin@1.9.4-5?arch=riscv64
+- pkg:deb/debian/python3-maturin@1.9.4-5?arch=s390x

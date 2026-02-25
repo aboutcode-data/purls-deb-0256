@@ -19,3 +19,4 @@
 - pkg:deb/debian/libghc-case-insensitive-dev@1.2.1.0-5?arch=ppc64el
 - pkg:deb/debian/libghc-case-insensitive-dev@1.2.1.0-5?arch=riscv64
 - pkg:deb/debian/libghc-case-insensitive-dev@1.2.1.0-5?arch=s390x
+- pkg:deb/debian/libghc-case-insensitive-dev@1.2.1.0-7?arch=loong64

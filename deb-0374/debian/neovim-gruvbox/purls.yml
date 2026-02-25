@@ -1,1 +1,2 @@
 - pkg:deb/debian/neovim-gruvbox@2.0.0-2?arch=all
+- pkg:deb/debian/neovim-gruvbox@2.0.0-3?arch=all

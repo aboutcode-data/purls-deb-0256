@@ -1,1 +1,2 @@
 - pkg:deb/debian/python3-napari@0.6.6-2?arch=all
+- pkg:deb/debian/python3-napari@0.7.0~a3-1?arch=all

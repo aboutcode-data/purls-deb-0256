@@ -1,1 +1,2 @@
 - pkg:deb/debian/libghc-dhall-doc@1.42.1-1?arch=all
+- pkg:deb/debian/libghc-dhall-doc@1.42.3-1?arch=all

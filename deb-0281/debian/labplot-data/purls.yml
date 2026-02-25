@@ -1,4 +1,5 @@
 - pkg:deb/debian/labplot-data@2.12.0-1?arch=all
 - pkg:deb/debian/labplot-data@2.12.1-2?arch=all
+- pkg:deb/debian/labplot-data@2.12.1-5?arch=all
 - pkg:deb/debian/labplot-data@2.8.1-2?arch=all
 - pkg:deb/debian/labplot-data@2.9.0-1?arch=all

@@ -4,3 +4,5 @@
 - pkg:deb/debian/python3-streamlink-doc@7.3.0-2~bpo12%2B1?arch=all
 - pkg:deb/debian/python3-streamlink-doc@8.0.0-1?arch=all
 - pkg:deb/debian/python3-streamlink-doc@8.0.0-1~bpo13%2B1?arch=all
+- pkg:deb/debian/python3-streamlink-doc@8.2.0-1?arch=all
+- pkg:deb/debian/python3-streamlink-doc@8.2.0-1~bpo13%2B1?arch=all

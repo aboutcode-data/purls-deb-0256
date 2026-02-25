@@ -1,1 +1,2 @@
 - pkg:deb/debian/nbstripout@0.8.1-2?arch=all
+- pkg:deb/debian/nbstripout@0.9.0-1?arch=all

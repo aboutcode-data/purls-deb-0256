@@ -1,4 +1,5 @@
 - pkg:deb/debian/sway-backgrounds@1.10.1-2?arch=all
 - pkg:deb/debian/sway-backgrounds@1.11-3?arch=all
+- pkg:deb/debian/sway-backgrounds@1.12~pre1.845cdb19-1?arch=all
 - pkg:deb/debian/sway-backgrounds@1.5-7?arch=all
 - pkg:deb/debian/sway-backgrounds@1.7-6?arch=all

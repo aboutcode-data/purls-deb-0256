@@ -26,3 +26,5 @@
 - pkg:deb/debian/libmlpost-ocaml-dev@0.9-5%2Bb13?arch=ppc64el
 - pkg:deb/debian/libmlpost-ocaml-dev@0.9-5%2Bb13?arch=s390x
 - pkg:deb/debian/libmlpost-ocaml-dev@0.9-5%2Bb14?arch=riscv64
+- pkg:deb/debian/libmlpost-ocaml-dev@0.9-5%2Bb15?arch=amd64
+- pkg:deb/debian/libmlpost-ocaml-dev@0.9-5%2Bb16?arch=arm64

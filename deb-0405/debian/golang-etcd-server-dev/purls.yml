@@ -1,5 +1,6 @@
 - pkg:deb/debian/golang-etcd-server-dev@3.3.25%2Bdfsg-6?arch=all
 - pkg:deb/debian/golang-etcd-server-dev@3.4.23-4?arch=all
+- pkg:deb/debian/golang-etcd-server-dev@3.5.16-10?arch=all
 - pkg:deb/debian/golang-etcd-server-dev@3.5.16-4?arch=all
 - pkg:deb/debian/golang-etcd-server-dev@3.5.16-8?arch=all
 - pkg:deb/debian/golang-etcd-server-dev@3.5.22-1?arch=all

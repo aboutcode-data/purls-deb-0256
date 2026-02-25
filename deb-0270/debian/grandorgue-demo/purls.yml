@@ -1,3 +1,4 @@
 - pkg:deb/debian/grandorgue-demo@3.15.4-2?arch=all
 - pkg:deb/debian/grandorgue-demo@3.16.2-1?arch=all
+- pkg:deb/debian/grandorgue-demo@3.17.0-1?arch=all
 - pkg:deb/debian/grandorgue-demo@3.9.5-1?arch=all

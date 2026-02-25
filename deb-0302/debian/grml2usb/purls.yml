@@ -3,4 +3,5 @@
 - pkg:deb/debian/grml2usb@0.19.2?arch=amd64
 - pkg:deb/debian/grml2usb@0.19.2?arch=i386
 - pkg:deb/debian/grml2usb@0.20.10?arch=all
+- pkg:deb/debian/grml2usb@0.20.11?arch=all
 - pkg:deb/debian/grml2usb@0.20.6?arch=all

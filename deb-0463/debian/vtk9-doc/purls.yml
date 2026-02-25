@@ -4,3 +4,5 @@
 - pkg:deb/debian/vtk9-doc@9.3.0%2Bdfsg1-4?arch=all
 - pkg:deb/debian/vtk9-doc@9.3.0%2Bdfsg1-7?arch=all
 - pkg:deb/debian/vtk9-doc@9.5.2%2Bdfsg2-4?arch=all
+- pkg:deb/debian/vtk9-doc@9.5.2%2Bdfsg3-7?arch=all
+- pkg:deb/debian/vtk9-doc@9.5.2%2Bdfsg3-8?arch=all

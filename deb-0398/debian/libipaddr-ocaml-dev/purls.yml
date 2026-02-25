@@ -26,3 +26,5 @@
 - pkg:deb/debian/libipaddr-ocaml-dev@5.6.1-1%2Bb2?arch=ppc64el
 - pkg:deb/debian/libipaddr-ocaml-dev@5.6.1-1%2Bb2?arch=riscv64
 - pkg:deb/debian/libipaddr-ocaml-dev@5.6.1-1%2Bb2?arch=s390x
+- pkg:deb/debian/libipaddr-ocaml-dev@5.6.1-1%2Bb4?arch=amd64
+- pkg:deb/debian/libipaddr-ocaml-dev@5.6.1-1%2Bb4?arch=arm64

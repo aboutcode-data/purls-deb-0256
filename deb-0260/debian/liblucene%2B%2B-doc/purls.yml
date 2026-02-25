@@ -1,4 +1,5 @@
 - pkg:deb/debian/liblucene%2B%2B-doc@3.0.8-4?arch=all
 - pkg:deb/debian/liblucene%2B%2B-doc@3.0.8-6?arch=all
+- pkg:deb/debian/liblucene%2B%2B-doc@3.0.9-10?arch=all
 - pkg:deb/debian/liblucene%2B%2B-doc@3.0.9-3.2?arch=all
 - pkg:deb/debian/liblucene%2B%2B-doc@3.0.9-9?arch=all

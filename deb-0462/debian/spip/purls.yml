@@ -1,3 +1,5 @@
 - pkg:deb/debian/spip@3.2.11-3%2Bdeb11u10?arch=all
 - pkg:deb/debian/spip@4.4.3%2Bdfsg-1%2Bdeb13u1?arch=all
 - pkg:deb/debian/spip@4.4.6%2Bdfsg-1?arch=all
+- pkg:deb/debian/spip@4.4.8%2Bdfsg-1?arch=all
+- pkg:deb/debian/spip@4.4.9%2Bdfsg-1?arch=all

@@ -2,3 +2,4 @@
 - pkg:deb/debian/freecad-common@0.20.2%2Bdfsg1-4?arch=all
 - pkg:deb/debian/freecad-common@1.0.0%2Bdfsg-8?arch=all
 - pkg:deb/debian/freecad-common@1.0.2%2Bdfsg-2?arch=all
+- pkg:deb/debian/freecad-common@1.0.2%2Bdfsg-3?arch=all

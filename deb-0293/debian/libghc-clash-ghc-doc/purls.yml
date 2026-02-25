@@ -1,2 +1,3 @@
 - pkg:deb/debian/libghc-clash-ghc-doc@1.6.4-1?arch=all
 - pkg:deb/debian/libghc-clash-ghc-doc@1.8.1-4?arch=all
+- pkg:deb/debian/libghc-clash-ghc-doc@1.8.4-1?arch=all

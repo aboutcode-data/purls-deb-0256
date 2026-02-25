@@ -1,3 +1,4 @@
 - pkg:deb/debian/libghc-aeson-doc@1.4.7.1-2?arch=all
 - pkg:deb/debian/libghc-aeson-doc@2.0.3.0-1?arch=all
 - pkg:deb/debian/libghc-aeson-doc@2.1.2.1-6?arch=all
+- pkg:deb/debian/libghc-aeson-doc@2.2.3.0-2?arch=all

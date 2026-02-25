@@ -2,3 +2,4 @@
 - pkg:deb/debian/keepass2@2.57%2Bdfsg-1~bpo12%2B1?arch=all
 - pkg:deb/debian/keepass2@2.57%2Bdfsg-3?arch=all
 - pkg:deb/debian/keepass2@2.57%2Bdfsg-4?arch=all
+- pkg:deb/debian/keepass2@2.60%2Bdfsg-1?arch=all

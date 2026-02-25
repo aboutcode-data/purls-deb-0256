@@ -13,3 +13,5 @@
 - pkg:deb/debian/libbisect-ppx-ocaml@2.8.3%2Bdfsg-4%2Bb1?arch=ppc64el
 - pkg:deb/debian/libbisect-ppx-ocaml@2.8.3%2Bdfsg-4%2Bb1?arch=riscv64
 - pkg:deb/debian/libbisect-ppx-ocaml@2.8.3%2Bdfsg-4%2Bb1?arch=s390x
+- pkg:deb/debian/libbisect-ppx-ocaml@2.8.3%2Bdfsg-4%2Bb3?arch=amd64
+- pkg:deb/debian/libbisect-ppx-ocaml@2.8.3%2Bdfsg-4%2Bb3?arch=arm64

@@ -5,6 +5,8 @@
 - pkg:deb/debian/libmirage-kv-ocaml-dev@6.1.1-2%2Bb10?arch=ppc64el
 - pkg:deb/debian/libmirage-kv-ocaml-dev@6.1.1-2%2Bb10?arch=riscv64
 - pkg:deb/debian/libmirage-kv-ocaml-dev@6.1.1-2%2Bb10?arch=s390x
+- pkg:deb/debian/libmirage-kv-ocaml-dev@6.1.1-2%2Bb13?arch=amd64
+- pkg:deb/debian/libmirage-kv-ocaml-dev@6.1.1-2%2Bb13?arch=arm64
 - pkg:deb/debian/libmirage-kv-ocaml-dev@6.1.1-2%2Bb7?arch=amd64
 - pkg:deb/debian/libmirage-kv-ocaml-dev@6.1.1-2%2Bb7?arch=arm64
 - pkg:deb/debian/libmirage-kv-ocaml-dev@6.1.1-2%2Bb7?arch=armel

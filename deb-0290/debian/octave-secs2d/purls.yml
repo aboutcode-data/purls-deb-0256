@@ -23,6 +23,7 @@
 - pkg:deb/debian/octave-secs2d@0.0.8-17?arch=arm64
 - pkg:deb/debian/octave-secs2d@0.0.8-17?arch=armhf
 - pkg:deb/debian/octave-secs2d@0.0.8-17?arch=i386
+- pkg:deb/debian/octave-secs2d@0.0.8-17?arch=loong64
 - pkg:deb/debian/octave-secs2d@0.0.8-17?arch=ppc64el
 - pkg:deb/debian/octave-secs2d@0.0.8-17?arch=riscv64
 - pkg:deb/debian/octave-secs2d@0.0.8-17?arch=s390x

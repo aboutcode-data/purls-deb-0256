@@ -2,3 +2,4 @@
 - pkg:deb/debian/ruby-kramdown-rfc2629@1.6.22-1?arch=all
 - pkg:deb/debian/ruby-kramdown-rfc2629@1.7.14-1?arch=all
 - pkg:deb/debian/ruby-kramdown-rfc2629@1.7.29-1?arch=all
+- pkg:deb/debian/ruby-kramdown-rfc2629@1.7.31-1?arch=all

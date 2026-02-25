@@ -12,6 +12,7 @@
 - pkg:deb/debian/epm@4.2-12?arch=armel
 - pkg:deb/debian/epm@4.2-12?arch=armhf
 - pkg:deb/debian/epm@4.2-12?arch=i386
+- pkg:deb/debian/epm@4.2-12?arch=loong64
 - pkg:deb/debian/epm@4.2-12?arch=ppc64el
 - pkg:deb/debian/epm@4.2-12?arch=riscv64
 - pkg:deb/debian/epm@4.2-12?arch=s390x

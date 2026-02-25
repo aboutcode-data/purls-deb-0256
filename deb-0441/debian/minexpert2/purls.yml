@@ -1,3 +1,5 @@
+- pkg:deb/debian/minexpert2@11.1.0-1?arch=all
+- pkg:deb/debian/minexpert2@11.1.0-2?arch=all
 - pkg:deb/debian/minexpert2@7.4.1-1?arch=amd64
 - pkg:deb/debian/minexpert2@7.4.1-1?arch=arm64
 - pkg:deb/debian/minexpert2@7.4.1-1?arch=armhf

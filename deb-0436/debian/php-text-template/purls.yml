@@ -2,3 +2,4 @@
 - pkg:deb/debian/php-text-template@2.0.4-2?arch=all
 - pkg:deb/debian/php-text-template@4.0.1-4?arch=all
 - pkg:deb/debian/php-text-template@5.0.0-2?arch=all
+- pkg:deb/debian/php-text-template@6.0.0-2?arch=all

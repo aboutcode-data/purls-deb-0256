@@ -19,3 +19,4 @@
 - pkg:deb/debian/libghc-edit-distance-prof@0.2.2.1-14?arch=ppc64el
 - pkg:deb/debian/libghc-edit-distance-prof@0.2.2.1-14?arch=riscv64
 - pkg:deb/debian/libghc-edit-distance-prof@0.2.2.1-14?arch=s390x
+- pkg:deb/debian/libghc-edit-distance-prof@0.2.2.1-15?arch=loong64

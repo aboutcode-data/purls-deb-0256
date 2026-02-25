@@ -4,3 +4,5 @@
 - pkg:deb/debian/cmake-data@3.31.6-2~bpo12%2B1?arch=all
 - pkg:deb/debian/cmake-data@4.1.1%2Breally3.31.6-2?arch=all
 - pkg:deb/debian/cmake-data@4.2.0-2?arch=all
+- pkg:deb/debian/cmake-data@4.2.3-2?arch=all
+- pkg:deb/debian/cmake-data@4.2.3-2~bpo13%2B1?arch=all

@@ -1,2 +1,3 @@
 - pkg:deb/debian/librdf-doap-perl@0.104-2?arch=all
 - pkg:deb/debian/librdf-doap-perl@0.105-1?arch=all
+- pkg:deb/debian/librdf-doap-perl@0.105-2?arch=all

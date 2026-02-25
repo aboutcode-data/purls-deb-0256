@@ -2,3 +2,4 @@
 - pkg:deb/debian/designate-producer@15.0.0-4?arch=all
 - pkg:deb/debian/designate-producer@20.0.0-2?arch=all
 - pkg:deb/debian/designate-producer@21.0.0-1?arch=all
+- pkg:deb/debian/designate-producer@21.0.0-2?arch=all

@@ -5,3 +5,4 @@
 - pkg:deb/debian/libterm-choose-linefold-xs-perl@0.004-1?arch=ppc64el
 - pkg:deb/debian/libterm-choose-linefold-xs-perl@0.004-1?arch=riscv64
 - pkg:deb/debian/libterm-choose-linefold-xs-perl@0.004-1?arch=s390x
+- pkg:deb/debian/libterm-choose-linefold-xs-perl@0.005-1?arch=loong64

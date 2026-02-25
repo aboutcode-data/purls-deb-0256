@@ -1,1 +1,2 @@
 - pkg:deb/debian/libghc-text-builder-doc@0.6.7.2-1?arch=all
+- pkg:deb/debian/libghc-text-builder-doc@1.0.0.4-1?arch=all

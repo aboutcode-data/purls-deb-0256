@@ -1,3 +1,4 @@
+- pkg:deb/debian/hadrian@9.10.3-1?arch=loong64
 - pkg:deb/debian/hadrian@9.10.3-1~exp2?arch=amd64
 - pkg:deb/debian/hadrian@9.10.3-1~exp2?arch=arm64
 - pkg:deb/debian/hadrian@9.10.3-1~exp2?arch=armhf

@@ -1,3 +1,4 @@
 - pkg:deb/debian/ruby-prawn-table@0.2.2-1.1?arch=all
 - pkg:deb/debian/ruby-prawn-table@0.2.2-1?arch=all
 - pkg:deb/debian/ruby-prawn-table@0.2.2-2?arch=all
+- pkg:deb/debian/ruby-prawn-table@0.2.2-4?arch=all

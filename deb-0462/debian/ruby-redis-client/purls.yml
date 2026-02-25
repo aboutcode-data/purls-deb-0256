@@ -1,2 +1,3 @@
 - pkg:deb/debian/ruby-redis-client@0.22.2-1.1?arch=all
 - pkg:deb/debian/ruby-redis-client@0.26.1-1?arch=all
+- pkg:deb/debian/ruby-redis-client@0.26.4-1?arch=all

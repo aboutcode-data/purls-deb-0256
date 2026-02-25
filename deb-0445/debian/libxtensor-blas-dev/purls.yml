@@ -9,3 +9,4 @@
 - pkg:deb/debian/libxtensor-blas-dev@0.20.0-2?arch=s390x
 - pkg:deb/debian/libxtensor-blas-dev@0.21.0-1?arch=all
 - pkg:deb/debian/libxtensor-blas-dev@0.21.0-3?arch=all
+- pkg:deb/debian/libxtensor-blas-dev@0.23.0-1?arch=all

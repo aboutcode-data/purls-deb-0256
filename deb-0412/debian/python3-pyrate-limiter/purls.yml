@@ -1,1 +1,2 @@
 - pkg:deb/debian/python3-pyrate-limiter@3.9.0-4?arch=all
+- pkg:deb/debian/python3-pyrate-limiter@4.0.2-1?arch=all

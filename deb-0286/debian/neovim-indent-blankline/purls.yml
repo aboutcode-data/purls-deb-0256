@@ -1,1 +1,2 @@
 - pkg:deb/debian/neovim-indent-blankline@3.9.0-1?arch=all
+- pkg:deb/debian/neovim-indent-blankline@3.9.1-1?arch=all

@@ -2,3 +2,4 @@
 - pkg:deb/debian/libasm-java@9.4-1?arch=all
 - pkg:deb/debian/libasm-java@9.8-1?arch=all
 - pkg:deb/debian/libasm-java@9.8-2?arch=all
+- pkg:deb/debian/libasm-java@9.9.1-1?arch=all

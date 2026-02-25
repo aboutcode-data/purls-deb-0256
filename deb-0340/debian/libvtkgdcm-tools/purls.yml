@@ -29,6 +29,7 @@
 - pkg:deb/debian/libvtkgdcm-tools@3.0.24-7?arch=ppc64el
 - pkg:deb/debian/libvtkgdcm-tools@3.0.24-7?arch=riscv64
 - pkg:deb/debian/libvtkgdcm-tools@3.0.24-7?arch=s390x
+- pkg:deb/debian/libvtkgdcm-tools@3.0.24-9?arch=loong64
 - pkg:deb/debian/libvtkgdcm-tools@3.0.8-2?arch=amd64
 - pkg:deb/debian/libvtkgdcm-tools@3.0.8-2?arch=arm64
 - pkg:deb/debian/libvtkgdcm-tools@3.0.8-2?arch=armhf

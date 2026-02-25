@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-libyang@3.3.0-1?arch=all
+- pkg:deb/debian/python3-libyang@4.0.0-1?arch=all

@@ -2,3 +2,4 @@
 - pkg:deb/debian/developers-reference-de@12.18?arch=all
 - pkg:deb/debian/developers-reference-de@13.20?arch=all
 - pkg:deb/debian/developers-reference-de@14.2?arch=all
+- pkg:deb/debian/developers-reference-de@14.4?arch=all

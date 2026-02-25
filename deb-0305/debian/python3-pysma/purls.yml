@@ -1,1 +1,2 @@
 - pkg:deb/debian/python3-pysma@0.7.5-1.1?arch=all
+- pkg:deb/debian/python3-pysma@1.1.1-1?arch=all

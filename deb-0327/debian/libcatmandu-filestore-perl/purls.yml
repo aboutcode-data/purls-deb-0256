@@ -1,3 +1,4 @@
 - pkg:deb/debian/libcatmandu-filestore-perl@1.16-1?arch=all
 - pkg:deb/debian/libcatmandu-filestore-perl@1.16-2?arch=all
 - pkg:deb/debian/libcatmandu-filestore-perl@1.16-3?arch=all
+- pkg:deb/debian/libcatmandu-filestore-perl@1.16-4?arch=all

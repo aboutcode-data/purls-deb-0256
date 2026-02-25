@@ -1,2 +1,3 @@
 - pkg:deb/debian/gnome-kiosk-search-appliance@48.0-1?arch=all
 - pkg:deb/debian/gnome-kiosk-search-appliance@49.0-2?arch=all
+- pkg:deb/debian/gnome-kiosk-search-appliance@50~beta-1?arch=all

@@ -26,3 +26,4 @@
 - pkg:deb/debian/octave-lssa@0.1.4-3%2Bb1?arch=ppc64el
 - pkg:deb/debian/octave-lssa@0.1.4-3%2Bb1?arch=riscv64
 - pkg:deb/debian/octave-lssa@0.1.4-3%2Bb1?arch=s390x
+- pkg:deb/debian/octave-lssa@0.1.4-4?arch=loong64

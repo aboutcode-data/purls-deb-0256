@@ -1,2 +1,3 @@
 - pkg:deb/debian/python-rapidjson-doc@1.4-2?arch=all
 - pkg:deb/debian/python-rapidjson-doc@1.4-3?arch=all
+- pkg:deb/debian/python-rapidjson-doc@1.4-4?arch=all

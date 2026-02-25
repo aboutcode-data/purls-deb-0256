@@ -6,3 +6,7 @@
 - pkg:deb/debian/libasi@1.27%2B20221218230335-2?arch=arm64
 - pkg:deb/debian/libasi@1.27%2B20221218230335-2?arch=armhf
 - pkg:deb/debian/libasi@1.27%2B20221218230335-2?arch=i386
+- pkg:deb/debian/libasi@1.27%2B20221218230335-3?arch=amd64
+- pkg:deb/debian/libasi@1.27%2B20221218230335-3?arch=arm64
+- pkg:deb/debian/libasi@1.27%2B20221218230335-3?arch=armhf
+- pkg:deb/debian/libasi@1.27%2B20221218230335-3?arch=i386

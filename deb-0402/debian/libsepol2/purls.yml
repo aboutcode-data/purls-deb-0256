@@ -15,6 +15,7 @@
 - pkg:deb/debian/libsepol2@3.8.1-1?arch=ppc64el
 - pkg:deb/debian/libsepol2@3.8.1-1?arch=riscv64
 - pkg:deb/debian/libsepol2@3.8.1-1?arch=s390x
+- pkg:deb/debian/libsepol2@3.9-2%2Bb1?arch=loong64
 - pkg:deb/debian/libsepol2@3.9-2?arch=amd64
 - pkg:deb/debian/libsepol2@3.9-2?arch=arm64
 - pkg:deb/debian/libsepol2@3.9-2?arch=armhf

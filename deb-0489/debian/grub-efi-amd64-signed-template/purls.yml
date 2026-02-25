@@ -3,4 +3,5 @@
 - pkg:deb/debian/grub-efi-amd64-signed-template@2.06-3~deb11u6?arch=amd64
 - pkg:deb/debian/grub-efi-amd64-signed-template@2.12-1~bpo12%2B1?arch=amd64
 - pkg:deb/debian/grub-efi-amd64-signed-template@2.12-9?arch=amd64
+- pkg:deb/debian/grub-efi-amd64-signed-template@2.14-2?arch=amd64
 - pkg:deb/debian/grub-efi-amd64-signed-template@2.14~git20250718.0e36779-2?arch=amd64

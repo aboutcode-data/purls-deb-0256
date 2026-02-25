@@ -6,6 +6,7 @@
 - pkg:deb/debian/libjsoncpp26@1.9.6-3?arch=ppc64el
 - pkg:deb/debian/libjsoncpp26@1.9.6-3?arch=riscv64
 - pkg:deb/debian/libjsoncpp26@1.9.6-3?arch=s390x
+- pkg:deb/debian/libjsoncpp26@1.9.6-5%2Bb1?arch=loong64
 - pkg:deb/debian/libjsoncpp26@1.9.6-5?arch=amd64
 - pkg:deb/debian/libjsoncpp26@1.9.6-5?arch=arm64
 - pkg:deb/debian/libjsoncpp26@1.9.6-5?arch=armhf

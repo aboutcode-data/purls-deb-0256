@@ -26,3 +26,4 @@
 - pkg:deb/debian/mediawiki2latex@8.31-1?arch=ppc64el
 - pkg:deb/debian/mediawiki2latex@8.31-1?arch=riscv64
 - pkg:deb/debian/mediawiki2latex@8.31-1?arch=s390x
+- pkg:deb/debian/mediawiki2latex@8.32-1?arch=loong64

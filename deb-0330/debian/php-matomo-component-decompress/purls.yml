@@ -1,1 +1,2 @@
 - pkg:deb/debian/php-matomo-component-decompress@3.0.0-1?arch=all
+- pkg:deb/debian/php-matomo-component-decompress@3.0.0-2?arch=all

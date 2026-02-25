@@ -5,6 +5,14 @@
 - pkg:deb/debian/libsilly@0.1.0%2Bgit20140818.431c352-2?arch=ppc64el
 - pkg:deb/debian/libsilly@0.1.0%2Bgit20140818.431c352-2?arch=riscv64
 - pkg:deb/debian/libsilly@0.1.0%2Bgit20140818.431c352-2?arch=s390x
+- pkg:deb/debian/libsilly@0.1.0%2Bgit20140818.431c352-4?arch=amd64
+- pkg:deb/debian/libsilly@0.1.0%2Bgit20140818.431c352-4?arch=arm64
+- pkg:deb/debian/libsilly@0.1.0%2Bgit20140818.431c352-4?arch=armhf
+- pkg:deb/debian/libsilly@0.1.0%2Bgit20140818.431c352-4?arch=i386
+- pkg:deb/debian/libsilly@0.1.0%2Bgit20140818.431c352-4?arch=loong64
+- pkg:deb/debian/libsilly@0.1.0%2Bgit20140818.431c352-4?arch=ppc64el
+- pkg:deb/debian/libsilly@0.1.0%2Bgit20140818.431c352-4?arch=riscv64
+- pkg:deb/debian/libsilly@0.1.0%2Bgit20140818.431c352-4?arch=s390x
 - pkg:deb/debian/libsilly@0.1.0-8.1%2Bb1?arch=amd64
 - pkg:deb/debian/libsilly@0.1.0-8.1%2Bb1?arch=armel
 - pkg:deb/debian/libsilly@0.1.0-8.1%2Bb1?arch=armhf
