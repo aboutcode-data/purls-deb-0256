@@ -11,6 +11,7 @@
 - pkg:deb/debian/packetsender@8.1.1-1?arch=mipsel
 - pkg:deb/debian/packetsender@8.1.1-1?arch=ppc64el
 - pkg:deb/debian/packetsender@8.1.1-1?arch=s390x
+- pkg:deb/debian/packetsender@8.11.1-1?arch=riscv64
 - pkg:deb/debian/packetsender@8.3.5-1~bpo12%2B1?arch=amd64
 - pkg:deb/debian/packetsender@8.3.5-1~bpo12%2B1?arch=arm64
 - pkg:deb/debian/packetsender@8.3.5-1~bpo12%2B1?arch=armel
