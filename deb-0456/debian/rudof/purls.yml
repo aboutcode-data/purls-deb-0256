@@ -28,3 +28,4 @@
 - pkg:deb/debian/rudof@0.1.62%2Bds-1%2Bb1?arch=ppc64el
 - pkg:deb/debian/rudof@0.1.62%2Bds-1%2Bb1?arch=riscv64
 - pkg:deb/debian/rudof@0.1.62%2Bds-1%2Bb1?arch=s390x
+- pkg:deb/debian/rudof@0.3.13%2Bds-1?arch=riscv64
