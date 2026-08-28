@@ -1,3 +1,4 @@
+- pkg:deb/debian/mkvtoolnix-gui@101.0-1?arch=riscv64
 - pkg:deb/debian/mkvtoolnix-gui@54.0.0%2Breally52.0.0-3?arch=amd64
 - pkg:deb/debian/mkvtoolnix-gui@54.0.0%2Breally52.0.0-3?arch=arm64
 - pkg:deb/debian/mkvtoolnix-gui@54.0.0%2Breally52.0.0-3?arch=armhf
