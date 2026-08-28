@@ -6,4 +6,5 @@
 - pkg:deb/debian/calibre@8.16.1%2Bds%2B~0.10.5-1?arch=all
 - pkg:deb/debian/calibre@8.16.2%2Bds%2B~0.10.5-1?arch=all
 - pkg:deb/debian/calibre@8.5.0%2Bds-1?arch=all
+- pkg:deb/debian/calibre@9.14.0%2Bds%2B~0.10.6-1?arch=all
 - pkg:deb/debian/calibre@9.3.1%2Bds%2B~0.10.5-1?arch=all
