@@ -1,3 +1,6 @@
+- pkg:deb/debian/stubble@12-1?arch=amd64
+- pkg:deb/debian/stubble@12-1?arch=arm64
+- pkg:deb/debian/stubble@12-1?arch=riscv64
 - pkg:deb/debian/stubble@7-2~bpo13%2B1?arch=amd64
 - pkg:deb/debian/stubble@7-2~bpo13%2B1?arch=arm64
 - pkg:deb/debian/stubble@7-2~bpo13%2B1?arch=riscv64
