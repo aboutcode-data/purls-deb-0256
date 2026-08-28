@@ -26,3 +26,4 @@
 - pkg:deb/debian/wireguard-tools@1.0.20250521-1?arch=ppc64el
 - pkg:deb/debian/wireguard-tools@1.0.20250521-1?arch=riscv64
 - pkg:deb/debian/wireguard-tools@1.0.20250521-1?arch=s390x
+- pkg:deb/debian/wireguard-tools@1.0.20260223-2?arch=riscv64
