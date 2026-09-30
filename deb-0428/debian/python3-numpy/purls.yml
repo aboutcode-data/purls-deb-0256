@@ -26,3 +26,10 @@
 - pkg:deb/debian/python3-numpy@2.3.5%2Bds-2%2Bb1?arch=ppc64el
 - pkg:deb/debian/python3-numpy@2.3.5%2Bds-2%2Bb1?arch=riscv64
 - pkg:deb/debian/python3-numpy@2.3.5%2Bds-2%2Bb1?arch=s390x
+- pkg:deb/debian/python3-numpy@2.4.6%2Bds-5?arch=amd64
+- pkg:deb/debian/python3-numpy@2.4.6%2Bds-5?arch=arm64
+- pkg:deb/debian/python3-numpy@2.4.6%2Bds-5?arch=armhf
+- pkg:deb/debian/python3-numpy@2.4.6%2Bds-5?arch=i386
+- pkg:deb/debian/python3-numpy@2.4.6%2Bds-5?arch=loong64
+- pkg:deb/debian/python3-numpy@2.4.6%2Bds-5?arch=ppc64el
+- pkg:deb/debian/python3-numpy@2.4.6%2Bds-5?arch=s390x

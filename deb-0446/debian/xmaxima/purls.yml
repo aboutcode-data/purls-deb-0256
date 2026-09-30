@@ -41,3 +41,6 @@
 - pkg:deb/debian/xmaxima@5.49.0%2Bdsfg-3?arch=loong64
 - pkg:deb/debian/xmaxima@5.49.0%2Bdsfg-3?arch=ppc64el
 - pkg:deb/debian/xmaxima@5.49.0%2Bdsfg-3?arch=s390x
+- pkg:deb/debian/xmaxima@5.49.0%2Bdsfg-6?arch=amd64
+- pkg:deb/debian/xmaxima@5.49.0%2Bdsfg-6?arch=arm64
+- pkg:deb/debian/xmaxima@5.49.0%2Bdsfg-6?arch=armhf
