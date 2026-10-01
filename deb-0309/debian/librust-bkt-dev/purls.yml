@@ -1,3 +1,8 @@
+- pkg:deb/debian/librust-bkt-dev@0.6.1-2%2Bb12?arch=arm64
+- pkg:deb/debian/librust-bkt-dev@0.6.1-2%2Bb12?arch=armhf
+- pkg:deb/debian/librust-bkt-dev@0.6.1-2%2Bb12?arch=loong64
+- pkg:deb/debian/librust-bkt-dev@0.6.1-2%2Bb12?arch=ppc64el
+- pkg:deb/debian/librust-bkt-dev@0.6.1-2%2Bb12?arch=s390x
 - pkg:deb/debian/librust-bkt-dev@0.6.1-2%2Bb8?arch=amd64
 - pkg:deb/debian/librust-bkt-dev@0.6.1-2%2Bb8?arch=arm64
 - pkg:deb/debian/librust-bkt-dev@0.6.1-2%2Bb8?arch=armel

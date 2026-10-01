@@ -12,4 +12,9 @@
 - pkg:deb/debian/librust-cddl-dev@0.9.5-2%2Bb1?arch=i386
 - pkg:deb/debian/librust-cddl-dev@0.9.5-2%2Bb1?arch=ppc64el
 - pkg:deb/debian/librust-cddl-dev@0.9.5-2%2Bb1?arch=s390x
+- pkg:deb/debian/librust-cddl-dev@0.9.5-2%2Bb4?arch=arm64
+- pkg:deb/debian/librust-cddl-dev@0.9.5-2%2Bb4?arch=armhf
+- pkg:deb/debian/librust-cddl-dev@0.9.5-2%2Bb4?arch=loong64
+- pkg:deb/debian/librust-cddl-dev@0.9.5-2%2Bb4?arch=ppc64el
+- pkg:deb/debian/librust-cddl-dev@0.9.5-2%2Bb4?arch=s390x
 - pkg:deb/debian/librust-cddl-dev@0.9.5-2?arch=riscv64
