@@ -12,3 +12,8 @@
 - pkg:deb/debian/rustup@1.27.1-5%2Bb1?arch=ppc64el
 - pkg:deb/debian/rustup@1.27.1-5%2Bb1?arch=s390x
 - pkg:deb/debian/rustup@1.27.1-5?arch=riscv64
+- pkg:deb/debian/rustup@1.27.1-8%2Bb2?arch=arm64
+- pkg:deb/debian/rustup@1.27.1-8%2Bb2?arch=armhf
+- pkg:deb/debian/rustup@1.27.1-8%2Bb2?arch=loong64
+- pkg:deb/debian/rustup@1.27.1-8%2Bb2?arch=ppc64el
+- pkg:deb/debian/rustup@1.27.1-8%2Bb2?arch=s390x
