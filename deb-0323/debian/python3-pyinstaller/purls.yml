@@ -20,3 +20,4 @@
 - pkg:deb/debian/python3-pyinstaller@6.18.0%2Bds-2~bpo13%2B1?arch=i386
 - pkg:deb/debian/python3-pyinstaller@6.18.0%2Bds-3?arch=arm64
 - pkg:deb/debian/python3-pyinstaller@6.18.0%2Bds-3?arch=armhf
+- pkg:deb/debian/python3-pyinstaller@6.22.2%2Bds-3?arch=s390x
