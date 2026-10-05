@@ -10,3 +10,5 @@
 - pkg:deb/debian/librust-salsa-macro-rules-dev@0.28.5-1?arch=armhf
 - pkg:deb/debian/librust-salsa-macro-rules-dev@0.28.5-1?arch=i386
 - pkg:deb/debian/librust-salsa-macro-rules-dev@0.28.5-1?arch=loong64
+- pkg:deb/debian/librust-salsa-macro-rules-dev@0.28.5-1?arch=ppc64el
+- pkg:deb/debian/librust-salsa-macro-rules-dev@0.28.5-1?arch=s390x
