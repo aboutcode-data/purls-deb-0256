@@ -13,3 +13,4 @@
 - pkg:deb/debian/libkpim6identitymanagementwidgets6@25.08.3-2?arch=ppc64el
 - pkg:deb/debian/libkpim6identitymanagementwidgets6@25.08.3-2?arch=riscv64
 - pkg:deb/debian/libkpim6identitymanagementwidgets6@25.08.3-2?arch=s390x
+- pkg:deb/debian/libkpim6identitymanagementwidgets6@26.08.1-1?arch=riscv64
