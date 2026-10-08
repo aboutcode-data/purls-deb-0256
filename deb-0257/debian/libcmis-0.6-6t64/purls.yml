@@ -13,3 +13,5 @@
 - pkg:deb/debian/libcmis-0.6-6t64@0.6.2-3%2Bb1?arch=ppc64el
 - pkg:deb/debian/libcmis-0.6-6t64@0.6.2-3%2Bb1?arch=riscv64
 - pkg:deb/debian/libcmis-0.6-6t64@0.6.2-3%2Bb1?arch=s390x
+- pkg:deb/debian/libcmis-0.6-6t64@0.6.3-1%2Bb1?arch=arm64
+- pkg:deb/debian/libcmis-0.6-6t64@0.6.3-1%2Bb1?arch=armhf
