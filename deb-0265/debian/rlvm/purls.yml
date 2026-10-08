@@ -19,3 +19,4 @@
 - pkg:deb/debian/rlvm@0.14-5.2%2Bb2?arch=ppc64el
 - pkg:deb/debian/rlvm@0.14-5.2%2Bb2?arch=riscv64
 - pkg:deb/debian/rlvm@0.14-5.2%2Bb2?arch=s390x
+- pkg:deb/debian/rlvm@0.14-7%2Bb1?arch=loong64

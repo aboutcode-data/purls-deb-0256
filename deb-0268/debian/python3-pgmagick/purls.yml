@@ -19,3 +19,4 @@
 - pkg:deb/debian/python3-pgmagick@0.7.6-1%2Bb5?arch=ppc64el
 - pkg:deb/debian/python3-pgmagick@0.7.6-1%2Bb5?arch=s390x
 - pkg:deb/debian/python3-pgmagick@0.7.6-1%2Bb6?arch=riscv64
+- pkg:deb/debian/python3-pgmagick@0.7.6-2%2Bb3?arch=loong64

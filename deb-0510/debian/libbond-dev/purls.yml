@@ -19,6 +19,7 @@
 - pkg:deb/debian/libbond-dev@1.8.6-3?arch=arm64
 - pkg:deb/debian/libbond-dev@1.8.6-3?arch=armhf
 - pkg:deb/debian/libbond-dev@1.8.6-3?arch=i386
+- pkg:deb/debian/libbond-dev@1.8.7-1%2Bb2?arch=loong64
 - pkg:deb/debian/libbond-dev@1.8.7-1?arch=amd64
 - pkg:deb/debian/libbond-dev@1.8.7-1?arch=arm64
 - pkg:deb/debian/libbond-dev@1.8.7-1?arch=armhf
