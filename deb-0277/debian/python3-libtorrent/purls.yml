@@ -27,3 +27,6 @@
 - pkg:deb/debian/python3-libtorrent@2.0.8-1%2Bb1?arch=mipsel
 - pkg:deb/debian/python3-libtorrent@2.0.8-1%2Bb1?arch=ppc64el
 - pkg:deb/debian/python3-libtorrent@2.0.8-1%2Bb1?arch=s390x
+- pkg:deb/debian/python3-libtorrent@2.1.2-1%2Bb1?arch=arm64
+- pkg:deb/debian/python3-libtorrent@2.1.2-1%2Bb1?arch=armhf
+- pkg:deb/debian/python3-libtorrent@2.1.2-1%2Bb1?arch=s390x
