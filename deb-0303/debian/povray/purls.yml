@@ -15,6 +15,7 @@
 - pkg:deb/debian/povray@3.7.0.10-3%2Bb2?arch=riscv64
 - pkg:deb/debian/povray@3.7.0.10-3%2Bb2?arch=s390x
 - pkg:deb/debian/povray@3.7.0.10-3%2Bb3?arch=arm64
+- pkg:deb/debian/povray@3.7.0.10-3%2Bb5?arch=loong64
 - pkg:deb/debian/povray@3.7.0.8-5?arch=amd64
 - pkg:deb/debian/povray@3.7.0.8-5?arch=arm64
 - pkg:deb/debian/povray@3.7.0.8-5?arch=armhf
@@ -26,3 +27,6 @@
 - pkg:deb/debian/povray@3.8.0~beta.2-2%2Bb1?arch=riscv64
 - pkg:deb/debian/povray@3.8.0~beta.2-2%2Bb1?arch=s390x
 - pkg:deb/debian/povray@3.8.0~beta.2-2%2Bb2?arch=armhf
+- pkg:deb/debian/povray@3.8.0~beta.2-2%2Bb6?arch=arm64
+- pkg:deb/debian/povray@3.8.0~beta.2-2%2Bb6?arch=s390x
+- pkg:deb/debian/povray@3.8.0~beta.2-2%2Bb7?arch=armhf
