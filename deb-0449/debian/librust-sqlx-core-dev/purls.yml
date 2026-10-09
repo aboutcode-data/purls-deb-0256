@@ -13,3 +13,4 @@
 - pkg:deb/debian/librust-sqlx-core-dev@0.8.3-3?arch=ppc64el
 - pkg:deb/debian/librust-sqlx-core-dev@0.8.3-3?arch=riscv64
 - pkg:deb/debian/librust-sqlx-core-dev@0.8.3-3?arch=s390x
+- pkg:deb/debian/librust-sqlx-core-dev@0.9.0-2?arch=ppc64el

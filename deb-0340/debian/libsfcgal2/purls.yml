@@ -12,3 +12,4 @@
 - pkg:deb/debian/libsfcgal2@2.2.0-1?arch=ppc64el
 - pkg:deb/debian/libsfcgal2@2.2.0-1?arch=riscv64
 - pkg:deb/debian/libsfcgal2@2.2.0-1?arch=s390x
+- pkg:deb/debian/libsfcgal2@2.3.0-1%2Bb1?arch=s390x
