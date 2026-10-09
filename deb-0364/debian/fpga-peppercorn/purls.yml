@@ -1,1 +1,2 @@
 - pkg:deb/debian/fpga-peppercorn@1.13-1%2Bb1?arch=loong64
+- pkg:deb/debian/fpga-peppercorn@1.13-1%2Bb1?arch=s390x

@@ -33,3 +33,4 @@
 - pkg:deb/debian/python3-nftables@1.1.6-1?arch=ppc64el
 - pkg:deb/debian/python3-nftables@1.1.6-1?arch=s390x
 - pkg:deb/debian/python3-nftables@1.1.7-2?arch=riscv64
+- pkg:deb/debian/python3-nftables@1.1.7-3?arch=ppc64el
