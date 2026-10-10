@@ -1,0 +1,2 @@
+- pkg:deb/debian/libpari-gmp-tls10@2.19.0~pre1-1?arch=i386
+- pkg:deb/debian/libpari-gmp-tls10@2.19.0~pre1-1?arch=loong64
