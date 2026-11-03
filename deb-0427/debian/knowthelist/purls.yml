@@ -15,3 +15,11 @@
 - pkg:deb/debian/knowthelist@2.3.1-1.2?arch=s390x
 - pkg:deb/debian/knowthelist@2.3.1-1?arch=armel
 - pkg:deb/debian/knowthelist@2.3.1-1?arch=armhf
+- pkg:deb/debian/knowthelist@2.4.2-3?arch=amd64
+- pkg:deb/debian/knowthelist@2.4.2-3?arch=arm64
+- pkg:deb/debian/knowthelist@2.4.2-3?arch=armhf
+- pkg:deb/debian/knowthelist@2.4.2-3?arch=i386
+- pkg:deb/debian/knowthelist@2.4.2-3?arch=loong64
+- pkg:deb/debian/knowthelist@2.4.2-3?arch=ppc64el
+- pkg:deb/debian/knowthelist@2.4.2-3?arch=riscv64
+- pkg:deb/debian/knowthelist@2.4.2-3?arch=s390x
