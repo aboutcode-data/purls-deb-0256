@@ -1,1 +1,2 @@
 - pkg:deb/debian/gnome-shell-extension-applications-menu@49.0-1?arch=all
+- pkg:deb/debian/gnome-shell-extension-applications-menu@51.0-1?arch=all
