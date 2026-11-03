@@ -3,3 +3,4 @@
 - pkg:deb/debian/geeqie-common@2.5-8?arch=all
 - pkg:deb/debian/geeqie-common@2.6.1%2Bgit20260219.2ff94301-1?arch=all
 - pkg:deb/debian/geeqie-common@2.6.1-2?arch=all
+- pkg:deb/debian/geeqie-common@3.3-4?arch=all
