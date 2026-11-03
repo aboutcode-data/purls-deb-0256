@@ -15,3 +15,11 @@
 - pkg:deb/debian/qrisk2@0.1.20150729-7?arch=ppc64el
 - pkg:deb/debian/qrisk2@0.1.20150729-7?arch=riscv64
 - pkg:deb/debian/qrisk2@0.1.20150729-7?arch=s390x
+- pkg:deb/debian/qrisk2@0.1.20150729-9?arch=amd64
+- pkg:deb/debian/qrisk2@0.1.20150729-9?arch=arm64
+- pkg:deb/debian/qrisk2@0.1.20150729-9?arch=armhf
+- pkg:deb/debian/qrisk2@0.1.20150729-9?arch=i386
+- pkg:deb/debian/qrisk2@0.1.20150729-9?arch=loong64
+- pkg:deb/debian/qrisk2@0.1.20150729-9?arch=ppc64el
+- pkg:deb/debian/qrisk2@0.1.20150729-9?arch=riscv64
+- pkg:deb/debian/qrisk2@0.1.20150729-9?arch=s390x
