@@ -1,0 +1,2 @@
+- pkg:deb/debian/libxrdutils6@6.2.0-2?arch=riscv64
+- pkg:deb/debian/libxrdutils6@6.2.1-1?arch=amd64
