@@ -1,1 +1,2 @@
 - pkg:deb/debian/python3-ufl-legacy@2022.3.0-3?arch=all
+- pkg:deb/debian/python3-ufl-legacy@2022.3.0-7?arch=all
