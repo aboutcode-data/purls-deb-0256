@@ -1,5 +1,6 @@
 - pkg:deb/debian/python3-fastapi@0.115.11-4?arch=all
 - pkg:deb/debian/python3-fastapi@0.118.0-1?arch=all
 - pkg:deb/debian/python3-fastapi@0.143.3-1?arch=all
+- pkg:deb/debian/python3-fastapi@0.162.0-1?arch=all
 - pkg:deb/debian/python3-fastapi@0.63.0-2?arch=all
 - pkg:deb/debian/python3-fastapi@0.92.0-1?arch=all
