@@ -9,3 +9,6 @@
 - pkg:deb/debian/rocminfo@6.4.3-1?arch=amd64
 - pkg:deb/debian/rocminfo@6.4.3-1?arch=arm64
 - pkg:deb/debian/rocminfo@6.4.3-1?arch=ppc64el
+- pkg:deb/debian/rocminfo@7.2.4-1?arch=amd64
+- pkg:deb/debian/rocminfo@7.2.4-1?arch=arm64
+- pkg:deb/debian/rocminfo@7.2.4-1?arch=ppc64el
