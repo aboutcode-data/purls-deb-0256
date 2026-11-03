@@ -15,6 +15,14 @@
 - pkg:deb/debian/eliom@11.1.1-4%2Bb4?arch=s390x
 - pkg:deb/debian/eliom@11.1.1-5%2Bb2?arch=amd64
 - pkg:deb/debian/eliom@11.1.1-5%2Bb3?arch=arm64
+- pkg:deb/debian/eliom@12.1.0-1%2Bb6?arch=amd64
+- pkg:deb/debian/eliom@12.1.0-1%2Bb6?arch=arm64
+- pkg:deb/debian/eliom@12.1.0-1%2Bb6?arch=armhf
+- pkg:deb/debian/eliom@12.1.0-1%2Bb6?arch=i386
+- pkg:deb/debian/eliom@12.1.0-1%2Bb6?arch=loong64
+- pkg:deb/debian/eliom@12.1.0-1%2Bb6?arch=ppc64el
+- pkg:deb/debian/eliom@12.1.0-1%2Bb6?arch=riscv64
+- pkg:deb/debian/eliom@12.1.0-1%2Bb6?arch=s390x
 - pkg:deb/debian/eliom@6.12.4-1%2Bb4?arch=amd64
 - pkg:deb/debian/eliom@6.12.4-1%2Bb4?arch=arm64
 - pkg:deb/debian/eliom@6.12.4-1%2Bb4?arch=armhf
