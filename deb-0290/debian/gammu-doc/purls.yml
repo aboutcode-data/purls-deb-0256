@@ -1,3 +1,4 @@
 - pkg:deb/debian/gammu-doc@1.42.0-10?arch=all
 - pkg:deb/debian/gammu-doc@1.42.0-11?arch=all
 - pkg:deb/debian/gammu-doc@1.42.0-8?arch=all
+- pkg:deb/debian/gammu-doc@1.45.0-2?arch=all
