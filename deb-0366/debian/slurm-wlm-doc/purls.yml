@@ -2,3 +2,4 @@
 - pkg:deb/debian/slurm-wlm-doc@22.05.8-4%2Bdeb12u3?arch=all
 - pkg:deb/debian/slurm-wlm-doc@24.11.5-4?arch=all
 - pkg:deb/debian/slurm-wlm-doc@25.05.4-2?arch=all
+- pkg:deb/debian/slurm-wlm-doc@26.05.5-1?arch=all
