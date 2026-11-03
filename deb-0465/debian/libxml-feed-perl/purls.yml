@@ -2,3 +2,4 @@
 - pkg:deb/debian/libxml-feed-perl@0.63%2Bdfsg-1?arch=all
 - pkg:deb/debian/libxml-feed-perl@0.65%2Bdfsg-1?arch=all
 - pkg:deb/debian/libxml-feed-perl@1.0.0%2Bdfsg-1?arch=all
+- pkg:deb/debian/libxml-feed-perl@1.0.2%2Bdfsg-1?arch=all
