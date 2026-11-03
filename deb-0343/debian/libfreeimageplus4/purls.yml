@@ -1,0 +1,7 @@
+- pkg:deb/debian/libfreeimageplus4@4.2.1%2Bds-1~exp3?arch=amd64
+- pkg:deb/debian/libfreeimageplus4@4.2.1%2Bds-1~exp3?arch=arm64
+- pkg:deb/debian/libfreeimageplus4@4.2.1%2Bds-1~exp3?arch=armhf
+- pkg:deb/debian/libfreeimageplus4@4.2.1%2Bds-1~exp3?arch=i386
+- pkg:deb/debian/libfreeimageplus4@4.2.1%2Bds-1~exp3?arch=loong64
+- pkg:deb/debian/libfreeimageplus4@4.2.1%2Bds-1~exp3?arch=ppc64el
+- pkg:deb/debian/libfreeimageplus4@4.2.1%2Bds-1~exp3?arch=s390x
