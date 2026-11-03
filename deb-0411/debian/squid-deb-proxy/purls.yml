@@ -1,1 +1,2 @@
 - pkg:deb/debian/squid-deb-proxy@0.8.15?arch=all
+- pkg:deb/debian/squid-deb-proxy@1.0?arch=all
