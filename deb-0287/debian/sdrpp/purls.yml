@@ -4,4 +4,5 @@
 - pkg:deb/debian/sdrpp@0.0~git20261023.f10fb98%2Bdfsg-1?arch=i386
 - pkg:deb/debian/sdrpp@0.0~git20261023.f10fb98%2Bdfsg-1?arch=loong64
 - pkg:deb/debian/sdrpp@0.0~git20261023.f10fb98%2Bdfsg-1?arch=ppc64el
+- pkg:deb/debian/sdrpp@0.0~git20261023.f10fb98%2Bdfsg-1?arch=riscv64
 - pkg:deb/debian/sdrpp@0.0~git20261023.f10fb98%2Bdfsg-1?arch=s390x
