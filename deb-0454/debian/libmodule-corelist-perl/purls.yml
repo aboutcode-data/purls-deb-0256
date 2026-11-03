@@ -3,3 +3,4 @@
 - pkg:deb/debian/libmodule-corelist-perl@5.20250421-1?arch=all
 - pkg:deb/debian/libmodule-corelist-perl@5.20251120-1?arch=all
 - pkg:deb/debian/libmodule-corelist-perl@5.20260220-1?arch=all
+- pkg:deb/debian/libmodule-corelist-perl@5.20261022-1?arch=all
