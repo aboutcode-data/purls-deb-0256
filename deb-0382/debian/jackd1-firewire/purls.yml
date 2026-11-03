@@ -6,3 +6,5 @@
 - pkg:deb/debian/jackd1-firewire@0.126.0-4?arch=i386
 - pkg:deb/debian/jackd1-firewire@0.126.0-5?arch=amd64
 - pkg:deb/debian/jackd1-firewire@0.126.0-5?arch=i386
+- pkg:deb/debian/jackd1-firewire@0.126.0-7?arch=amd64
+- pkg:deb/debian/jackd1-firewire@0.126.0-7?arch=i386
