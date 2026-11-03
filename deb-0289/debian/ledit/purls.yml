@@ -24,3 +24,4 @@
 - pkg:deb/debian/ledit@2.04-8%2Bb28?arch=s390x
 - pkg:deb/debian/ledit@2.04-8%2Bb30?arch=amd64
 - pkg:deb/debian/ledit@2.04-8%2Bb30?arch=arm64
+- pkg:deb/debian/ledit@2.04-8%2Bb8?arch=loong64
