@@ -1,3 +1,4 @@
 - pkg:deb/debian/afew@3.0.1-1?arch=all
 - pkg:deb/debian/afew@3.0.1-4?arch=all
 - pkg:deb/debian/afew@3.0.1-8?arch=all
+- pkg:deb/debian/afew@4.0.2-1?arch=all
