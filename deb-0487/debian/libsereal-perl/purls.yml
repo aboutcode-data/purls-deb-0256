@@ -1,3 +1,5 @@
 - pkg:deb/debian/libsereal-perl@4.018-1?arch=all
 - pkg:deb/debian/libsereal-perl@5.003-1?arch=all
 - pkg:deb/debian/libsereal-perl@5.004-1?arch=all
+- pkg:deb/debian/libsereal-perl@5.011-1?arch=all
+- pkg:deb/debian/libsereal-perl@6.003-1?arch=all
