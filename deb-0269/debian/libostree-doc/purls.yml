@@ -3,3 +3,4 @@
 - pkg:deb/debian/libostree-doc@2025.2-1?arch=all
 - pkg:deb/debian/libostree-doc@2025.7-1?arch=all
 - pkg:deb/debian/libostree-doc@2025.7-3?arch=all
+- pkg:deb/debian/libostree-doc@2026.6-1?arch=all
