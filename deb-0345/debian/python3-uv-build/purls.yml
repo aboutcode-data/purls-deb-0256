@@ -1,0 +1,7 @@
+- pkg:deb/debian/python3-uv-build@0.9.17%2Bds1-7?arch=amd64
+- pkg:deb/debian/python3-uv-build@0.9.17%2Bds1-7?arch=arm64
+- pkg:deb/debian/python3-uv-build@0.9.17%2Bds1-7?arch=armhf
+- pkg:deb/debian/python3-uv-build@0.9.17%2Bds1-7?arch=i386
+- pkg:deb/debian/python3-uv-build@0.9.17%2Bds1-7?arch=loong64
+- pkg:deb/debian/python3-uv-build@0.9.17%2Bds1-7?arch=ppc64el
+- pkg:deb/debian/python3-uv-build@0.9.17%2Bds1-7?arch=s390x
