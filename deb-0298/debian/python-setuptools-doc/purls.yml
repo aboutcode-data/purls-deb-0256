@@ -2,3 +2,4 @@
 - pkg:deb/debian/python-setuptools-doc@66.1.1-1%2Bdeb12u2?arch=all
 - pkg:deb/debian/python-setuptools-doc@78.1.1-0.1?arch=all
 - pkg:deb/debian/python-setuptools-doc@80.9.0-1?arch=all
+- pkg:deb/debian/python-setuptools-doc@84.2.0-1?arch=all
