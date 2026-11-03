@@ -2,3 +2,4 @@
 - pkg:deb/debian/chirp@20221106%2Bpy3-1?arch=all
 - pkg:deb/debian/chirp@20250502-1?arch=all
 - pkg:deb/debian/chirp@20251108-1?arch=all
+- pkg:deb/debian/chirp@20261030-1?arch=all
