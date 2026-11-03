@@ -26,4 +26,8 @@
 - pkg:deb/debian/libedlib-dev@1.2.7-7%2Bb1?arch=ppc64el
 - pkg:deb/debian/libedlib-dev@1.2.7-7%2Bb1?arch=riscv64
 - pkg:deb/debian/libedlib-dev@1.2.7-7%2Bb1?arch=s390x
+- pkg:deb/debian/libedlib-dev@1.2.7-7%2Bb3?arch=amd64
+- pkg:deb/debian/libedlib-dev@1.2.7-7%2Bb3?arch=arm64
+- pkg:deb/debian/libedlib-dev@1.2.7-7%2Bb3?arch=armhf
+- pkg:deb/debian/libedlib-dev@1.2.7-7%2Bb3?arch=i386
 - pkg:deb/debian/libedlib-dev@1.2.7-7?arch=riscv64
