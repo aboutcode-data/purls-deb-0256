@@ -28,3 +28,11 @@
 - pkg:deb/debian/libpgocaml-ocaml@4.4.0-1%2Bb22?arch=s390x
 - pkg:deb/debian/libpgocaml-ocaml@4.4.0-1%2Bb25?arch=amd64
 - pkg:deb/debian/libpgocaml-ocaml@4.4.0-1%2Bb25?arch=arm64
+- pkg:deb/debian/libpgocaml-ocaml@4.4.0-2%2Bb7?arch=amd64
+- pkg:deb/debian/libpgocaml-ocaml@4.4.0-2%2Bb7?arch=arm64
+- pkg:deb/debian/libpgocaml-ocaml@4.4.0-2%2Bb7?arch=armhf
+- pkg:deb/debian/libpgocaml-ocaml@4.4.0-2%2Bb7?arch=i386
+- pkg:deb/debian/libpgocaml-ocaml@4.4.0-2%2Bb7?arch=loong64
+- pkg:deb/debian/libpgocaml-ocaml@4.4.0-2%2Bb7?arch=ppc64el
+- pkg:deb/debian/libpgocaml-ocaml@4.4.0-2%2Bb7?arch=riscv64
+- pkg:deb/debian/libpgocaml-ocaml@4.4.0-2%2Bb7?arch=s390x
