@@ -1,0 +1,7 @@
+- pkg:deb/debian/python3-taskchampion-py@2.0.2-5%2Bb3?arch=amd64
+- pkg:deb/debian/python3-taskchampion-py@2.0.2-5%2Bb3?arch=arm64
+- pkg:deb/debian/python3-taskchampion-py@2.0.2-5%2Bb3?arch=armhf
+- pkg:deb/debian/python3-taskchampion-py@2.0.2-5%2Bb3?arch=i386
+- pkg:deb/debian/python3-taskchampion-py@2.0.2-5%2Bb3?arch=loong64
+- pkg:deb/debian/python3-taskchampion-py@2.0.2-5%2Bb3?arch=ppc64el
+- pkg:deb/debian/python3-taskchampion-py@2.0.2-5%2Bb3?arch=riscv64

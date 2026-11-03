@@ -1,4 +1,5 @@
 - pkg:deb/debian/python3-swiftclient@3.10.1-2?arch=all
 - pkg:deb/debian/python3-swiftclient@4.1.0-2?arch=all
+- pkg:deb/debian/python3-swiftclient@4.11.0-4?arch=all
 - pkg:deb/debian/python3-swiftclient@4.7.0-2?arch=all
 - pkg:deb/debian/python3-swiftclient@4.8.0-2?arch=all
