@@ -2,3 +2,4 @@
 - pkg:deb/debian/mysqltuner@1.9.9-1?arch=all
 - pkg:deb/debian/mysqltuner@2.6.0-1?arch=all
 - pkg:deb/debian/mysqltuner@2.7.0-1?arch=all
+- pkg:deb/debian/mysqltuner@2.9.3-2?arch=all

@@ -1,3 +1,10 @@
 - pkg:deb/debian/nala@0.12.2?arch=all
 - pkg:deb/debian/nala@0.15.4~bpo12%2B1?arch=all
 - pkg:deb/debian/nala@0.16.0?arch=all
+- pkg:deb/debian/nala@0.18.2?arch=amd64
+- pkg:deb/debian/nala@0.18.2?arch=arm64
+- pkg:deb/debian/nala@0.18.2?arch=armhf
+- pkg:deb/debian/nala@0.18.2?arch=i386
+- pkg:deb/debian/nala@0.18.2?arch=loong64
+- pkg:deb/debian/nala@0.18.2?arch=ppc64el
+- pkg:deb/debian/nala@0.18.2?arch=riscv64
