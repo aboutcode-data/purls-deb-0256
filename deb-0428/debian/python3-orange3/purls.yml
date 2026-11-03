@@ -6,6 +6,13 @@
 - pkg:deb/debian/python3-orange3@3.38.1-5?arch=ppc64el
 - pkg:deb/debian/python3-orange3@3.38.1-5?arch=riscv64
 - pkg:deb/debian/python3-orange3@3.38.1-5?arch=s390x
+- pkg:deb/debian/python3-orange3@3.40.0-4%2Bb2?arch=amd64
+- pkg:deb/debian/python3-orange3@3.40.0-4%2Bb2?arch=arm64
+- pkg:deb/debian/python3-orange3@3.40.0-4%2Bb2?arch=armhf
+- pkg:deb/debian/python3-orange3@3.40.0-4%2Bb2?arch=i386
+- pkg:deb/debian/python3-orange3@3.40.0-4%2Bb2?arch=loong64
+- pkg:deb/debian/python3-orange3@3.40.0-4%2Bb2?arch=ppc64el
+- pkg:deb/debian/python3-orange3@3.40.0-4%2Bb2?arch=s390x
 - pkg:deb/debian/python3-orange3@3.40.0-4?arch=amd64
 - pkg:deb/debian/python3-orange3@3.40.0-4?arch=arm64
 - pkg:deb/debian/python3-orange3@3.40.0-4?arch=armhf
