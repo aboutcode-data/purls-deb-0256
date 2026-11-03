@@ -19,3 +19,11 @@
 - pkg:deb/debian/cc-tool@0.27-1%2Bb5?arch=i386
 - pkg:deb/debian/cc-tool@0.27-1%2Bb5?arch=ppc64el
 - pkg:deb/debian/cc-tool@0.27-1%2Bb6?arch=arm64
+- pkg:deb/debian/cc-tool@0.27-3?arch=amd64
+- pkg:deb/debian/cc-tool@0.27-3?arch=arm64
+- pkg:deb/debian/cc-tool@0.27-3?arch=armhf
+- pkg:deb/debian/cc-tool@0.27-3?arch=i386
+- pkg:deb/debian/cc-tool@0.27-3?arch=loong64
+- pkg:deb/debian/cc-tool@0.27-3?arch=ppc64el
+- pkg:deb/debian/cc-tool@0.27-3?arch=riscv64
+- pkg:deb/debian/cc-tool@0.27-3?arch=s390x
