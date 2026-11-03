@@ -13,3 +13,6 @@
 - pkg:deb/debian/vibes@0.3.3%2Bdfsg-1?arch=ppc64el
 - pkg:deb/debian/vibes@0.3.3%2Bdfsg-1?arch=riscv64
 - pkg:deb/debian/vibes@0.3.3%2Bdfsg-1?arch=s390x
+- pkg:deb/debian/vibes@0.3.4%2Bdfsg-3?arch=amd64
+- pkg:deb/debian/vibes@0.3.4%2Bdfsg-3?arch=arm64
+- pkg:deb/debian/vibes@0.3.4%2Bdfsg-3?arch=armhf
