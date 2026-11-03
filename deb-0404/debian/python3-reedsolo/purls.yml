@@ -1,3 +1,4 @@
+- pkg:deb/debian/python3-reedsolo@1.7.0-1%2Bb3?arch=loong64
 - pkg:deb/debian/python3-reedsolo@1.7.0-1%2Bb4?arch=armel
 - pkg:deb/debian/python3-reedsolo@1.7.0-1%2Bb4?arch=armhf
 - pkg:deb/debian/python3-reedsolo@1.7.0-1%2Bb4?arch=i386
@@ -13,3 +14,10 @@
 - pkg:deb/debian/python3-reedsolo@1.7.0-1%2Bb5?arch=s390x
 - pkg:deb/debian/python3-reedsolo@1.7.0-1%2Bb6?arch=amd64
 - pkg:deb/debian/python3-reedsolo@1.7.0-1%2Bb6?arch=arm64
+- pkg:deb/debian/python3-reedsolo@1.7.0-1%2Bb7?arch=armhf
+- pkg:deb/debian/python3-reedsolo@1.7.0-1%2Bb7?arch=i386
+- pkg:deb/debian/python3-reedsolo@1.7.0-1%2Bb7?arch=ppc64el
+- pkg:deb/debian/python3-reedsolo@1.7.0-1%2Bb7?arch=riscv64
+- pkg:deb/debian/python3-reedsolo@1.7.0-1%2Bb7?arch=s390x
+- pkg:deb/debian/python3-reedsolo@1.7.0-1%2Bb8?arch=amd64
+- pkg:deb/debian/python3-reedsolo@1.7.0-1%2Bb8?arch=arm64

@@ -32,3 +32,4 @@
 - pkg:deb/debian/python3-pyspike@0.9.0-1%2Bb2?arch=loong64
 - pkg:deb/debian/python3-pyspike@0.9.0-1%2Bb2?arch=ppc64el
 - pkg:deb/debian/python3-pyspike@0.9.0-1%2Bb2?arch=riscv64
+- pkg:deb/debian/python3-pyspike@0.9.0-1%2Bb2?arch=s390x
