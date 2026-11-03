@@ -3,3 +3,5 @@
 - pkg:deb/debian/python3-poetry@2.2.1%2Bdfsg-2?arch=all
 - pkg:deb/debian/python3-poetry@2.3.2%2Bdfsg-2?arch=all
 - pkg:deb/debian/python3-poetry@2.3.2%2Bdfsg-3?arch=all
+- pkg:deb/debian/python3-poetry@2.3.4-3?arch=all
+- pkg:deb/debian/python3-poetry@2.3.4-4?arch=all

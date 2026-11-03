@@ -32,3 +32,11 @@
 - pkg:deb/debian/python3-poezio-poopt@0.15.1-2?arch=ppc64el
 - pkg:deb/debian/python3-poezio-poopt@0.15.1-2?arch=riscv64
 - pkg:deb/debian/python3-poezio-poopt@0.15.1-2?arch=s390x
+- pkg:deb/debian/python3-poezio-poopt@0.18-1%2Bb2?arch=amd64
+- pkg:deb/debian/python3-poezio-poopt@0.18-1%2Bb2?arch=arm64
+- pkg:deb/debian/python3-poezio-poopt@0.18-1%2Bb2?arch=armhf
+- pkg:deb/debian/python3-poezio-poopt@0.18-1%2Bb2?arch=i386
+- pkg:deb/debian/python3-poezio-poopt@0.18-1%2Bb2?arch=loong64
+- pkg:deb/debian/python3-poezio-poopt@0.18-1%2Bb2?arch=ppc64el
+- pkg:deb/debian/python3-poezio-poopt@0.18-1%2Bb2?arch=riscv64
+- pkg:deb/debian/python3-poezio-poopt@0.18-1%2Bb2?arch=s390x
