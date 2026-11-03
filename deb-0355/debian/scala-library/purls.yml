@@ -1,3 +1,5 @@
 - pkg:deb/debian/scala-library@2.11.12-4?arch=all
 - pkg:deb/debian/scala-library@2.11.12-5?arch=all
 - pkg:deb/debian/scala-library@2.11.12-6?arch=all
+- pkg:deb/debian/scala-library@2.12.21%2Bds3-2?arch=all
+- pkg:deb/debian/scala-library@2.12.21%2Bds3-3?arch=all
