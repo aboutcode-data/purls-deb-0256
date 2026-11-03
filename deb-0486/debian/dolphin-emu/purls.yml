@@ -4,5 +4,7 @@
 - pkg:deb/debian/dolphin-emu@2509%2Bdfsg-1?arch=arm64
 - pkg:deb/debian/dolphin-emu@2512%2Bdfsg-2?arch=amd64
 - pkg:deb/debian/dolphin-emu@2512%2Bdfsg-2?arch=arm64
+- pkg:deb/debian/dolphin-emu@2609.a%2Bdfsg-1?arch=amd64
+- pkg:deb/debian/dolphin-emu@2609.a%2Bdfsg-1?arch=arm64
 - pkg:deb/debian/dolphin-emu@5.0-17995-1?arch=amd64
 - pkg:deb/debian/dolphin-emu@5.0-17995-1?arch=arm64
