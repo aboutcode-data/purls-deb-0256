@@ -21,3 +21,6 @@
 - pkg:deb/debian/python3-hmmlearn@0.3.2-3?arch=ppc64el
 - pkg:deb/debian/python3-hmmlearn@0.3.2-3?arch=riscv64
 - pkg:deb/debian/python3-hmmlearn@0.3.2-3?arch=s390x
+- pkg:deb/debian/python3-hmmlearn@0.3.3-2?arch=amd64
+- pkg:deb/debian/python3-hmmlearn@0.3.3-2?arch=arm64
+- pkg:deb/debian/python3-hmmlearn@0.3.3-2?arch=armhf
