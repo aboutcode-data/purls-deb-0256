@@ -2,3 +2,4 @@
 - pkg:deb/debian/kgeography-data@22.12.3-1?arch=all
 - pkg:deb/debian/kgeography-data@25.04.0-1?arch=all
 - pkg:deb/debian/kgeography-data@25.08.2-1?arch=all
+- pkg:deb/debian/kgeography-data@26.08.2-1?arch=all
