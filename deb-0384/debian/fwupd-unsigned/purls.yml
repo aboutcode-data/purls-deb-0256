@@ -22,3 +22,8 @@
 - pkg:deb/debian/fwupd-unsigned@1.9-2?arch=arm64
 - pkg:deb/debian/fwupd-unsigned@1.9-2?arch=armhf
 - pkg:deb/debian/fwupd-unsigned@1.9-2?arch=i386
+- pkg:deb/debian/fwupd-unsigned@1.9-3?arch=amd64
+- pkg:deb/debian/fwupd-unsigned@1.9-3?arch=arm64
+- pkg:deb/debian/fwupd-unsigned@1.9-3?arch=armhf
+- pkg:deb/debian/fwupd-unsigned@1.9-3?arch=i386
+- pkg:deb/debian/fwupd-unsigned@1.9-3?arch=loong64

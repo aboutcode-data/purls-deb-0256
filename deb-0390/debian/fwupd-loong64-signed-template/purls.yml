@@ -1,1 +1,2 @@
 - pkg:deb/debian/fwupd-loong64-signed-template@1.9-1?arch=loong64
+- pkg:deb/debian/fwupd-loong64-signed-template@1.9-3?arch=loong64
