@@ -1,4 +1,6 @@
 - pkg:deb/debian/saga-common@7.3.0%2Bdfsg-5?arch=all
 - pkg:deb/debian/saga-common@8.5.0%2Bdfsg-2?arch=all
+- pkg:deb/debian/saga-common@9.14.1%2Bdfsg-1?arch=all
+- pkg:deb/debian/saga-common@9.14.2%2Bdfsg-1?arch=all
 - pkg:deb/debian/saga-common@9.8.0%2Bdfsg-1?arch=all
 - pkg:deb/debian/saga-common@9.9.3%2Bdfsg-1?arch=all
