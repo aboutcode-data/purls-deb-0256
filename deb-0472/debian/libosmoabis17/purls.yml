@@ -1,0 +1,5 @@
+- pkg:deb/debian/libosmoabis17@2.2.0-2?arch=amd64
+- pkg:deb/debian/libosmoabis17@2.2.0-2?arch=arm64
+- pkg:deb/debian/libosmoabis17@2.2.0-2?arch=loong64
+- pkg:deb/debian/libosmoabis17@2.2.0-2?arch=ppc64el
+- pkg:deb/debian/libosmoabis17@2.2.0-2?arch=riscv64
