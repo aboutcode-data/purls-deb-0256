@@ -28,3 +28,4 @@
 - pkg:deb/debian/ejabberd@24.12-3~bpo12%2B1?arch=mipsel
 - pkg:deb/debian/ejabberd@24.12-3~bpo12%2B1?arch=ppc64el
 - pkg:deb/debian/ejabberd@24.12-3~bpo12%2B1?arch=s390x
+- pkg:deb/debian/ejabberd@26.07-1~bpo13%2B1?arch=riscv64
