@@ -9,3 +9,4 @@
 - pkg:deb/debian/displaycal@3.9.10-2?arch=s390x
 - pkg:deb/debian/displaycal@3.9.16-1?arch=all
 - pkg:deb/debian/displaycal@3.9.17-1?arch=all
+- pkg:deb/debian/displaycal@3.9.19-3?arch=all
