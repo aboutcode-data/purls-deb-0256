@@ -1,2 +1,10 @@
 - pkg:deb/debian/libipc-shareable-perl@0.61-2?arch=all
 - pkg:deb/debian/libipc-shareable-perl@1.13-1?arch=all
+- pkg:deb/debian/libipc-shareable-perl@1.19-2?arch=amd64
+- pkg:deb/debian/libipc-shareable-perl@1.19-2?arch=arm64
+- pkg:deb/debian/libipc-shareable-perl@1.19-2?arch=armhf
+- pkg:deb/debian/libipc-shareable-perl@1.19-2?arch=i386
+- pkg:deb/debian/libipc-shareable-perl@1.19-2?arch=loong64
+- pkg:deb/debian/libipc-shareable-perl@1.19-2?arch=ppc64el
+- pkg:deb/debian/libipc-shareable-perl@1.19-2?arch=riscv64
+- pkg:deb/debian/libipc-shareable-perl@1.19-2?arch=s390x
