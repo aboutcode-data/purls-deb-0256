@@ -23,3 +23,7 @@
 - pkg:deb/debian/linux-source@6.18.9-1~bpo13%2B1?arch=all
 - pkg:deb/debian/linux-source@6.18~rc7-1~exp1?arch=all
 - pkg:deb/debian/linux-source@6.19.2-1~exp1?arch=all
+- pkg:deb/debian/linux-source@7.2.11-1~bpo13%2B1?arch=all
+- pkg:deb/debian/linux-source@7.2.12-1?arch=all
+- pkg:deb/debian/linux-source@7.2.13-1?arch=all
+- pkg:deb/debian/linux-source@7.2.14-1?arch=all
