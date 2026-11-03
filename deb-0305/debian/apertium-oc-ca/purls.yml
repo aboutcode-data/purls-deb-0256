@@ -1,2 +1,3 @@
 - pkg:deb/debian/apertium-oc-ca@1.0.6~r57551-4?arch=all
 - pkg:deb/debian/apertium-oc-ca@1.0.7-1?arch=all
+- pkg:deb/debian/apertium-oc-ca@1.0.7-2?arch=all
