@@ -12,3 +12,8 @@
 - pkg:deb/debian/python3-pyfftw@0.15.0-1.1%2Bb1?arch=i386
 - pkg:deb/debian/python3-pyfftw@0.15.0-1.1%2Bb1?arch=ppc64el
 - pkg:deb/debian/python3-pyfftw@0.15.0-1.1%2Bb1?arch=s390x
+- pkg:deb/debian/python3-pyfftw@0.15.0-1.1%2Bb3?arch=amd64
+- pkg:deb/debian/python3-pyfftw@0.15.0-1.1%2Bb3?arch=arm64
+- pkg:deb/debian/python3-pyfftw@0.15.0-1.1%2Bb3?arch=i386
+- pkg:deb/debian/python3-pyfftw@0.15.0-1.1%2Bb3?arch=ppc64el
+- pkg:deb/debian/python3-pyfftw@0.15.0-1.1%2Bb3?arch=s390x
