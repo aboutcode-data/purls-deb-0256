@@ -1,3 +1,4 @@
 - pkg:deb/debian/irssi-scripts@20201016?arch=all
 - pkg:deb/debian/irssi-scripts@20220704?arch=all
 - pkg:deb/debian/irssi-scripts@20231031?arch=all
+- pkg:deb/debian/irssi-scripts@20261024?arch=all
