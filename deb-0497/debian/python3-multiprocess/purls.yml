@@ -2,3 +2,4 @@
 - pkg:deb/debian/python3-multiprocess@0.70.12.2-1?arch=all
 - pkg:deb/debian/python3-multiprocess@0.70.17-1?arch=all
 - pkg:deb/debian/python3-multiprocess@0.70.18-2?arch=all
+- pkg:deb/debian/python3-multiprocess@0.70.19-3?arch=all
