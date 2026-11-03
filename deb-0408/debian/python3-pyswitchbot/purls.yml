@@ -1,3 +1,4 @@
 - pkg:deb/debian/python3-pyswitchbot@0.65.0-1?arch=all
 - pkg:deb/debian/python3-pyswitchbot@0.72.1-1?arch=all
 - pkg:deb/debian/python3-pyswitchbot@2.6.0-1?arch=all
+- pkg:deb/debian/python3-pyswitchbot@3.1.0-1?arch=all
