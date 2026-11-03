@@ -13,3 +13,5 @@
 - pkg:deb/debian/libkpim6akonadisearchdebug6@25.08.3-2?arch=ppc64el
 - pkg:deb/debian/libkpim6akonadisearchdebug6@25.08.3-2?arch=riscv64
 - pkg:deb/debian/libkpim6akonadisearchdebug6@25.08.3-2?arch=s390x
+- pkg:deb/debian/libkpim6akonadisearchdebug6@26.08.2-2?arch=amd64
+- pkg:deb/debian/libkpim6akonadisearchdebug6@26.08.2-2?arch=arm64
