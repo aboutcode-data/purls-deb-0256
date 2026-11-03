@@ -1,1 +1,2 @@
 - pkg:deb/debian/golang-github-anchore-stereoscope-dev@0.3.2-1?arch=all
+- pkg:deb/debian/golang-github-anchore-stereoscope-dev@0.3.4-1?arch=all
