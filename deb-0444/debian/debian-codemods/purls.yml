@@ -1,0 +1,15 @@
+- pkg:deb/debian/debian-codemods@0.188?arch=amd64
+- pkg:deb/debian/debian-codemods@0.188?arch=arm64
+- pkg:deb/debian/debian-codemods@0.188?arch=armhf
+- pkg:deb/debian/debian-codemods@0.188?arch=i386
+- pkg:deb/debian/debian-codemods@0.188?arch=loong64
+- pkg:deb/debian/debian-codemods@0.188?arch=ppc64el
+- pkg:deb/debian/debian-codemods@0.188?arch=riscv64
+- pkg:deb/debian/debian-codemods@0.188?arch=s390x
+- pkg:deb/debian/debian-codemods@0.189?arch=amd64
+- pkg:deb/debian/debian-codemods@0.189?arch=arm64
+- pkg:deb/debian/debian-codemods@0.189?arch=armhf
+- pkg:deb/debian/debian-codemods@0.189?arch=i386
+- pkg:deb/debian/debian-codemods@0.189?arch=loong64
+- pkg:deb/debian/debian-codemods@0.189?arch=ppc64el
+- pkg:deb/debian/debian-codemods@0.189?arch=s390x
