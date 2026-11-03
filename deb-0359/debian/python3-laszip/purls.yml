@@ -13,3 +13,9 @@
 - pkg:deb/debian/python3-laszip@0.2.3-1%2Bb5?arch=amd64
 - pkg:deb/debian/python3-laszip@0.2.3-1%2Bb5?arch=arm64
 - pkg:deb/debian/python3-laszip@0.2.3-1%2Bb5?arch=riscv64
+- pkg:deb/debian/python3-laszip@0.3.0%2Bds-1%2Bb2?arch=amd64
+- pkg:deb/debian/python3-laszip@0.3.0%2Bds-1%2Bb2?arch=arm64
+- pkg:deb/debian/python3-laszip@0.3.0%2Bds-1%2Bb2?arch=armhf
+- pkg:deb/debian/python3-laszip@0.3.0%2Bds-1%2Bb2?arch=i386
+- pkg:deb/debian/python3-laszip@0.3.0%2Bds-1%2Bb2?arch=ppc64el
+- pkg:deb/debian/python3-laszip@0.3.0%2Bds-1%2Bb2?arch=riscv64
