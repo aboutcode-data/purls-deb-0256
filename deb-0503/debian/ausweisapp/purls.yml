@@ -37,4 +37,5 @@
 - pkg:deb/debian/ausweisapp@2.6.2-1?arch=i386
 - pkg:deb/debian/ausweisapp@2.6.2-1?arch=loong64
 - pkg:deb/debian/ausweisapp@2.6.2-1?arch=ppc64el
+- pkg:deb/debian/ausweisapp@2.6.2-1?arch=riscv64
 - pkg:deb/debian/ausweisapp@2.6.2-1?arch=s390x
