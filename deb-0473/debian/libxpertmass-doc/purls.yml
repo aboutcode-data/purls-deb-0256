@@ -1,3 +1,4 @@
 - pkg:deb/debian/libxpertmass-doc@1.1.0-1?arch=all
+- pkg:deb/debian/libxpertmass-doc@1.17.5-1?arch=all
 - pkg:deb/debian/libxpertmass-doc@1.4.0-1?arch=all
 - pkg:deb/debian/libxpertmass-doc@1.8.1-1?arch=all
