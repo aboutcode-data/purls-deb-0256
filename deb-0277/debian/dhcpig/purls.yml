@@ -1,3 +1,4 @@
 - pkg:deb/debian/dhcpig@1.5-3?arch=all
 - pkg:deb/debian/dhcpig@1.6-1?arch=all
 - pkg:deb/debian/dhcpig@1.6-2?arch=all
+- pkg:deb/debian/dhcpig@2.7.3-1?arch=all

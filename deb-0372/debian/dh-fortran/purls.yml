@@ -14,3 +14,11 @@
 - pkg:deb/debian/dh-fortran@0.66?arch=ppc64el
 - pkg:deb/debian/dh-fortran@0.66?arch=riscv64
 - pkg:deb/debian/dh-fortran@0.66?arch=s390x
+- pkg:deb/debian/dh-fortran@0.86?arch=amd64
+- pkg:deb/debian/dh-fortran@0.86?arch=arm64
+- pkg:deb/debian/dh-fortran@0.86?arch=armhf
+- pkg:deb/debian/dh-fortran@0.86?arch=i386
+- pkg:deb/debian/dh-fortran@0.86?arch=loong64
+- pkg:deb/debian/dh-fortran@0.86?arch=ppc64el
+- pkg:deb/debian/dh-fortran@0.86?arch=riscv64
+- pkg:deb/debian/dh-fortran@0.86?arch=s390x
