@@ -1,2 +1,4 @@
 - pkg:deb/debian/debugcc@0.0~git20251107.a01ea9e-1?arch=arm64
 - pkg:deb/debian/debugcc@0.0~git20251107.a01ea9e-1~bpo13%2B1?arch=arm64
+- pkg:deb/debian/debugcc@0.1.0%2Bgit20260723.9d4254e-2~bpo13%2B1?arch=arm64
+- pkg:deb/debian/debugcc@0.1.0%2Bgit20260723.9d4254e-2~bpo13%2B1?arch=armhf
