@@ -21,3 +21,9 @@
 - pkg:deb/debian/uc-echo@1.12-19?arch=s390x
 - pkg:deb/debian/uc-echo@1.12-20?arch=amd64
 - pkg:deb/debian/uc-echo@1.12-20?arch=arm64
+- pkg:deb/debian/uc-echo@1.12-20?arch=armhf
+- pkg:deb/debian/uc-echo@1.12-20?arch=i386
+- pkg:deb/debian/uc-echo@1.12-20?arch=loong64
+- pkg:deb/debian/uc-echo@1.12-20?arch=ppc64el
+- pkg:deb/debian/uc-echo@1.12-20?arch=riscv64
+- pkg:deb/debian/uc-echo@1.12-20?arch=s390x
