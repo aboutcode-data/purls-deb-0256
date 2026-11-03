@@ -2,3 +2,4 @@
 - pkg:deb/debian/foomuuri-firewalld@0.27-2?arch=all
 - pkg:deb/debian/foomuuri-firewalld@0.29-1?arch=all
 - pkg:deb/debian/foomuuri-firewalld@0.29-1~bpo13%2B1?arch=all
+- pkg:deb/debian/foomuuri-firewalld@0.34-1?arch=all
