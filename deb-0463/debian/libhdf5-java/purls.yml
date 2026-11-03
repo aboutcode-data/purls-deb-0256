@@ -3,3 +3,4 @@
 - pkg:deb/debian/libhdf5-java@1.14.5%2Brepack-3?arch=all
 - pkg:deb/debian/libhdf5-java@1.14.5%2Brepack-4?arch=all
 - pkg:deb/debian/libhdf5-java@1.14.6%2Brepack-1~exp17?arch=all
+- pkg:deb/debian/libhdf5-java@2.2.0%2Brepack-6?arch=all
