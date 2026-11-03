@@ -30,3 +30,7 @@
 - pkg:deb/debian/rubberband-lv2@4.0.0%2Bdfsg-2?arch=ppc64el
 - pkg:deb/debian/rubberband-lv2@4.0.0%2Bdfsg-2?arch=riscv64
 - pkg:deb/debian/rubberband-lv2@4.0.0%2Bdfsg-2?arch=s390x
+- pkg:deb/debian/rubberband-lv2@4.0.0%2Bdfsg-3?arch=amd64
+- pkg:deb/debian/rubberband-lv2@4.0.0%2Bdfsg-3?arch=arm64
+- pkg:deb/debian/rubberband-lv2@4.0.0%2Bdfsg-3?arch=armhf
+- pkg:deb/debian/rubberband-lv2@4.0.0%2Bdfsg-3?arch=i386
