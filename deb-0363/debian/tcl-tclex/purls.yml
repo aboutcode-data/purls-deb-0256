@@ -15,3 +15,11 @@
 - pkg:deb/debian/tcl-tclex@1.2a1-20%2Bb1?arch=ppc64el
 - pkg:deb/debian/tcl-tclex@1.2a1-20%2Bb1?arch=riscv64
 - pkg:deb/debian/tcl-tclex@1.2a1-20%2Bb1?arch=s390x
+- pkg:deb/debian/tcl-tclex@1.2a1-22?arch=amd64
+- pkg:deb/debian/tcl-tclex@1.2a1-22?arch=arm64
+- pkg:deb/debian/tcl-tclex@1.2a1-22?arch=armhf
+- pkg:deb/debian/tcl-tclex@1.2a1-22?arch=i386
+- pkg:deb/debian/tcl-tclex@1.2a1-22?arch=loong64
+- pkg:deb/debian/tcl-tclex@1.2a1-22?arch=ppc64el
+- pkg:deb/debian/tcl-tclex@1.2a1-22?arch=riscv64
+- pkg:deb/debian/tcl-tclex@1.2a1-22?arch=s390x
