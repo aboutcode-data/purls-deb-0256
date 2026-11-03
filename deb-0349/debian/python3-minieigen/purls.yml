@@ -15,6 +15,13 @@
 - pkg:deb/debian/python3-minieigen@0.50.3%2Bdfsg1-13%2Bb11?arch=ppc64el
 - pkg:deb/debian/python3-minieigen@0.50.3%2Bdfsg1-13%2Bb11?arch=s390x
 - pkg:deb/debian/python3-minieigen@0.50.3%2Bdfsg1-13%2Bb12?arch=arm64
+- pkg:deb/debian/python3-minieigen@0.50.3%2Bdfsg1-13%2Bb15?arch=amd64
+- pkg:deb/debian/python3-minieigen@0.50.3%2Bdfsg1-13%2Bb15?arch=armhf
+- pkg:deb/debian/python3-minieigen@0.50.3%2Bdfsg1-13%2Bb15?arch=i386
+- pkg:deb/debian/python3-minieigen@0.50.3%2Bdfsg1-13%2Bb15?arch=ppc64el
+- pkg:deb/debian/python3-minieigen@0.50.3%2Bdfsg1-13%2Bb15?arch=s390x
+- pkg:deb/debian/python3-minieigen@0.50.3%2Bdfsg1-13%2Bb16?arch=arm64
+- pkg:deb/debian/python3-minieigen@0.50.3%2Bdfsg1-13%2Bb4?arch=loong64
 - pkg:deb/debian/python3-minieigen@0.50.3%2Bdfsg1-13%2Bb5?arch=amd64
 - pkg:deb/debian/python3-minieigen@0.50.3%2Bdfsg1-13%2Bb5?arch=arm64
 - pkg:deb/debian/python3-minieigen@0.50.3%2Bdfsg1-13%2Bb5?arch=armel
