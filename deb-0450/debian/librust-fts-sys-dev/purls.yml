@@ -29,3 +29,4 @@
 - pkg:deb/debian/librust-fts-sys-dev@0.2.17-1?arch=loong64
 - pkg:deb/debian/librust-fts-sys-dev@0.2.17-1?arch=ppc64el
 - pkg:deb/debian/librust-fts-sys-dev@0.2.17-1?arch=riscv64
+- pkg:deb/debian/librust-fts-sys-dev@0.2.17-1?arch=s390x
