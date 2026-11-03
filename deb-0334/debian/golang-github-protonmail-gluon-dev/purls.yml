@@ -1,1 +1,2 @@
+- pkg:deb/debian/golang-github-protonmail-gluon-dev@0.17.0%2Bgit20261009.2561acf-1?arch=all
 - pkg:deb/debian/golang-github-protonmail-gluon-dev@0.17.0-4?arch=all

@@ -1,1 +1,2 @@
 - pkg:deb/debian/golang-github-hashicorp-go-getter-dev@1.4.1-1?arch=all
+- pkg:deb/debian/golang-github-hashicorp-go-getter-dev@1.8.9-1?arch=all
