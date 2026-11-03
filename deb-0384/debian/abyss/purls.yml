@@ -7,6 +7,12 @@
 - pkg:deb/debian/abyss@2.3.10-1%2Bb1?arch=ppc64el
 - pkg:deb/debian/abyss@2.3.10-1%2Bb1?arch=riscv64
 - pkg:deb/debian/abyss@2.3.10-1?arch=s390x
+- pkg:deb/debian/abyss@2.3.10-3?arch=amd64
+- pkg:deb/debian/abyss@2.3.10-3?arch=arm64
+- pkg:deb/debian/abyss@2.3.10-3?arch=loong64
+- pkg:deb/debian/abyss@2.3.10-3?arch=ppc64el
+- pkg:deb/debian/abyss@2.3.10-3?arch=riscv64
+- pkg:deb/debian/abyss@2.3.10-3?arch=s390x
 - pkg:deb/debian/abyss@2.3.5%2Bdfsg-2?arch=amd64
 - pkg:deb/debian/abyss@2.3.5%2Bdfsg-2?arch=arm64
 - pkg:deb/debian/abyss@2.3.5%2Bdfsg-2?arch=mips64el

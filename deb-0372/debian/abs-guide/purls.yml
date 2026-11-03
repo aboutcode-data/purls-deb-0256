@@ -1,1 +1,2 @@
 - pkg:deb/debian/abs-guide@10-4?arch=all
+- pkg:deb/debian/abs-guide@10-5?arch=all
