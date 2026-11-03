@@ -30,4 +30,8 @@
 - pkg:deb/debian/python3-camera-calibration-parsers@1.12.1-1%2Bb6?arch=amd64
 - pkg:deb/debian/python3-camera-calibration-parsers@1.12.1-1%2Bb6?arch=arm64
 - pkg:deb/debian/python3-camera-calibration-parsers@1.12.1-1%2Bb6?arch=armhf
+- pkg:deb/debian/python3-camera-calibration-parsers@1.12.1-1%2Bb6?arch=i386
+- pkg:deb/debian/python3-camera-calibration-parsers@1.12.1-1%2Bb6?arch=loong64
+- pkg:deb/debian/python3-camera-calibration-parsers@1.12.1-1%2Bb6?arch=ppc64el
+- pkg:deb/debian/python3-camera-calibration-parsers@1.12.1-1%2Bb6?arch=s390x
 - pkg:deb/debian/python3-camera-calibration-parsers@1.12.1-1?arch=riscv64
