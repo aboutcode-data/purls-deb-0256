@@ -1,3 +1,4 @@
 - pkg:deb/debian/python3-gmplot@1.2.0-2?arch=all
 - pkg:deb/debian/python3-gmplot@1.2.0-3?arch=all
 - pkg:deb/debian/python3-gmplot@1.4.1-1?arch=all
+- pkg:deb/debian/python3-gmplot@1.4.1-2?arch=all

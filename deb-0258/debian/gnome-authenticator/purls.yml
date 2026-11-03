@@ -1,4 +1,5 @@
 - pkg:deb/debian/gnome-authenticator@3.32.2%2Bdfsg1-2?arch=all
+- pkg:deb/debian/gnome-authenticator@4.6.2-15?arch=riscv64
 - pkg:deb/debian/gnome-authenticator@4.6.2-6?arch=amd64
 - pkg:deb/debian/gnome-authenticator@4.6.2-6?arch=arm64
 - pkg:deb/debian/gnome-authenticator@4.6.2-6?arch=armel

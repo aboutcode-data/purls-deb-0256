@@ -26,3 +26,8 @@
 - pkg:deb/debian/gnome-boxes@49.1-1?arch=ppc64el
 - pkg:deb/debian/gnome-boxes@49.1-1?arch=riscv64
 - pkg:deb/debian/gnome-boxes@49.1-1?arch=s390x
+- pkg:deb/debian/gnome-boxes@50.0-7?arch=amd64
+- pkg:deb/debian/gnome-boxes@50.0-7?arch=arm64
+- pkg:deb/debian/gnome-boxes@50.0-7?arch=loong64
+- pkg:deb/debian/gnome-boxes@50.0-7?arch=ppc64el
+- pkg:deb/debian/gnome-boxes@50.0-7?arch=riscv64
