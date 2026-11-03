@@ -1,3 +1,4 @@
 - pkg:deb/debian/hurd-doc@0.9.git20251029-2?arch=all
 - pkg:deb/debian/hurd-doc@0.9.git20251029-6?arch=all
 - pkg:deb/debian/hurd-doc@0.9.git20260919-2?arch=all
+- pkg:deb/debian/hurd-doc@0.9.git20261028-4?arch=all
