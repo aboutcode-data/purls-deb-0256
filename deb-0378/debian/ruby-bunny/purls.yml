@@ -2,3 +2,4 @@
 - pkg:deb/debian/ruby-bunny@2.19.0-2?arch=all
 - pkg:deb/debian/ruby-bunny@2.23.0-1?arch=all
 - pkg:deb/debian/ruby-bunny@2.24.0-1?arch=all
+- pkg:deb/debian/ruby-bunny@3.5.0-1?arch=all
