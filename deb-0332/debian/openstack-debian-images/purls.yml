@@ -9,3 +9,7 @@
 - pkg:deb/debian/openstack-debian-images@1.87?arch=arm64
 - pkg:deb/debian/openstack-debian-images@1.87?arch=i386
 - pkg:deb/debian/openstack-debian-images@1.87?arch=ppc64el
+- pkg:deb/debian/openstack-debian-images@1.95?arch=amd64
+- pkg:deb/debian/openstack-debian-images@1.95?arch=arm64
+- pkg:deb/debian/openstack-debian-images@1.95?arch=i386
+- pkg:deb/debian/openstack-debian-images@1.95?arch=ppc64el
