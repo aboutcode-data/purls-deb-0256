@@ -1,1 +1,2 @@
 - pkg:deb/debian/libplexus-build-api-java@0.0.7-4?arch=all
+- pkg:deb/debian/libplexus-build-api-java@1.2.0-1?arch=all
