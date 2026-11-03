@@ -2,3 +2,4 @@
 - pkg:deb/debian/node-electron-to-chromium@1.4.284-1?arch=all
 - pkg:deb/debian/node-electron-to-chromium@1.5.166-1?arch=all
 - pkg:deb/debian/node-electron-to-chromium@1.5.244-1?arch=all
+- pkg:deb/debian/node-electron-to-chromium@1.5.458-1?arch=all

@@ -1,2 +1,3 @@
 - pkg:deb/debian/node-delve@0.3.2-2?arch=all
 - pkg:deb/debian/node-delve@0.3.2-3?arch=all
+- pkg:deb/debian/node-delve@0.3.2-4?arch=all
