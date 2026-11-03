@@ -1,1 +1,2 @@
 - pkg:deb/debian/libreactor-core-java@2.0.8-2?arch=all
+- pkg:deb/debian/libreactor-core-java@3.2.12-1?arch=all
