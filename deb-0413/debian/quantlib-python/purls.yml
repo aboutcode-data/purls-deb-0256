@@ -31,3 +31,4 @@
 - pkg:deb/debian/quantlib-python@1.40-3?arch=ppc64el
 - pkg:deb/debian/quantlib-python@1.40-3?arch=riscv64
 - pkg:deb/debian/quantlib-python@1.40-3?arch=s390x
+- pkg:deb/debian/quantlib-python@1.44-1?arch=riscv64
