@@ -2,3 +2,4 @@
 - pkg:deb/debian/mopidy@3.4.1-1?arch=all
 - pkg:deb/debian/mopidy@3.4.2-3?arch=all
 - pkg:deb/debian/mopidy@3.4.2-6?arch=all
+- pkg:deb/debian/mopidy@4.0.5-1?arch=all
