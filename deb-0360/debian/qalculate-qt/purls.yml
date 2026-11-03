@@ -1,3 +1,4 @@
+- pkg:deb/debian/qalculate-qt@5.13.0-1?arch=riscv64
 - pkg:deb/debian/qalculate-qt@5.5.1-1?arch=amd64
 - pkg:deb/debian/qalculate-qt@5.5.1-1?arch=arm64
 - pkg:deb/debian/qalculate-qt@5.5.1-1?arch=armel

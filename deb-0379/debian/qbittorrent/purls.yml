@@ -34,3 +34,11 @@
 - pkg:deb/debian/qbittorrent@5.1.4-dmo1?arch=ppc64el
 - pkg:deb/debian/qbittorrent@5.1.4-dmo1?arch=riscv64
 - pkg:deb/debian/qbittorrent@5.1.4-dmo1?arch=s390x
+- pkg:deb/debian/qbittorrent@5.3.0-1?arch=amd64
+- pkg:deb/debian/qbittorrent@5.3.0-1?arch=arm64
+- pkg:deb/debian/qbittorrent@5.3.0-1?arch=armhf
+- pkg:deb/debian/qbittorrent@5.3.0-1?arch=i386
+- pkg:deb/debian/qbittorrent@5.3.0-1?arch=loong64
+- pkg:deb/debian/qbittorrent@5.3.0-1?arch=ppc64el
+- pkg:deb/debian/qbittorrent@5.3.0-1?arch=riscv64
+- pkg:deb/debian/qbittorrent@5.3.0-1?arch=s390x
