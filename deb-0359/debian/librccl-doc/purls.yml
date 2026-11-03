@@ -1,1 +1,2 @@
 - pkg:deb/debian/librccl-doc@5.4.3-3?arch=all
+- pkg:deb/debian/librccl-doc@7.2.4-1~exp3?arch=all
