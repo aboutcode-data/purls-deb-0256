@@ -1,3 +1,4 @@
 - pkg:deb/debian/python3-pyenphase@2.4.1-1?arch=all
 - pkg:deb/debian/python3-pyenphase@2.4.5-1?arch=all
 - pkg:deb/debian/python3-pyenphase@4.2.0-1?arch=all
+- pkg:deb/debian/python3-pyenphase@4.4.1-1?arch=all
