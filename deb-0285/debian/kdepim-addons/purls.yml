@@ -17,3 +17,6 @@
 - pkg:deb/debian/kdepim-addons@25.08.3-2?arch=amd64
 - pkg:deb/debian/kdepim-addons@25.08.3-2?arch=arm64
 - pkg:deb/debian/kdepim-addons@25.08.3-2?arch=armhf
+- pkg:deb/debian/kdepim-addons@26.08.2-2?arch=amd64
+- pkg:deb/debian/kdepim-addons@26.08.2-2?arch=arm64
+- pkg:deb/debian/kdepim-addons@26.08.2-2?arch=armhf
