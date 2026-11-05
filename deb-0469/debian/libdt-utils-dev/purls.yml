@@ -15,3 +15,9 @@
 - pkg:deb/debian/libdt-utils-dev@2021.03.0%2Bds-3%2Bb1?arch=ppc64el
 - pkg:deb/debian/libdt-utils-dev@2021.03.0%2Bds-3%2Bb1?arch=riscv64
 - pkg:deb/debian/libdt-utils-dev@2021.03.0%2Bds-3%2Bb1?arch=s390x
+- pkg:deb/debian/libdt-utils-dev@2021.03.0%2Bds-4?arch=amd64
+- pkg:deb/debian/libdt-utils-dev@2021.03.0%2Bds-4?arch=arm64
+- pkg:deb/debian/libdt-utils-dev@2021.03.0%2Bds-4?arch=armhf
+- pkg:deb/debian/libdt-utils-dev@2021.03.0%2Bds-4?arch=i386
+- pkg:deb/debian/libdt-utils-dev@2021.03.0%2Bds-4?arch=ppc64el
+- pkg:deb/debian/libdt-utils-dev@2021.03.0%2Bds-4?arch=s390x
