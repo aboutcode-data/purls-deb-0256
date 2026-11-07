@@ -22,3 +22,10 @@
 - pkg:deb/debian/go-rpmdb@0.0~git20210911.73bd0ce-3%2Bb6?arch=mipsel
 - pkg:deb/debian/go-rpmdb@0.0~git20210911.73bd0ce-3%2Bb6?arch=ppc64el
 - pkg:deb/debian/go-rpmdb@0.0~git20210911.73bd0ce-3%2Bb6?arch=s390x
+- pkg:deb/debian/go-rpmdb@0.1.1-1?arch=amd64
+- pkg:deb/debian/go-rpmdb@0.1.1-1?arch=arm64
+- pkg:deb/debian/go-rpmdb@0.1.1-1?arch=armhf
+- pkg:deb/debian/go-rpmdb@0.1.1-1?arch=i386
+- pkg:deb/debian/go-rpmdb@0.1.1-1?arch=loong64
+- pkg:deb/debian/go-rpmdb@0.1.1-1?arch=ppc64el
+- pkg:deb/debian/go-rpmdb@0.1.1-1?arch=s390x
