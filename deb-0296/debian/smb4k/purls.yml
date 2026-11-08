@@ -34,3 +34,4 @@
 - pkg:deb/debian/smb4k@4.0.6-1?arch=ppc64el
 - pkg:deb/debian/smb4k@4.0.6-1?arch=riscv64
 - pkg:deb/debian/smb4k@4.0.6-1?arch=s390x
+- pkg:deb/debian/smb4k@4.0.8-1?arch=riscv64
