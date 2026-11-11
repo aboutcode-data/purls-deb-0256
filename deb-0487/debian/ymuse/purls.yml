@@ -20,3 +20,4 @@
 - pkg:deb/debian/ymuse@0.22-1%2Bb12?arch=ppc64el
 - pkg:deb/debian/ymuse@0.22-1%2Bb12?arch=riscv64
 - pkg:deb/debian/ymuse@0.22-1%2Bb12?arch=s390x
+- pkg:deb/debian/ymuse@0.22-5?arch=riscv64
