@@ -19,3 +19,5 @@
 - pkg:deb/debian/libdata-util-perl@0.67-1%2Bb5?arch=arm64
 - pkg:deb/debian/libdata-util-perl@0.67-1%2Bb5?arch=armhf
 - pkg:deb/debian/libdata-util-perl@0.67-1%2Bb5?arch=i386
+- pkg:deb/debian/libdata-util-perl@0.67-1%2Bb7?arch=armhf
+- pkg:deb/debian/libdata-util-perl@0.67-1%2Bb8?arch=arm64

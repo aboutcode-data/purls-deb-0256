@@ -19,6 +19,7 @@
 - pkg:deb/debian/libfile-extattr-perl@1.09-6%2Bb2?arch=armhf
 - pkg:deb/debian/libfile-extattr-perl@1.09-6%2Bb2?arch=i386
 - pkg:deb/debian/libfile-extattr-perl@1.09-6%2Bb2?arch=riscv64
+- pkg:deb/debian/libfile-extattr-perl@1.09-7%2Bb3?arch=loong64
 - pkg:deb/debian/libfile-extattr-perl@1.09-7?arch=amd64
 - pkg:deb/debian/libfile-extattr-perl@1.09-7?arch=arm64
 - pkg:deb/debian/libfile-extattr-perl@1.09-7?arch=armhf

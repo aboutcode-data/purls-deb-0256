@@ -3,6 +3,7 @@
 - pkg:deb/debian/libfreecontact-perl@0.08-10?arch=ppc64el
 - pkg:deb/debian/libfreecontact-perl@0.08-10?arch=riscv64
 - pkg:deb/debian/libfreecontact-perl@0.08-10?arch=s390x
+- pkg:deb/debian/libfreecontact-perl@0.08-11%2Bb3?arch=loong64
 - pkg:deb/debian/libfreecontact-perl@0.08-11?arch=amd64
 - pkg:deb/debian/libfreecontact-perl@0.08-11?arch=arm64
 - pkg:deb/debian/libfreecontact-perl@0.08-11?arch=ppc64el
