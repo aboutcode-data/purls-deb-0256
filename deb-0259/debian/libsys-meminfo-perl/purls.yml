@@ -19,3 +19,4 @@
 - pkg:deb/debian/libsys-meminfo-perl@0.99-2%2Bb4?arch=ppc64el
 - pkg:deb/debian/libsys-meminfo-perl@0.99-2%2Bb4?arch=riscv64
 - pkg:deb/debian/libsys-meminfo-perl@0.99-2%2Bb4?arch=s390x
+- pkg:deb/debian/libsys-meminfo-perl@0.99-2%2Bb8?arch=amd64

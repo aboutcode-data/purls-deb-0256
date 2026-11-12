@@ -19,3 +19,6 @@
 - pkg:deb/debian/libtext-bidi-perl@2.18-1%2Bb3?arch=ppc64el
 - pkg:deb/debian/libtext-bidi-perl@2.18-1%2Bb3?arch=riscv64
 - pkg:deb/debian/libtext-bidi-perl@2.18-1%2Bb3?arch=s390x
+- pkg:deb/debian/libtext-bidi-perl@2.18-1%2Bb5?arch=amd64
+- pkg:deb/debian/libtext-bidi-perl@2.18-1%2Bb5?arch=i386
+- pkg:deb/debian/libtext-bidi-perl@2.18-1%2Bb5?arch=ppc64el
