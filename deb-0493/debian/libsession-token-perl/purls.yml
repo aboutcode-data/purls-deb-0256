@@ -19,6 +19,8 @@
 - pkg:deb/debian/libsession-token-perl@1.503-2%2Bb4?arch=i386
 - pkg:deb/debian/libsession-token-perl@1.503-2%2Bb4?arch=ppc64el
 - pkg:deb/debian/libsession-token-perl@1.503-2%2Bb4?arch=s390x
+- pkg:deb/debian/libsession-token-perl@1.503-3%2Bb2?arch=i386
+- pkg:deb/debian/libsession-token-perl@1.503-3%2Bb3?arch=loong64
 - pkg:deb/debian/libsession-token-perl@1.503-3?arch=amd64
 - pkg:deb/debian/libsession-token-perl@1.503-3?arch=arm64
 - pkg:deb/debian/libsession-token-perl@1.503-3?arch=armhf
