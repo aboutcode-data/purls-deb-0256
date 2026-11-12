@@ -20,3 +20,5 @@
 - pkg:deb/debian/libunicode-linebreak-perl@0.0.20190101-1%2Bb8?arch=ppc64el
 - pkg:deb/debian/libunicode-linebreak-perl@0.0.20190101-1%2Bb9?arch=amd64
 - pkg:deb/debian/libunicode-linebreak-perl@0.0.20190101-1%2Bb9?arch=armhf
+- pkg:deb/debian/libunicode-linebreak-perl@0.0.20190101-4%2Bb2?arch=amd64
+- pkg:deb/debian/libunicode-linebreak-perl@0.0.20190101-4%2Bb2?arch=ppc64el

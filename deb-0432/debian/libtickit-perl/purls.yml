@@ -10,6 +10,8 @@
 - pkg:deb/debian/libtickit-perl@0.73-1%2Bb3?arch=ppc64el
 - pkg:deb/debian/libtickit-perl@0.73-1%2Bb3?arch=riscv64
 - pkg:deb/debian/libtickit-perl@0.73-1%2Bb3?arch=s390x
+- pkg:deb/debian/libtickit-perl@0.73-1%2Bb5?arch=amd64
+- pkg:deb/debian/libtickit-perl@0.73-1%2Bb5?arch=i386
 - pkg:deb/debian/libtickit-perl@0.73-1?arch=amd64
 - pkg:deb/debian/libtickit-perl@0.73-1?arch=arm64
 - pkg:deb/debian/libtickit-perl@0.73-1?arch=armel

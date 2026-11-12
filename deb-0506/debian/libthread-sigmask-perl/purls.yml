@@ -19,3 +19,6 @@
 - pkg:deb/debian/libthread-sigmask-perl@0.004-3%2Bb4?arch=i386
 - pkg:deb/debian/libthread-sigmask-perl@0.004-3%2Bb4?arch=ppc64el
 - pkg:deb/debian/libthread-sigmask-perl@0.004-3%2Bb4?arch=s390x
+- pkg:deb/debian/libthread-sigmask-perl@0.004-3%2Bb6?arch=amd64
+- pkg:deb/debian/libthread-sigmask-perl@0.004-3%2Bb6?arch=i386
+- pkg:deb/debian/libthread-sigmask-perl@0.004-3%2Bb6?arch=s390x

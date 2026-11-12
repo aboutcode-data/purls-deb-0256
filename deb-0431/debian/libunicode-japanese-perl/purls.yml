@@ -26,3 +26,5 @@
 - pkg:deb/debian/libunicode-japanese-perl@0.50-2?arch=ppc64el
 - pkg:deb/debian/libunicode-japanese-perl@0.50-2?arch=riscv64
 - pkg:deb/debian/libunicode-japanese-perl@0.50-2?arch=s390x
+- pkg:deb/debian/libunicode-japanese-perl@0.51-1%2Bb2?arch=amd64
+- pkg:deb/debian/libunicode-japanese-perl@0.51-1%2Bb2?arch=ppc64el

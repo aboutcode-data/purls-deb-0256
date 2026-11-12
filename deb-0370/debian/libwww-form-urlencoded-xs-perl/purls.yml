@@ -19,3 +19,7 @@
 - pkg:deb/debian/libwww-form-urlencoded-xs-perl@0.28-1%2Bb4?arch=ppc64el
 - pkg:deb/debian/libwww-form-urlencoded-xs-perl@0.28-1%2Bb4?arch=riscv64
 - pkg:deb/debian/libwww-form-urlencoded-xs-perl@0.28-1%2Bb4?arch=s390x
+- pkg:deb/debian/libwww-form-urlencoded-xs-perl@0.28-1%2Bb8?arch=amd64
+- pkg:deb/debian/libwww-form-urlencoded-xs-perl@0.28-1%2Bb8?arch=armhf
+- pkg:deb/debian/libwww-form-urlencoded-xs-perl@0.28-1%2Bb8?arch=i386
+- pkg:deb/debian/libwww-form-urlencoded-xs-perl@0.28-1%2Bb8?arch=ppc64el
