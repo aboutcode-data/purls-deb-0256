@@ -23,6 +23,8 @@
 - pkg:deb/debian/libnet-dns-resolver-unbound-perl@1.33-1?arch=riscv64
 - pkg:deb/debian/libnet-dns-resolver-unbound-perl@1.33-1?arch=s390x
 - pkg:deb/debian/libnet-dns-resolver-unbound-perl@1.36-1?arch=loong64
+- pkg:deb/debian/libnet-dns-resolver-unbound-perl@1.38-1%2Bb1?arch=i386
+- pkg:deb/debian/libnet-dns-resolver-unbound-perl@1.38-1%2Bb1?arch=loong64
 - pkg:deb/debian/libnet-dns-resolver-unbound-perl@1.38-1?arch=amd64
 - pkg:deb/debian/libnet-dns-resolver-unbound-perl@1.38-1?arch=arm64
 - pkg:deb/debian/libnet-dns-resolver-unbound-perl@1.38-1?arch=armhf

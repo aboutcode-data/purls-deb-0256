@@ -19,6 +19,7 @@
 - pkg:deb/debian/libhttp-parser-xs-perl@0.17-2?arch=arm64
 - pkg:deb/debian/libhttp-parser-xs-perl@0.17-2?arch=armhf
 - pkg:deb/debian/libhttp-parser-xs-perl@0.17-2?arch=i386
+- pkg:deb/debian/libhttp-parser-xs-perl@0.18-1%2Bb1?arch=loong64
 - pkg:deb/debian/libhttp-parser-xs-perl@0.18-1?arch=amd64
 - pkg:deb/debian/libhttp-parser-xs-perl@0.18-1?arch=arm64
 - pkg:deb/debian/libhttp-parser-xs-perl@0.18-1?arch=armhf
