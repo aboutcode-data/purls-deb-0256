@@ -15,6 +15,7 @@
 - pkg:deb/debian/libgoocanvas2-cairotypes-perl@0.001-2%2Bb4?arch=i386
 - pkg:deb/debian/libgoocanvas2-cairotypes-perl@0.001-2%2Bb4?arch=ppc64el
 - pkg:deb/debian/libgoocanvas2-cairotypes-perl@0.001-2%2Bb4?arch=s390x
+- pkg:deb/debian/libgoocanvas2-cairotypes-perl@0.001-3%2Bb2?arch=s390x
 - pkg:deb/debian/libgoocanvas2-cairotypes-perl@0.001-3?arch=amd64
 - pkg:deb/debian/libgoocanvas2-cairotypes-perl@0.001-3?arch=arm64
 - pkg:deb/debian/libgoocanvas2-cairotypes-perl@0.001-3?arch=armhf
