@@ -17,4 +17,5 @@
 - pkg:deb/debian/libifeffit-perl@1.2.11d-12.7?arch=s390x
 - pkg:deb/debian/libifeffit-perl@1.2.11d-15%2Bb3?arch=armhf
 - pkg:deb/debian/libifeffit-perl@1.2.11d-15%2Bb3?arch=ppc64el
+- pkg:deb/debian/libifeffit-perl@1.2.11d-15%2Bb3?arch=riscv64
 - pkg:deb/debian/libifeffit-perl@1.2.11d-15%2Bb4?arch=arm64

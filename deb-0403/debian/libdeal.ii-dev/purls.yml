@@ -18,3 +18,4 @@
 - pkg:deb/debian/libdeal.ii-dev@9.8.0-2?arch=loong64
 - pkg:deb/debian/libdeal.ii-dev@9.8.0-2?arch=ppc64el
 - pkg:deb/debian/libdeal.ii-dev@9.8.0-2?arch=s390x
+- pkg:deb/debian/libdeal.ii-dev@9.8.0-4?arch=loong64
