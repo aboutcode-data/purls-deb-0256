@@ -19,3 +19,4 @@
 - pkg:deb/debian/globus-proxy-utils@7.3-4?arch=ppc64el
 - pkg:deb/debian/globus-proxy-utils@7.3-4?arch=riscv64
 - pkg:deb/debian/globus-proxy-utils@7.3-4?arch=s390x
+- pkg:deb/debian/globus-proxy-utils@7.5-1?arch=riscv64
