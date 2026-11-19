@@ -1,4 +1,6 @@
 - pkg:deb/debian/libgl1-nvidia-tesla-470-glvnd-glx@470.256.02-11?arch=amd64
+- pkg:deb/debian/libgl1-nvidia-tesla-470-glvnd-glx@470.256.02-11?arch=i386
+- pkg:deb/debian/libgl1-nvidia-tesla-470-glvnd-glx@470.256.02-11?arch=ppc64el
 - pkg:deb/debian/libgl1-nvidia-tesla-470-glvnd-glx@470.256.02-1~deb11u2?arch=amd64
 - pkg:deb/debian/libgl1-nvidia-tesla-470-glvnd-glx@470.256.02-1~deb11u2?arch=arm64
 - pkg:deb/debian/libgl1-nvidia-tesla-470-glvnd-glx@470.256.02-1~deb11u2?arch=i386
