@@ -19,3 +19,4 @@
 - pkg:deb/debian/libgmp-ocaml@20021123-23%2Bb3?arch=ppc64el
 - pkg:deb/debian/libgmp-ocaml@20021123-23%2Bb3?arch=riscv64
 - pkg:deb/debian/libgmp-ocaml@20021123-23%2Bb3?arch=s390x
+- pkg:deb/debian/libgmp-ocaml@20021123-24?arch=riscv64
