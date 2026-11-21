@@ -15,6 +15,7 @@
 - pkg:deb/debian/rav1e@0.7.1-9%2Bb2?arch=ppc64el
 - pkg:deb/debian/rav1e@0.7.1-9%2Bb2?arch=riscv64
 - pkg:deb/debian/rav1e@0.7.1-9%2Bb2?arch=s390x
+- pkg:deb/debian/rav1e@0.8.1-14?arch=riscv64
 - pkg:deb/debian/rav1e@0.8.1-6?arch=amd64
 - pkg:deb/debian/rav1e@0.8.1-6?arch=arm64
 - pkg:deb/debian/rav1e@0.8.1-6?arch=armhf

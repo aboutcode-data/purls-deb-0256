@@ -15,3 +15,4 @@
 - pkg:deb/debian/librust-sys-mount-dev@3.0.1-1?arch=ppc64el
 - pkg:deb/debian/librust-sys-mount-dev@3.0.1-1?arch=riscv64
 - pkg:deb/debian/librust-sys-mount-dev@3.0.1-1?arch=s390x
+- pkg:deb/debian/librust-sys-mount-dev@3.1.1-1?arch=riscv64
