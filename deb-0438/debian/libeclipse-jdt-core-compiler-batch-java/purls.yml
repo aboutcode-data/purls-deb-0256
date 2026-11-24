@@ -1,1 +1,2 @@
 - pkg:deb/debian/libeclipse-jdt-core-compiler-batch-java@3.35.0%2Beclipse4.29-2?arch=all
+- pkg:deb/debian/libeclipse-jdt-core-compiler-batch-java@3.38.0%2Beclipse4.32-1?arch=all
