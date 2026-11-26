@@ -5,4 +5,6 @@
 - pkg:deb/debian/krita-data@5.2.15%2Bdfsg-2?arch=all
 - pkg:deb/debian/krita-data@5.2.9%2Bdfsg-1%2Bdeb13u1?arch=all
 - pkg:deb/debian/krita-data@5.2.9%2Bdfsg-1?arch=all
+- pkg:deb/debian/krita-data@5.3.5%2Bdfsg-1?arch=all
 - pkg:deb/debian/krita-data@6.0.0~beta2%2Bdfsg-3?arch=all
+- pkg:deb/debian/krita-data@6.0.5%2Bdfsg-1?arch=all

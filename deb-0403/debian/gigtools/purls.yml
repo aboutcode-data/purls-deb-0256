@@ -25,3 +25,4 @@
 - pkg:deb/debian/gigtools@4.5.0-1?arch=i386
 - pkg:deb/debian/gigtools@4.5.0-1?arch=ppc64el
 - pkg:deb/debian/gigtools@4.5.0-1?arch=riscv64
+- pkg:deb/debian/gigtools@4.6.1-1?arch=riscv64
