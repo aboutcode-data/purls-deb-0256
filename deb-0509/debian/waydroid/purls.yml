@@ -1,1 +1,2 @@
 - pkg:deb/debian/waydroid@1.6.3%2Bds-3?arch=all
+- pkg:deb/debian/waydroid@1.6.3%2Bds-3~bpo13%2B1?arch=all
