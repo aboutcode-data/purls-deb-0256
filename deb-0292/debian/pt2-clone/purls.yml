@@ -26,3 +26,4 @@
 - pkg:deb/debian/pt2-clone@1.78%2Bds-1?arch=ppc64el
 - pkg:deb/debian/pt2-clone@1.78%2Bds-1?arch=riscv64
 - pkg:deb/debian/pt2-clone@1.78%2Bds-1?arch=s390x
+- pkg:deb/debian/pt2-clone@1.94%2Bds-2?arch=riscv64
