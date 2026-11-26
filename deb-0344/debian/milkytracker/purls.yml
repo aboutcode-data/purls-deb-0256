@@ -26,3 +26,4 @@
 - pkg:deb/debian/milkytracker@1.06%2Bdfsg-2?arch=ppc64el
 - pkg:deb/debian/milkytracker@1.06%2Bdfsg-2?arch=riscv64
 - pkg:deb/debian/milkytracker@1.06%2Bdfsg-2?arch=s390x
+- pkg:deb/debian/milkytracker@1.06%2Bdfsg-3?arch=riscv64
