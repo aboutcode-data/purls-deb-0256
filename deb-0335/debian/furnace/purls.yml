@@ -16,4 +16,5 @@
 - pkg:deb/debian/furnace@0.6.8.3%2Bgit20261108%2Bds-2?arch=i386
 - pkg:deb/debian/furnace@0.6.8.3%2Bgit20261108%2Bds-2?arch=loong64
 - pkg:deb/debian/furnace@0.6.8.3%2Bgit20261108%2Bds-2?arch=ppc64el
+- pkg:deb/debian/furnace@0.6.8.3%2Bgit20261108%2Bds-2?arch=riscv64
 - pkg:deb/debian/furnace@0.6.8.3%2Bgit20261108%2Bds-2?arch=s390x
