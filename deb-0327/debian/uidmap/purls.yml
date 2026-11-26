@@ -30,6 +30,7 @@
 - pkg:deb/debian/uidmap@4.19.3-1?arch=ppc64el
 - pkg:deb/debian/uidmap@4.19.3-1?arch=riscv64
 - pkg:deb/debian/uidmap@4.19.3-1?arch=s390x
+- pkg:deb/debian/uidmap@4.20.4-1?arch=riscv64
 - pkg:deb/debian/uidmap@4.8.1-1?arch=amd64
 - pkg:deb/debian/uidmap@4.8.1-1?arch=arm64
 - pkg:deb/debian/uidmap@4.8.1-1?arch=armhf

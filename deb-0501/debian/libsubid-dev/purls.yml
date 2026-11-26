@@ -30,3 +30,4 @@
 - pkg:deb/debian/libsubid-dev@4.19.3-1?arch=ppc64el
 - pkg:deb/debian/libsubid-dev@4.19.3-1?arch=riscv64
 - pkg:deb/debian/libsubid-dev@4.19.3-1?arch=s390x
+- pkg:deb/debian/libsubid-dev@4.20.4-1?arch=riscv64

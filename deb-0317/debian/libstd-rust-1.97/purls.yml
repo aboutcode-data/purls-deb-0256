@@ -3,3 +3,4 @@
 - pkg:deb/debian/libstd-rust-1.97@1.97.1%2Bdfsg1-1~bpo13%2B1?arch=armhf
 - pkg:deb/debian/libstd-rust-1.97@1.97.1%2Bdfsg1-1~bpo13%2B1?arch=i386
 - pkg:deb/debian/libstd-rust-1.97@1.97.1%2Bdfsg1-1~bpo13%2B1?arch=ppc64el
+- pkg:deb/debian/libstd-rust-1.97@1.97.1%2Bdfsg1-1~bpo13%2B1?arch=s390x
