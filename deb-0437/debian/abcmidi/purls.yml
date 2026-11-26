@@ -43,3 +43,4 @@
 - pkg:deb/debian/abcmidi@20261023%2Bds-1?arch=riscv64
 - pkg:deb/debian/abcmidi@20261023%2Bds-1?arch=s390x
 - pkg:deb/debian/abcmidi@20261111%2Bds-1?arch=riscv64
+- pkg:deb/debian/abcmidi@20261120%2Bds-1?arch=riscv64
