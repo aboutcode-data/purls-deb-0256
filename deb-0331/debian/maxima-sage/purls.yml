@@ -26,3 +26,4 @@
 - pkg:deb/debian/maxima-sage@5.45.1-2?arch=mipsel
 - pkg:deb/debian/maxima-sage@5.45.1-2?arch=ppc64el
 - pkg:deb/debian/maxima-sage@5.45.1-2?arch=s390x
+- pkg:deb/debian/maxima-sage@5.50.0-7?arch=amd64
