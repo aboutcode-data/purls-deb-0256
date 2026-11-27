@@ -1,3 +1,10 @@
+- pkg:deb/debian/php8.4-gmagick@2.0.6~rc1%2B%2B-10?arch=amd64
+- pkg:deb/debian/php8.4-gmagick@2.0.6~rc1%2B%2B-10?arch=arm64
+- pkg:deb/debian/php8.4-gmagick@2.0.6~rc1%2B%2B-10?arch=armhf
+- pkg:deb/debian/php8.4-gmagick@2.0.6~rc1%2B%2B-10?arch=i386
+- pkg:deb/debian/php8.4-gmagick@2.0.6~rc1%2B%2B-10?arch=loong64
+- pkg:deb/debian/php8.4-gmagick@2.0.6~rc1%2B%2B-10?arch=ppc64el
+- pkg:deb/debian/php8.4-gmagick@2.0.6~rc1%2B%2B-10?arch=s390x
 - pkg:deb/debian/php8.4-gmagick@2.0.6~rc1%2B%2B-5?arch=amd64
 - pkg:deb/debian/php8.4-gmagick@2.0.6~rc1%2B%2B-5?arch=arm64
 - pkg:deb/debian/php8.4-gmagick@2.0.6~rc1%2B%2B-5?arch=armel

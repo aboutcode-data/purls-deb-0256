@@ -1,0 +1,5 @@
+- pkg:deb/debian/postgresql-19-plsh@1.20220917-5?arch=amd64
+- pkg:deb/debian/postgresql-19-plsh@1.20220917-5?arch=arm64
+- pkg:deb/debian/postgresql-19-plsh@1.20220917-5?arch=loong64
+- pkg:deb/debian/postgresql-19-plsh@1.20220917-5?arch=ppc64el
+- pkg:deb/debian/postgresql-19-plsh@1.20220917-5?arch=s390x

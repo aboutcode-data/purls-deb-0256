@@ -17,3 +17,4 @@
 - pkg:deb/debian/postgresql-pgrouting@4.0.0-1?arch=ppc64el
 - pkg:deb/debian/postgresql-pgrouting@4.0.0-1?arch=riscv64
 - pkg:deb/debian/postgresql-pgrouting@4.0.0-1?arch=s390x
+- pkg:deb/debian/postgresql-pgrouting@4.0.3-1?arch=riscv64
