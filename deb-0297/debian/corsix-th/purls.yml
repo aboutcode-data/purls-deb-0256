@@ -26,3 +26,4 @@
 - pkg:deb/debian/corsix-th@0.69.1-1?arch=ppc64el
 - pkg:deb/debian/corsix-th@0.69.1-1?arch=riscv64
 - pkg:deb/debian/corsix-th@0.69.1-1?arch=s390x
+- pkg:deb/debian/corsix-th@0.70.0-1%2Bb2?arch=riscv64
