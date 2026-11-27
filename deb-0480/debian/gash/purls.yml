@@ -13,3 +13,4 @@
 - pkg:deb/debian/gash@0.3.1-2?arch=ppc64el
 - pkg:deb/debian/gash@0.3.1-2?arch=riscv64
 - pkg:deb/debian/gash@0.3.1-2?arch=s390x
+- pkg:deb/debian/gash@0.3.2-3?arch=riscv64

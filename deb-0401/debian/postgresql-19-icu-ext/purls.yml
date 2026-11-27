@@ -1,0 +1,4 @@
+- pkg:deb/debian/postgresql-19-icu-ext@1.11.0-2?arch=amd64
+- pkg:deb/debian/postgresql-19-icu-ext@1.11.0-2?arch=arm64
+- pkg:deb/debian/postgresql-19-icu-ext@1.11.0-2?arch=loong64
+- pkg:deb/debian/postgresql-19-icu-ext@1.11.0-2?arch=ppc64el
