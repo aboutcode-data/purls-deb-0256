@@ -33,3 +33,4 @@
 - pkg:deb/debian/x265@4.2-4?arch=loong64
 - pkg:deb/debian/x265@4.2-4?arch=ppc64el
 - pkg:deb/debian/x265@4.2-4?arch=s390x
+- pkg:deb/debian/x265@4.3-3?arch=riscv64

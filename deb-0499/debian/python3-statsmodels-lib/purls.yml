@@ -34,3 +34,4 @@
 - pkg:deb/debian/python3-statsmodels-lib@0.15.0%2Bdfsg-2?arch=loong64
 - pkg:deb/debian/python3-statsmodels-lib@0.15.0%2Bdfsg-2?arch=ppc64el
 - pkg:deb/debian/python3-statsmodels-lib@0.15.0%2Bdfsg-2?arch=s390x
+- pkg:deb/debian/python3-statsmodels-lib@0.15.0%2Bdfsg-4?arch=riscv64
