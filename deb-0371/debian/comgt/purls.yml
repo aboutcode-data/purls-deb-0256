@@ -19,3 +19,4 @@
 - pkg:deb/debian/comgt@0.32-6?arch=ppc64el
 - pkg:deb/debian/comgt@0.32-6?arch=riscv64
 - pkg:deb/debian/comgt@0.32-6?arch=s390x
+- pkg:deb/debian/comgt@0.32-7?arch=riscv64
